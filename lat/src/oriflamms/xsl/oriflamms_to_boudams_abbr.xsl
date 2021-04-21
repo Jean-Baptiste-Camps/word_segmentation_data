@@ -13,7 +13,7 @@
     
     <xsl:template match="/">
         
-        <xsl:apply-templates select="descendant::tei:w | descendant::tei:pc"/>
+        <xsl:apply-templates select="descendant::tei:w | descendant::tei:pc | descendant::tei:lb[not(ancestor::tei:w)]"/>
         
     </xsl:template>
     
@@ -23,10 +23,21 @@
     </xsl:template>
     
     <xsl:template match="tei:w">
-        <xsl:text> </xsl:text>
+        <xsl:if test="not(preceding::element()[1]/local-name() = 'lb' and preceding::element()[1]/@break='no')">
+            <xsl:text> </xsl:text>
+        </xsl:if>
         <xsl:apply-templates/>
-        <xsl:text> </xsl:text>
+        <xsl:if test="not(following::element()[1]/local-name() = 'lb' and following::element()[1]/@break='no')">
+            <xsl:text> </xsl:text>
+        </xsl:if>
     </xsl:template>
+    
+    <xsl:template match="tei:lb">
+        <xsl:text>&#10;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb[ancestor::tei:w or @break='no']"/>
+    
     
     <xsl:template match="text()">
         <!--<xsl:value-of select="normalize-unicode(normalize-space(.), 'nfd')"/>-->
