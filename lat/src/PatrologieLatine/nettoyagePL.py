@@ -49,7 +49,7 @@ def nettoyageTextes(string):
     pattern = r'OE'
     replace = 'e'
     stringNettoye = re.sub(pattern, replace, string, flags=re.M) 
-    return stringNettoye
+    return stringNettoye.encode("utf-8", "strict")
 
 
 if __name__ == "__main__":
