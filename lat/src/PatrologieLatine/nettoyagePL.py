@@ -1,7 +1,6 @@
 import os
 import re
 
-
 def nettoyageTextes(string):
     pattern = r'\[Col. [0-9A-Z]*\]'
     replace = ''
@@ -53,23 +52,18 @@ def nettoyageTextes(string):
     return stringNettoye
 
 
-string=''
+if __name__ == "__main__":
 
-directory = "./PLTextes"
-for file in os.listdir(directory):
+    string=''
+    directory = "./PLTextes"
 
+    for file in os.listdir(directory):
 
+        with open(directory + '/' + file, 'r') as f:
+            string = f.read()
 
+            stringNettoye = nettoyageTextes(string)
 
-    with open(directory + '/' + file, 'r') as f:
-        string = f.read()
-
-        stringNettoye=nettoyageTextes(string)
-
-    
-    with open('./PLnettoye/' + file+"nettoye.txt", 'w') as f:
-        f.write(stringNettoye)
-
-
-
+        with open('./PLnettoye/' + file+"nettoye.txt", 'w') as f:
+            f.write(stringNettoye)
 
