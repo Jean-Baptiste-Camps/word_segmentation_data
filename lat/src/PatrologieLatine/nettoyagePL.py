@@ -64,6 +64,6 @@ if __name__ == "__main__":
 
             stringNettoye = nettoyageTextes(string)
 
-        with open('./PLnettoye/' + file+"nettoye.txt", 'w') as f:
+        with open('./PLnettoye/' + file+"nettoye.txt", 'wb') as f:
             f.write(stringNettoye)
 
