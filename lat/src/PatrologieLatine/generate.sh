@@ -1,4 +1,4 @@
 #!/bin/bash
-boudams dataset convert plain-text ./gt ./PLnettoye/*.txt --max_char_length 150 --random_keep 0 --noise_char_random 0
-boudams dataset generate ../../tsv/PL gt/*.txt  --max_char_length 150 --train 0.9 --test 0.05
+boudams dataset convert --mode advanced-space sentence ./PLnettoye/*.txt ./gt --mode-ratios "keep-space=.3&fake-space=.10" --min-chars 10
+boudams dataset generate --max_char_length 150 --train .9 --test .05 ../../tsv/PL .gt/*.txt
 
