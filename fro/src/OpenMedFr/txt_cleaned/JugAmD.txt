@@ -1,0 +1,497 @@
+#META#  TextURI           IugAmD
+#META#  DEAF              http//www.deaf-page.de/bibl/bib99i.php#IugAmD
+#META#  TL                
+#META#  FEW        	
+#META#  ARLIMA            https//www.arlima.net/eh/florance_et_blancheflor.html
+#META#  Author           
+#META#  AuthorBorn        
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle         Iugement d amour ou Florence et Blancheflor
+#META#  TextSubtitle  
+#META#  Textuols         
+#META#  TextSubi         
+#META#	TextDom          
+#META#	Translation       
+#META#	Collection       
+#META#	CollectionNo	  
+#META#  TextDescARL       uers octosyllabiques à rimes plates
+#META#  TextDescuers      8
+#META#  TextDateARL       XIIIe siècle
+#META#  TextDateAdi       13
+#META#	TextDateMin	      1180
+#META#	TextDateMax	      1210
+#META#  EdEditor          Oulmont Charles
+#META#  EdPlace           Paris
+#META#  EdPublisher       Champion
+#META#  Eduol             
+#META#  EdYear            1911
+#META#  EdPages           122-142
+#META#  MsBase            Paris BnF fr 837
+#META#  MsOther           Paris BnF fr 1593
+#META#  MsOther           Paris BnF fr 19152
+#META#  MsOther           uiena ÖNB 2621
+#META#  MsNum             4
+#META#	MsDateARL         
+#META#	MsDateAdi         
+#META#	Form              u
+#META#	Complete          true
+#META#	NoWords           
+#META#	NoLines           418
+#META#	DialAuth      
+#META#	DialScribe    
+#META#  ScanURL           https//archiue.org/stream/lesdbatsducler00oulm#page/140/mode/2up
+#META#  ScanURIOther  
+#META#  ArkID             ark/13960/t2m62cb18
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor         Gustauo Fernández Riua
+#META#  ORCIDWebAuthor    https//orcid.org/0000-0002-2202-6354
+#META#  WebReuiewer       
+#META#  ORCIDReuiewer     
+#META#  MiscInfo        
+#META#  CCLicense         CC BY-NC-SA 4.0 International
+
+LE IUGEMENT D AMOURS
+Pageu01P122
+De cortoisie et de barnage
+Ot cil assez en son corage
+Qui cest conte uout presenter
+Que uous m orez ci aconter.
+En son prologue deffendi
+Cil qui parfont i entendi
+Qui ces uers set molt bien se gart
+Qu il ne les die a couart.
+A uilains ne a uanteors
+Ne doit on pas conter d amors
+Mes a clers ou a cheualiers
+Qu il i entendent uolentiers
+Ou a pucele debonere
+Quar ele en a auques a fere.
+El mois de mai par .I. matin
+Pageu01P123
+Il puceles en I iardin
+Entrerent por esbanoier 
+Forment fesoient a proisier.
+Andui furent d un fier corage
+D une biauté et d un parage.
+De II mantiaus sont affublees
+Qu en I isle firent II fees.
+Ne furent pas ouuré de laine
+Onques n i ot oeure uillaine.
+Li estains fu de flors de glai
+Traime i ot de roses de mai
+Et les panes furent de flors
+Et les listes furent d amors 
+Les ataches sont bien ouurees
+A II besiers d amors fermees
+Et molt sont riche li tassel
+Atachié sont a cri d oisel.
+Par le uergier lez I pendant
+S en aloient esbanoiant.
+En I ual trueuent I ruissel
+Qui soef cort par le praiel.
+La ont mirees lor colors
+Pageu01P124
+Qui souent lor changent d amors
+Puis s assistrent soz l oliuier
+Qui fu plantez lez le grauier.
+L une parla com preus et sage
+Premiere a dit en son corage
+Comme auroit ore bone uie
+Li amis qui tiendroit s amie
+Toute seule celeement
+Sanz compaignie d autre gent.
+S il s entramoient bien andui
+Il n i querroient ia nullui
+Fere porroient lor ualoir.
+L autre respont uous dites uoir
+Quar pleüst ore a Dieu le roi
+Que ci fussent li nostre andoi
+Ne le besier ne l acoler
+Ne lor porrïons nous ueer
+Mais geu qui tort a uilonie
+Ne lor soufferrïons nous mie
+Quar il nous conuient bien garder
+Qu on ne se puis de nous gaber.
+Tant com li arbres est foilluz
+Pageu01P125
+Est il amez et chier tenuz
+Et quant la fueille en est cheüe
+Molt a de sa biauté perdue.
+Ausi est il de la meschine
+Qui de sa chasteé decline
+Ia n ert si haut emparentee
+Ne soit en grant uiuté tornee.
+L autre respont uous dites uoir
+Mielz aim hennor que trop auoir
+Assez ont deuisé le ior
+Et de sauoir et de folor
+Et de quanques lor plot au cuer.
+Se l une fust a l autre suer
+Ne fussent eles miex paraux
+De compaignie et de consaus 
+Mains ainz que prime fust sonee
+Fu molt male la desseuree.
+Por assez petit d achoison
+Issirent fors de lor reson.
+L une auoit a non Blancheflor
+Qu ainz ne se pot tenir d amor
+Et l autre auoit a non Florence
+Pageu01P126
+Qui le ior commença la tence
+Molt doucement et par amor
+A demandé a Blancheflor
+Quar me dites gentil pucele
+Qui tant estes plesant et bele
+De uo fin cuer leal et bon
+Qui en auez uos fait le don
+Celui que uos deuez amer
+Ne me deuez uous pas celer.
+S ele deuint pale et uermeille
+Ce ne fu mie de merueille 
+De respondre n est pas uilaine
+Parla com bouche de seraine.
+Si a dit l autre pucele 
+Ie uos dirai ma damoisele
+A cui i ai donee la flor
+Et de mon cuer et de m amor.
+Un clerc cortois iolif et bon
+Ai de m amor doné le don 
+Pageu01P127
+Il est molt biaus mes sa bontez
+uaut miex assez que sa biautez
+Sa bonté ne sa cortoisie
+Ne sauroie raconter mie.
+L autre respont Molt me merueil
+Ou uos auez pris tel conseil 
+Ie plaing molt uostre cortoisie
+Quant a un clerc estes amie
+Quant uostre amis est au moustier
+Torne et retorne cel sautier
+Torne et retorne cele pel
+Por uos ne fet autre cembel.
+Mes i ai ami et bel et gent
+Quant il uait au tornoiement
+Et il abat un cheualier
+Il me presente le destrier.
+Cheualier sont de molt haut pris
+Il ont sor tote gent le pris
+Et le los et la seignorie.
+Chetiue quar lai ta folie
+Por qu aimes tu cel clerc d escole
+Pageu01P128
+Cel chetif cele bische fole
+Cel bertaudé cel haut tondu
+Blancheflor lui a respondu
+Ausi com par grant felonie 
+Damoisele c est uilonie
+Quant uous le mien ami blasmez
+Mes quant le cheualier amez
+Assez plus fole estes de moi
+Si uous dirai reson por qoi.
+Cheualier sont molt lasche gent 
+Quant il uont au tornoiement
+Il n ont pas du pain a mangier
+Se chascuns n i met son destrier
+Ou son escu ou son haubert.
+Ie prouerai tout en apert
+Deuant toutes les genz du mont
+Pageu01P129
+Que sor toutes les genz qui sont
+Doiuent li clerc auoir amie
+Quar plus seuent de cortoisie
+Que autre gent ne cheualier
+Ne seuent uaillant un denier
+Enuers clerc qui d amors s enuoise.
+Florence cui forment en poise
+Que Blancheflor la contralie
+Si dist Il ne remaindra mie
+Par mon chief si com uous cuidiez
+Ie uos semoing que uous soiez
+D ui en cest ior en Xu iors
+Droit a la cort au Dieu d amors
+La irons querre iugement.
+Cele l otroie bonement 
+N i ont plus paroles tenues
+Fors du uergier s en sont issues
+Ne sai que uous en deïsse el
+Chascune uait a son ostel
+Le ior uint qu eles orent dit
+Dont n i ot point de contredit
+Que ne uoisent au iugement 
+Lors se lieuent isnelement 
+Pageu01P130
+Tout maintenant que sont leuees 
+Richement se sont atornees 
+D uns garnemens riches et biaus 
+Ains nus hom ne uit lor paraus 
+Cotes orent de roses pures 
+Et de uioletes ceintures 
+Que par solaz firent amors  
+S orent mantiaus de iaunes fors 
+A deux besiers d amors tailliez 
+De flors de lis ont cueuurechiez 
+S orent por plus soef flerier 
+Chapiaus de mugue et d aiglentier. 
+Quant ainsi furent atornees 
+Sor deux palefrois sont montees 
+Qui estoient plus blanc que nois 
+Et molt sont riche lor harnois 
+Li frain furent d or toz massis 
+Qui sor les palefroiz sont mis. 
+De tele oeure sont li lorain 
+Li poitrail ne sont pas uilain 
+Pageu01P131
+Cloches i a d or et d argent 
+Qui ades par enchantement 
+Sonent d amors un son nouel  
+Ainz Diex ne fist tel cri d oisel 
+El mont tant com li solaus cueure 
+Qui aus clochetes feist oeure 
+N est hom tant eust maladie 
+S il oiSt cele melodie 
+Que il tantost haitiez ne fust 
+Les seles ne sont pas de fust 
+Ainz sont d yuuire sororees 
+A eschequiers d amors ouurees. 
+Quant cheuauchié orent assez 
+Tant que miedis fu passez 
+La tor uirent et le palais 
+Qui n estoit pas de pierre fais 
+Pageu01P132
+La ou tint cort li dieus d amors. 
+Il fut couuers de blanches flors. 
+Roses i ot entremeslees 
+Les lates resont bien ouurees 
+A clous de girofle atachies 
+Qui de canele sont taillies 
+De sicamor sont li cheuron 
+Et li mur qui sont enuiron 
+Sont li dart de quoi amors trait 
+Et bien sachiez tout entresait 
+Que ia postiz n i aura clos 
+Ne ia uilains n en ert tant os 
+Que le postiz past ne la porte 
+Se le seel d amors n aporte. 
+La sont les puceles uenues 
+Souz la sale sont descendues 
+Desouz un pin en un prael. 
+Du pin descendent dui oisel 
+Pageu01P133
+Qui les puceles adestrerent 
+Amont el palais les menerent 
+La ou li diex d amors estoit 
+Qui en un biau lit se gisoit 
+Qui estoit fez de flors noueles. 
+Quant il uit uenir les puceles 
+Du lit se lieue isnelement 
+Si les reçut molt gentement 
+Andeus les a par les mains prises 
+Deioste soi les a assises 
+Puis lor demande  Est ce besoing 
+Qu estes uenues de si loing  
+Blancheflor qui bien fu aprise 
+Et de l amor au clerc esprise 
+Li dist Sire ie uos dirai  
+Auant ier par un iour de may 
+En un uergier nous en entames 
+De nos amors andeus parlames 
+ Tant que par auenture dis 
+Issi com il m estoit auis 
+Que Clers set plus de cortoisie 
+Et que miex doit auoir amie 
+Pageu01P134
+Que autre gent ne cheualier. 
+Cele ne le uout otroier 
+Ainz respondi par felonie 
+Et dist que clerc ne seuent mie 
+uers cheualiers un tout seul as 
+Ne de deduit ne de solas 
+S en uenons querre iugement. 
+Li rois lor respondi briefment  
+I assamblerai toz mes barons 
+La uerité uous en dirons.
+Li rois a sa Cort assamblee 
+La querele lor a contee 
+Puis lor a dit  Nel celez mie 
+Liquels doit miex auoir amie 
+Ou li Clers ou li cheualiers 
+Premiers parla li espreuiers  
+Sire fet-il ie uous dirai 
+La uerité quar bien la Sai 
+Ie sai d amors toutes les lois  
+Si di qu assez sont plus cortois 
+Li cheualier que clerc ne sont. 
+Li rousingnols lors li respont  
+uous i mentez dans espreuiers 
+Pageu01P135
+Ia ne saura tant cheualiers 
+De deduit ne de cortoisie 
+Come li Clers qui a amie.
+Li faucons s est en piez leuez  
+Par mon chief fet il uos mentez 
+Dans rousingnols ce ne puet estre 
+Que tant sachent ne clerc ne prestre 
+Ne autre gent com cheualier  
+Tout en apert os bien iuger 
+Deuant contes et deuant rois 
+Que cheualier sont plus cortois 
+Que clerc ne sont ne autre gent. 
+uous mentez trop apertement 
+Dist l aloe sire faucons 
+Ie di Oiant toz ces barons 
+C une haute amor seignorie 
+Seroit en clerc mieus emploie 
+Qu en cheualier n en duc n en roi. 
+uous mentez en la moie foi 
+Dame aloe li gays respont 
+Que sor toutes les genz qui sont 
+Sont cheualier preu et uaillant. 
+Pageu01P136
+Li chardonereus saut auant  
+Dans gays fet il uous i mentez 
+Molt estes ores forsenez 
+Fols et fels cruels et estous 
+Qui ci mentez oiant nous tous 
+Tuit cil du monde seuent bien 
+Que chCA•alier ne seuent rien 
+Ne de deduit ne de franchise 
+Se il ne l ont de clerc aprise.
+Par mon chief dist li orieus 
+uous mentez dans chardonereus 
+Ia n auendra coment qu il praingne 
+Que cler a cheualier se praingne 
+De deduit ne de cortoisie  
+Clers ne doit pas auoir amie 
+Ainz doit auoir un grant sautier 
+Ou il puist lire et uerseillier 
+Li Clers doit proier pour les ames 
+Et cheualiers doit auoir dames 
+Et puceles a son uoloir. 
+Pageu01P137
+Quar il seuent tot le pooir 
+De deduit plus que autre gent. 
+uous mentez trop apertement 
+Dans oriex fet li mauuis 
+Dehez ait li cors et li uis 
+Qui si uous aprist a iugier 
+Ia n auendra que cheualier 
+Sachent enuers Clers nule rien 
+De cortoisie ne de bien  
+Clerc sont cortois et preu et large  
+De cheualiers plaine une barge 
+uaut uns clers ce uos di ie bien. 
+Nus ne se prent a eus de rien. 
+Li estorniaus s est tost leuez  
+Sire mauuis tort en auez 
+Fet il qui si auez iugié. 
+Cheualier sont molt enseignié 
+Sage et cortois preu et uaillant  
+Clerc ne seuent uaillant un gant 
+uers cheualier de nul deduit.
+Ainsi par la sale trestuit 
+S entretenoient qui mieus mieus 
+Pageu01P138
+Lors se leua li rousingneus 
+Li rousingnols lors se leua  
+Seignor dist il entendez ça 
+Amors m ont fet lor conseillier 
+En cort roial os bien iugier. 
+Selonc ma pensee et mon sens 
+En dirai ie ce que i en pens 
+Ie di qu il n est nus homme el monde 
+Tant com il dure a la reonde 
+Qui enuers clerc prendre se puist 
+Ne de solaz ne de deduit 
+Ia n auendra que nus praingne. 
+Nature lor done et ensaingne 
+Tout bien et toute cortoisie. 
+Cheualier ne se painent mie 
+Enuers clers d amors maintenir 
+Et si uous di bien sans mentir 
+Qu amors fust grant pieça perdue 
+Se par clerc ne fust maintenue. 
+Deuant uos toz l os ie bien dire 
+Et se nus m en uoloit desdire 
+Par bataille le proueroie 
+Et cors a cors m en combatroie.
+Pageu01P139
+Li papegaus s est tost leuez  
+Seignor dist il oez oez 
+Ie di que li rousingnols ment 
+De la bataille me present 
+Ie l en rendrai ou mort ou pris.
+Son gage tent li rois l a pris 
+Et li rousingnols saut auant 
+Il a au roi baillé son gant 
+Pour la bataille confermer 
+Et li rois les a fait armer 
+Sans plus atendre nule chose. 
+Lor haubert sont de passe rose 
+Et lor hiaume de primeuoire 
+Et lor gambison[s] sont de uoire 
+Les uentailles orent lacies
+A clous de girofle atachies 
+De Hors de genoiures ouurees 
+Et de roses orent espees  
+Moult parut bien aus garnemenz 
+Qu es uassaux ot granz hardemenz. 
+Quant armé furent a deliure 
+Li rois une sale lor liure 
+A flors painte sans nule faille 
+Pageu01P140
+La ou il feront la bataille. 
+Quant el champ furent li uassal 
+De fierté furent paringal 
+Il orent les corages fiers 
+Li rousingnols parla premiers  
+Dans papegaus ie uous deff 
+Et si uous di tres bien de fi 
+Ie uos donrai un cop de pres 
+Et se uos n estes bien couuers 
+Ie uos toudrai du cors la uie.
+Lors a s espee fors sachie 
+Sore li cort de randonee 
+Assise li a tel colee 
+Sor le hiaume que tout l estone 
+Et cil un tel cop li redone 
+El chief amont que d une part 
+Li desront le cercle et depart 
+Et bien uous di que mort l eüst 
+S amors soustenu ne l eüst 
+Mes li rousingnols par grant ire 
+L empaint et boute et sache et tire 
+Si qu a terre l abat a force. 
+Pageu01P141
+Li papegaus souz lui s esforce 
+Mais ne puet tant que se relieue 
+Lors uoit bien que ses tors le grieue 
+Quant plus combatre ne se puet 
+Lors uoit bien que rendre l estuet  
+Sire fet il tenez m espee 
+La bataille auez afinee 
+Ie uos creant et reconnois 
+Que clerc sont uaillant et cortois 
+Et que toz biens en aus abonde 
+Plus qu en toutes les gens du monde. 
+A tant les fet li rois leuer. 
+Qui ueist Florence plorer 
+Ses cheuex ront ses poins detort  
+Dieus dist ele la mort la mort  
+Adonques s est trois fois pasmee 
+Et a la quarte est deuiee. 
+La s assemblent li oisel tuit 
+Si l enfueent a grant deduit 
+En un riche sarcu l ont mise
+Pageu01P142
+Paint a flor et bel a deuise 
+Et une pierre dessus mistrent 
+Et ces deus uers desus escristrent  
+Ici est Florence enfouie 
+Qui au cheualier fu amie.
+# |
+Explicit le iugement d amors. 

@@ -1,0 +1,1084 @@
+#META#  TextURI          OmbreB2
+#META#  DEAF             http//www.deaf-page.de/fr/bibl/bib99o.php#OmbreB2
+#META#  TL               Ombre2
+#META#  FEW        		
+#META#  ARLIMA           https//www.arlima.net/no/234
+#META#  Author           Iean Renart
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        Le lai de l Ombre
+#META#  TextSubtitle  	
+#META#  Textuols         1
+#META#  TextSubi         short
+#META#	TextDom          lit
+#META#	Translation      false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL     
+#META#  TextDescuers     8
+#META#  TextDateARL      début du XIIIe siècle
+#META#  TextDateAdi      d13
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         Bédier Ioseph
+#META#  EdPlace          Paris
+#META#  EdPublisher      Firmin-Didot
+#META#  Eduol           
+#META#  EdYear           1913
+#META#  EdPages          1-50
+#META#  MsBase           BN fr. 837
+#META#  MsOther          B C D E F G
+#META#  MsNum            7
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form             u
+#META#	Complete         true
+#META#	NoWords         
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/lelaidelombre00ieanuoft
+#META#  ScanURIOther  	
+#META#  ArkID            ark/13960/t04x5hu90
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor        Yero Niamadio
+#META#  ORCIDWebAuthor  
+#META#  WebReuiewer       Dauid Ioseph Wrisley
+#META#  ORCIDReuiewer    orcid.org/0000-0002-0355-1487
+#META#  MiscInfo        
+#META#  CCLicense        CC BY-NC-SA 4.0 International
+
+
+Folio40a
+Pageu01P001
+Ne me uueil pas desaüser
+De bien dire ainçois uueil user
+Mon sens a el qu a estre oiseus.
+Ie ne uueil pas resambler ceus
+Qui sont garçon por tout destruire
+Folio40b
+Quar puis que i ai le sens d estruire
+Aucun bien en dit ou en fet
+uilains est qui ses gas en fet
+Se ma cortoisie s aoeure
+A fere aucune plesant oeure
+Pageu01P002
+Ou il n ait ramposne ne lait.
+Fols est qui por parole lait
+Bien a dire por qu il le sache
+Et s aucuns fel sa langue en sache
+Par derriere tout ce li doit
+Quar nient plus que ie puis cest doit
+Fere ausi lonc comme cestui
+Ne cuit ie que on peüst hui
+Fere un felon debonere estre
+Et miex uient de bone eure nestre
+Qu estre de bons c est dit pieça.
+Par Guillaume qui depieça
+L escoufle et art un a un membre
+Si com li contes nous remembre
+Poez sauoir que ie di uoir
+Et miex uient a un homme auoir
+Eür que auoir ne amis
+Amis muert et on est tost mis
+Fors de l auoir qui bien nel garde
+Ou qui a fol le met en garde
+Mès celui qui le gaste et use
+Pageu01P003
+Et après sa folie encuse
+Qu il l a despendu sanz mesure
+Se d iluec après s amesure
+Si lait la folie qu a fait
+Et mesauenture li lait
+Eürs le ra tost mis en pris
+Et por ce l ai ie si empris
+Que ie uueil mon sens emploier
+A bien dire et a souploier
+A la hautece de l eslit.
+Mout par me torne a grant delit
+Quant ma uolentez est eslite
+A fere ce qui me delite
+Une auenture a metre en rime.
+L en dit Qui bien nage et bien rime
+Qui de haute mer uient a riue
+Qui a port de bien dire arriue
+Plus l en proisent et roi et conte.
+Or orrés par tens en cest conte
+Pageu01P004
+Que dirai s anuis ne m encombre
+En cest lai que ie faz de l Ombre.
+Ie di que uns cheualiers ere
+En cele marche de l Empiere
+De Loheraine et d Alemaingne.
+Ie ne cuit pas c uns tels en maingne
+De Chaalons iusqu en Parçois
+Qui si ait toutes a son chois
+Bones teches comme cil ot.
+De maintes en tret au fil Loth
+Gauain si comme nous dison
+Mès nus n oï onques son non
+Ne ie ne sai se point en ot.
+Proece et cortoisie l ot
+Pageu01P005
+Eslit a estre sien demaine.
+De la despensse qu il demaine
+S esmerueillent tuit si acointe.
+Ne trop emparlé ne trop cointe
+Nel trouissiez ne de ruistece.
+Il n ert mie de grant richece
+Mès il se sot mout bien auoir
+Bien sot prendre en un lieu l auoir
+Et metre la ou point n en ot.
+Pucele ne dame n en ot
+Parler qui mout ne l aint et prist
+N onques a nule ne s en prist.
+Bien a certes qu ll n en fust bien
+Quar il estoit sor toute rien
+Et frans et dous et debonere.
+Quanques chascuns en uousist fere
+En peüst fere entor ostel
+Mès aus armes autre que tel
+Le trouissiez que ie ne di
+Estout et ireus et hardi
+Pageu01P006
+Quant il auoit l elme en son chief.
+Bien sot un renc de chief en chief
+Cerchier por une iouste fere.
+A ce ot torné son afere
+Li cheualiers dont ie uous di
+Qu il uousist que chascun lundi
+Qu il estoit qu il en fussent deus
+N onques cheualiers ne fu teus
+Si peniu d armes qu il estoit.
+Ce n est mie cil qui uestoit
+Sa robe d esté a yuer.
+Plus donoit il et gris et uer
+C uns autres de dis tans d auoir
+Et toz iors ueut o lui auoir
+Set compaignons ou cinc au mains
+Ne ia riens ne tenist aus mains
+S on le uousist que on n eüst.
+Deduit d oisiaus quant lui pleüst
+Ama que ie ne mespris mie.
+Pageu01P007
+Il sot d eschés et d escremie
+Et d autres geus plus que Tristans.
+Mout bon may ot un bien lonc tans
+Folio40d
+Et mout se fist amer aus genz.
+Il ert de cors et de braz genz
+Et frans et legiers et isniaus
+Si ert encor plus preus que biaus
+Tout ce doit bien cheualiers estre.
+Amors qui se fet dame et mestre
+De ceus dont ele est au deseure
+En cel bon point li corut seure
+Qu ele uout auoir le treü
+Del grant déduit qu li a eü
+De mainte dame en son eage
+Ne aine seruice ne hommage
+Ne l en fist entrues qu il li lut
+Por ce qu ll ne se reconnut
+A son homme n a son baillieu
+Se li fist en tans et en lieu
+Sentir son pooir et sa force.
+Onques Tristans qui fu a force
+Tondus comme fols por Yseut
+Pageu01P008
+N ot le tiers d ahan com cil eut
+De si qu il en ot sa pais fete.
+Ele li ot saiete trete
+Par mi le cors iusqu au penon
+La grant biauté et le douz non
+D une dame li mist el cuer.
+Or li couint a geter puer
+Toutes les autres por cesti.
+De maintes en auoit parti
+Son cuer que nule n en amoit
+Mès or setil sanz doute et uoit
+Qu il li couient tout metre ensamble
+Por celi seruir qui li samble
+Li rubis de toutes biautez.
+Li sens la deboneretez
+La grant douçor de son cler uis
+Li est ce li est bien auis
+Deuant ses iex et ior et nuit.
+Il n est ioie ne li anuit
+Fors seul li penssers a cesti.
+De tant li a bon plet basti
+Amors qu i le connissoit bien
+N onques nule si plesant rien
+Qui fame fust n auoit ueüe
+Pageu01P009
+Ce dist et s en trait sa ueue
+A garant qu il dist uerité
+Ahi fet il tante auerté
+Ai fet de moi et tant dangier
+Or ueut Diex par cesti uengier
+Celes qui m ont seules amé.
+Certes mar ai mesaesmé
+Folio 41
+Ceus qui d amors erent souspris
+Or m a Amors en tel point mis
+Qu ele ueut que son pooir sache.
+Onques uilains qui barbiers sache
+Les denz ne fu si angoisseus.
+Ce pensse et dit quant il est seus
+Ne ia son uuel ne feïst el
+N onques mès en si trés cruel.
+Point ne fu comme Amors l a mis.
+Las fet il se ie sui amis
+Que sera ce se n est m amie
+Ce ne sai ie ne ne uoi mie
+Comment ie puisse uiure un ior.
+Deduis d errer ne de seior
+Pageu01P010
+Ne me puet mon cuer solacier.
+Or n i a fors de tenir chier
+Ceus qui la uont ou ele maint
+Quar por ce fere ont eü maint
+De lor amor ioie et solas.
+Quar m eüst ceste fet un las
+De ses .II. braz entor mon col
+Toute nuit songe que l acol
+Et qu ele m estraint et embrace.
+Li esueilliers me desembrace
+En ce qui plus me delitast
+Lors quier par mon lit et atast
+Son biau cors qui m art et esprent
+Mès las qui ne trueue ne prent
+C est auenu moi et maint autre
+Mainte foiz. Or ne puet estre autre
+Aler ou enuoier m estuet
+Proier puis qu autre estre ne puet
+Qu ele ait de moi merci en fin
+Et que por Dieu ainz que ie fin
+Qu ele ait pitié de ma destrece
+Et que par sa grant gentillece
+Qu ele me gart et uie et sens.
+Elle i auroit un mains des suens
+Pageu01P011
+S ele souffroit que ie périsse
+S est bien droiz que de son cuer isse
+Douçors et pitiez de ses iex.
+Mès ie cuit qu il me uenist miex
+Li alers que se g i enuoi.
+L en dit N i a tel comme soi
+Ne nus n iroit si uolentiers.
+Pieç a c on dist que li mestiers
+Aprent l omme et la grant soufrete.
+Puis que g i ai reson atrete
+Il n i a se de l aler non
+Dire qu ele a en sa prison
+Mon cuer qui de gré s i est mis
+Ia deuant qu il ait non amis
+Folio41b
+N en quiert eschaper por tristrece.
+Gentelises pitiez larguece
+Le deuroit a ce esmouoir.
+Il s est atornez por mouoir
+Soi tiers de compaignons sanz plus.
+Ne sai que uous deïsse plus
+Il monte et uallet iusqu à .uI.
+Il cheuauche liez et penssis
+En son penser et en sa uoie
+Pageu01P012
+Ses compaignons oste et desuoie
+De la uoie de son pensser
+Qu il ne s en puissent apensser
+En la reson de son uoiage.
+Il dist qu il cheuauche a grant rage
+Celant son pensser souz sa ioie
+Tant qu il uindrent a la monioie
+Du chastel ou cele manoit.
+Fet li sires quis i menoit
+ueez com cil chastiaus siet bien
+Il nel disoit pas tant por rien
+Qui montast aus fossez n aus murs
+Mès pour sauoir se ses eürs
+L auroit encor si amonté
+Qu il parlaissent de la biauté
+La dame qu il aloit ueoir.
+Font il uous en deuez auoir
+Grant honte quar mal auez fet
+Pageu01P013
+Qui ainçois nous auez retret
+Le chastel que la bele dame
+Dont chascuns dit bien qu el roiame
+N a si cortoise ne si bele.
+Or tout quoi font il quar se ele
+Sauoit com uous auez mespris
+Il uous uendroit miex estre pris
+Aus Turs et menez en Chaaire
+Il dist en sozriant Hé caire
+Seignor por Dieu or belement
+Menez me un poi mains durement
+Quar ie n i ai mort deseruie.
+Il n est citez dont i ai enuie
+Ne chastiaus se de cesti non.
+Ie uoudroie estre en la prison
+Salahadin .u. anz ou .uI.
+Par si que il fust miens assis
+Si comme est s en fusse seürs.
+— Et quanqu il a dedenz les murs
+Font cil si en seriez trop sire.
+Il n entendent pas a cel dire
+Pageu01P014
+Le sofisme qu il lor fesoit
+Li bons cheualiers nel disoit
+Folio41c
+Se por oïr non qu il diroient.
+Il lor demande s i l iroient
+ueoir. Que feriemes nous donques
+Font il. Cheualiers ne doit onques
+Trespasser ne chemin ne uoie
+Ou bele dame ait qu il nel uoie.
+Fet il Ie m en tieng bien a uous
+Et si le lo et uueil que nous
+I alons quant resons l aporte.
+Atant guenchissent uers la porte
+Chascuns le regne del destrier.
+Criant Aus dames cheualier
+(A tel uoiage tel tençon).
+Sor frain s en uont a esperon
+Tant qu il uindrent a la ferté.
+Il ont le premier baile outré
+Clos de fossez et de palis.
+Pageu01P015
+Li sire auoit deuant son uis
+Torné son mantel en chantel
+Et sorcot herminé trop bel
+De soie en graine et d escuiriex.
+Autretel auoit chascuns d eus
+Et chemise ridee et blanche
+Et chapel de flors et de uenche
+Et esperons a or uermeus.
+Ie ne sai que il fussent miex
+Plesanment uestu por l esté.
+Il ne sont nul [l]iu aresté
+Dusqu au perron deuant la sale.
+Chascuns uallès encontre auale
+Aus estres par fine reson.
+Li seneschaus de la meson
+Les uit descendre en mi la cort
+D une loge ou il ert s en cort
+Dire a sa dame la nouele
+Que cil le uient ueoir que ele
+Pageu01P016
+Connoissoit bien par oïr dire
+N en deuint pas uermeille d ire
+Ainz. li uint a mout grant merueille.
+Desus une coute uermeille
+Auoit lués droit esté trecie.
+Ele s est en estant drecie
+La dame de très grant biauté.
+Ses puceles li ont geté
+Au col un mantel de samis
+Auoec la grant biauté qu a mis
+Nature en li. En son encontre
+Que qu ele ueut aler encontre
+Cil se hastent tant del uenir
+Qu ainçois qu ele peüst issir
+Fors de la chambre i sont entré.
+Au samblant que lor a moustré
+Li est il bel de lor uenue
+De tant poi comme ele ert uenue
+Folio41d
+Encontre aus se font il mout lié.
+Un chainsse blanc et deliié
+Ot uestu la preus la cortoise
+Pageu01P017
+Qui traïnoit près d une toise
+Après li sor les ions menuz
+Sire bien soiez uous uenuz
+Et uo compaignon ambedui
+Fet cele qui bon ior ait hui
+Qu ele est bien digne de l auoir.
+Si compaignon li distrent uoir
+Que n ert pas dame a trespasser.
+Sa biautez les fet trespensser
+Toz .III. en lor salu rendant.
+Ele prent par la main riant
+Le seignor sel maine seoir
+Or ot auques de son uoloir
+Quant delez li se fu assis.
+Si compaignon sont bien apris
+Assis sont ne lor firent cuiure
+Sus un coffre ferré de cuiure
+Auoec .II. seues damoiseles.
+Que qu ll se delitent a eles
+En demandant plusors aferes
+Li cheualiers n i penssoit gueres
+Pageu01P018
+A eus ainz pensse a son afere
+Mès la gentiex la debonere
+Li set bien rendre par escole
+Reson de quanqu il l aparole
+Qu ele ert mout cortoise et mout sage.
+Cil li met adès el uisage
+Ses iex por mirer sa biauté
+Mout les a bien pris a uerté
+Ses cuers qui toz est en li mis
+Que de quanqu  il li ont promis
+Li tesmoingnent il ore bien
+Qu il ne li ont menti de rien
+Mout li plest ses uis et sa chiere.
+Bele très douce dame chiere
+Fet il por qui force de cuer
+Me fet guerpir et geter puer
+De toutes autres mon pensser
+Ie uous sui uenuz presenter
+Quanques ie ai force et pooir
+Si en puisse ie ioie auoir
+Qu il n est riens nule que i aim tant
+Comme uous se Diex repentant
+Me lest uenir a sa merci
+Pageu01P019
+Et por ce sui ie uenuz ci
+Que ie uueil que uous le sachiez
+Et que gentelise et pitiez
+uous en praingne qu il est mestiers
+Folio 42
+Quar qui en feroit aus moustiers
+Oroison si feroit il bien
+Por ceus qui n entendent a rien
+S a estre non leal ami.
+— Ha sire por l ame de mi
+Fet ele qu auez uous or dit
+— Se Diex me lest ueoir lundit
+Dame fet il ie uous di uoir.
+uous toute seule auez pooir
+Sor moi plus que fame qui uiue.
+La colors l en croist et auiue
+De ce qu il dist qu ll est toz suens.
+Après a dit par mout grant sens
+Certes sire ie ne croi mie
+Que si preudom soit sanz amie
+Com uous estes. Nus nel croiroit
+uostre pris en abesseroit
+Et si en uaudriiez mout mains.
+Si biaus hom de braz et de mains
+Pageu01P020
+De cors et de toute autre rien
+uous me sauriiez ia mout bien
+Par parole et par l ueil a trere
+La pene et ce que ne uueil fere
+A entendre par uerité.
+Bien l a en son uenir hurté
+Par parole et desfet son conte
+Si com cil qui m aprist le conte
+Le m a fet por uoir entendant.
+Il se sueffre a mener tendant
+Qu il n estoit rien que tant amast.
+S une autre li mesaesmast
+Il s en seüst bien reuengier
+Mès il est si en son dangier
+Qu il ne l ose de rien desdire.
+Puis il recommença a dire
+Ha dame merci por pitié
+uostre amors m a fet sanz faintié
+Descouurir les maus que ie sent.
+Mout mal s i acorde et asent
+Pageu01P021
+uostre parole et uos biaus iex
+Qui m acueillirent iehui miex
+Au uenir et plus plesaument
+Et sachiez bien certainement
+Que cortoisie fu qu il firent
+Quar dès lors que il primes uirent
+N en uirent nul ce est la somme
+Qui si se uousist a uostre homme
+Tenir com ie uueil sanz faintise
+Douce dame uo gentelise
+Quar le uous plese a otroier
+Retenez moi a cheualier
+Et quant uous plera a ami
+Ainz que past .I. an et demi
+M aurez uous fet si preu et tel
+Et aus armes et a l ostel
+Et tant aurez bien en moi mis
+Que li noms c on apele amis
+Se Dieu plest ne m ert ia ueez.
+— Li cuidiers que uous en auez
+Pageu01P022
+Fet ele après uous fet grant bien.
+Ie n entendoie au regart rien
+Se cortoisie non et sens
+Mès uous l auez en autre assens
+Noté comme fols si m en poise.
+Se ie ne fusse si cortoise
+Il m en pesast ia mout uers uous.
+Por c est fole chose de nous
+Dames qui sons mal parceuanz
+Quant cortoisie et biaus samblanz
+Nous maine a cortoisie fere
+Lors cuident tout lor autre afere
+Cil souspirant auoir troué.
+Par uous l ai ie bien esproué
+Ansi l auez uous entendu.
+Miex uous uenist auoir tendu
+La fors une roi aus coulons
+Quar se li anz estoit si lons
+Et li demis com troi entier
+Ne sauriez uous tant esploitier
+Pageu01P023
+Por rien que uous seüssiez fere
+Que ie fusse si debonere
+Enuers uous com ie fui orainz.
+Li hom se doit bien garder ainz
+Qu il se lot de qui il le fet.
+Or ne set cil en dit n en fet
+Qu ilpuist fere ne deuenir.
+Au mains ne puis ie pas faillir
+Dame fet il que i ai esté.
+Pitié et debonereté
+A il en uous n en doutez mie
+N onques ne failli a amie
+Nus en la fin qui bien amast
+Si me sui mis en mer sanz mast
+Por noier ausi com Tristans.
+Comment que i aie esté lonc tans
+Sires de ma uolenté fere
+A ce ai torné mon afere
+Que se ie n ai merci anuit
+Ia mès ne cuit que il m anuit
+Pageu01P024
+Folio 42c
+Nule quant g istrai de cesti
+Itel plet m a mon cuer basti
+Qui en uous s est mis sanz congié.
+Un petit en fesant ris Gié
+Fet ele aine mès tele n oï
+Or puet bien demorer issi
+Puis que ie uoi que ce n est gas.
+Encore par saint Nicolas
+Cuidoie que uous gabissiez.
+— En nom Dieu nés se uos fussiez
+Une poure garce esgaree
+Bele gentiz dame honoree
+Ne m en seüsse i entremetre.
+Riens qu il puist dire ne prometre
+Ne li puet a ce riens ualoir
+Que il puisse ia ioie auoir
+De li si ne set qu il en face.
+Pageu01P025
+Li uermaus li monte en la face
+Et les lermes du cuer aus iex.
+Si que li blans et li uermiex
+L en moille contreual le uis.
+Or est il bien la dame auis
+Ne li fausse pas de couent
+Ses cuers ainz set bien que souent
+L en semont il aillors qu iluec.
+Certes s or en plorast auoec
+La dame mout li feïst bien.
+Ele ne cuidast ia por rien
+Qu ll deüst estre si destroiz.
+Sire fet ele n est pas droiz
+Par Dieu que i aim ne uous ne homme
+Que i ai mon seignor et preudomme
+Qui mout me sert bien et honeure.
+— Ha dame fet il a bone eure
+Par foi ce doit il estre liez
+Mais se gentelise et pitiez
+uous prendoit de moi et franchise
+Ia nus qui d amors chant ne lise
+Pageu01P026
+Ne uous en tendroit a pior
+Ainz en feriez au siecle honor
+Se uous me uoliiez amer
+A une uoie d outremer
+En porriez l aumosne aatir.
+— Or me fetes de uous partir
+Sire fet ele c estroit lait
+Mes cuers ne me sueffre ne lait
+Acorder en nule maniere
+Por ce s est oiseuse proiere
+Si uos pri que uos en sofrez.
+— Ha dame fet il mort m auez.
+Folio42d
+Gardez nel dites mès por rien
+Mès fetes cortoisie et bien
+Retenés moi par un ioiel
+Ou par çainture ou par anel
+Ou uous receués un des miens
+Et ie uous creant qu il n ert riens
+Que cheualiers face por dame
+Se i en deuoie perdre l ame
+Si m aït Diex que ie ne face.
+Pageu01P027
+uo uair oeil et uo clere face
+Me puet de mout poi iusticier.
+Ie ai tout souz uostre dangier
+Quanques ie ai force et pooir.
+— Sire ie ne uueil pas auoir
+Fet ele le los sanz le preu.
+Bien sai c on uous tient a mout preu
+Et s est pieça chose seüe.
+Bien seroie ore deceüe
+Se or uous metoie en la uoie
+De m amor et ie n i auoie
+Le cuer ce seroit uilonie.
+Il est une grant cortoisie
+D issir fors de blasme qui puet.
+— Dire tout el uous en estuet
+Dame fet il por moi garir.
+Se uous me lessiiez morir
+Sanz estre amez ce seroit teche
+Se cil biaus uis plains de simplece
+Estoit omecides de moi.
+Il en couient prendre conroi
+Pageu01P028
+Prochain en aucune maniere.
+Dame de biauté et maniere
+De toz biens por Dieu gardez i
+Cil bel mot plesant et poli
+Le font en un penssé cheïr
+D endroit ce qu ele ueut oïr
+Sa requeste s en ot pitié
+Quar ne tint a point de faintié
+Les souspirs les lermes qu ilpleure
+Ainz dist que force li cort seure
+D Amors qui tout ce li fet fere
+Ne que ia mès si debonere
+Ami n aura se n a cestui
+Mès ce que onques mès fors hui
+N en parla li uint a merueille.
+Auoec cel penssé la traueille
+Resons qui d autre part l oppose
+Qu ele se gart de fere chose
+Dont ele se repente au loing.
+A celui qui ert en grant soing
+Du pensser ou ele ert entree
+A mout bele uoie monstree
+Pageu01P029
+D une grant cortoisie fere
+Folio43
+Amors qui en tant maint afere
+A esté sages et soutiex.
+Entrues qu ele estoit la gentiex
+El pensser la ou ele estoit
+Cil tret erraument de son doit
+Son anel se li mist el suen.
+De ce fist il un mout grant sen
+Qu il li desrompi son pensser
+Que ainc ne li lut apensser
+De l anel qu ele ot en son doit.
+A ce qu ele mains se gardoit
+Dame fet il a uo congié
+Sachiez que mon pooir et gié
+Est tout en uo commandement.
+Il se part de li esraument
+Et si compaignon ambedui
+Nus ne set l achoison fors lui
+Pageu01P030
+Por qu il s en est ainsi partis.
+Il est souspiranz et penssis
+uenuz a son cheual si monte
+Et cele a cui le plus en monte
+De lui remetre en sa leece
+Iroit s en il a certes Qu est ce
+Ce ne fist onques cheualiers
+Ie cuidaisse c uns anz entiers
+Li fust assez mains lons d un ior
+Mès qu il fust o moi a seior
+Et il m a ia si tost lessie
+Ahi se m i fusse plessie
+uers lui de parole ou de fez
+Por les faus samblanz qu il m a fez
+Doit l en mès tout le mont mescroire.
+Qui por plorer le uousist croire
+Ne por fere ses faus souspirs
+Si me conseut li Sainz Espirs
+Por ice n i perdist il rien.
+Nus ne guilast ore si bien
+Ne si bel c est ore du mains.
+Atant enuoie uers ses mains
+Pageu01P031
+Un regart si choisist l anel.
+Toz li sans iusqu el doit manel
+Et iusqu el pié li esfuï
+N onques si ne s esuanuï
+Ne n ot de rien si grant merueille.
+La face li deuint uermeille
+Puis deuint trestote empalie.
+Qu est ce fet ele Diex aïe
+Ne uoi ie l anel qui fu suens
+De tant sui ie bien en mon sens
+Que iel ui orainz en son doit.
+Ce fis mon fet ele et que doit
+Et por qoi l a il el mien mis
+Ia n est il mie mes amis
+Et si pens ie qu ll le cuide estre.
+Or est il par Dieu plus que mestre
+De cest art ne sai qui l aprist.
+Et comment uint ce qu ll me prist
+Pageu01P032
+A ce que ie ere si prise
+Que ie ne m en sui garde prise
+De l anel qu ll m a el doit mis
+Or dira qu ll est mes amis.
+Dira il uoir Sui ie s amie
+Nenil quar ce seroit folie
+Certes por noient le diroit
+Ainz li manderai orendroit
+Que il uiengne parler a mi
+S ll ueut que iel tiengne a ami
+Se li dirai qu ll le repraingne.
+Ie ne cuit pas qu ll en mespraingne
+uers moi s ll ne ueut que iel hace.
+Atant commande c on li face
+uenir un uallet tout monté.
+Ses puceles l ont tant hasté
+Qu il i est uenuz toz montez.
+Amis fet ele or tost hurtez
+Poingniez après le cheualier
+Dites lui si comme il a chier
+M amor qu ll ne uoist en auant
+Mès uiengne arriere maintenant
+Pageu01P033
+Parler a moi de son afere.
+— Dame fet il ie cuit bien fere
+uostre message dusqu en son.
+Atant s en part a esperon
+Après le cheualier poingnant
+Qui amors aloit destraingnant
+Por celi qui l enuoie querre.
+En mains d une liue de terre
+L a il ataint et retorné.
+Sachiez qu il se tint a buer né
+De ce qu on l auoit remandé
+Mès n a pas au mès demandé
+Por qoi on remandé l auoit.
+Li aniaus qu ele auoit el doit
+Ert l achoisons del remander.
+Ce li fist son oirre amender
+Quar tart li est qu ll le reuoie.
+Li escuiers s est en la uoie
+Del retor de lui acointiez.
+Pageu01P034
+E Diex comme il en par fu liez
+Del retorner se por ce non
+Qu il estoit en grant soupeçon
+Folio43c
+C on ne li uueille l anel rendre
+Il dist qu il s iroit ainçois rendre
+A Cistiaus qu il le repreïst.
+Ne cuit pas qu ele mespreïst
+Enuers moi fet il de tele oeure.
+La ioie del retor li cueure
+Le penssé dont il est en doute.
+Il est uenuz a tant de route
+Comme il ot uers la forterece.
+La dame qui en grant destrece
+Estoit seur son cors deffendant
+Ist de la sale descendant
+Pas por pas aual le degré
+Porpensseement et de gré
+uint en la cort por li deduire.
+En son doit uit l anelet luire
+Qu ele ueut rendre au cheualier.
+S il m en fet ia point de dangier
+Pageu01P035
+Fet ele et il nel ueut reprendre
+Por ce ne l irai ie pas prendre
+Par ses biaus cheuex. Se ie puis
+Ainz le menrai ia sor cel puis
+Si parlerai iluec a lui
+S il nel ueut prendre sanz anui
+Ie romperai ci la parole.
+Comment Ie n ere pas si foie
+Que ie le gete en mi la uoie
+Mès en tel leu c on ne le uoie
+Ce ert el puis n est pas mençonge.
+I a puis n en ert plus que d un songe
+Chose dite qui me messiece.
+Dont n ai ie ore esté grant piece
+O mon seignor sanz uilonie
+Se cis par sa cheualerie
+Ou par souspirer deuant mi
+ueut ia que iel tiengne a ami
+A cest premerain parlement
+Il l auroit ainçois durement
+Deserui se iel deuoie estre.
+Atant est cil entrez en l estre
+Pageu01P036
+Qui de tout ce ne se prent garde.
+Il uoit celi que mout esgarde
+uolentiers aler par la cort.
+Il descent lués et uers li cort
+Si com cheualiers fet uers dame.
+Si dui compaignon ne nule ame
+De l ostel ne li font anui.
+A foi Bone auenture ait hui
+Ma dame a cui ie sui et iere
+Ne l a ore en autre maniere
+Folio43d
+Ferue del poing lez l oïe.
+Ele a hui mainte chose oïe
+Qui mout li touche près del cuer.
+Sire dist ele alons la fuer
+Seoir sor cel puis por deduire.
+Il n est chose qui li puist nuire
+Ce dit puis que l aqueut si bel
+Bien cuide auoir par son anel
+Conquise s amor et sa grace
+Mes n est encor preu en la nasse
+Por qoi il se doie esioïr
+Pageu01P037
+Ainz qu il peüst lez li seïr
+Ot il chose qui li desplest.
+Sire fet ele s ll uous plest
+Dites moi la uostre merci
+Cest uostre anel que ie uoi ci
+Por qoi le me lessastes ore
+—	Douce dame fet il encore
+Quant m en irai si l aurez uous.
+Ie uous dirai ce sachiez uous
+Si nel tenez pas a faintié
+De tant uaut il miex la moitié
+Qu il a en uostre doit esté.
+S il uous plesoit en cest esté
+Le sauroient mi anemi
+Si uous m auiiez a ami
+Reçut et ie uous a amie.
+— En non Dieu ce n i a il mie
+Fet ele ainçois i a tout el.
+Ia puis n istrai de cest ostel
+Si m aït Diex se morte non
+Que uous aurez ne cri ne non
+Pageu01P038
+De m amor por rien que ie uoie.
+uous n en estes preu en la uoie
+Ainz en estes mout foruoiez.
+Tenez ie uueil que uous aiez
+uostre anel que ie n en ruis mie.
+Ia mar me tendrez a amie
+Por garde que i en aie faite.
+Or se despoire or se deshaite
+Cil qui cuidoit auoir tout pris.
+Mains en uaudroit fet il mes pris
+Se c est a certes que ie oi.
+Onques mès nule ioie n oi
+Qui si tost nie tornast a ire.
+— Comment donques fet ele sire
+Auez i dont anui ne honte
+De moi a cui noient ne monte
+uers uous d amors ne de lingnage
+Ie ne faz mie grant outrage
+Folio44
+Se ie uous uueil uostre anel rendre.
+Il le uous couient a reprendre
+Quar ie n ai droit au retenir
+Puis que ie ne uous uueil tenir
+A ami quar ie mesferoie.
+Pageu01P039
+— Diex fet il se ie me feroie
+D un coutel trés parmi les cuisses
+Ne me feroie teus anguisses
+Comme ces paroles me font.
+Mal fet qui destruit et confont
+Chose dont l en est au deseure.
+Trop m i cort force d amors seure
+Por uous et met en grant destrece.
+Chose n est qui a ce me mece
+Nule del mont que iel repraingne.
+Ia Diex a foi puis ne me praingne
+A bone fin que iel prendrai
+Mes uous l aurez et si lerai
+Mon coer auoec en uo seruise
+N il n est riens qui a uo deuise
+uous serue si bien ne si bel
+Comme entre mon cuer et l anel.
+Fet ele N en parlez uous onques
+Quar uos en perderiez adonques
+Pageu01P040
+M acointance et ma feauté
+Se uous contre ma uolenté
+Me uoliez fere a uous entendre.
+Il le uous couient a reprendre.
+— Non fet. — Si fet la n a que dire
+Ou uous estes mout plus que sire
+Se uostre anuis a ce m esforce
+Que uous le me uueilliez a force
+Maugré mien fere retenir.
+Tenez — Ia mès nel quier tenir.
+— Si ferez. — Ie non ferai uoir.
+— uolez le me uous fere auoir
+A force — Naie bele amie
+Bien sai tel pooir n ai ie mie
+Ce poise moi si m aït Diex
+Ia puis uilonie ne deuls
+Ne m auendroit c est ma creance
+Se uous en un poi d esperance
+Me metiez por reconforter.
+— uous porriez ausi bien hurter
+A cel perron le uostre chief
+Pageu01P041
+Que uous en uenissiez a chief
+Si loque uous le repraingniez.
+— Il semble que uous m apraingniez
+Fet il a chanter de Bernart.
+Ie me leroie ainz une hart
+Folio44b
+Lacier el col quel repreïsse.
+Ne sai que ie uous en feïsse
+Lonc plet au reprendre n a rien.
+Sire fet ele or uoi ie bien
+Que ce uous fet fere enresdie
+Quant parole que ie uous die
+Ne uous puet au prendre mener.
+Or uous uueil ie aconiurer
+Par cele foi que moi deuez
+uous proi que uous le reprendez
+Si chier com uous auez m amor.
+Or n i a il en ceste error
+Pageu01P042
+Tor c un seul qu il ne li couiegne
+A reprendre ou qu ele nel tiegne
+A desleal et a gengleus.
+Diex fet il li quels de ces .II.
+M est or partis li mains mauuais
+Or sai ie bien se ie li lais
+Qu ele dira ie ne l aim mie.
+Qui tant estraint crouste que mie
+En saut ce est par grant destroit.
+Cil seremenz m a si destroit
+Que li lessiers ne m i est preus
+Ainçois cuit ie que li miens preus
+Et m onors i soit au reprendre
+Se ie ne uueil de mout mesprendre
+uers ma douce dame honorée
+Qui s amor m a aconiuree
+Et la grant foi que ie li doi.
+Quant ie l aurai mis en mon doi
+Pageu01P043
+Si sera il siens ou il iert.
+Se ie faz ce qu ele me quiert
+Ie n i puis auoir s onor non.
+N est pas amis qui dusqu en son
+Ne fet la uolenté s amie
+Et sachiez que cil n aime mie
+Qui rien qu il puist en lest a fere.
+Ie doi atorner mon afere
+Del tout a son commandement
+Quar il ne doit estre autrement
+S a la seue uolenté non.
+Il nel nonma pas par son non
+Quant il dist Dame iel prendrai
+Par couent que ie en ferai
+Après la uostre uolenté
+La moie encor ait il esté
+En cel doit que ie uoi si bel.
+— Et ie uous rent donques l anel
+Par couent que uous l en faciez.
+N ert enuiesis ne esfaciez
+Pageu01P044
+Folio44c
+Li sens del gentil cheualier
+Toz esprendanz de cuer entier
+Le prist tout porpensseement
+Si le regarde doucement
+Au reprendre dist Granz merciz
+Por ce n est pas li ors noirciz
+Fet il s il uient de cel biau doit.
+Cele s en sozrist qui cuidoit
+Qu il le deüst remetre el suen
+Mès il fist ainz un mout grant sen
+Qu a grant ioie li torna puis.
+Il s est acoutez sor le puis
+Qui n estoit que toise et demie
+Parfonz si ne meschoisi mie
+En l aigue qui ert bele et clere
+L ombre de la dame qui ere
+La riens el mont que miex amot.
+Sachiez fet il tout a un mot.
+Que ie n en reporterai mie
+Ainz l auera ma douce amie
+Pageu01P045
+La riens que i aim plus après uous.
+— Diex fet ele ci n a que nous
+Ou l aurez uous si tost trouee
+— Par mon chief tost uous ert moustree
+La preus la gentiz qui l aura.
+— Ou est — En non Dieu uez le la
+uostre bel ombre qui l atent.
+L anelet prent et uers li tent.
+Tenez fet il ma douce amie
+Puis que ma dame n en ueut mie
+uous le prendrez bien sanz meslee.
+L aigue s est un petit troublée
+Au cheoir que li aniaus fist
+Et quant li ombres se desfit
+ueez fet il dame or l a pris.
+Mout en est amendez mes pris
+Quant ce qui de uous est l en porte.
+Quar n eüst il ore huis ne porte
+La ius si s en uendroit par ci
+Por dire la seue merci
+De l onor que fete m en a.
+E Diex si buen i assena
+A cele cortoisie fere
+Onques mès rien de son afere
+Ne fu a la dame plesanz
+Pageu01P045
+Toz reuerdiz et esprendanz
+Li a geté ses iex es suens.
+Mout uient a homme de grant sens
+Qu il fet cortoisie au besoing.
+Orainz ert de m amor si loing
+Folio44d
+Cis hom et ore en est si près
+Onques mès deuant ne après
+N auint puis qu Adam mort la pomme
+Si bele cortoisie a homme
+Ne sai comment il l en membra.
+Quant por m amor a mon ombre a
+Geté son anel enz el puis
+Or ne li doi ie ne ne puis
+Plus ueer le don de m amor.
+Ne sai por qoi ie li demor
+Onques hom si bien ne si bel
+Ne conquist amor par anel
+Ne miex ne dut auoir amie.
+Sachiez qu ele n en bleça mie
+Quant ele dist Biaus douz amis
+Tout ont mon cuer el uostre mis
+Pageu01P047
+Cist douz mot et li plesant fet
+Et li dons que uous auez fet
+A mon ombre en l onor de moi.
+Or metez le mien en uo doi.
+Tenez iel uous doing comme amie.
+Ie cuit uous ne l amerez mie
+Mains del uostre encor soit il pire.
+— De l onor fet il de l Empire
+Ne me feïst on pas si lié.
+Mout se sont andui enuoisié
+Sor le puis de tant comme il peurent.
+Des besiers dont il s entrepeurent
+uait chascun la douçor au cuer.
+Lor bel oeil ne getent pas puer
+Lor part ce est ore del mains.
+De tel geu com l en fet des mains
+Estoit ele dame et il mestre
+Mès du geu qui or ne puet estre
+De celui lor couuendra bien.
+Pageu01P048
+N i couient mais baer de rien
+Iehan Renart a lor afere
+S il a nule autre chose a fere
+Bien puet son penssé metre aillors.
+Quar puis que lor sens et Amors
+Ont mis andeus lor cuers ensamble
+Del geu qui remaint ce me samble
+uendront il bien a chief andui
+Et or me tais atant meshui.
+Ici fenist li Lais de l Ombre.
+Contez uous qui sauez de nombre.
+§Explicit li Lais de l Ombre.

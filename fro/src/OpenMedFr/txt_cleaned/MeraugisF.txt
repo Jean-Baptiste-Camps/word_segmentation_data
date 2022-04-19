@@ -1,0 +1,3685 @@
+#META#  TextURI           MeraugisF
+#META#  DEAF              http//www.deaf-page.de/bibl/bib99m.php#MeraugisF
+#META#  TL                
+#META#  FEW        	
+#META#  ARLIMA            https//www.arlima.net/qt/raoul_de_houdenc.htmll#mer
+#META#  Author            Raoul de Houdenc
+#META#  AuthorBorn        
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle         Meraugin de Portlesguez
+#META#  TextSubtitle  
+#META#  Textuols          
+#META#  TextSubi          
+#META#	TextDom           
+#META#	Translation       
+#META#	Collection       
+#META#	CollectionNo	  
+#META#  TextDescARL       uers octosyllabiques à rimes plates
+#META#  TextDescuers      8
+#META#  TextDateARL       Entre 1225 et 1235
+#META#  TextDateAdi       13
+#META#	TextDateMin	      1225
+#META#	TextDateMax	      1235
+#META#  EdEditor          Friedwagner Mathias 
+#META#  EdPlace           Halle
+#META#  EdPublisher       Niemeyer
+#META#  Eduol             
+#META#  EdYear            1897
+#META#  EdPages           1-227
+#META#  MsBase            uat. Reg. lat. 1725 
+#META#  MsOther           Wien Österreichische Nationalbibliothek 2599
+#META#  MsOther           Torino Bibl. naz. L.Iu.33
+#META#  MsOther           Kraków Uniu. gall. qu. 48 
+#META#  MsOther           BN nfr. 5386 
+#META#  MsNum             5
+#META#	MsDateARL         
+#META#	MsDateAdi         
+#META#	Form              u
+#META#	Complete          true
+#META#	NoWords           
+#META#	NoLines           5938
+#META#	DialAuth      
+#META#	DialScribe    
+#META#  ScanURL           https//archiue.org/details/raouluonhoudenc00friegoog/
+#META#  ScanURIOther  
+#META#  ArkID             ark/13960/t2g73fi2r
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor         
+#META#  ORCIDWebAuthor    
+#META#  WebReuiewer       
+#META#  ORCIDReuiewer     
+#META#  MiscInfo        
+#META#  CCLicense         CC BY-NC-SA 4.0 International
+
+
+Page003
+Qui de rimoiier s entremet
+Et son cuer et s entente met
+Ne uaut noient quan que il conte
+S il ne met s estude en cel conte
+Qui toz iorz soit bons a retrere
+Car ioie est de bone oeure fere
+De matire qui toz iorz dure
+C est des bons contes l auenture
+De conter a bon conteor.
+Cil autre qui sont rimeor
+De seruantois sachiez que font
+Noient dïent qu a noient uont
+Lor estude et lor mot qu il dïent.
+Contrediseor sont ne dïent
+Point de lor sens ainz sont de ceus
+Qui tot boiuent lor sens par eus.
+Por ce RAOUS DE HODENC dit
+Qu il ueut de son sens qui est petit
+Un nouel conte comencier
+Qui sera bons a anoncier
+Toz iorz ne ia mes ne morra
+Mes tant com cist siecles durra
+Durra cist contes en grant pris.
+C est li contes de Meraugis
+Qui fist les fez que ie racont
+Mes s au conter ne uos mescont
+Page004
+Il n i a mot de uilainie
+Ainz est contes de cortoisie
+Et de beaus moz et de plesanz.
+Nus s il n est cortois et uaillanz
+N est dignes dou conte escouter
+Dont ie uos uueil les moz conter.
+folio98d
+Seignor au tens le roi Artu
+Qui tant estoit de grant uertu
+Ot en Bretaigne la Greignor
+Un roi qui tint mout grant honor.
+Ce fu li rois de Caualon
+Qui fu plus beaus que Absalon
+Si com tesmoigne li Greaus.
+Li rois qui fu preuz et loiaus
+Et riches d amis et puissanz
+Une fille ot qui fu uaillanz.
+La damoisele ot non Lidoine
+N ot iusqu au port de Macedoine
+Feme qui fust de sa beauté
+Ainz fust autre iouenz uiuté
+Qui fust demostrez lez sa face.
+Por ce me plest que ie en face
+De li beles descriptïons
+Ce fu li plus gentiz cïons
+Ou Deus meïst onques nature
+De deuiser tel creature
+Me dot que ie n en uiegne a chief
+Car la pucele auoit le chief
+Page005
+De bele assise et li cheuuel
+Plus sor que penes d oriuel
+Le front ot haut cler et bien fet
+Et si ne furent point mesfet
+Li sorcil qui estoient brun
+Ainz estoient si bel chascun
+Com s il fussent de main portret
+Si estoient contremont tret
+Par reson et larget entrueil.
+Li oeil se ie mentir n en uueil
+Furent de si sotil esgart
+Que la more de son regart
+Passast bien parmi .u. escuz
+Et rendist matez et uaincuz
+Le cuer qui fust dedenz le uentre.
+Dou regart d oeil qui einsi entre
+uos di qu il s en fet bon garder
+Nus ne la peüst esgarder
+Qui ne fust alumez de li.
+Por ce que tant loer l oï
+folio99a
+uueil raconter une merueille
+Ele ot plus fresche et plus uermeille
+La face que rose de pré
+Mout ot beau sens et atrempé
+Page006
+Qui compassa tel creature.
+Si grant largece i mist nature
+Qu onques greignor ne fist a droit
+Ele ot le nes tretiz et droit
+Et bele boche et cleres denz
+Quant la langue parloit dedenz
+Li dent resembloient d argent
+Et por mieuz deçoiure la gent
+Ot une gorge esperital
+Plus blanche que noif ne cristal
+Le col ot lonc et blanc et droit.
+Se ie la ueoie orendroit
+Apertement deuant mes ieuz
+Ie ne porroie mie mieuz
+La beauté de li deuiser.
+Nus ne la peüst auiser
+De ses ieuz qui tant l auisast
+Que ia mes mieuz la deuisast
+Fors moi tot sol qui la deuis.
+S ele fu bien fete de uis
+Et plesanz a tote la gent
+Si ot ele le cors plus gent
+Que n ot Lorete de Brebraz.
+Beles espaules et beaus braz
+Ot la pucele et beles mains
+Qui ne coroient pas dou mains
+Por doner quant lieus en estoit.
+Page007
+La damoisele qui estoit
+Si plaine de totes bontez
+Qui une foiz fust acolez
+De ses braz qui tant erent blanc
+Ia mes n eüst la gote el flanc.
+S en la damoisele ot beauté
+Plus i ot sens et plus bonté
+Qu ele fu dou tot si cortoise
+Qu enuiron li a une toise
+N auoit se cortoisie non.
+Pucele estoit de grant renon
+Et escole de bien aprendre.
+Enuiron li peüst l en prendre
+Totes les honors a plain poing
+Et les puceles de mout loing
+folio99b
+De Cornoaille et d Engleterre
+La uenoient par non requerre
+Por ueoir et oïr parler.
+Toz li monz i soloit aler
+A si cortois pelerinage
+Car la pucele estoit si sage
+Que ia si cortois n i parlast
+Qui plus cortois ne s en alast
+S il uousist ses diz retenir.
+A cel tens la sieut l en tenir
+Por la plus gentil damoisele.
+Page008
+S ele ert gentiz et preuz et bele
+Parmi tot ce fu el si digne
+Car qui de li ueoir se digne
+Ia le ior ne li mescheïst
+Non par mon chief nes s il cheïst
+D autresi haut com un clochier
+Ia por ce n esteüst clochier
+Puis qu il l eüst le ior ueüe.
+Toz li monz sauoit a ueüe
+Qu ele auoit si grant digneté.
+A la pucele en uerité
+Auint que ses pere fu morz.
+Ce ne li fu mie deporz
+Qu a poi que ne s en despera
+Sans ce que point ne s empira
+Dou bien ou estoit ses pensez.
+Quant ses pere fu trespassez
+Si tint la terre et ce fu uoirs
+Que ses pere n auoit plus d oirs
+Que li cui sa terre escheï.
+Et ie uos di qu il li cheï
+Einsi bien de tenir sa terre
+Qu onques ne la semonst de guerre
+Page009
+Ne cist ne ceste ne nului.
+Einsi tint terre sanz anui.
+Quant ele l ot .III. anz tenue
+Ele se fu si maintenue
+Que toz li mondes l en loa
+Et tant que ses cuers li loa
+Qu ele alast deuant Lindesores
+Ou la dame de Landemores
+Auoit fet .I. tornoi crïer
+Ou ele fera escrïer
+Mainte enseigne et maint cop ferir
+Cui l onor porra auenir
+folio99c
+De uaintre le tornoiement
+Si en portera quitement
+Un cisne qui el pin sera
+Et si uos di qu il besera
+La pucele de Landemore
+Qui n est mie lede ne more.
+Quant li cisnes sera donez
+Maintenant iert .I. cors sonez
+A la fontaine soz le pin
+Sus une lance de sapin
+Sera uns esperuiers muëz
+Qui ia n iert pris ne remuëz
+Deuant la que cele le preigne
+Qui par ueüe lor apreigne
+Qu ele soit plus bele que totes
+Se la robe ert perciee as cotes
+Page010
+Por tant que ce fust la plus bele
+N i aura il ia damoisele
+Qui ait l esperuier se li non
+Car il sera donez par non
+A cele qui iert esleüe
+D estre la plus bele a ueüe.
+Einsi fu lors li tornois pris.
+Li bacheler d amor espris
+L amainent chascuns s amie.
+Li tornois ne remaindra mie
+Que tuit li errant bacheler
+De Logres i uoudront aler
+Au tornoi por le pris conquerre.
+Et Lidoine si a fet querre
+Bien iusqu a .XXX. damoiseles
+Les plus gentiz et les plus beles
+Qu el puist trouer en sa contree.
+Por ce que cuide estre encontree
+Les fist richement atorner.
+Ne mist pas terme au retorner
+Mes au mouoir les fist uestir
+Des plus riches pailes de Tir
+Qu en peüst trouer por argent.
+La damoisele fist sa gent
+Et totes les dames monter
+Ne sai pas toz ceus aconter
+Page011
+Qui le ior en sa rote murent
+Mes tant cheuauchent qu eles furent
+Es plaines deuant Lindesores
+Et li tornoiemenz fu lores
+folio99d
+Toz prez come de l assembler.
+Eles comencent a ambler
+Si uirent pres d un estandart
+.I. hiraut qui tenoit un dart
+En sa main mout trenchant d acier.
+Sa lecherie ert de lancier
+La ou li tornois assembloit
+Mes tant estoit lez qu il sembleoit
+Qu il fust ourez a besaguë
+Qu il auoit beslonge et aguë
+La teste et tot le cors mal fet.
+Mes ia par moi n iert plus retret
+Ses cors ou Deus n auoit que fere
+Que ie ne porroie desfere
+La grant hidor que il auoit.
+Il se regarde arrier si uoit
+Les dames qui uindrent amblant
+Ses conut mes n en fist semblant
+Qu il les ueïst ainçois s en cort
+A la dame qui tint la cort
+Qui estoit sor une bretesche.
+Page012
+N a mie fete longue tresche
+La l a trouee et si li dit
+Dame fet il sanz contredit
+Sachiez que la dame est uenue
+A cui l onor est auenue
+De l esperuier quitement prendre.
+Ice fist ele uueil aprendre
+Qui ele est donc qui si est bele.
+Dame fet il c est la pucele
+Fille le roi de Caualon.
+Dist la dame Done aualon
+Contre li ius de l eschafaut.
+Lidoine sor cui riens ne faut
+Qui a bone oeure soit contee
+A soz l eschafaut encontree
+La dame qui le tornoi tint
+Qui la salua et retint
+Et li dist Dame bien ueigniez
+Et si uos pri que uos preigniez
+Ceste bretesche qui est ci.
+Dame la uostre grant merci
+Ce dist Lidoine qui fu sage
+Ie retieng uolontiers l estage
+Par couent que uos i uendrez
+Sel retieng et uos le prendrez
+Comunaument puis qu il est nostre.
+
+
+
+
+
+
+
+
+
+Page063
+folio107b
+Plorent et uont criant aprés
+ua t en sanz reuenir ia mes
+Et cele qui s en uet amblant
+Escoute mes n en fet semblant
+Que de lor dueil a riens li soit.
+Li cheualiers de ce qu il uoit
+S esmerueille et ne set que dire
+Fors tant qu il dit par mout grant ire
+Deus tant m en poise C est par moi
+Que cil dieus est ne ie ne uoi
+Par quoi i en puisse oïr noueles.
+Ha fet il as .II. damoiseles
+Qui remainent dames merci
+Ainçois que me parte de ci
+Car me dites se uos sauez
+Dont cist dieus est que uos auez
+Par si que ie uos couenanz
+Coment que li meschiés soit granz
+Se c est que iel puisse amender
+Que i en ferai sanz demorer
+Tot mon pooir outreement
+Car mout me poise durement
+De uostre dueil si n en puis mes.
+Et celes respondent aprés
+Danz cheualiers c est chose outree
+Que ia par uos n iert amendee
+Non por pooir que uos aiiez.
+Page064
+Mes d itant ne uos esmaiiez
+Se uostre dame un petit plore
+Por nos encor uendra une hore
+Qu ele plorra mes c iert por uos.
+Li dieus qui or li muet por nos
+Li atornera autrement
+Car ci n a fors comencement
+De plorer si ploron einsi
+Ele por nos et nos por li.
+Li cheualiers s est corrociez
+Et dit Or sui ie maneciez
+Si ne sai de cui ne por quoi.
+Hui mes ne me tendrai ie coi
+Car coardie sembleroit.
+L escu qui au fresne pendoit
+Reprent as mains sel giete loing
+Et dit Dames .I. don uos doing
+Que ie gerrai ceenz a nuit
+Cui qu en poist mes qu a uos n anuit.
+folio107c
+Lors si uerrez qu en auendra
+Sempres quant mes hostes uendra.
+Et celes respondent Beaus sire
+Pas ne uos uolon escondire
+L ostel itel com nos l auon.
+Sanz ce ia gré ne uos sauron
+De l aler ne dou remanoir
+Page065
+Ne nos n en uolon gré auoir.
+Se maus ou biens uos en uenoit
+Ne dites pas que par nos soit
+Non ferai ie ie n en quier plus
+Que uostre gré Lors descent ius
+Et dit Ceenz est mes hosteus.
+Ci uerrai ie qui sera teus
+Qui le me uueille contredire
+Auoi fet Lidoine beaus sire
+Tenez nos pes - Si faz ie dame.
+A tant s assiet et dit Par m ame
+Coment que li iaainz ait non
+Ie ne demant se guerre non.
+El tref remest la nuit einsi
+Li cheualiers mout l ont serui
+Les .II. dames a lor pooir
+De quan qu eles porent auoir
+L onorerent mes si auint
+Qu onques la nuit au tref ne uint
+Cheualiers nus de nule part.
+Et lors quant la nuit se depart
+Se puet Meraugis merueillier.
+Si fet il plus qu il ne fist hier
+Et dit quant au tref ne uient nus
+Que ci ne guetera il plus.
+Au cheual uient s i met la sele
+Quant montee ot la damoisele
+Page066
+As dames uient et prent congié
+Et dit Dames or ne sai gié
+Que dire quant nus ne repere
+A cest tref. Ie n en puis plus fere
+Ainz m en uois et sachiez de uoir
+Que uostre sui a mon pooir
+Par toz les lieus ou ie porroie.
+Mes encore uos proieroie
+Que me deïssiez uerité
+Por quoi cist dieus a ci esté
+Et qui est sire de çaienz.
+Celes respondent C est noienz
+folio107d
+Ia plus ne uos en diron ore
+uos le saurez assez encore.
+Et quant li cheualiers l entent
+A Deu fet il plus n i atent
+Lors s en uet et s amie o lui.
+Einsi cheuauchent ambedui
+Par mi la grant forest oscure
+Tant qu a .I. gué par auenture
+Ont .I. cheualier encontré
+Qui uet disant Ohé - Ohé -
+uoire si uos dirai por quoi.
+Einsi au gué ioste .I. aunoi
+Li uns uers l autre s adreça.
+Li nostre cheualiers deça
+Se merueille de ce qu il uoit
+Que cil qui ist dou gué n auoit
+Page067
+Frain ne cheuestre n esperon
+Ne ne tient uerge ne baston
+Fors l escu et la lance a droit
+Mes de si grant beauté estoit
+Que nul plus bel n esteüst querre
+N onques ne fu en nule terre
+Nus cheualiers ueüz as ieuz
+A cui armes seïssent mieuz
+Qu a lui. Au cheualier escrie
+Qui uient Cheualiers ne uien mie
+Auant Se tu uiens iusqu au pas
+La ioste auras eneslepas.
+Et cil respont qui l entent bien
+Ce me plest mout cheualiers uien
+Ia l auras tu m as desfïé.
+Et cil quant il fu fors dou gué
+Besse sa lance si s eslesse
+Por ioster et Meraugis lesse
+Cheual aler que point nel dote.
+Cil qui i met sa force tote
+Done a Meraugis sor l escu
+De sa lance par tel uertu
+Que sa lance peçoie en .II.
+Et Meraugis li merueilleus
+Brandist sa lance sel fiert haut
+Si droit qu il porte en mi le gaut
+Le cheualier et son cheual
+Tot en .I. mont mes n ot nul mal
+Page068
+Li cheualiers en piez reuient.
+Sempres de l espee qu il tient
+folio108a
+S offre a desfendre et uient auant
+uers Meraugis qui dit itant
+Esta que ueus Ne t aprochier
+De moi Remonte en ton destrier
+Ie t en doing bonement congié.
+Et cil respont Mal aie gié
+Se ie remont quant ie sui ius
+Tant sui ie pris se ie sui sus.
+Cuides tu que por ce te faille
+Guerre - Nenil a la bataille
+Te rapel ia ne te faudrai.
+Ia a cheual ne t assaudrai
+Fet Meraugis honte en auroie
+A pié descent en mi la uoie
+Si s entreuienent par esforz.
+Li cheualiers qui mout fu forz
+L assaut et giete .I. coup dou plus
+Si grant qu au uenir de lasus
+Despiece et fent quan qu il consieut.
+Et Meraugis qui bien l ensieut
+Li uient encontre et se desfent
+Si bien qu il redespiece et fent
+Quan qu il consieut auant l espee.
+Page069
+Trop a duré ceste meslee.
+Damdeus uoire ce n auint mes.
+Li cheualiers mout fu engrés
+Et hardiz mes plus est encore
+Meraugis preuz et fiers aore.-
+Et il por quoi - Hardi le trueue
+Tant qu en la fin si bien se prueue
+Meraugis qu il l outre et conquiert.
+Li cheualiers uaincuz requiert
+Merci et Meraugis li prie
+Di moi auant que senefie
+Que tu n as frain n esperons Di
+Ce te couient ou ia d ici
+Ne partiras Et cil qui crient
+La mort respont Ce dont me uient
+uolentiers le uos conterai.
+Oëz por quoi iel uos dirai
+Li rois Patris de Cabrahan
+Tint - a Pasques aura .I. an -
+Cort si riche qu onques ne fu
+Plus riche et lors furent uenu
+Tuit li cheualier de la terre.
+Li rois les fist mander et querre
+folio108b
+Par toz les lieus mout en i uint.
+Des meillors cheualiers bien .XX.
+Ainz que la cort fust departie
+Page070
+L uns por l autre par aatie
+Firent ueuz. Oëz que uoerent
+Oianz les dames se uanterent
+De cheualeries si dist
+Guiurez qui le premier ueu fist
+Que de tot l an ne porteroit
+Hauberc ne heaume ainz iosteroit
+Toz desarmez fors de l escu.
+Li granz Riolenz qui la fu
+uoa que ia mes ne gerroit
+En couert deuant qu il auroit
+Ocis cheualier en bataille.
+Li Lez Hardiz de Cornoaille
+Fu a la cort cil se dona
+As dames et aprés uoa
+Que ia pucele de si loing
+Nel requerroit a son besoing
+Qu il n i alast sanz conseil prendre.
+Gaherïez lor fist entendre
+Que tot cel an cheuaucheroit
+Page071
+Einsi que ia n encontreroit
+Cheualier nul por qu il menast
+S amie qu il ne la besast
+En pes ou tant se combatroit
+A lui que li uns en seroit
+Si las qu il en auroit adés.
+Et li crueus Seguradés
+uoa que de tot l an entier
+Ne conquerroit il cheualier
+Par force qu il ne l oceïst.
+Que uos diroie Chascuns fist
+Son ueu et ie qui la estoie
+Me porpensai que ie feroie
+Tel ueu que nus n oseroit fere
+Autel lor dis ses fis toz tere
+Que de tot l an n auroie frain
+N esperon ne uerge en ma main
+Por ce que ia mes ne ferroie
+Mon cheual ne ne li toudroie
+Chemin por nul autre doner
+Mes tot cest an sanz demorer
+Iroie tant que troueroie
+Plus fort de moi. Que uos diroie
+folio108c
+Einsi ai tenu mon chemin
+Tant qu or sui uenuz a la fin
+Page072
+Ie ne puis dire ne sauoir
+Quel part i arriuerai le soir.
+Cil li respont qui a droiture
+Li dit Tu uas par auenture
+Plus que nus si n as pas enfret
+Ton ueu por ce que ie t ai fet
+Conoistre que ie sui plus preuz
+De toi. C est tot mes se tu ueus
+Merci auoir si te couient
+Aler la dont ma rote uient
+Tot cest haut bois quant tu uendras
+Outre cest bois tu troueras
+.II. dames en .I. paueillon
+Qui font dueil en la lor prison
+Te metras et diras por quoi
+Et les salue de par moi.
+Cil dist quant il ot escouté
+Coment Auez i uos esté
+Au tref - Oïl i i ai geü. -
+uos ne tochastes a l escu
+Qui pent - Si fis ie l abatié. -
+uoire mal auez esploitié -
+Et ie de quoi - uos nel sauez
+Li dëables est eschapez
+Qui deuant estoit en prison.
+Or est par mauuese ochoison
+Li païs tornez a hontage.
+Page073
+Ne comandez mes tel outrage
+Que i aille au tref pas n i iroie
+Por morir non ainz sofferroie
+Qu en me trenchast ceste main destre.
+Ci meïsme fet mauués estre
+A uostre oes. - A mon oes por quoi
+Or me couient sauoir par toi
+Cui est li escuz. - Iel uos die
+uolentiers - uos ne sauez mie
+La uerité - Ie la sai tote
+L Outredotez qui riens ne dote
+Et tant cheualiers a uaincuz
+L i fist pendre c est ses escuz.
+uoire si uos dirai por quoi
+L Outredotez dont ie uos doi
+Conter ce est li plus crueus
+Qui onques fust et si est teus
+folio108d
+D armes que nus ne l ose atendre.
+C est une merueille a entendre
+Que de ses fez Mes neporquant
+Sa proece et son hardement
+Or escoutez com il l emplie
+Se il sauoit n en dotez mie
+Bien loing .I. cheualier qui fust
+Si preuz que toz li monz seüst
+Sa proece ia mes n auroit
+Page074
+Ioie deuant que il l auroit
+Mort ou honi sanz ochoison.
+Il ne uoudroit mie reson
+Auoir en lui non ainz la het
+Si uraiement que quant il set
+Bataille a fere si enquiert
+Li queus a tort aprés requiert
+Le tort por fere la bataille. -
+Por quoi - Il ueut que li torz aille
+Deuant le droit par son outrage
+Et s il cuidoit auoir droit gage
+Ia mes a son ior ne uendroit
+Ainz ueut dou tot tuer le droit.
+uoire toz iorz mout par est torz
+Et si est droiz donc n est ce torz -
+Oïl ce n est reson ne droiz
+Qu uns hom puisse estre et torz et droiz.
+Si puet li menbre sont defors
+Droit mes li cuers li cloche el cors
+Qui li fet sa reson tortue
+Si torte que de son tort tue
+Le droit par tant di orendroit
+Que l oeure est torte en l ome droit.
+C est uoirs mes plus i a encore
+Page075
+Il est teus s il encontroit ore
+.I. cheualier qui conduisist
+S amie ainçois qu il li deïst
+.I. sol mot ia li corroit sore
+Et s il en uenoit au desore
+Il honiroit la damoisele
+uoiant lui ce n est pas nouele.
+Enfin trop est de males mors.
+Autant auint li dieus d amors
+Qui fet les durs cuers sosploiier
+Qu il li couint d amors proiier
+Une dame si la requist
+D amors et la dame li dist
+folio109a
+Enfin que ia ne l ameroit. -
+Por quoi - Por ce que il estoit
+Si maus et cil qui fu sospris
+De s amor qui tant en ot pris
+Proia et dist que il feroit
+Comandast quan qu ele uoudroit.
+Que uos diroie El creanta
+Son bon mes ainçois li iura
+Sor sainz que ia mes n ocirroit
+Home ne tort ne li feroit
+Deuant qu aucuns li forfeïst.-
+Et plus uout ele qu il feïst -
+Oïl ele le fist entrer
+En sa terre et aprés iurer
+Sor sainz que ia mes n en istroit
+Por riens se por uengier n estoit
+Page076
+Sa honte s en li auoit fete.
+L Outredotez qui n a soffrete
+Fors de mal fere cui li plest
+Des l ore fist en la forest
+Son escu pendre en mi la place
+Por ce qu il ueut qu en li mesface
+Lors il sera fors de prison.
+Estes uos que sa desreson
+Corra partot et ceste angoisse
+N est nus si hardiz qui conoisse
+Le roge escu au noir serpent
+Qui ost aprochier d un arpent
+Dou paueillon ne de l escu
+Sol dou ueoir sont tuit uaincu
+Li cheualier de ceste terre.
+Dit Meraugis Donc le uet querre
+Ce cuit une autre damoisele
+Que ie trouai c est la mains bele
+Des .III. si tenoit une lance
+En sa main. Quel senefiance
+Est ce Sez en tu dire rien -
+Oïl et si conois mout bien.
+Cele sanz faille li uet dire.
+Deus la het mout - Ci n a que dire
+En li - Ele ert la por guetier
+Page077
+L escu. N auoit autre escuiier
+Li cheualiers quant il errot
+Mes la lance auuec lui portot
+Trusqu a cele hore qu il lessa
+Son escu et por ce bailla
+Sa lance a cele qu il uousist
+Qu aucuns par force li tousist.
+folio109b
+Si refust fors par cest mesfet.
+Or est einsi cele s en uet
+La lance el poing qui li dira
+Et quant l Outredotez uendra
+Plus en sera qu onques ne fu
+Fel et crueus de ce ont eü
+Les dames dueil. - Por quoi le font -
+Sire por ce que eles sont
+Franches si heent le forfet.
+Autant com cele qui s en uet
+Het bien heent cestes l outrage.
+Ia por destorber cest domage
+Ont conuersé .I. an entier
+Et cele i ert por atisier
+Le mal que ia mes par son uueil
+Ne faudroit et celes ont dueil
+Por ce que uerront essillier
+A la uenue au cheualier
+Le païs. Sa grant desreson
+Metra auant et en prison
+Page078
+Reson. - Qui l a desresonee -
+Fortune qui li a donee
+La colee dont ele est morte.
+Or ueut chascuns clorre sa porte
+Ia contre lui n en istra nus
+La ou il uient. Il n i a plus
+Mes tuit dïent par uerité
+Fuiiez uez ci l Outredoté
+Or uos ai dit dou tot por quoi.
+Dit Meraugis Quant c est par moi
+Se ie cuidasse anuit trouer
+Le cheualier dou retorner
+Fust a certes li consaus pris.
+Mes i ai .I. autre afere empris
+Par quoi ie ne puis delaiier
+En cest païs por apaiier
+Les dames te couient aler
+Au tref. - N en fet mie a parler 
+Si fet. - Non fet pas n i iroie
+Tu si feras - Ie non feroie
+Por riens - Si feras par mes ieuz
+Ou ia morras Que te plest mieuz
+Morir ou fere mon message
+Cil qui dote por son domage
+Se lest uaintre et dit Par mon chief
+Sire bien uoi que cest meschief
+folio109c
+Me couient fere i i irai.
+Page079
+Mes de par cui quant ie uendrai
+Me rendrai ie Qui m a conquis -
+As dames de par Meraugis
+Te rendras pris come lor home.
+Et tu qui es - Lors se renome
+Li cheualiers et dit aprés
+I ai non Laquis de Lampagrés.
+Or n i a plus. uos comandez
+uostre bon. Se uos lor mandez
+Folie ou sens ie lor dirai
+Sans dote ia n en mentirai.
+Et se uos lor mandez sorfet
+La honte se l en la me fet
+En sera uostre et li maus miens.
+ua toz seürs ne dote riens
+Por quoi ie puisse cheuauchier
+Se tu trueues le cheualier
+Retorne a moi tot erraument.
+Et s il n i est tant l i atent
+Qu il uiegne. Por Deu si conforte
+Les dames et honor lor porte.
+Se tu le fes bien t en uendra.
+Et quant li cheualiers uendra
+Ia mar a lui te mesleras -
+Que ferai donc - Tu li diras
+Mon non et di que ie li mant
+Que por ce que ie ne demant
+De lui se la meslee non
+Por mal et por honir son non
+Page080
+Getai son escu a la terre.
+Et s il en ueut ueniance querre
+Sel ramaine tot erraument.
+Ce dit Laquis Et ie coment
+uos alez la c est uostre uoie
+Et ie uois ça ie ne sauroie
+Ou uos querre. - Tu si sauras -
+Et ie coment - Tu me siuras
+Trestotes les uoies a destre
+Ia ne torneras a senestre
+Por nul besoing deuant mardi.
+Bien m en pues croire quant iel di.
+Si faz ie sire. A tant s en part
+Laquis Meraugis d autre part
+Reprent a destre son chemin.
+Or quiert l esplumeor Merlin.
+folio109d
+Et Laquis uient au paueillon.
+As .II. dames come prison
+Se rent et dit eneslepas
+De par cui encor n estoit pas
+L Outredotez qui riens ne dote
+uenuz. Et quant Laquis ot tote
+Sa reson dite si descent
+As dames dit que il atent
+L Outredoté et atendra
+Tant qu il uiegne lors li dira
+Tot plainement ce qu il a quis.
+Celes qui conurent Laquis
+Et qui pas ne uuelent sa honte
+Li prïent Beaus amis remonte
+Page081
+Si t en ua Nos sauon de uoir
+Se l Outredotez puet auoir
+De toi bataille il t ocirra.
+Laquis qui pas ne se moura
+Por riens qui li doie auenir
+Seiorne tant qu il uoit uenir
+L Outredoté. - Coment uient il -
+Il uient aïrez come cil
+Qui semble qu il doie le mont
+Confondre. Si com la noif font
+Tot deuant lui de son aïr
+Einsi s angoisse de uenir
+Au paueillon. Quant il fu pres
+Si uit Laquis de Lampagrés.
+Ses uoisins ert bien le conut.
+D un oeil esgarde aprés corut
+Tot droit au fresne et quant il uoit
+Son escu qui la ius gisoit
+Sel prent et dit quant il l ot pris
+Coment dëable est ce Laquis
+Qui uint ça mon escu abatre -
+Nenil. - Si es uien toi combatre
+Nus escondiz ne t i uaut rien
+Laquis respont Ce ni ie bien
+Que ie nel fis ainz l abati
+Uns a cui ie me combati
+Qui m a conquis. Tot li aconte
+Page082
+Le uoir et plus li met el conte
+Que Meraugis ne li conta.
+L Outredotez qui escouta
+L orgueil que Meraugis li mande
+S estent d orgueil et si demande
+folio110a
+Quel part uet il - Iel uos dirai.
+Donc sera ce quant ie t aurai
+Conquis par force. ua monter
+Il te couient a moi ioster.
+Auoi dit Laquis non ferai
+Ie me rent pris et uos menrai
+Aprés lui. - Ia ne m i menras
+Ne uoie ne m i nomeras
+Deuant que ie sache sanz faille
+Li queus est plus forz en bataille
+De nos si te dirai por quoi
+Que se tu es plus forz de moi
+Ne sai por quoi i alasse querre
+Plus fort se ie te puis conquerre
+Ne te faing pas itant te menbre
+C est sanz merci tu perdras menbre.
+Laquis respont Ie desfendrai
+Mes menbres tant com ie porrai.
+Qu en diroie C est la parclose
+Ceste bataille est nule chose
+Qu en petit d ore fu uaincue.
+L Outredotez qui toz les tue
+Le uaint par force et l a conquis.
+Et les .II. dames por Laquis
+Crïent merci mes c est noienz
+Page083
+Qu onques merci n entra laienz.-
+Ou - En son cuer que Deus maudie
+Por ce qu il ueut que Laquis die
+De Meraugis qu il en a fet
+Le fiert et dit Quel part s en uet
+Nome la uoie - Sire a destre.
+Et il le prent deuers senestre
+Si li fet .I. des ieuz uoler
+Et dit que c est por assener
+A la uoie qu il ne l oblit.
+Mout l a blecié aprés li dit
+Laquis ia plus ne te ferai
+Mal deuant la lors t ocirrai
+Que i aurai Meraugis uaincu.
+Et i auroie mout bel uescu
+Se ie auoie de uos .II.
+La bataille. Ia mes li deus
+Que i ai el cuer ne s en istra
+Deuant que cele hore uendra
+Que me soie de lui uengié.
+Deuant que l aie detrenchié
+folio110b
+N as tu garde met t a la uoie
+Lors s en uet. Einsi le conuoie
+Laquis quil maine aprés son mestre.
+Les dames qui ne uoudrent estre
+El paueillon plus longuement
+S en uont et plorent tendrement
+Por Laquis. Or s en uont einsi
+Celes qui ont oï le cri.
+Page084
+Laquis maine l Outredoté
+Grant oirre et mout se sont hasté
+Por le cheualier aconsiure.
+Einsi se hastent de lui siure
+Et Meraugis qui fu deuant
+S en uet le pas et oirre tant
+Par mi la forest totes uoies
+Qu au quarrefor de .IIII. uoies
+Est arriuez. Quant il uint la
+Sa uoie esgarda si pensa
+A Laquis qu il ot enuoiié
+Au tref et tant a delaiié
+Que li termes est trespassez
+Dou mardi qui li fu nomez
+Si outre que iuesdis estoit
+Et dit por ce qu il ne uenoit
+Que bien pooit sanz lui mesfere
+La uoie qui li porroit plere
+Aler. Aprés dit non fera
+Mes por mieuz fere s i tendra
+Cel ior s il nel let por besoing.
+A tant s en uet ne fu pas loing
+Quant dou bois li ist au trauers
+Li nains camus li goz despers.
+Mot ne li dit ainz a leué
+Un baston dont il a doné
+Au bon destrier desus la teste
+Hauce et refiert et cil s arreste
+Qui li crie Nains fui de ci
+Page085
+Poi s en faut que ie ne t oci
+Tu m ocirroies fet li nains
+D angoisse tremble et tent les mains
+Ses ioint et dit Pren le meillor
+uez ci la honte et ci l onor
+Que ie te doi por le changier.
+C est la promesse d auant hier
+Que ie te fis. Quel la feras
+Fui nains ia ne m i changeras
+folio110c
+Noient ne riens ne te demant.
+ua as dëables te comant
+Que ueus - Ie uueil que tu retornes.
+Se tu uas la ou tu t atornes
+A aler tu i auras honte.
+Coment - Ie te rendrai bien conte.
+Retorne arriere eneslepas
+Que se tu uas auant .I. pas
+Tu es honiz. Por sol itant
+Que tu es uenuz si auant
+Te melle ia la honte as ieuz.
+Li cheualiers qui aime mieuz
+Honor que honte s il pooit
+S arreste et dit que il iroit
+La ou li nains uoloit aler
+Di nains ou me ueus tu mener
+Ou est l onor - Ie t i menrai.
+Maine m i donc si la uerrai.
+uolentiers sire. - A tant s en uont
+Arriere au quarrefor et sont
+Page086
+Par une autre uoie torné.
+Deus com li nains l a retorné
+De grant honte - Coment - S il fust
+Auant alez la nuit geüst
+Sanz retorner dedenz l essart
+Ou li hardi sont plus coart
+Que lieure et li coart hardi
+Plus que lion. Bien est einsi
+Quant il s en uont autre chemin.
+Mout ont erré et en la fin
+Quant il furent dou bois issu
+Si ont de l autre part ueü
+Un chastel ioste une riuiere
+Trop haut ne sai de quel maniere
+Il fu assis sor une roche
+Mes a tant en tailliez la broche
+C est li plus beaus dou mont a chois.
+Entre le chastel et le bois
+uirent en mi la praerie
+La plus bele cheualerie
+Qui onques mes fust assemblee.
+Tote sa gent i ot mandee
+Li rois Amangons qui tenoit
+Cort si riche com il deuoit
+Tenir au premier ior de l an.
+Ausi com il firent antan
+folio110d
+Estoient la por bohorder
+uenu. Li rois i fist porter
+Son tref deuant le tref auoit
+Page087
+Une quintaine. La estoit
+Tote la ioie et tot ce uit
+Meraugis qui au nain a dit
+Queus gent sont ce - Sire par foi
+Ce est l onor que ie uos doi
+Changier por honte. Ia l aurez
+Si grant que toz iorz en serez
+Honorez. Or dou cheuauchier
+Einsi s en uont a l aprochier.
+Deuant le tref ont coneü
+Le roi et la reïne i fu
+Ioste le roi sor .I. perron.
+La furent tuit li haut baron
+Assemblé s en i ot d armez
+Bien .XXX. a tant les a esmez
+Li cheualiers ne mie a mains.
+A pié les espees es mains
+S estont li .XXX. cheualier.
+Un en i ot sor .I. destrier
+Armé uoire si a porfil
+De totes armes come cil
+Ou riens ne faut ainz fet semblant
+Que de ioster ait bon talant.
+Cil s aprochent. Quant Meraugis
+Fu pres dou roi li nains l a pris
+Par la resne sel maine auant
+Deuant le roi lors dit itant
+Que tuit l oïrent li baron
+Sire uez ci mon champïon.
+Page088
+Fetes moi droit - Nains uolentiers.
+D entre les .XXX. cheualiers
+A cez paroles est issuz
+Cil a cheual et est uenuz
+Deuant le roi bien fu armez.
+Nains fet li rois cist est montez
+Toz prez come de soi desfendre.
+Que ueus - Ia n en quier conseil prendre
+Fet li nains metez les ensemble
+Car mes champïons ce me semble
+N en feroit concorde ne plet.
+Ce dit li rois Puis qu einsi uet
+Que tu es sanz misericorde
+Ne cil ne ueut pes ne concorde
+folio111a
+Aillent ensemble il n i a plus.
+A cez paroles se trest sus
+Li cheualiers qui por ioster
+A pris l escu. De l encontrer
+S acesme. Quant Meraugis uoit
+Que par force li couenoit
+La bataille deduire as cous
+Si pense et dit Or sui ie fous
+uoire li nains m i tient sanz faille 
+Quant il por uaintre sa bataille
+M a presenté deuant cest roi.
+Si ne sai a cui ne por quoi
+Non mes itant sai ie por uoir
+Se ie ne uueil plus honte auoir
+Page089
+Qu onor combatre me couient.
+Lors dit au nain qui uers lui uient
+Est ce ce que tu m as promis
+Li nains respont Sor uos l ai mis.
+N aiiez dote ia n en ferai
+Pes ne concorde se ie n ai
+Ma querele et uostre honor quite.
+Oëz quel traïson a dite
+Li nains que quant on li oppose
+D un il respont d une autre chose
+Et toz iorz dit Mes champïons
+Qui est plus hardiz qu uns lïons
+M a dit que ia pes n en fera.
+Meraugis l ot qui pas n osa
+Dire Tu menz S il desdeïst
+Son mestre assez fust qui deïst
+Cist est uaincuz tot en estant
+Por ce se test mes il est tant
+uers lui iriez que plus ne puet
+Grant chose a en fere l estuet.
+Por ce que fere li couient
+Meraugis point et cil li uient
+Por encontrer. Estes les uos
+Ensemble si que li retros
+Des lances uolent uers les nues.
+Au chaple des espees nues
+S entreuienent sanz menacier
+Si qu il font les heaumes d acier
+Fendre et par force estenceler.
+Proece ne se puet celer.
+Page090
+[Se li cheualiers ert hardiz
+A .C. dobles l ert Meraugis.]
+folio111b
+Mout se merueillent li baron
+Ou li nains prist tel champïon.
+En la fin qu en diroie plus
+Li champïons au nain camus
+A par force l autre uaincu
+Contre terre sor son escu
+Le tint a la teste couper.
+Sire eles sont a marïer
+Fet cil qui plus ne se desfent.
+Et Meraugis qui pas n entent
+Qu il ueut dire ia l oceïst
+Sanz respit quant li rois li dist
+Lessiez assez en auez fet
+L onor est uostre il la uos let
+Puis qu a force l auez conquis.
+Tenez mon gant ie uos sesis
+De l onor et des damoiseles.
+.C. en i a et plus de beles
+Qui sont a uos a marïer.
+Meraugis ot le roi parler
+Si se merueille et dit au roi
+uos me donez si ne sai quoi
+Ne sai se c est preuz ou domages
+Mes que i i entent mariages
+De dames dont ie ne sai rien.
+Page091
+Ce dit li rois uos sauez bien
+Coment la feste est establie.
+Dit Meraugis Ie nel sai mie
+Mes s il uos plest iel uueil sauoir.
+Li rois respont Sanz deceuoir
+uos en dirai la uerité
+Il a toz iorz costume esté
+En cest roiaume qu a cest ior
+Couient que tuit mi uauassor
+Et mi baron ou que il soient
+S il ont filles qu il les enuoient
+A ceste feste chascun an.
+Einsi com eles sont oan
+Couendra qu ancoan i soient
+Totes. - Por quoi les i enuoient
+Lor pere chascun an einsi -
+Por ce que quant eles sont ci
+Et tuit li cheualier i sont
+Assemblé d aual et d amont
+Si com uos ueez a uoz ieuz
+Cil que l en uoit qui ioste mieuz
+folio111c
+Et qui puet sor toz desresnier
+Qu il n i ait meillor cheualier
+Si conquiert si grant digneté
+Que dou tot a sa uolenté
+A les dames a marïer
+Qu a son uoloir les puet doner
+As cheualiers et departir.
+Mes s il ueut par reson partir
+Qu il ne li tort a uilainie
+Page092
+Au doner ne li couient mie
+Qu il les abest ne desparage.
+S einsi les depart sanz outrage
+L en li atorne a cortoisie
+Et s einsi est qu il n ait amie
+Il choisist cele que il ueut.
+Einsi le faz einsi le seut
+Mes pere fere com deuis.
+C est l onor dont ie uos sesis
+Deuant toz car reson le prueue.
+Ne cuit qu encontre uos se mueue
+Nus cheualiers que ie conoisse
+Contre cestui por nule angoisse
+Se uos ne fussiez ça uenuz
+Ne s en fust cheualiers meüz
+Qui por ioster s osast eslire.
+Antan ot il sanz contredire
+L onor qu onques coup n i feri.
+Einsi auint. Or est einsi
+Que uos auez l onor conquise.
+Meraugis qui a l onor prise
+Et receüe par son gant
+Mercie le roi mes itant
+Li dit Sire ia ne lerai
+Le cheualier ainz l ocirrai
+Se li nains n a quan qu il demande
+Que que ce soit li rois comande
+[Que il ait sa uolonté tote
+Page093
+Se ce n est chose trop estote.]
+Il uient et dit sanz demorer
+Sire a uos est de moi doner
+Ma ioie. I ai tot mon creant
+De celui que uoi recreant
+Qui estoit sires a un mot
+Sor toz et tant se sorcuidot
+Par sa force qu il prometoit
+Deuant la feste et departoit
+folio111d
+Les dames a sa uolenté.
+A la Pentecoste en esté
+Tint cist rois cort et il i uint.
+Aprés mangier en promist .XX.
+Des plus beles totes a chois.
+Et ie qui en maint bon lieu uois
+uing deuant lui tot asseür.
+Ilueques par son maleür
+Li demandai une pucele
+Mes c ert la sole damoisele
+Qu en cest roiaume n a sa per.
+Nus ne la uousist demander
+Fors moi si uos dirai por quoi
+Ele est plus camuse de moi
+Et plus corte si est boçue.
+Ausi come fous et maçue
+Doiuent toz iorz aler ensemble
+Deuon nos nos .II. ce me semble
+Page094
+Par droit l uns l autre chalengier.
+Ie demandai au cheualier
+Qu il me donast et il me dist
+Fui goz de ci Qu il m escondist
+Me corroçai eneslepas
+Respondi qu encor n estoit pas
+Li dons a lui si quitement
+Et qu il fesoit liez de noient
+Ceus a cui il les prometoit.
+Et cil qui orgueilleus estoit
+Se corroça et uint uers moi
+Onques nel lessa por le roi
+Ainz me feri en plaine cort
+D un de ses doiz sor mon nes cort.
+Mout m en pesa que par despit
+Le fist ilueques sanz respit
+Dis et offri a desresnier
+Qu onques par main de cheualier
+Ne fui feruz ainz dis einsi
+Qu il en auoit son pris honi
+Si ledement qu il en estoit
+Einsi honiz qu il ne deuoit
+Dame doner de cele main
+Et tant qu au roi a l endemain
+Donai mon gage de trouer
+Un cheualier por lui prouer
+En sa cort qu il ne deuoit estre
+Droiz cheualiers de sa main destre.
+Page095
+folio112a
+Or est einsi dou cheualier
+Que uos l auez fet esclenchier
+Et puis que uos conquis l auez
+En uos est que uos me poez
+Doner la riens que ie plus uueil.
+Ceste demande est sanz orgueil
+Que s ele est gentiz de lignage.
+Ie sui assez de haut parage
+Mes pere fu parenz le roi.
+Nains ie n ai pas honte de toi
+Ce dit li rois qui s en sozrit
+Nains il est bien uoirs que l en dit
+N est si hauz bois qui n ait brocille.
+Sire car li donez la fille
+La riens el mont qui plus li semble.
+Ne sai s il furent né ensemble
+Chascuns est si camus naïs
+Qu il s entresemblent de laïs.
+Meraugis respont erraument
+Sire a uostre comandement
+Me plest qu il soit et si uos pri
+Des autres la uostre merci.
+Marïez les a ceste foiz
+Et ancoan de fi sachoiz
+Se ie sui uis ie reuendrai
+A cest ior et seiornerai
+Page096
+S auient que l onor me remaigne.
+Par uostre los que n i mespreigne
+Les donrai totes de ma main
+Car en cest point iusqu a demain
+Ne remaindroie por proiiere.
+Puis que uos en nule maniere
+Fet li rois ne remaindrïez
+Et que uos plus n en ferïez
+Or nos aprenez uostre non
+Et ie uos acreant le don
+Que ies donrai a ceste foiz
+Por uos mes que uos creantoiz
+Le reuenir certainement.
+De ce parlez uos por noient
+Sire I ai a non Meraugis
+De Portlesguez. Se ie sui uis
+D ui en .I. an ie serai ci.
+Lors a li rois le nain sesi
+De s amie puis prent congié
+Meraugis lors l ont conuoiié
+folio112b
+Li cheualier a grant deduit.
+Onques tel ioie ne tel bruit
+Ne ueïstes a nule feste
+Com aprés lui tant qu il s arreste
+A l entree d une forest
+Et dit au roi que se li plest
+Qu il s en retort et il si fist
+Et Meraugis son chemin prist.
+Page097
+Li Outredotez et Laquis
+Qui ont toz iorz Meraugis quis
+Ont tant erré qu il sont uenu
+As .IIII. uoies la ou fu
+Meraugis que li nains troua
+Et tant li dist qu il retorna
+Einsi com uos l auez oï.
+lluec se tint por esbahi
+Laquis quant il uoit tant chemin
+Et dit Sire ce est la fin
+Ie ne uos sai auant mener
+De ci ne ne sai assener
+Au quel chemin nos nos tendron
+Que Meraugis que nos queron
+Me dist se trouer le uousisse
+Que la destre uoie tenisse
+Sanz desuoiier iusqu a mardi.
+Li iorz est passez et uez ci
+.IIII. uoies. Ie n en sai plus
+Mes tornez ou aual ou sus
+Ou cele estroite ou cele grant
+Que la ou uos irez auant
+I irai aprés Lors s en torna
+L Outredotez qui regarda
+Et dist Laquis est il einsi
+Page098
+Que tu ne sez auant de ci
+De Meraugis ne uent ne uoie -
+Oïl. - Laquis s or t ocioie
+De m espee i auroie droit.
+Mes por tant le les orendroit
+Que ie uueil que Meraugis uoie
+Sa honte. Or t en ua cele uoie
+Einsi me plest. Sez tu por quoi
+Se tu le trueues ainz de moi
+Di que iel quier et si li conte
+Qu en son despit t ai fet la honte
+Por lui honir et neporquant
+Au departir me di itant
+folio112c
+Quel escu porte Meraugis
+Que par l escu en toz païs
+Le uueil conoistre se iel truis.
+Sire fet Laquis bien uos puis
+L escu deuiser. Lors li dit
+De l escu selonc ce qu il uit
+Com il ert fez. A tant s en uont
+Chascuns s en part. Einsi le font
+Qu il ne s entresont comandé
+A Deu. Tant a Laquis erré
+Que au matin pres d une broche
+Deuant les plains de la Bacloche
+A Meraugis aconseü.
+Lidoine l a aperceü
+Page099
+Auant sel mostre a Meraugis.
+Cil qui se torne uers Laquis
+L esgarde et choisist par deuant
+Qu il uet d un oeil l autre plorant.
+Mout l en pesa par uerité
+Bien sot qu ot fet l Outredoté
+Encontre uint sel salua.
+Totes uoies li demanda
+Qu est ce Laquis Qui t a ce fet
+Et cil li respont entreset
+Sire uos de uos me plaing gié
+Que por uos m a l en domagié.
+uos m enuoiastes maugré mien
+Au tref dont ie sauoie bien
+Que ia entiers n en reuendroie.
+Or est einsi que ie uoudroie
+Morir ou erragier mon uueil.
+Or a Meraugis honte et dueil
+uoire si grant que il ne set
+Que dire ainz se maudit et het
+Et dit Laquis bien sai et uoi
+Que tu es maubailliz por moi.
+Ce t ai ie fet que t en diroie
+Por ce que la honte en est moie
+Sez tu que prometre te uueil
+Ie ne te puis rendre ton oeil
+Page100
+Neïs por toi doner le mien.
+Mes se tu sez ou il est uien
+Si m i maine. Ie te creant
+Que se iel truis tot maintenant
+Te rendrai - ou il m ocirra -
+La main dont il le te creua.
+folio112d
+Ha dit Laquis en sospirant
+Se ie ia mes uiuoie tant
+Que ie ueïsse cors a cors
+uos .II. ensemble en .I. champ fors
+Combatre a l espee d acier
+Tant que fust as testes trenchier
+Onques de riens si liez ne fui
+Car ie he uos et si he lui.
+Mes ce n iert ia car iel lessai
+Hui a .III. iorz mes ie ne sai
+Ou il ala ne qu il deuint.
+Mes par la uoie que il tint
+Ne uint il pas en ceste terre.
+.C. dëable le puissent querre
+Ie ne puis plus aler aprés
+Ainçois m en uois a Lampagrés
+Por seiorner malades sui.
+Dit Meraugis Onques ne fui
+Plus dolanz que ie sui de toi
+Mes ie te iur tien en ma foi
+Que ia mes ne retornerai
+Page101
+En mon païs ainçois t aurai
+De l Outredoté si uengié
+Qu il en aura le poing trenchié.
+Or n i a plus Laquis s en uet
+Dolanz dou grant dueil que il fet
+Plore Lidoine tendrement.
+Cui chaut - Plorer n i uaut noient.
+Meraugis oirre qui uet querre
+L esplumeor en mainte terre
+L a demandé tant qu au matin
+Ioste la mer pres d un chemin
+uit .I. roche mout grifaigne.
+La roche ert loing en la montaigne
+Mout haute tote d une pierre
+En toz tens uerz qu ele estoit d ierre
+Bordee entor a la reonde.
+Desus cele roche reonde
+Qui ert la plus haute dou mont
+uit Meraugis lasus amont
+Bien iusqu a .XII. damoiseles.
+Iluec se sieent les puceles
+En .I. praiel soz .I. lorier.
+En toz tens seruent de pledier.-
+De quoi De ce qui a esté-
+Page102
+Non pas ia n en sera parlé
+Par eles ne ia n auront pes
+Ainz i tienent toz tens lor plez
+folio113a
+De ce qui est a auenir.
+Et cil qui pensa dou uenir
+Est acoruz plus que le pas
+Desoz la roche eneslepas
+Ala entor mes il n i uoit
+Par ou monter qu il n i auoit
+Huis ne fenestre ne degré.
+Ne sai se Deus la fist de gré.
+Mout estoit haute et de beau tor.
+Et Meraugis ala entor
+Trois tors ou plus et lors cria
+Dames par ou irai ie la
+Une des dames respont lués
+Beaus sire il n i a a uostre oés
+Par ou monter mes dites nos
+Que uos uolez. - Ie uueil a uos
+Parler .I. poi. - Dites nos donques
+Que uos uolez. - Ce n auint onques
+Que ie de ci fet Meraugis
+Die oianz toz que i ai ci quis
+Page103
+Mes fetes moi lasus monter.
+Cele cui anuie a parler
+Se uet seoir sel let debatre.
+Et cil cria .III. foiz ou .IIII.
+Ainçois que nule li uousist
+Respondre tant qu une autre dist
+.II. foiz ou .III. au cheualier
+D iluec uos couient conseillier
+Que ça en haut ne monte nus.
+Et Meraugis qui ne puet plus
+Prendre li crie Dites moi
+De Gauuain le neueu le roi
+Sauez en uos nules noueles
+Lors dit la dame des puceles
+Diua cheualiers anuieus
+ua t en se tu croire me ueus
+La uoie a destre contremont.
+Outre cest bois au pié dou mont
+Troueras ia une chapele
+Et une croiz onques plus bele
+Ne fu. Quant a la croiz uendras
+A la croiz te conseilleras.
+Et cil respont et dit itant
+Quant uos de ce que ie demant
+Noueles dites ne m auez
+Or me dites se uos sauez
+folio113b
+Par ou i irai plus droit chemin
+Page104
+Querre l esplumeor Merlin.
+Ia en orrai parler ce croi.
+Cele respont Esgarde moi
+uez ci l esplumeor i i sui.
+Assez porras muser mes hui
+Que ia plus riens ne t en diron
+Ne ce ne quoi ne o ne non.
+Et cil qui ne se ioë mie
+Lieue la teste si lor crie
+Coment pucele est ce gabois
+Li nains me dist pres a d un mois
+Se ia mes trouer le deuoie
+Nul ior que parler en orroie
+Ici a cest esplumeor
+Si i muserai tote ior
+Ce m est auis par ça defors.
+Par saint Denise se mes cors
+Peüst par force aler lasus
+Ie cuit que i en seüsse plus.
+Cele respont come sorfete
+Bien fust ele si haute fete
+La roche quant uos n i poez
+Monter par force or i iupez
+Page105
+Tant qu il m anuit. Lors s est assise.
+Meraugis a sa uoie prise
+Si corrociez com il estoit
+Et cheuauche tant que il uoit
+La chapele et la croiz deuant
+Mes onques riens nee uiuant
+Ne uit entor la croiz de marbre.
+El planistre soz .I. haut arbre
+Descent en la chapele entra
+Par tot cerche mes n i troua
+Creature lors s en reuient
+Et dit Or sai por fol me tient
+Cele qui ci m a fet uenir.
+He Deus que porrai deuenir
+Ie uoi la croiz et que ferai
+Qui me conseillera - Ne sai.
+Einsi s en uet cil dementant.
+Et s amie qui fu deuant
+La croiz esgarde contremont.
+En .I. braz de la croiz amont
+A unes letres d or ueües.
+Aprés quant el les ot leües
+folio113c
+S esfroie et dit a haute uoiz
+Sire en cest braz de cele croiz
+A unes letres d or uermeilles
+Mes les letres dïent merueilles.
+Page106
+Et cil qui bien lire sauoit
+Regarda en la croiz et uoit
+Les letres qui dïent itant
+Cheualiers tu qui uas querant
+Conseil se trouer le pooies
+.I. gieu te part. uez ci .III. uoies
+Ceste premiere uoie ci
+A non la uoie sanz merci
+Et bien saches se tu i uas
+Que ia merci ne troueras.
+Et se tu ueus merci auoir
+De rien itant saches de uoir
+Que c est noienz dou retorner.
+Por ce se tu ueus la torner
+Et tu ia mes ueus reperier
+Ci te couient merci lessier.-
+Et la seconde com a non-
+C est la uoie contre reson.-
+Por quoi - C est legier a prouer
+Contre reson t estuet ourer
+Par tot se tu uas cele uoie.
+Ia nus qui cele part s auoie
+Ne trouera en nule place
+Home ne qui reson li face.
+Et la tierce qui torne a destre
+Est sanz non et bien le doit estre.-
+Por quoi sanz non - Ie n en sai plus
+Fors tant qu onques n en reuint nus
+Page107
+Par ci qui la se uousist trere.
+Et por ce que nus n en repere
+Ne puis ie sauoir ou il uont
+Ne qu il deuienent ne s il sont
+Reperié par aillors ou non.
+Et por c est la uoie sanz non.
+Or pues choisir et si iras
+La quel des .III. que tu uoudras.
+Aprés ice dit Meraugis
+De cest conseil que i ai apris
+Ne me sai ie mieuz conseillier
+Non ainz me puis plus merueillier
+De ce que i oi que d autre chose.
+Qu en diroie A la parclose
+folio113d
+Choisir m estuet ce couient mon.
+Dame fet il quel la feron -
+Ne sai - Coment Si ne sauez -
+Ie non fet ele mes alez
+Ou que ce soit ie uos siurai.
+Il li respont Dame i irai
+Cele sanz non einsi me plest
+En cez .II. autres me desplest
+Contre reson et sanz merci.
+Ce m aprent a mouoir d ici
+Que cele part n a point de bien.
+Mes cele autre ne me dit rien
+Page108
+Se i irai bone uoie ou non
+Encontre ce me dit reson
+Que i aille plus seürement
+Ie ne sai ou que malement
+Sui ie dou tot asseürez.
+Alon fet cil fet cele Alez
+Lors n i a plus a tant s en uont
+La uoie sanz non et tant ont
+Cheuauchié qu il ont trespassee
+La forest ioste une ramee
+S en issirent fors en la plaigne.
+Auant desoz une montaigne
+Ont la cité sanz non ueüe
+Qui puis fu la cité perdue
+A es son oes car il la quist
+Aprés et en grant fes s en mist
+De trouer la nel troua pas.
+Einsi li cheualiers le pas
+uet cheuauchant uers la cité.
+Onques nule de sa beauté
+Ne uit trop ert bele a deuise.
+Bien estoit por la mer assise
+Deuant li batoit grant nauire
+Beau haure i a n i ot que dire.
+Enfin de grant richece estoit.
+Einsi li cheualiers uenoit
+Page109
+Qui encontre .II. damoiseles
+Un nain deuant. S eles sont beles
+Ce ne fet pas a demander.
+Deuant font a lor nain porter
+.I. fuiret et .IIII. roiseus.
+Li cheualiers uint uers les .II.
+Puceles ses a saluees.
+uos auez les bornes passees
+folio114a
+Font eles si ne dïent plus
+Fors en alant dïent mar fus
+Si haut que bien les entendi.
+Li cheualiers plus n atendi
+Ainçois s en uet grant aleüre
+Tant qu un garçon par auenture
+A encontré si le salue.
+Li garçons qui pas nel salue
+S arreste mes ce fu petit.
+Autant com celes li ont dit
+Li dit onques plus n en porta.
+Li cheualiers qui s arresta
+S esmerueille et lors dit s amie
+Cez genz ne m asseürent mie. -
+De quoi fet il. - Sire ne sai
+Fors sol itant que paor ai
+Si grant qu onques mes n oi greignor. -
+Et uos de quoi N aiiez paor
+Page110
+De riens Bien sachiez sanz dotance
+Se ie ne pert par mescheance
+Ia por paor riens ne perdron.
+Soiiez tote seüre alon
+Si sui ie. Einsi en parlant
+S en uont et si aprochent tant
+De la cité que cil d amont
+- Li cheualier qui dedenz sont -
+Les aperçurent. - Et que firent -
+Quoi Ausi tost com il les uirent
+Il cornerent el chastel prise.
+Lors se la cité fust esprise
+N i eüst pas greignor tumoute
+Et li cheualiers qui escoute
+La tumoute - qu il ot corner
+Prise et einsi la font aler
+Com s il eüssent le port pris -
+N ot pas en sa contree apris
+Qu en cornast prise sanz riens prendre.
+De ce fet il ne sai aprendre
+Que ce puet estre - Sire non
+Fet Lidoine nos ne sauon
+Que ce sera. - Soit qu estre ueut
+Page111
+Assez cornent ce que me deut
+Fet li cheualiers nule chose
+De la cité qui bien fu close
+uoient par mi la porte issir
+La gent et la terre courir
+folio114b
+Dou pueple qui fors s en issoit.
+N i remaint dame qui n i soit
+uenue et totes uont chantant.
+Les puceles dont i ot tant
+uienent chantant et font caroles
+Si granz qu onques as maieroles
+Ne ueïstes greignors deuant
+uienent li cheualier corant
+Sor les cheuaus isneaus et forz.
+De lor cheuaus n est il pas torz
+S il estoient plus bel que pro
+Car ne uont pas souent en fro.
+Einsi uienent. Quant Meraugis
+Les uoit si dit Or m est auis
+Que cist uienent encontre nos.
+Beaus sire encor ne sauez uos
+Que ce sera - Dame ie non
+Mes en ioie n a se bien non.
+Et por itant mieuz me plest ore
+Page112
+Qu orainz si fera il encore
+Que ie n aim riens tant come ioie
+Deus nos en doint ioïr que i oie
+Por quoi il sont si esioï
+Fet cele qui pas n en ioï.-
+Ioï - Non uoir ainz en ot ire.
+Lors encontrerent sanz plus dire
+Ceus qui uindrent sor les cheuaus.
+Meliadus li seneschaus
+Salue Meraugis auant.
+Lors li uienent tuit au deuant
+Et tuit le saluent ensemble
+Et il eus et a eus s assemble.
+Einsi se metent el retor
+Et li pueples li uient entor
+Qui l esgardent com a merueille.
+Se cist parole cist conseille
+A cel autre et cil le regarde
+Mes Meraugis ne se prent garde
+De quan qu il dïent fors itant
+Entent par hores en alant
+Qu il conseilloient dui et dui
+Cist n est mie mains granz de lui.
+Itant entent et noient plus.
+Meraugis et Meliadus
+Li seneschaus de la cité
+Page113
+Cheuauchent tant qu il sont entré
+folio114c
+Dedenz la uile a tant s en uont
+Droit a la mer et tant qu il sont
+Sor la marine descendu.
+Adonc n i ot plus atendu
+Il trouerent la nef au port.
+Meliadus dit cest recort
+A Meraugis Beaus sire entrez
+En ceste nef et si passez
+En cele isle. - Ie non ferai. -
+Por quoi - Par foi ie ne uoudrai. -
+Si ferez - Non ferai par foi -
+Si passerez - Et ie por quoi -
+Por ce que fere le couient.
+C est costume que nus ne uient
+Par ci que passer n i couiegne.
+Dit Meraugis Se biens me uiegne 
+Ceste costume uueil oster.
+Ainz uos i couient a passer
+Par force. Lors dit Meraugis
+Traiiez uos sus Sui ie donc pris
+L espee tret et dit Sachiez
+Ia i auroit menbres trenchiez
+S uns s en mouoit Soiiez tuit coi
+Se ie ne sai ainçois por quoi
+Ia por nului n i passerai.
+Page114
+Ferez - Ie non - Ie uos dirai.
+uos ueez bien cele tor la
+En mi cele isle dedenz a
+Un hardi cheualier o lui
+Une dame a einsi sont dui
+.II. puceles et .I. seriant
+I a por eus seruir itant
+Sont en l isle n en i a plus.
+Se uos poez fere conclus
+Le cheualier qui uos atent
+Itant sachiez certainement
+La dame et li chasteaus iert uostre
+Et s il uos uaint uos serez nostre
+A fere quan que nos plera.
+Cez dames qui nos sieuent la
+Ne chantent ce sachiez sanz faille
+Fors por ioie de la bataille
+Dont sont liees et desirant.
+Et cil qui riens ne uet querant
+Se iostes et meslees non
+Dit el refret de la chançon
+folio114d
+Or dou chanter totes et tuit
+C est li refrez s il ne s en fuit
+La ioste aura certainement.
+Lors chantent destraueement
+Page115
+Et gros et gresle et bas et haut
+De ioie qui pas ne lor faut.
+Meraugis a cui mout plesoit
+La bataille regarde et uoit
+Que li cheualiers de la tor
+Estoit issuz a riche ator
+En l isle et par cele isle ala.
+Dit Meraugis Ie uoi ia la
+Le cheualier or ça la nef
+Li marinier corent au tref
+Et siglent tant qu il sont uenu
+En l isle quant en l isle fu
+Meraugis sempres remonta
+Sor son cheual lors s en ala
+La nef arriere et Meraugis
+S eslesse et uient en mi le uis
+Au cheualier qui l atendoit.
+Et li cheualiers qui n estoit
+uilains n enuieus ne mauués
+S arresta et soffri adés
+Tant qu a loisir fu atornez
+Meraugis aprés ont tornez
+Les frains et hurtent les cheuaus.
+Mout est chascuns preuz et uassaus.
+Il fierent des lances quarrees
+Si que les lances sont passees
+Par mi les escuz et les fers
+Page116
+Hurtent es piz sor les haubers
+Si par force - mes pas n i entrent -
+Que li cuer lor duelent et mentent
+Des cous dont li poitrail sont rot
+Cengles trenchent despiecent tot
+Les frains guerpissent si s en uont
+A terre si bien s entresont
+Feru que ne ueïstes mieuz.
+Dou cheoir des cous ont les ieuz
+Troblez si qu il ne uoient gote.
+Iluec iut chascuns sor son cote
+Une piece non pas lonc tens.
+Quant il reuienent en lor sens
+Si s esmerueillent et lor semble
+Que la tor dance et l isle tremble. -
+folio115a
+Por quoi - Des cous sont estoné.
+Or cuident que il ait toné
+Ne se seuent au quel tenir
+Fors tant de l estor maintenir
+S entremetent lors s entreuont
+Espees tretes et si ont
+Les escuz sor les testes mis.
+N est pas li uns a l autre amis
+Page117
+Ainz s entrassaillent. Bien le uoient
+Cil de la cité qui n auoient
+Onques mes tel ioste ueüe.
+De la ioste ont grant ioie eüe
+Que mout lor plest mes qui qu en rie
+Lidoine ne s en ioe mie
+Non ainz li dieut li cuers el uentre
+De paor et tant en i entre
+Por la ioste qu ele a ueüe
+Que s oïe en deuient ueüe. -
+Deuient Coment Donc n ot el gote -
+Non s oïe et sa force tote
+O la paor qui si l a pointe
+Et toz ses sens en une pointe
+Se fiert es ieuz por esgarder
+Celui qui ne se puet garder
+Qu el ne soit dolente por lui.
+Einsi se combatent li dui
+Cheualier qui sont pié a pié
+En l isle et tant fiers tu fier gié
+Se mainent as espees nues
+Qu il font des heaumes uers les nues
+uoler le feu que li solaus
+En deuint indes et uermaus. -
+Por quoi - Quant li solaus assemble
+Page118
+Au feu des heaumes de loing semble
+Que li heaume soient espris
+De feu grizois. Bien l ont apris
+Le ferir uoire mieuz que nus
+Iteus .XL. assauz ou plus
+S entrassaillent et tant se sont
+Entrassailli en fin qu il n ont
+Escu ne heaume a despecier.
+Et quant il sont tel cheualier
+Et il sont desarmé andui
+Que doit que cist n ocist cestui -
+Que doit Ce puet sauoir .I. fous.
+S il ferissent ausi bons cous
+folio115b
+Com il firent au comencier
+Et lor testes fussent d acier
+N i eüst li plus forz duree.
+Mes or torne a chascun l espee
+Au ferir et uole des mains
+Car tant se dieut cil qui n a mains
+Que bien se puet fere a itant.
+Tot en pes sont en lor estant.
+Einsi dura com ie uos di
+La bataille iusqu a midi.
+Aprés quant midis fu passez
+Li cheualiers s est porpensez
+Page119
+A Meraugis uient si l assaut.
+Meraugis qui encontre saut
+Se desfent mes cil le tient pres.
+uoire mieuz qu il ne fist hui mes
+L assaut et greignors cous li done.
+Meraugis qui des cous estone
+S esloigne et dit Or ne sai gié
+Ioer li dé me sont changié
+Car ie disoie et di encore
+Que cist cheualiers estoit ore
+Recreüz d armes et atainz
+Mes trop li sont d ore a orainz
+Si coup changié outreement.
+Et li cheualiers erraument
+Reuient et ioint l escu au cote.
+Meraugis qui forment le dote
+S est esloigniez et si li dit
+Di moi uassaus se Deus t aït
+Ton non. - ueus tu que iel te die -
+Oïl. - Se Deus te beneïe
+Iel te dirai Gauuains ai non.
+Einsi me suelent li Breton
+Apeler. Lors dit Meraugis
+Coment Gauuains li miens amis
+Page120
+Estes uos ce - Oïl par foi
+Gauuains sui ie. Redites moi
+Coment uos estes apelez.
+Meraugis sui de Portlesguez
+uostre amis qui de uostre terre
+Mui de la cort et por uos querre
+Des Noël mes la Deu merci
+Mout sui liez quant ie uos ai ci
+Troué que toz li monz disoit
+Que mes sire Gauuains estoit
+folio115c
+Perduz. La bele compaignie
+Que li rois a ne uostre amie
+Ne uos cuident ia mes ueoir.
+Non feront il Sachiez de uoir
+Ia mes li rois ne me uerra
+Auoi beaus sire si fera
+Cest dit ne tieng ie mie a sen.
+Ie me rent pris alon nos en
+Passon outre uez la nauie.
+Meraugis ice n i a mie -
+Coment donques - Par force estuet
+Que cil de nos .II. qui plus puet
+Ocie l autre. Il est einsi
+Qu onques de ceste isle n issi
+Cheualiers nus ia n en istras. -
+Por quoi - Par foi tu ne porras
+Page121
+Si te dirai reson por quoi
+uoiz tu la cele que ie uoi
+As fenestres de cele tor
+C est une dame ci entor
+N a plus bele que t en deuis.
+Cele cité et cist païs
+Est toz suens mes iadis auint
+Qu uns cheualiers mout hardiz uint
+A li si la requist d amors.
+Einsi comença en decors
+Qu ele l ama et fu s espose.
+Puis auint qu ele fu ialose
+De lui et tant le ueut amer
+Qu en ceste isle por lui garder
+Fist fere cest herbergement.
+Il i entra mout longuement
+I seiorna auuec s amie
+Et quant il uout il ne pot mie
+Retorner non co fu noienz. -
+Por quoi - Ma dame de laienz
+Comanda a ses genz de la
+Que nus ne fust qui uenist ça
+Por riens s ele nel comandast
+Et plus que ia mes ne passast
+Nus cheualiers par mi sa terre
+Qui ne uenist ça por conquerre
+Page122
+Le pris contre son champïon.
+Einsi bien uousissent ou non
+I passerent maint cheualier
+Puis iooient as cous trenchier
+folio115d
+Tant que par force les uaincoit
+Li cheualiers qui mout estoit
+Fiers et hardiz et combatanz.
+Ceste uie mena .uII. anz.
+Mout en ocist tant que de moi
+Auint einsi come de toi
+Est auenu que ie uing ça.
+Et li cheualiers comença
+La bataille mout egrement
+uers moi et ie mout fierement
+Le reçui au mieuz que ie poi.
+Et en la fin tant le sorpoi
+Que ie l ocis mes tel anui
+En ai que maugré mien por lui
+Ai toz iorz cest chastel gardé.
+Einsi a ma dame esgardé
+Que i i serai tant que plus forz
+M ocie et quant ie serai morz
+Si refera sa garde ci.
+Se tu me uains ou ie t oci
+Coment qu il aut c est li usages
+Page123
+Toz iorz remaint li uns en gages
+Tant que plus forz de lui reuient.
+Einsi par force te couient
+Combatre a moi ie n i uoi plus
+Mes se tu en uiens au desus
+Et que ma force soit dou mains
+Tu seras mestre chastelains
+De ceste tor tote ta uie.
+De ce n ai ie pas grant enuie
+Dit Meraugis ia n en serai
+Chastelains non car ie ne sai
+Chastel qui tant face a haïr.
+Mes quant nus n ose ça uenir
+Qui uos donc donc a mangier
+Ce ne fet mie a encerchier.
+Assez est que trop en auon
+De toz les mes que nos sauon
+Dire de boche et deuiser. -
+Coment - Toz iorz ainz le disner
+Chascun matin ist de lasus
+Ma dame et quant ele est çaius
+La nef assene et ele uient.
+Et lors de quan que nos couient
+Demande et dit qu en li aport	
+Et se i aloie uers le port
+Page124
+folio116a
+Quant cele nef est arriuee
+El s en iroit uoile leuee
+Que ia au port ne m atendroit.
+Por quoi - Ma dame cuideroit
+Se i estoie enz et ie pooie
+Que ia mes ça ne reuendroie.
+Einsi me garde et me tient pres
+Que ia nul ior ne loing ne pres
+N en partirai s en ai tel dueil
+Que quant ie pens a ce mon uueil
+Ie uoudroie que ci uenist
+Foudre orage qui m oceïst.
+N ai ie reson -Oïl. -Ie uoi
+Que tu es ci uenuz por moi
+Et si couient que ie t ocie.
+Deus que ferai Tant he ma uie
+Et aim ma mort se ie pooie
+l on cors sauuer ie m ocirroie
+De m espee sanz plus atendre.
+Mes se la mort me uenoit prendre
+Orendroit ia por ce n istroies
+De ci mes toz iorz garderoies
+L isle sanz ioie et sanz deport
+Tot ton uiuant iusqu a la mort.
+Por ce m esmai que ie ne sai
+Que dire. -Ie uos en dirai
+Page125
+folio116b
+Le mieuz. - Meraugis uos coment -
+Mout bien selonc ce que i entent.
+Se uos uolez croire et ourer
+A mon los ie uos cuit geter
+Do ceste isle ia n i morrez.
+Ie si ferai. -Quel la ferez -
+Ne sai que plus uos en deïsse
+Mes n est conseil que n en feïsse
+Un sol que l en m osast nomer
+Neïs de saillir en la mer
+Se uos l esgardez por mon bien.
+De cest conseil ne lo ie rien
+Nos le feron tot autrement.
+Or de par Deu dites coment.
+Iusqu au uespre nos combatron
+En la fin nos entrabatron
+Ioste la mer en cel ual la
+Que bien le uerront cil de la
+Et la dame qui est Iasus.
+Aprés ne me desfendrai plus
+La me gerrai et uos ferrez
+Sor moi et grant semblant ferez
+Do moi ocirre outreement
+Et por mieuz deceuoir la gent
+Prendrez mon heaume et osterez
+Page126
+De ma teste sel geterez
+En la mer uoiant tot le mont
+Et par itant tu it cuideront
+Que uos m aiiez de uostre espee
+Ocis et la teste coupee.
+Aprés ice quant uos l aurez
+Einsi fet lors uos en irez
+En cele tor. Ie remaindrai
+Por mort et itant i serai
+Qu il sera nuit et erraument
+Que ie uerrai l anuitement
+I irai a uos si penseron
+De noz cors tant qu aillors seron.
+Dit mes sire Gauuains Par foi
+Cest conseil lo ie et otroi
+Que mout me plest. Lors s entreuont
+Ensemble et tot einsi le font
+Com il l auoient deuisé.
+De mainte part sont auisé
+Et dïent que uaincuz estoit
+Meraugis. Quant Lidoine uoit
+Cele merueille ele que fist
+Ele se fert maudist
+La terre qui son cors sostient
+Ia se noiast mes on la tient
+Page127
+Par force. Que uos en diroie
+Si grant dueil fet que n en sauroie 
+La disme dire nc retrere.
+Ie ai ueü maint grant dueil fere 
+Mes n i a pas comparoison
+Que nus dieus n est se ioie non
+Enuers cest dueil qu ele demaine
+Tant qu a un suen manoir la maine
+Une pucele Amice ot non.
+N ot pas d iluec a sa meson
+Plus de .iiii. lieues non tant.
+Einsi toz iorz reconfortant
+L en maine iusqu a son hostel.
+La descendent et si l ot tel
+Com l en li pot plus ioiant fere.
+Mes mout empire lor afere
+Que Lidoine regrete et plore
+Meraugis et quant uient a l ore
+folio116c
+Si saut et despiece son uis
+Et crie Harou Meraugis
+Plus de .c. foiz tôt pres a pres
+Et Deus quant le uerrai ie mes
+Ne sai ie n i uoi nul confort.
+Meraugis fu lessiez por mort
+Page128
+En mi l isle si se leua
+A la tor uint et si troua 
+La dame et sa mesniee o li.
+Un petit est auant sailli	
+Deuant la table s arresta.	
+La dame qui le regarda
+Ot paor si saut de la table.
+Plus de .uii. foiz por le dëable
+Se seigne et crie Deu merci
+Qui est ce la -Ie qui sui ci
+uenuz ueoir la contenance.
+Ia i morrez c est sanz dotance
+Se mot dites Lors les assemble.
+En une chambre ce me semble
+Les enferma desoz la clef.
+La parolent mes c est soëf
+Que Meraugis lor dit et iure
+Se por crïer par auenture	
+Mueuent les boches no les denz
+Il metra ia le feu dedenz.
+Einsi sont celes enfermées.
+Aprés a ses armes ostees
+Li cheualiers mes se li plot
+Assez mania qu assez en ot.
+Mout plot a mon seignor Gauuain
+Page129
+Couchier se uont et l endemain
+Se leuerent li cheualier.
+Il n alerent pas au mostier
+Non qu en l isle n eu auoît point.
+Or escoutez si cortois point
+Meraugis esgarda et fist -
+Et que fist il - Par foi il prist
+Trestote la robe a la dame
+Et lors dou tot com une fame 
+Se uest et lace et empopine.
+Plus acesmez qu une popine
+Descent aual de cel chastel
+S espee desoz son mantel.
+Que uos diroie Au haure uint
+Einsi uestuz mout li auint
+folio116d
+Car il estoit bien fez et genz
+De l autre part uirent les genz 
+Meraugis qui par l isle aloit 
+Et de sa main les assenoit
+Einsi com la dame sieut fere.
+Ne se gardent de cel afere
+Lor dame cuident que ce soit
+A la nef uont sempres tot droit
+uienent siglant de l autre part.
+Li mariniers qui fu soi quart
+Page130
+Arriue en l isle et Meraugis
+Qui ot deuant son conseil pris
+Saut en la nef de plain eslés.
+Si semble que totes les es
+De la nef froissent et estendent
+Et cil qui au marchier entendent
+S aperçurent et si tremblerent
+De paor de lui si semblerent
+Qu il fussent pris si erent il.
+Desoz le mantel a porfil
+Tret Meraugis l espee nue
+Et dit uostre dame est uenue -
+Ou est -uez la ci en ma main
+Por li mostrer abat son frain 
+Et dit as mariniers Par ma ame
+Ceste espee c est uostre dame
+Dont uos aurez dampnatïon.
+Ia mourez sanz confessïon	
+Se ne fetes ma uolonté
+Et si uos di par uérité
+Se uos le fetes uos aurez
+Assez ia mes ne me saurez
+Riens demander que ne uos doigne.
+Page131
+Et cil qui uoient la besoigne
+De riens nule nel contredïent.-	
+Por quoi - Il uuelent mieuz ce dïent
+Assez uiure et auoir adés
+Que morir d armes desconfés.
+Il dïent Sire nos feron
+uostre bon ia ne desdiron	
+Riens qui uos plese. - Est il einsi- 
+Oïl. - Donc m esloigniez de ci
+Si me menez par ça entor
+Einsi que nos aion la tor	
+Entre la nef et la cité.	
+Cil qui uuelent estre aquité
+folio117a
+De la mort uers la tor s en uienent.
+La s arrestent et tant se tienent
+Que mes sire Gauuains descent
+Dedenz la nef lors furent cent.
+Lor armes ont ainz qu il s esmueuent
+Dïent as mariniers s il trueuent
+Page132
+Terre nul lieu la entor pres
+Que ia mar en iront aprés
+Mes au plus pres les metent fors.
+Et cil qui se dotent des cors
+Tremblent et dïent qu il prendront
+Terre au plus tost que il porront.
+Donc n i ot plus au sigler uindrent.
+Ie ne dirai pas que deuindrent
+Les dames non car ie ne puis.-
+Por quoi - Par foi ie n i fui puis
+Ne mes sire Gauuains n i fu.
+Einsi siglent et ont coru
+Sor la coste en la basse mer
+Qu il ne uoudrent pas trespasser
+La mer ainçois ont acostee
+La terre et tant qu il ont passee
+La mer et trestot le païs.
+Mout ont erré ce m est auis
+Et tant qu il ont terre encontree.-
+Quel terre — Ce fu la contree
+De Handitou. — Oui la tenoit —
+Li cuens Gladoains qui estoit
+Sires et mout ot terre aillors.
+Li marinier pristrent lor cors
+Por arriuer a Handitou
+folio117b
+Page133
+Mes trop se hasterent d un pou
+A l arriuer. - uoire coment -
+Il entrerent si durement
+El haure que la nef sailli
+Sor une roche lors croissi
+Et despeça en .II. moitiez.
+Que puet chaloir Sains et hetiez
+Issi chascuns de la nef fors.
+Li cuens Gladoains qui fu lors
+A Handitou s en auala
+Droit a la mer. Quant il uint la
+Les cheualiers uit ses conut. -
+Et lors que fist- Il acorut
+uers eus ses salue et acole.
+Come prodom de sa parole	
+folio117b
+Lor abandone quan qu il a.
+Mout les coniot grant ioie on a.	
+Lors les mena en son recet	
+Quant Meraugis s arreste et fet
+.I. dueil. - Por quoi - C est por s amie.
+Qu est ce fet il ou est ma uie - 
+Ou est Coment l ai ie lessiee -
+Oïl par tant m est esloigniee. 
+Page134
+Par tant Ai ie la donc perdue -
+Oïl. - Lors se fiert et se tue.
+Se s amie fist dueil por lui
+Ce fu noienz enuers cestui.
+Non Qu en diroie Ce n auint.
+Mes sire Gauuains qui le tint
+Et tuit li autre le confortent.
+Einsi com en trauers l en portent
+En .I. palés lasus amont.
+Li cuens li plus cortois clou mont
+Les herberia la nuit si bien
+Dou tot en tot qu il n i faut rien
+Que nus ne puist penser ne dire.
+Mes Meraugis qui fu plains d ire
+Qui qu en rie n a pas bon tens
+Einsi com s il fust fors dou sens
+Regrete s amie et complaint.
+Tant se demente et tant se plaint
+La nuit que mes sire Gauuains
+En est si corrociez et plains
+De mautalent por poi n errage
+Et dit uos fetes grant outrage
+Et grant anui de tel dueil fere.
+Page135
+Come par force le font tere
+La nuit mes autre gieu n en ont.
+Aprés mangier couchier se uont
+Li cheualier eneslepas.
+Meraugis qui ne dormi pas
+Leua matin tuit sont leué.
+Aprés ce quant il ont laué
+Au mostier uont messe ont oïe.
+Meraugis qui n oblia mie
+Lidoine s atorna d errer
+A mon seignor Gauuain parler
+uint et li dist Dites moi sire
+Orrez uos ce que uoudrai dire
+Ie uueil errer ia mes n a urai
+Ioie ne ne seiornerai
+Deuant ce que i aie trouee
+M amie c est chose prouee
+folio117c
+Qu el cuide que ie soie ocis.
+C est uoirs Iel sai bien Meraugis
+Que par moi uos est auenue
+Ceste ire et par uostre uenue
+Sui ie fors de la dolerose
+Prison qui tant par ert hontose
+Que nus n en doit auoir enuie.
+Qu en diroie Ie tieng ma uie
+Page136
+De uos et bien sachiez sanz dote
+Que m aide et ma force tote
+Est uostre bien l auez conquise.
+M auenture que i ai emprise
+De l espee me couient querre.
+Se ie retornoie en ma terre
+Sanz li m onor seroit esteinte.
+Ia mes n irai ainz aurai ceinte
+L espee as renges de merueilles.
+La irai Deus car m en conseilles
+Et uos irez de l autre part
+Querre Lidoine. Ici depart
+La compaignie de nos .II.
+Mes d itant uos chasti li deus
+N est mie bons a maintenir.
+Bien sachiez se ie puis uenir
+En lieu ou uostre amie soit
+Ia sor moi ne uos couendroit
+Estre por garder uostre honor
+Et se ie uieng ainçois .I. ior
+A la cort que uos i ueigniez
+Itant uueil ie que uos sachiez
+Que ia une nuit n i gerrai. -
+Que ferez donques - Ie mourai
+Por uos querre sanz plus atendre
+Et se ie puis par home aprendre
+Page137
+folio117d
+Que uos aiiez de moi besoig
+Ou que ce soit ia n iert si loing
+Que ie n aille metre mon cors
+Por uos. - Meraugis respont lors
+uostre merci Et ie creant
+Se ie a la cort repere auant
+Que uos une nuit i gerrai
+Sanz plus et l endemain mourai
+Por uos querre tant que troué
+uos aie - Einsi l ont creanté.
+Lors n i ot plus au conte uont
+Congié prennent et mout li ont
+Proiié des .IIII. mariniers.
+Et li cuens qui fist uolentiers
+Lor proiiere respont itant
+Des mariniers Ia mar auant
+Iront ie lor donrai assez.
+Toz les retint et a fieuez
+Por lor amor et en aprés
+As cheualiers qu il aime adés
+Fet uenir .II. cheuaus de pris
+Si lor done et cil les ont pris
+Qui l en mercïent puis s armerent.
+Au departir quant il monterent
+S entresaluent et comandent
+PageP138
+A Deu or ont quan qu il demandent
+[De par armes. A tant s en partent.
+Chascuns s en uet einsi departent.] 
+Or uet chascuns toz sous sa uoie.
+ De Meraugis se ie sauoie
+uos diroie com il auint.
+Il oirre tant qu en maint lieu uint -
+Que demande - La cité quiert
+Sanz non par tot cerche et enquiert
+A la cité sanz non la uoie.
+Cui chaut quant nus ne l en auoie
+Qui de boche sache parler
+Ne nus ne li ot demander
+La uoie a la cité sanz non
+Qui s en face se gaber non
+Que uos diroie Assez puet querre
+Qui quiert Paris en Engleterre.
+Einsi a Meraugis ouré
+Toz iorz et noient n a troué.
+Il iure et maudit tot le mont.
+Par mautalent regarde amont
+Et dit - ia mes n orrez autel -
+Deus as tu riens en ton chatel
+Page139
+Dont tu conforter me peüsses -
+Nenil - Si as Deus bien deüsses
+Moi ocirre on auoir merci
+De moi - Coment Ne sui ie ci 
+Toz sous Quel merci uueil auoir - 
+Paradis. - Qu ai ie dit Ia uoir
+Nel lerai - Por quoi - Donc n i ont
+Quan qu il uuelent cil qui i sont -
+Oïl - Donc fusse ie orendroit
+Dedenz ou Lidoine uendroit
+folio118a
+Ou tuit cil qui dedenz seroient
+N auroient pas quan qu il uoudroient. -
+N auroient - Non ce m est auis
+Sanz li n a Deus nul paradis
+Qui me plese. - Qui donc - M amie
+Ie uueil. Cui chaut Deus ne ueut mie
+Que ie l aie ainz ueut qu autre l ait.
+Bien la doit perdre qui la let
+Ie l ai lessiee. Lors tressaut
+D angoisse et auuec ce l assaut
+Dieus et amor ice le toche
+Page140
+Au cuer. Li cuers li clot la boche
+Transglot le dueil mes mout li grieue.
+Aprés quant cist dieus li escrieue
+Si sospire et de plain eslés
+S eslesse et quant il a adés
+Coru tote sa randonee
+Si ra au dueil bone donee.
+Einsi est uuidiez en alant
+De dueil et itel mautalant
+A il le ior .X. foiz ou .XX.
+Tant qu orendroites li auint
+A l entree d un plesseïs
+La ou Marez d Escaldeïs
+Tot le matin estoit en guet
+Et uoit que li cheualiers fet
+Come cil qui estoit en sore.
+Lors dit Marez Cist m acort sore.
+II s eslesse por ioster muet.
+Meraugis qui li dieus esmuet
+Ne se garde mes toz iorz point.
+Et Marez qui encontre point
+Page141
+Besse sa lance si li done
+Sor l escu tel coup qui resone.
+Meraugis reuient qui s esfroie
+Lors se tient et Marez peçoie
+Sa lance outre s en est passez.
+Meraugis qui s est porpensez
+Retorne a lui et tret l espee
+Et Marez uient a la meslee
+Si comencent une bataille
+Ausi com par ci le me taille.
+Onques mes plus fiere ne ui
+Tant que par deuant eus issi
+De la forest .I. cheualiers
+Qui mout oceïst uolentiers
+folio118b
+Meraugis s il le coneüst
+Et Meraugis lui s il peüst. -
+Qui est il - C est l Outredotez
+Li crueus li desmesurez
+Qui tant aura Meraugis quis
+Mes il n a mie Meraugis
+Aperceü si s en passa
+Outre. Meraugis qui pensa
+A lui a dit Se ie peüsse
+De ci partir ancui seüsse
+Li queus de nos fust li plus forz.
+Marez respont Se i ere morz
+Page142
+Siuroies le - Oïl. - Por quoi -
+Por ce que iel he plus que toi
+Et si ai droit qu il m a mesfet.
+Marez respont Quant il t a fet
+Tant que guerre a entre uos .II.
+Ie te doing trieues se tu ueus
+Par couenant qu il soit einsi
+Qu el premier lieu aillors que ci
+Que nos nos entretroueron
+Ia autres armes n i querron
+Fors celes que auron en l ore
+Et lors nos entrecorron sore
+Come dui anemi de mort. 
+Entent i bien Par cest recort
+Tu n as nul lieu trieues de moi
+Neïs se c iert en cort de roi.
+Par deuant toz ie t assaudroie
+Et ie de toi me desfendroie
+Fet Meraugis tot pié estant.
+Or soit einsi ie le creant
+Ce dit Marez qui s en retorne
+Au bois et Meraugis s en torne
+Aprés le cheualier qu il het.
+Les nois sont granz par itant set
+Quel part il uet car il le trace
+Toz iorz et toz iorz le menace
+Page143
+A ocirre s il l aconsieut.
+Oue uos diroie Tant le sieut
+Qu il uient par deuant .I. chastel.
+Li mur desus et li quarrel
+Erent de marbre tot entor.
+Tot maintenant iusqu a la tor
+uint Meraugis qui s arresta
+Deuant la porte et esgarda
+folio118c
+Par mi la porte et tant qu il uoit
+Qu en mi lieu de cel baille auoit
+Un pin si uert com en esté.
+Se li pins fu de grant beauté
+Ce ne fet mie a demander.
+Entor le pin por caroler
+Auoit puceles qui chantoient.
+As caroles qu eles fesoient
+N auoit qu un tot sol cheualier.
+Iluec por la ioie esforcier
+Chantoit auant. - Et qui ert il -
+Li Outredotez et c est cil
+Que Meraugis a tant seü.
+Et quant Meraugis a ueü
+Qu il carole la teste armee
+L escu au col et a l espee
+Ceinte come por lui desfendre
+Si dit Orendroit sanz atendre
+Page144
+Sera Laquis de Lampagrés
+uengiez Lors cort de grant eslés
+Droit au cheualier si li crie
+Fui cheualiers ne chante mie
+Ie te desfi tu morras ia	 
+Mout li est tost ce qu il pensa
+Changié. - Coment - Einsi a droit
+Qu autel talent com il auoit
+Orainz quant il estoit la fors
+De ferir de sa lance el cors
+Le cheualier que il haoit
+Autel talent a orendroit
+De caroler car il oblie
+Tot ce defors neïs s amie.
+Einsi li couiert oblïer
+S amie lors uet caroler
+L escu au col et chante auant.
+Li autre qui chantoit deuant
+Guerpi la tresche si monta
+Sor son cheual lors s en ala
+Fois de la porte. Quant il fu
+La fors si a Ieenz ueü
+Son anemi sel conut bien
+Par les armes. Soz ciel n a rien
+Qu il haïst autant come lui.
+Page145
+Qu est ce fet il ie uoi celui
+Oui geta mon escu a terre.
+Ie l ai troué si ne l os querre
+folio118d
+La ou iel uoi Deus que ferai
+Se ie uois la ie chanterai
+A la carole de rechief.
+Tot autre gieu fors cest meschief
+Feroie ie. Lors le menace
+Et dit que ia mes de la place
+Ouil estoit ne se moura
+Deuant que Meraugis istra
+Fors dou chastel mes c est noienz
+Que Meraugis qui est laienz
+N entent de riens a sa parole.
+Tant chante auant et tant carole
+Que l Outredotez qui ne dote
+Cheualier n i entent mes gote
+Ainz s en uet car la faim l en chace.
+Ia mes ior ne guerpist la place
+Por home se la faim ne fust.
+Nus hom ne puet uiure de fust.
+Por ce s en uet l Outredotez
+Mes ne s est pas trop demorez
+Par tens reuient et si aporte
+Son tref iluec deuant la porte
+Page146
+Le tent por guetier Meraugis	
+Einsi fetement l a assis.
+Or dit que ia mes ne moura
+Son tref deuant que il aura
+Par force uengiee sa honte.
+De quoi uos feroie lonc conte
+Meraugis fet mout l enuoisié
+Il chante auant et fiert don pié.
+En meillor point nel puis ie mie
+ Lessier. Or uos uueil de s amie
+Aprendre que ele deuint.
+Bien auez oï qu ele uint
+La premiere nuit chiez Amice.
+Lidoine qui ne fit pas nice
+Promist et fist tant uers s ostesse
+Que cele li fist la promesse
+D aler o li en sa contree.
+No fist pas longue demoree
+Auuec Amice ainz s en parti
+Au matin. Or s en uont einsi
+Longuement cheuauchent ensemble.
+Lidoine erre tant ce me semble
+Qu ele fu pres de sa contree.
+Lors l a par pechié encontree
+Page147
+folio119a
+Uns cheualiers Belchis li Lois
+Qui a le front plus dur que bois.
+C est li plus lez qu onques nature
+Feïst onques mes creature
+Ne fu qui tant uousist mal fere.
+Onques prodom ne li pot plere
+Mes tuit li mal sont si accointe.
+Belchis auoit .I. nes a pointe
+Trop lonc et si fu anuieus.
+Li Lois qui s entrefiert des ieuz
+Fu granz et durs et ses et megres
+Mes mout estoit hardiz et egres
+En batailles et en estors.
+Riches chasteaus et beles tors
+Tint assez pres de Caualon.
+Bien resembloit terre a baron
+Sa terre. Tant a fet par tot
+Qu il n a uoisin qui ne le dot.
+Quant Belchis choisi et conut
+Lidoine uers li acorut
+Si la salue et li dit Dame
+Bien soiiez uenue par m ame
+Page148
+Terre et auoir et quan que i ai
+uos offre et uos herbergerai
+Se il uos plest anuit mout bien.
+uostre peres ama le mien
+Et i amai lui. Quant Lidoine ot
+Belchis qui dit que il amot
+Son pere si l en mercia
+De l ostel et dit qu ele ira
+Por herbergier. Lors dit Belchis
+Damoisele de Meraugis
+Me dites qu il est deuenuz.
+Sire fet ele il est perduz
+A mon oes. - Et coment - Einsi
+Que iel lessai la ou iel ui
+Ocirre. Quant Belchis l entent
+Traïson qui en lui s estent
+Le fiert el cuer car il pensa
+Mal dont honte li auendra
+Ainçois qu il muire. A tant s en uont
+Et cheuauchent tant que il sont
+Deuant .I. chastel qui est suens.
+Li chasteaus est riches et buens.
+En mi le palés la amont
+Descendent. Au descendre uont
+Cheualier qui grant ioie firent
+Por la pucele que il uirent
+folio119b
+Et conurent que ele estoit
+Page149
+Dou païs et bien conoissoit
+Ceus qui uindrent a son descendre.
+Belchis qui fist les cheuaus prendre
+Les herberia mout richement
+Mes nus ne doit comencement
+Prisier dont la fin est mauuese.
+Lidoine fu la nuit a ese
+Mes au matin quant se leua
+A sa pucele comanda
+Qu en li feïst metre sa sele.
+Si dit Belchis a la pucele
+Pucele d errer est noienz
+Lidoine est dame de çaienz.
+Puis qu einsi est que Meraugis
+Est morz or sera ses amis
+Mes fiz li cortois Espinogres.
+Onques el roiaume de Logres
+Ne fu plus beaus uaslez norriz.
+Ses oncles Melianz de Liz
+Le garde et dit qu il le fera
+Si hautement com il deura
+Cheualier a la Pentecoste.
+Lidoine ot ce qui mout li coste
+Si dit Sire s einsi estoit
+Qu il uos pleüst mout me pleroit
+Cest mariage a compasser
+Car ie ne me sai porpenser
+Page150
+D ome qui autant me pleüst
+Come uostre fiz se il fust
+Cheualiers et il li plesoit.
+Bele auenture m auendroit
+Se uos et il le uolïez.
+Tant ualez que bien tendrïez
+Mes tenemenz et neporquant
+En mon païs m estuet auant
+Aler que ie preigne seignor.
+Ne fetes mie lonc seior
+Mes mandez que uostre fiz soit
+Noueaus cheualiers. S il estoit
+Cheualiers par tens reuendroie
+En la marche sel receuroie
+A seignor et si seroit rois
+Mes aler m en couient ainçois.
+Belchis respont eneslepas
+Lidoine einsi n ira il pas
+folio119c
+Dou tot a la uostre deuise.
+C est por noient uos estes prise
+Ia mes de ci ne uos mourez
+Nul ior deuant que uos aurez
+Receü mon fiz a seignor
+Et qu il sera rois de l onor
+De Caualon et uos reïne.
+Dit Lidoine Ceste sesine
+Me plest mout Quant il est einsi
+Or de par Deu ie serai ci
+Page151
+Tant com uostre plesir sera.
+Ce respondi mes el pensa.
+Einsi fu cele retenue
+Oui a mal hostel fu uenue.
+Ne set que fere grant dueil a.
+De corroz plore einsi ala
+Son dueil menant par le palés.
+Quant ele uoit Belchis l auchés
+Si tremble de paor et dist
+Ou onques ne fu ne Deus ne fist
+Home ausi let ne nus nel set.
+uoi fet ele com Deus le het
+De son cuer et ie l ameroie
+Non ferai uoir car ie feroie
+Encontre Deu se ie l amoë.
+Por sol itant qu il fet la moë
+He ie son fiz de tot mon cuer
+Que ie n ameroie a nul fuer
+Ne lui ne riens qui de lui soit.
+Que ferai donc Par cui que soit
+M estuet mander Goruain Cadruz
+S il me secort qu il iert mes druz.
+Son conseil a dit Amice
+Amice rose douce espice
+Fet Lidoine por Deu merci
+Ia mes ne partirai de ci
+Se par uos non - Par moi Coment
+Fet Amice certainement
+Page152
+Sachiez se fere le pooie
+uolontiers uos cn geteroie
+Mes ie ne puis. - Si poez bien
+Cele respont Soz ciel n a rien
+Que ie ne face - Donc estuet
+Por moi edier quant mieuz ne puet
+Estre que uos prenez congié
+folio119d
+Et dites d itant uos pri gié
+Qu aler uolez en uostre terre.
+Si m irez .I. cheualier querre
+Oui mout m aime Goruains a non.
+Au chastel de Pantelïon
+Est ses reperes. Dites li
+La mort Meraugis et einsi
+Coment Belchis li Lois m a prise
+Et se il m aime tant ne prise
+Qu il me uueille uers lui conquerre
+Iel ferai seignor de ma terre
+Presentement por guerroiier.
+S a force me puet desresnier
+Soe serai et s il ne puet
+Le roiaume qui de moi muet
+Li doing et uueil que il soit suens
+Car se cist fet de moi ses buens
+Ia mes ne quier por nul auoir
+Terre ne bien ne ioie auoir.
+Amice amie or est en uos
+Dites moi Anchisés le Ros
+Page153
+Mon seneschal que ie li mant
+Come sa dame et li comant
+Que Goruain Cadruz a seignor
+Reçoiue le premerain ior
+Que Goruains li uendra requerre
+Et qu il li aït de la guerre
+A son pooir. S einsi le fet
+Ie l amerai ou entreset
+S il nel fesoit ie le harroie.
+Por enseigne qu il uos en croie
+Li porterez cest anel d or.
+Il l achata de mon tresor
+Sel conoist bien et par itant
+Ie cuit ainçois le mois issant
+Orra Belchis autres noueles.
+Cest conseil ont les damoiseles
+Afermé et Amice uet
+Congié prendre et Belchis la let
+Aler que riens ne li demande.
+Amice monte qui comande
+Lidoine a Deu a tant s en part
+Et s achemine cele part
+Ou el cuide Goruain trouer.
+Tant se paine de tost aler
+Qu ele l a troué come sage
+Si li raconte son message
+folio120a
+De par Lidoine quil salue.
+Et quant Goruain s a entendue
+Page154
+La damoisele si ot ioie
+Mout grant ia mes de riens qu il oie
+En cest siecle greignor n aura
+Et dit que Belchis en aura
+La meslee. Soz ciel n a terre
+Ou il n alast pur li conquerre
+Por ce qu il set qu il li pleroit.
+Einsi ioianz com il estoit
+Mande et semont toz ses amis.
+Tuit li haut home dou païs
+uienent a Goruain qui assemble
+Grant gent tant qu il en ot ensemble
+.CCC. qui tuit sont haut baron.
+Amice ala a Caualon
+Au seneschal a la pucele.
+Et quant il oï la nouele
+De sa dame qui estoit prise
+Si blasme Belchis et desprise
+Et dit que ia mes ne sera
+Liez ne ioianz ainçois aura
+Tel plet basti par quoi Belchis
+Sera essilliez et fuïtis
+De sa terre s il ne li rent
+Sa dame et dit outreement
+Qu il fera quan qu ele li mande
+Puis qu einsi est qu ele comande
+Qu en sa terre soit receüz
+Goruains bien i soit il uenuz
+il le receura uolentiers.
+Page155
+Lors mande a toz les cheualiers
+Dou roiaume que tot einsi
+Estoient uaincu et honi
+So lor dame en prison lessoient.
+Li cheualier qui mout amoient
+Lor dame entendirent l afere
+Que maugré li ueut Belchis fere
+De son fiz roi mout lor greua
+Et dïent tuit qu il on aura
+La guerre. A tant en est uenuz.
+Toz li païs est esmeiüz
+Des noueles qu il oënt dire.
+A Caualon a .I. concire
+Assemblent tuit li haut baron.
+Riens n i trueuent se guerre non
+folio120b
+En lor conseil par tot manderent
+Lor genz et es briés comanderent
+Qu en .uIII. iorz fussent tuit uenu.
+Le ior que li concires fu
+uint Goruains Cadruz o granz genz.
+Quant cil de la cité dedenz
+Oïrent que Goruain s uenoit
+A si grant gent com il auoit
+Mout furent lié encontre alerent.
+Li boriois qui lor dame amerent
+uindrent tuit fors de Caualon.
+A ioie et a processïon
+Eu Goruains cel ior receüz
+Si tost com il fu descenduz.
+Page156
+Et Anchisés li seneschaus
+Qui mout estoit preuz et loiaus
+uient deuant lui si le sesist
+De la terre a la dame et dist
+Oianz toz qu ele le comande.
+Por bien fere ce qu ele mande
+Li abandone ses tresors.
+Goruains qui en fist trere fors
+L or et l argent l a departi
+Onques poures ne s en parti
+Cheualiers qui en uousist prendre. 
+Par tant lor fist Goruains aprendre
+Qu il n estoit pas uilains ne chiches
+Ainz dïent Toz nos a fet riches
+Cist noueaus sire. Bien soit il
+uenuz Einsi le loent cil
+Por la largece qu il i trueuent.
+Largece est teus que de li mueuent
+Li bien. Beauté sens ne proece
+Ne ualent noient se largece
+I faut car largece enlumine
+Proece largece est mecine
+Par quoi proece monte en haut.
+Nus ne puet se largece i faut
+Conquerre pris par son escu.
+Largece qui tot a uaincu
+A si ceus pris qu il aiment tant
+Goruain Cadruz qu onques autant
+N amerent seignor qu il eüssent
+Page157
+Car en cest point riens ne seüssent
+De son plesir qui entreset
+S il peüssent ne fust tot fet.
+folio120c
+Einsi fu Goruains com ie di
+Sires et de tot l ont sesi
+Goruains a par les chasteaus mis
+Ses gardes einsi a tot pris
+Le roiaume et mis en sa main
+Et dit qu il moura lendemain
+De Caualon o tot son ost.
+Les noueles qui mout uont tost
+Sont tant alees que Belchis
+Oui mout fu crueus et eschis
+Set cele muete et set por uoir
+Qu il li couient la guerre auoir
+Por Lidoine s il ne la rent
+Mes se Belchis li Lois ne ment
+Mieux uoudroit estre renoiiez
+Ou ars ou ocis ou noiiez
+Que por eus toz en feïst rien.
+Coment qu il aut ce dit il bien
+Lidoine ne rendra il pas.
+N est mie comenciee a gas
+Ceste meslee mes a certes.
+Belchis qui que restort les pertes
+Garnist ses marches et semont
+Ses parenz qui grant ioie font
+De la meslee et de la guerre.
+Tote est esmeüe la terre
+Page158
+Iusqu a la mer par cel outrage.
+Belchis fu mout de grant lignage
+Et de hardi et de cruel.
+Tuit si parent furent itel
+Qu onques amor ne pes n amerent.
+De son lignage s assemblerent
+.CCC. et plus i sont uenu
+Au chastel la ou Belchis fu.
+Einsi fu Belchis de la guerre
+Garniz. Goruains li fist requerre
+Qu il li rendist sa damoisele.
+Por ce qu il ne uout la nouele
+Li uint au matin que Goruains
+Li art sa terre. Lors fu plains
+Li Lois de mautalent et d ire.
+Fors de son chastel sanz plus dire
+S en ist a grant pooir de gent
+Et dit que por mil mars d argent
+Ne leroit qu en l ost ne se fiere.
+Tuit si parent a sa baniere
+Oirrent et tant ont cheuauchié
+Qu a .I. aguet el bois trenchié
+folio120d
+Ont les premerains encontré
+Et uienent tuit desconraé
+Ça .u. ça .X. ça .XX. ça mains.
+Proie acueillent et les uilains
+Page159
+Tuënt et chacent par les plaignes.
+Totes fremissent les montaignes
+Des serians et des cheualiers.
+Deuant les autres toz premiers
+uient Anchisés li seneschaus.
+Tant ont coru que lor cheuaus
+Sont estanchié de tant sont il
+Meillor a desconfire et cil
+Quis atendent au guet lor saillent
+Lances bessiees les assaillent
+Mout fierement. Quant Anchisés
+Choisi lor gent qui fu si pres
+Qu il n i a ne mes dou ferir
+Si dit que mieuz uoudra morir
+Que par eus soit li chans partiz.
+Anchisés qui mout fu hardiz
+S arreste et assemble ses genz.
+Entre cheualiers et sergenz
+Ot bien .CCC. en son conroi.
+Lors assemblent par grant desroi
+Anchisés et Belchis li Lois.
+A l encontrer fu granz li frois
+Des lances dont il s entredonent
+l eus cous que il se desarçonent
+Des cheuaus et par mi les piz
+S entredonent des fers bruniz
+Si morteument qu il s entreuersent.
+Page160
+En mi le champ teus .C. enuersent
+De cui les ames sont issues.
+En l estor des espees nues
+ueïssiez maint coup departir
+Et tous .C. de l estor partir
+Oui sont feru iusqu as boëles.
+s entretrenchent les cerueles
+hit les espaules iusqu as flans.
+Tant en trebuschent que li sans
+Cort com .I. doiz aual les plains.
+De braz de testes et de mains
+Ionche toz li païs entor.
+Mout aclarïent en l estor
+La gent Anchisés et tant sont
+Afebloiié que cil lor font
+As espees guerpir les rens.
+Ia mes uenuz n i ert a tens
+folio121a
+Goruains qui uient por eus secorre.
+Une lieue li couient corre
+Ainçois qu il soit a la meslee
+Ou sa gent est si desmeslee
+Qu il s en fuient ça I. ça .II.
+Li Lois en prist dont fu granz deus
+Teus .X. qui tuit sont de haut pris.
+Auuec ceus a des autres pris
+Tant com lui plot tot a son chois.
+Mes or uoit fors issir dou bois
+Page161
+La baniere Goruain qui uient.
+Dou pueple qui a lui se tient
+N est mie gieus car tant i ot
+Cheualiers que de loing semblot
+Que toz li monz uenist ensemble.
+Tant i a gent que Belchis semble
+Qu onques mes tel pueple ne uit.
+Mout redote Goruain et dit
+En fin qu il ne l atendra pas.
+O son eschec plus que le pas
+S en uet et quant cil de l ost uoient
+Que il s en uet s il nel conuoient
+Ce dïent ia mes n aurant ioie.
+De l ost se metent a la uoie
+Tel .CCCC. qui tuit le seuent
+Mes por noient que tant ne seuent
+Chacier que ia mes les ateignent.
+Lor cheual chieent et esteignent
+Par cez bruiieres et Belchis
+S en uet qui bien set le païs
+Par mi la forest et tant fuit
+Qu a Campadoine uient la nuit
+.I. suen chastel qui fu mout forz.
+Goruains Cadruz et ses esforz
+Remest es plains de Hardecin.
+Li chasteaus sist sor .I. chemin.
+Page162
+Iluec se loge si assiet
+Le blanc chastel qui trop bien siet.
+Il n ot plus bel en Engleterre.
+Mout ot Belchis li Lois grant terre
+Iluec entor mes cil de l ost
+Li ont le païs assez tost
+Essillié. Quant cil de la tor
+uoient qu il sont assis entor
+Si se garnissent dou desfendre.
+Et Goruains Cadruz por eus prendre
+folio121b
+Fist fere eschieles plus de .XX. .
+Au matin des que li iorz uint
+Les assaillent et cil d amont
+Lor uienent as murs ou il ont
+Lor eschieles eneslepas
+Dreciees. Mout estoient bas
+Li mur et mout se desfendierent
+Cil dedenz mes tant s esforcierent
+Cil de l ost qu il monterent sus
+Par tant lieus que n i porent plus
+El baille cil dedenz durer.
+Par force lor couint monter
+En la tor et Goruains demande
+Le feu et es sales comande
+Que l en le mete soz le uent
+Le metent et li feus s i prent
+A .I. palés deuant la porte.
+Page163
+Si com li dëables l en porte
+Sailli dou palés en la tor
+Et ele cstoit hordee entor
+De cloies et de heriçon.
+Don hordeïs en la meson
+Dedenz la tor sailli li feus.
+C est .I. tormenz qui mout est feus
+Que riens ne puet a lui durer.
+Ne le porent plus endurer
+Cil dedenz ainz metent lor cors
+A bandon si saillirent fors
+Dou chastel par mi les fenestres.
+Cous et espaules braz et testes
+Peçoiierent au saillir ius.
+Cil furent pris il n i ot plus.
+Lor tres destendent lors s esmuet
+Goruains Cadruz et li oz muet
+Droit au chastel de Campadoine.
+En la riuiere d Autecoine
+Corent et ardent tot entor.
+Belchis li Lois fu en la tor
+De Campadoine quant il uit
+Sa terre ardoir sempres a dit
+A ses parenz Montez montez
+De Campadoine en mi les prez
+S en issent tuit prest de mal fere.
+Belchis cui que doic desplere	
+Dit qu il ira lor genz ueoir.
+Page164
+Por ce qu il ueut l ost sorueoir
+Issi dou bois en une angarde
+Mes onques ne se dona garde
+folio121c
+Deuant que Goruains li sailli
+Dou bois ou il ot assailli
+.I. chastelet que il ot pris.
+Sor les bons coreors de pris
+Lor acorent. Quant Belchis uoit
+ Goruain Cadruz qui ia estoit
+Entre lui et le bois a destre
+Por ce que autre ne puet estre
+Li uient encontre et la meslee
+Comence mes n i ot duree
+La gent Belchis sempres tornerent
+Les dos et cil les atornerent
+As espees mout ledement.
+Quant li Lois uit certainement
+Que sa puissance estoit outree
+Fuiant s en uet lance leuee
+Deuant et si parent aprés.
+Cil de l ost qui sieuent de pres
+En ont une merueille ocis
+Onques .I. sol n en i ot pris
+Tot ocïent einsi le font.
+Par force de cheuaus s en uont
+Cil qui ne mestrent en la place.
+.IIII. lieues dura la chace
+Ainz que li Lois peüst auoir
+Recet que il ne pot por uoir
+Page165
+A Campadoine retorner.
+Si ne fine d esperoner
+Deuant ce qu il uint a Monhaut
+Un suen chastel qui mout fu haut
+Assis en .I. regort de mer.
+De tant se puet Belchis uanter
+Qu il ne crient siege de nul home.
+Se toz li empires de Rome
+Estoit entor n auroit il garde
+Car la mer d Escoce le garde
+D une part. Se fu bien seant
+Par derriere il n ot par deuant
+Plus beau chastel en Engleterre.
+Deuant la porte deuers terre
+Auoit une riche trenchiee
+Dont la falise estoit trenchiee
+Plus de .C. toises en parfont.
+Desus l arriere d eue amont
+Auoit murs et torneles teles
+Ou en tot le mont n auoit auteles.
+folio121d
+Monhaut cest chastel que ie di
+Auoit Belchis deuant garni
+De quan qu il pot el mont auoir.
+La fu li mieuz de son auoir
+La fu sa feme et sa mesniee
+A seior la fu enuoiiee
+Lidoine qui par mesprison
+Page166
+Fu prise la fu en prison
+Mainz cheualiers preuz et cortois
+La fu Belchis outre son pois
+Entrez por paor de morir.
+Or uoit la gent Goruain uenir
+Mes ne li chaut car poi les dote.
+Et Goruains uient et sa gent tote
+Quis amaine deuant Monhaut.
+Mout le uit riche et fort et haut
+Sel dote mout a asseoir.
+Mes por ce que il set de uoir
+Que Lidoine est lasus amont
+Dit que ia mes nul ior dou mont
+N en partira deuant qu il l ait
+Par force pris tot son ost fet
+Logier contreual la riuiere.
+Deuers la mer par de derriere
+N i pooit il pas auenir.
+Par deuant fist sa gent uenir.
+Einsi fu en Monhaut assis
+Li Lois qui ia ne sera pris
+Por riens mes de c est il seürs
+Qu il n a de terre fors des murs
+Plain pié que Goruains ne li ait
+Essillié. Or fet son atret
+Deuant le chastel que il a
+Assis. Par tot le mont manda
+Engigneors mout en i uint.
+Page167
+D engins tant qu onques ce n auint
+Lor fist fere quant il les orent
+Fez au plus tost qu il onques porent
+Les drecent as murs si assaillent.
+Et cil qui furent dedenz saillent
+Encontre qui hardiement
+Les reçoiuent et mout souent
+Issent contr eus fors dou chastel
+Si qu il lor portent le cembel
+.III. foiz le ior iusques es tentes.
+Cil de l ost qui ont lor ententes
+folio122a
+A eus maufere les encontrent
+Si morteument qu il s entrafrontent
+Et s entrocïent et mehaignent.
+.I. ior perdent autre gaaignent
+Cil dou chastel qui grant deport
+Ont en ce que il ont le port
+Des nes qui uont et qui reuienent
+Que genz et uïandes lor uienent.
+Einsi assaillent et desfendent. 
+Cil ont assez ou il entendent.
+Et Meraugis que deuint il
+Carole il encore - Oïl
+Einsi com la matire conte.
+Raous qui romance le conte
+Trueue qu onques n en remua
+De caroler ainz carola
+.X. semaines tant qu il auint
+Page168
+Qu uns autre cheualiers reuint
+Qui entra enz par auenture.
+Li chasteaus ert de tel nature
+Que toz iorz en i auoit .I.
+Ilueques s oblioit chascun
+Tant que uns autre i reuenoit.
+Li cheualiers chante orendroit
+Pit Meraugis uint au destrier
+Qui onques puis n ot de mangier
+Talent qu il entra en la porte.
+Lors monte et li cheuaus l en porte
+Fors dou chastel et quant il fu
+La fors si uit le tref tendu
+Deuant la porte dont il ot
+Mout grant merueille. Sempres ot
+Le rossignol chanter et uoit
+L erbe uert dont la flor estoit
+Freschete et li bois fu floriz.
+Meraugis qui fu esbahiz
+S arreste et dit Deus dont uien gié
+Sui enchantez ou ai songié
+Ne sai par foi Mes i oi merueilles
+Quant i oi chanter a mes oreilles
+Le rossignol oci oci
+Et orendroit que ie fui ci
+Firent les nois par cest païs
+Plain pié d espés or m est auis
+Dou rossignol que i oi chanter
+Page169
+Qu il le fet por moi enchanter. -
+folio122b
+Non fet - Si fet que que nus die.
+Reson ne li aporte mie
+Qu il chant si tost ce n auint onques. -
+Por quoi ne chanteroit il donques
+N est il estez - Non il par foi -
+Que donc - Yuers - Yuers Ie uoi
+L erbe si uert com en esté. -
+Non est la noif a ci esté
+Ie l i ui par tot que suiui. -
+Par foi a poi que ie ne di
+De moi que ce ne sui ie mie. -	
+Si sui - Donc ne quier ie m amie
+Ne sui ie Meraugis - Oïl
+Ce sui ie. - Mes ne sui pas cil
+Qui orainz uit les nois - Si sui
+Ce sui ie qui en cest ior d ui
+Les ui. - Non fis ce ne puet estre
+Qu aprés les nois peüst ci nestre
+L erbe si tost por nul pooir.
+Ce que ie dui orainz ueoir
+Fu fantosme. - Non fu par foi
+Mes c est fantosme que ie uoi
+Car ie sai qu il n a mie .I. mois
+Que Noël fu si ert ainçois
+Auril que li rossignous chant.
+Ie n ai pas dote qu il m enchant.
+Par mon chief ie croi mieuz encore
+Page170
+L iuer d orainz que l esté d orc.
+Ie ui les nois et sai sanz dote
+Que par les nois ting ie la rote
+Dou cheualier que ie siuoie.
+Deus ou est il Or le uoudroie
+Trouer Ia mes nel trouerai  -
+Quel part uet il Quel la ferai
+Il n est pas loing Lors uet au tref.
+De plain eslés non pas soëf
+Se fiert dedenzm mes il n i uoit
+Home de char pas n i estoit
+L Outredotez. - Ou estoit il -
+Orainz s en parti come cil
+Qui ert anuiiez de guetier
+Au tref et est alez cerchier
+El bois sauoir s il troueroit
+Meslee que mout desirroit
+Et mout est liez quant puet mal fere.
+Mes ou qu il aut toz iorz repere
+folio122c
+Au paueillon sempres uendra.
+Meraugis quant il ne troua
+Nul home el tref s en est partiz.
+Toz desuez et toz esbahiz
+S en uet poignant tote une uoie
+Si com la rage le conuoie
+S a tant coru que il troua
+.I. carrefor la s arresta
+Page171
+Et uit .IIII. homes qui boissoient
+Une croiz et mout se hastoient
+De boissier la puis l ont dreciee.
+Cil dit qui uoit la croiz boissiee
+Deus que uoi ie Ou ai esté -
+Ou El chastel ou i ai chanté
+A la tresche li rossignous
+Me disoit uoir i estoie fous
+Oui de son chant le mescreoie.
+Ie uoi Pasques et que diroie
+Bien m a li dëables d enfer
+En poi de tens geté d iuer.
+Lors se demente et plaint s amie
+Et dit Ie ne me merueil mie
+Douce amie se ie uos ai
+Perdue car ie uos lessai
+Come fous si sai bien sanz faille
+Quant uos ueïstes la bataille
+Que uos i cuidastes ma mort.
+Or n i uoi gié mes nul confort
+En uos trouer trop ai lonc tens
+Carolé Einsi fors dou sens
+S en part d iluec mes tel dueil a
+Pres qu il n enrage. Tant ala
+Qu il encontra en une lande
+L Outredoté qui ne demande
+Page172
+De lui se la meslee non.
+De Meraugis conut le non
+Tantost com il uit son escu
+Car Laquis quant il l ot uaincu
+Li deuisa queus il estoit.
+Si tost com Meraugis reuoit
+Le roge cscu au serpent noir
+Si dit Ie ne quier plus sauoir
+Ie uoi la celui qui Laquis
+Honi por moi ia en iert pris 
+Li droiz. Ie n en prendroie mie
+Concorde. A l encontrer i crie
+folio122d
+Cuuerz assez auez alé
+uoire quant ie t ai encontré
+Ia n iras plus c est sanz merci
+Ainz t aurai mort. Quant ie t ai ci
+Troué ia plus ne te querrai.
+Dit Meraugis Ia en uerrai
+Dou quel que soit morir l orgueil.
+Tu demandes ce que ie uueil
+La bataille est mout bien seant.
+S ele te plest ie la uueil tant
+Qu onques de riens si liez ne fui.
+L Outredotez respont Ie sui
+Plus liez qu onques ne fui nul lieu.
+Ia concorde ce ueu a Dieu
+N iert ia por chose qui auiegne
+Car il m est tart que ie te tiegne.
+Page173
+Lors n i ot plus le parler lessent 
+Lor cheuaus hurtent si s eslessent
+Fier et hardi plus que lieparz.
+Des fers des lances et des darz
+S entrefierent si que il font
+Escuz croissir li hauberc sont
+Par force rot si que les fers
+Boiuent es piz trestoz enuers
+S entreportent li dui uassal.
+Quant il cheïrent li cheual
+S en fuïrent plus tost que foudre.
+Cil qui remestrent en la poudre
+Sont mout blecié. L Outredotez
+Fu par mi les destres costez
+Feruz au cheoir en l erbu.
+Bien en garra. Meraugis fu
+Feruz el piz soz la mamele
+Si en parfont que l alemele
+Dou glaiue en seigna par derriere
+De lui. Ne sai en quel maniere
+II en garisse trop seroit
+Forz a garir mes orendroit
+Ne le sent il ne cil nel set
+Ne cist ne cil por mal qu il ait
+Ne s esmaient en piez reuienent.
+Les escuz qui mout lor auienent
+Page174
+Metent auant espees tretes
+S entreuont et gietent retretes
+Sormontees et entredeus
+Que nus ne peüst entr eus .II.
+ueoir fors les espees nues
+Oui uont et uienent uers les nues
+Et mout sont cleres et trenchanz.
+Et il fierent uns cous si granz
+folio123a
+Que trestoz as premerains cous
+Font des heaumes croissir les clous
+Si qu il descerclent et peçoient.
+Li haubere que por forz tenoient
+Ne ualent rien tuit sont desrot.
+As espees qui trenchent tot
+Font des testes le sanc saillir.
+Tot coup a coup sanz riens faillir
+S entreuienent si aïré
+Tu m as feru ie te ferré
+Ne sai li queus le fist noauz
+Mes ainz que fausist li assauz
+Qui premerains fu comenciez
+Ot dis plaies li mains bleciez
+Dont uns autre fust affolez.
+Encor ne s est nus reposez
+N il ne font pas grant demoree.
+Sempres reuont a la meslee
+Page175
+Recomencent de chaut en chaut
+La deduient au tierz assaut
+S entresont mout entrempirié.
+Par tantes foiz sont reperié
+A la meslee que il sont
+Près de la mort mes il n i ont
+Assez ainçois en uuelent plus.
+Lors dit l Outredotez Mar fus
+Bataille tu es la meillor
+Qui onques fust ia mes nul ior
+Par .II. homes tel ne sera.
+Dit Meraugis qui l escouta
+Por quoi mar fus - Qu ele est perdue.
+Ia par nos n iert auant seüe. -
+Por quoi - Ie conois bien et uoi 
+Que tu m as ocis et ie toi.
+Si est domages car tu es
+Li plus hardiz qui onques mes
+M encontrast. S en ai encontrez
+Assez mes nes ai pas contez
+Et mout en ai et morz et pris.
+Mes sor toz ie t en doing le pris
+Car tu es li plus merueilleus.
+Ne t en fai pas plus orgueilleus
+Se ie te pris ia por cest los
+Ne te cherra some de dos
+Page176
+folio123b
+Que tu ne muires sanz respit.
+Auoi fet Meraugis qui dit
+Bien sai que mautalenz et ire
+Te fet ceste parole dire.
+Certes bien croi que ie morrai
+Mes ia tant come ie durrai
+Ne me tendras por recreant.
+De ce que tu me prises tant
+Dis tu t onor et ie pris toi
+Plus n il n iert pas tel dueil de moi
+Come de toi se ie muir non
+Car ie ne sui de nul renon
+Mes tu es li plus renomez.
+Sol dou non dont tu es nomez
+Puet l en mout grant paor auoir
+Car tes nons fet a toz sauoir
+Que l en te doit outredoter.
+Ce ne fet pas a redoter
+Que mainz cheualiers ne te dot
+Et ie meïsmes te redot
+Plus qu onques mes ne dotai home.
+C est li nons qui plus droit se nome
+Que li tuens. Mes se ci estoit
+Li rois Artus il ne porroit
+Nos acorder ne metre pes.
+I ai a Laquis de Lampagrés
+Promis la main dont tu creuas
+Son oeil. Ou tu la me leras
+La main ou ie lerai la uie.
+Page177
+Est ce ce dont tu as enuie
+Meraugis - Oïl - Tu es fous
+Que de la main prendras les cous
+Dont tu morras. Trop auon ci
+Esté en pes ie te renui
+Au gieu ou nos metron chascun
+Tot contre tot tot iert a un.
+Ne dirent plus eneslepas
+Espees tretes a granz pas
+S entreuienent mes il ne fierent
+Fors es plaies qui es cors ierent
+Que li hauberc sont desmaillié
+Tant ont desus les cors maillié
+Des espees qui uont et uienent.
+Merueille est com les ames tienent
+Es cors qu eles ne saillent fors
+Qu il n i a nul qui n ait el cors
+folio123c
+.X. plaies par mi la menor
+Porroit une ame sanz demor
+Issir s en les eles tendues.
+Mout se sont les ames tenues
+Et tant se tienent que de sans
+Lessent tant qu il perdent le sens
+Et lor force que li plus forz
+N a tant pooir por nul esforz
+Qu il puisse s espee tenir
+Page178
+Non pas tant d escu sostenir
+Com il ont ainz les ont lessiez.
+Des braz se sont entrembraciez
+Par les testes ilueques sont
+Entrapoiié que riens ne font
+Riens ne dïent ne il n i a
+Celui des .II. qui .I. esta
+Feïst par soi qu il ne porroit
+Que se cist n estoit cil cherroit.
+Einsi ont une piece esté	
+Tant qu en la fin l Outredoté
+Morut si chieent ambedui
+Meraugis sus et cil soz lui
+Qu il n a pooir de fere plus.
+Un poi s escrie au cheoir ius
+Meraugis qui encor n est mie
+Morz lors li menbre de s amie
+Et de la main que il promist
+A Laquis. En cel porpens prist
+Force et uigor si s est dreciez
+Par force et tant s est esforciez
+Qu il a pris une espee et uoit
+L Outredoté qui se gisoit
+Tot enuers les paumes tendues.
+Meraugis drece uers les nues
+L espee et fiert desus le poing
+Contre terre .II. piez en loing
+Page179
+uole la main et il la prent.
+Quant il la tient tot erraument
+Sospire en cel sospir qu il fet
+Li faut la force et il s en uet
+En mi la lande toz enuers.
+Desus son piz tint en trauers
+As .II. braz la main embraciee
+Au cheualier el l a laciee
+Contre son piz par tel pooir
+Que bien pert qu il la ueut auoir.
+folio123d
+Einsi en mi lande iurent
+Li cheualier et tant i furent
+Que par iluec uint une rote
+De cheualiers. La estoit tote
+La force Meliant de Liz
+.I. cheualiers preuz et hardiz
+Les conduit serorges estoit
+Belchis le Lois qui li auoit
+Mandé qu a Pasques fust a lui.
+Cil qui nel lesse por nului
+I uient ensemble o lui uenoit
+Espinogrés ses nies qui doit
+Lidoine prendre et estre rois.
+Mes li uaslez sera ainçois
+Cheualiers que l en la li doigne.
+A Pentecoste sanz aloigne
+Sera cheualiers a Monhaut.
+Page180
+Tant ont erré qu en mi le gaut
+Trueuent les cheualiers gisant
+Oui combatu s estoient tant
+Ensemble qu assez en auoient.
+Cil de la rote qui les uoient
+uont cele part si s arresterent
+Sor eus et tant les esgarderent
+Qu il conurent l Outrecoté.
+Mes il ne seuent uerité
+Qui cil est qui ocis l auoit
+Ainz dïent tuit Deus qui estoit
+Cil qui fu tant bons cheualiers
+Dit Melianz de Liz li fiers
+Qu est ce  - Sire cist est ocis
+Qui ert dotez en toz païs. -
+L Outredotez - uoire sanz faille
+Onques mes ne fu tel bataille
+Que cist est morz - Qui l a ocis -
+ Ne sai li queus en a le pris
+Mes chascuns a sa mort uengiee.
+Cil qui li a la main trenchiee
+Fet il en a le pris par droit.
+Ice qu il la tient si estroit
+Contre son piz que senefie
+Bien pert qu il ne la lessast mie
+El champ s il eüst le cuer sain.
+Que que soit li forfist la main
+Seignor fet Melianz de Liz.
+Page181
+Lors descent la bele Odeliz
+Une dame qui ert amie
+Meliant de Liz mes n ert mie
+uilaine ainz ert preuz et cortoise.
+A Meraugis dont mout li poise
+Mist sa main blanche sor le piz
+Et taste s il ert refroidiz.
+Nenil ainz sent qu encor estoit
+Chauz et qu encore li batoit
+Li cuers qui fu de grant esforz.
+Deus fet ele cist n est pas morz
+Li cuers li bat et iel sent chaut.
+De l Outredoté ne me chaut
+Se Deus en a le mont uengié.
+Cil qui li a le braz trenchié
+Est de grant cuer. Se iel pooie
+Garir .I. present en feroie
+A Belchis si li ederoit
+Contre Goruain nus n oseroit
+Proece a la soie aioster.
+Se il ia mes pooit ioster
+De lance grant ioie en auroie
+Dit Melianz Mout en seroie
+Liez s il tornoit a garison.
+Un lit ou nos l en porteron
+Nos couient fere. Sempres uont
+Cueillir .II. perches dont il font
+Le lit si bel qu onques nus plus.
+Page182
+Muguet i ot et par desus
+Ionchent uiolete nouele.
+Li uaslez et la damoisele
+Desarmerent le cheualier
+Mes el point qu il senti sachier
+La main que cele li osta
+Ouri les ieuz si l esgarda
+Mout fierement et en poi d ore
+Li retorna li blans desore.
+Un plaint giete si s en reuet.
+La dame dit Mal auon fet
+Qui li auon la main toloite.
+Lors la remet ausî estroite
+Sor le piz com ele ert deuant.
+La dame dist a son semblant
+De la main qui la li toudroit
+Tant la ueut que il en morroit
+De dueil. Por ce li ont remise
+Desus le piz. La dame a prise
+Une manche blanche et deliee
+Dont ele li a essuiiee
+folio124b
+La chiere qui de sanc fu teinte
+Mainte plaie li a restreinte
+La dame qui grant paine i met.
+Sor toz les autres s entremet
+Espinogrés de lui bien fere.
+Li damoiseaus de bon afere

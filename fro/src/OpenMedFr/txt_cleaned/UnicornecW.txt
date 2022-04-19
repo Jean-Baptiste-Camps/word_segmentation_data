@@ -1,0 +1,387 @@
+#META#  TextURI          UnicornecW
+#META#  DEAF             http//www.deaf-page.de/fr/bibl/bib99u.php#UnicornecW
+#META#  TL              
+#META#  FEW        	    
+#META#  ARLIMA           https//www.arlima.net/uz/unicorne_et_serpent.html
+#META#  Author          
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        De l unicorne et du serpent
+#META#  TextSubtitle	
+#META#  Textuols   
+#META#  TextSubi         short
+#META#	TextDom          lit
+#META#	Translation      false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      uers octosyllabiques à rimes plates
+#META#  TextDescuers     8
+#META#  TextDateARL      13e s
+#META#  TextDateAdi     
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         Wollenberg M.F.
+#META#  EdPlace          Paris-Berlin
+#META#  EdPublisher      Caluary-Durand
+#META#	Eduol
+#META#  EdYear           1862
+#META#  EdPages        
+#META#  MsBase          
+#META#  MsOther         
+#META#  MsNum            18
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form             u
+#META#	Complete         true
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/LeDitDeLunicorneEtDelSerpent
+#META#  ScanURIOther	
+#META#  ArkID            ark/13960/t6640t793
+#META#  LccnID         
+#META#  OclcID         
+#META#  WebAuthor        Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer     
+#META#  ORCIDReuiewer   
+#META#  MiscInfo        
+#META#  CCLicense        CC BY-NC-SA 4.0 International
+
+
+§De l unicorne et del Serpent
+Pageu01P003
+Mout par est fols cil ki s entent
+Qui le bien uoit et [le] mal prent
+Trestout premiers doit au bien (en)tendre
+Et puis as autres faire entendre
+Aucun bien se ses cuers li laisse.
+Or uous ai mis tel cien en laisse
+Que ie lairai coure par cans.
+Il n est nus hom tant soit uiuans
+Se ceste oueure uient esscouter
+Que moult ne doie redouter
+Le diauble qui nos iustice
+Par le pechie de couuoitise.
+Or uos uuel commencier .i. conte
+De couuoitise qui sourmonte
+Trestout le mont a .i. seul mot
+Elle est par tout si a hauot
+Que cascuns en a tel plente
+Qu ele a tout le mont aueule.
+Iaadis .i. preudom estoit
+En .i. cemin et si erroit
+Deuant lui coisi une bieste
+Hideuse de cors et de tieste
+Et sour toute riens felenesse
+Et si estoit si larenesse
+Que n est nus hom qui tant seuist
+Qui de li garder se peuist.
+E mi le front estoit cornue
+D une corne si tres ague
+Qui[l] n est arme qui le tenist
+Pour tant c a plain cop l atainsist.
+Quant li preudom le uit uenir
+Enfuies tornue par air
+Que paour [a] que ne l ataigne.
+Fuiant uint a une montaigne
+Dont moult est haute la falise.
+Or ne set il mais en quel guise
+Il se puisse garir el monde
+Car la ualee est si parfonde
+Et si hideuse entre .ii. mons
+Que nus ne puet ueir au fons.
+En cele liu qui si est hideus
+A un serpent si mieruilleus
+Pageu01P004
+Que tout le mont uuelt engloutir
+E la gent destruire et hounir.
+Adies a la geule baee
+Si iete une si grant fumee
+Et si orible et si pusnaise
+Et si puant et si mauuaisse
+Qu il n est nus hom pourqu il le uoie
+Que de paour morir ne doie.
+Or est cil en trop grant peril
+Car de .ii. pars uoit son escil
+Il uoit en el fons contreual
+Le sierpent hideus et mortal
+Le fu et le flame meslee
+E le peril de la fumee
+Qui auant aler ne li laisse
+La bieste pas ne le repaisse
+Que pour ocire adies le cace.
+Or ne set il comment il face
+S il atent la bieste il est mors
+Et se li sierpens l auoit mors
+Iamais iour garis n en seroit.
+E[s]uous celui en grant destroit
+Ne set le quel prendre a son cors
+Car s il remaint cois il est mors.
+Il uit deuant lui el pendant
+De la falise haute et grant
+.i. arbre grant et bien ramu
+Et quant li preudom la ueu
+Lors pense que sus montera
+Et sa uie respitera.
+A l arbre uint isnielement
+A ses .ii. mains l aert et prent
+Puis monte amont par mi les rains
+Tant qu il uint sus a daerains.
+Illuec s asist sour une brance
+De lui sauuer en grant balance
+Car la bieste moult le dehaite
+Qui sour la falise l agaite.
+uiers lui sa corne a tornue[e]
+Plus trencant et plus afilee
+C onques ne uit nus hom rasoir.
+Ce dist l escriture pour uoir
+C ainc faus ne fu si esmoulue
+Ne nule alesne si ague.
+Et uoit la desous le serpent
+Qui uuelt mangier toute la gent
+Et le fu et le flame espris
+Dont ses cuers est si entrepris
+De paour a le cuer esmarbre.
+Lors a garde au pie de l arbre
+Si a coisi .ii. biesteletes
+Qui manguent les racinetes
+De l arbre mengoient a force
+Le cuer et le fust et l escorce.
+Si ne sunt pas d une samblance
+Car l une est noire et l autre est blance
+Ne nuit ne iour onques ne finent
+L arbre manguent et afinent.
+Elles ne finent nuit ne iour.
+Esuous celui en grant dolour
+Las fait il que porai ge faire
+Or ne sai ie de quel part traire
+Car ne cuit pas que de cuer maint
+Cis satanas qui la ius maint.
+Les .ii. biesteletes m afolent
+Quiconque i ai de bien me tolent
+Car cil arbres partans cera
+Et cis serpens m engloutira.
+Cele bieste cornue el front
+Qui de mal faire me semont
+M ocira ie le sai de uoir
+Autre garant n em puis auoir.
+Quel part que uoise perdus sui
+Ains mains nus hom n ot tel anui
+Acou qu il ert en tele efrance
+uit deuant lui en une brance
+Trois gouteletes de miel pendre.
+Il les aert si les ua prendre.
+Les .iii. goutes de miel manga
+Et puis une autre regarda
+Si en uit .ui. goutes nouieles
+Qui estoient asses plus bieles
+Que celes ne furent deuant.
+Lors en uit par tout l arbre tant
+Que ce n est se mieruelle non
+Del miel i a a grant fuison.
+Pageu01P005
+Par le miel qu il a goulouse
+A tout seu torment oublie
+Ne li souuient mais de male aise
+Tout a entroblie pour l aise
+Le destruxion qui l atent
+De l unicorne et dou sierpent
+Ne de nul mal ne li souient
+A la docour del miel se tient.
+E las dolans pour coi lai fait
+Quant a si grant dolour le trait
+Car les .ii. biestes ne seiornent
+Qui son arbre a noient li tornent.
+Tant l ont mene et tant rongie
+Que l arbre ont si damagie
+Que nuit ne iour onques ne finent
+L arbre manguent et afinent.
+La bieste cornue uoit bien
+Que li arbres ne uaut mais rien.
+Encontre uint abondissant
+Il ua ia tous amenuisant
+De plains eslais si abandone
+De sa corne tel cop li doune
+Que l arbre fait aual cair.
+Or ne se puet cil soustenir
+Que il ne soit ceüs au fons
+El ual qui st hideus et parfons
+Or est ceüs aual el gouffre
+u il toutes les dolours souffre.
+Or est il drois que ie uous die
+Que cele bieste senefie
+Qui est cornue enmi le front.
+Cou est la mors qui nos confont
+Qui nuit et iour nos est si pries
+Et si nos gaite si adies
+Que n est nus hom qui tant seuist
+Qui de li garder se peuist.
+Felenesse est et mal querans
+Elle prent tout uilains et frans.
+Si uient ausi comme li lere
+Elle emble le fil et la mere
+Le pere au fil le fil a l ome
+Elle prent tout cou est la soume.
+Elle fait si plenier son conte
+Qu ele n espargne roi ne conte
+Arceuesque ne cle[r]c ne priestre
+El monde n a plus felon maistre.
+Et cil ki plus le bieste fuit
+Ce sont home et feme tuit
+Nous qui en ce siecle soumes
+Qui uolentiers la mort fuiomes
+Se nos le sauiemes de cha
+uolentiers iriemes de la
+Il n est nus hom qui le ueist
+Qui uolentiers a ele fuist.
+Et de l arbre et de la falise
+uous dirai toute la deuise
+u li preudom a garant uient
+C est la uie qui nos soustient.
+Cascuns se tient tant com il puet
+Et quant partir nos en estuet
+uoirs est que moult enuis laissons
+Et nos cieres et nos maisons.
+Et quant ce uient au departir
+Que l arme doit dou cors partir
+Qu il samble a cascun sans delu
+Qu il n ait c un [tout] petit uescu.
+Or uous uuel iou la raison rendre
+Et par exemple fa[i]re entendre
+Que les ii. biestes senefient
+Qui l arbre manguent et afinent.
+Cou est li nuis et s est li iours
+Qui no uie met en decours.
+Ier fu plus longe nostre uie
+Qu ele n est [ans] ne doutes mie
+Et hui plus longe que demain
+Ensi croions au daerain.
+L autrier desirames noel
+Quaressme paskes autretel
+Apries pentecoste en este
+Pageu01P006
+Et apries c on ait messonne
+Fieste Toussains et St. Martin
+Ensi trait cascuns a sa fin.
+Li iours et li nuis nos acorcent
+Ensi nos uies nos aprocent.
+Quant li iours et la nuis oscure
+On tant este en no pasture
+Qu il ont no uie pasturee
+Et a noient l ont amenee
+Lors uient la mors qui ne se faint
+De sa corne si nos espaint
+Si durement uiers s acointe
+Qu ele iete mais le plus cointe.
+Or uous uuel dire sans meslee
+Que senefie la ualee
+Qui tant est laide et anieuse
+Orde puant et perilleuse.
+Cou est infiers u li maus keule
+Et li serpens a le grant geule
+Qui tous iours bee a nous decoiure
+Si nos deuos bien apercoiu(r)e.
+Tant con nous auons poeste
+De nos conduire a sauuete
+Doit cascuns faire son agait
+Car se nos somes la ius trait
+Iamais iour issir n em porons
+Mais tous iours en uiuant morons
+Ausi com cil qui gist el fu
+...
+Or est il drois que uous sacies
+Del miel dont l arbre fu carcies
+Or uous en uuel le sens descrire
+Qu il senefie et qu il uieut dire.
+Li miex qui ens en l arbre abonde
+Ce sont li faus delit del monde
+Li biel boire li biel mangier
+Li biel uiestir li biel caucier
+Les grans reubes li palefroi
+Les richeces et li orfroi
+Et li lorain et li cembiel
+Et li heure et li osiel.
+Les grans dames et li bourgois
+Et li uilain et li courtois
+Sont si a tel delit torne
+Que tout en ont dieu adosse.
+Nus ne quiert mais fors ses solas
+Et s aucuns tient entre ses bras
+S amie soit puciele u dame
+Pour cel deduit oublie l arme.
+E las com poure couuoitise
+Qui si tost est a noient mise.
+Or esgardes par tout le mont
+Tous les plus rices ki i sont
+Comme lour ioie tos lour faut
+Si tost com(e)li mor les asaut.
+uiers la mort n a mestr[i]e proece
+Biautes ne force ne largece
+Sens de prouoire ne d abe
+Que n est nus sage clerc letre
+Que tost ne uoist par mi la mort.
+...
+uiers lui ne uaut escus ne lance
+Dras rides ne coueeniance.
+Que feront donc cil baceler
+Qui ne finent de pourpenser
+D iaus cointement aparillier
+Lors dras font crecer et ploier
+Et lors sollers font detrancier
+Dras fileter et en uoisier
+Cil ont del faus miel tant mengie
+Que ia en sont tout engignie
+Et les dames et les pucieles
+Qui sont or sour lour gauieles
+Qui souuent sont encoulourees
+Et afublees * auroet **
+Cascune tout son poour met
+Pageu01P007
+En lui acesmer cointement
+N est pas pour dieu mais pour la gent.
+Quant elles sont aparillies
+Estroit uiestues et caucies
+Si uont deuant lor huis seoir
+Pour cou c on les puist miex ueoir
+Celle qui plus est biele et blanee
+Fait uolentiers de lui mostrance.
+Tele samble estre sauereuse
+Qui a le car laide et hideuse
+Qui toute nue le ueroit
+Sacies que petit l ameroit.
+Les reubes les font auenans.
+Lors ont les grailles si tendans
+C a paines pueent lors bras tendre
+Tous cis orgieus uenra a cendre.
+Geste uie trespassera
+Elle ne uaut riens ne uaura
+Car se ceste uie durast
+Il fust bien raisons c on l amast.
+Mais pour cou qu ele puet falir
+Le doit tous li monde hair
+Et la uie del ciel amer
+u il n ot onques puint d amer
+Qui tous iours sans fin durera
+Tant comme damediex sera
+Qui sans fin sans commencement
+Fu e sera tout uraiement.
+Et cil ki pour les faus delis
+Seront el fuc d infier galis
+Iamais iour issir n em poront
+Mais tous iours en uiuant moront
+Ausi com cil qui le miel prist
+Qui en si grant dolour engist.
+Or proions dieu le glorious
+Que il mete tel sens en nous
+Que nos puissiemes adosser
+Les faus delis et oublie[r]
+Que a infier nos uuelent traire.
+Et diex nos laist tele oeure faire
+Que tous nos mete a garison
+Et duinst uraie confession

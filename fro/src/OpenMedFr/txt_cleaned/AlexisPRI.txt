@@ -1,0 +1,1595 @@
+#META#  TextURI          AlexisPRI
+#META#  DEAF             http//www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
+#META#  TL              
+#META#  FEW        		
+#META#  ARLIMA           https//www.arlima.net/no/114
+#META#  Author          
+#META#  AuthorBorn      
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        Li roumans de saint Alessin
+#META#  TextSubtitle	
+#META#  Textuols         1
+#META#  TextSubi         hagiography
+#META#	TextDom
+#META#	Translation
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      laisses de uers décasyllabiques assonancés (rédaction interpolée)
+#META#  TextDescuers     10
+#META#  TextDateARL      Fin du XIIe ou du XIIIe siècle
+#META#  TextDateAdi      f12 13
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         Paris Gaston Pannier Léopold
+#META#  EdPlace          Paris
+#META#  EdPublisher      F. uieweg
+#META#  Eduol           
+#META#  EdYear           1887
+#META#  EdPages          222-262
+#META#  MsBase           S
+#META#  MsOther         
+#META#  MsNum            1
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/lauiedesaintale03alexgoog
+#META#  ScanURIOther	
+#META#  ArkID            ark/13960/t1ih3nt8t
+#META#  LccnID           14022514
+#META#  OclcID           67605175
+#META#  WebAuthor        Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer     
+#META#  ORCIDReuiewer   
+#META#  MiscInfo        
+#META#  CCLicense        CC BY-NC-SA 4.0 International
+
+
+*** START
+Pageu01P222
+C EST LI ROUMANS DE SAINT ALESSIN.
+# |
+Signour et dames entendés un sermon
+D un saintisme home qui Allessis ot non
+Et d une feme que il prist a oissor
+Que il guerpi pour Diu son Creatour
+Caste pucele et gloriouse flour
+Qui ains a li nen ot conuercion
+Pour Diu le fist s en a bon guerredon
+Saulue en est l ame el ciel nostre signour
+Li cors en gist a Rome a grant hounor.
+Bons fu li siecles au tans ancienour
+10 Quar fois i ert et iustice et amour
+Si iert creance dont or n i a mais prou
+Si est mués perdue a sa ualour
+[Iamais n iert tels com fut aus ancesours.]
+Faut i li biens n i puet auoir uigour
+Ne porte foi la moillier son baron
+Ne li uasals n est faals au signour.
+A essient perdons nostre signour
+Fraisle est la uie ne duerra Ions iours
+# |
+Al tans Noé et al tans Abraham
+Pageu01P223
+Et a Daui que Dieus par ama tant
+Fu bons li siécles  iamais n iert si uaillans.
+S est empierés et li biens ua morant
+Ne porte foi li pére son enfant
+Ne le fius au parrin tant ne quant
+Et li signour uont lor moillier boisant
+Li ordené uont le loi mal menant
+Trespassé ont le Damediu commant.
+Et saintes glises filles Iherusalem
+De tout en tout se uont afoibliant.
+La fois del siécle se ua toute falant
+Fraisle est la uie ne duerra lonc tans.
+Conterai uous del pére et de l enfant.
+Que de mençoigne n i a ne tant ne quant.
+Sainte escriture em puis traire a garant.
+Li fius serui bien Dieu a son uiuant
+Li cors en gist en or et en argent
+L ame est en glore a Diu commandement.
+# |
+Li péres fu preudom et hounerés
+Diu ama bien si maintint carité
+Mais li fius fu meldres de lui assés.
+A son uiuant serui si Damedé
+Qu en blanc argent et en or esmeré
+En gist li cors a Roume la cité
+Tout cil le séuent ki a Roume ont alé
+Et cerkié ont par les maistres autés.
+Li siens moustiers ne fu mie obliés.
+Puis icel iour que Dius nos uint sauuer
+Nostre ancissour orent crestienté
+Fu nés uns sires a Roume la cité
+Rices hom fu de grant nobilité 
+Pour çou uous di d un sien fil uoel parler.
+# |
+Eufemiens ensi ot non li péres.
+Des belisors qui a cel iour i érent
+Quens fu de Roume de toute la contrée
+55 [Donc prist moillier uaillant et honorée]
+Fille Flourent o non Boine Eurée.
+# |
+Bone Eurée li pére ot non Flourens.
+Il l espousa au los de ses parens
+Pageu01P224
+Puis conuersérent ensanle longement.
+Qu enfant nen orent poise lor en forment
+Diu en apèlent andoi parfitement 
+E Rois de glore par ton commandement.
+Soit ta mercis et tes otriemens
+Qu enfant nous donnes qui soit a ton talent.
+# |
+Tant li priérent par grant humilité
+Que la moillier donna fecondité.
+Un fil lor donne si l en seurent bon gré
+De saint bastesme l ont fait rengenerer
+Bel non li misent selonc crestienté.
+# |
+Baptisiés fu s ot a non Alessi.
+Qui le porta uolentiers le nourri
+Puis li bons péres a escole le mist
+Tant aprist letres ke bien en fu garnis
+Puis l enuoia l empereour seruir.
+# |
+Li emperéres ot non Oteuians.
+Illuec serui enfreci a set ans.
+Et puis l a fait son maistre cambrelenc.
+Se li caria tous ses commandemens
+Et sa iustice deseur toute sa gent
+Ceuaus et murs et palefrois amblans
+Et plainnes males entre or fin et argent.
+Son pére ama si l en a donné tant
+Et a sa mére rice sont et manant.
+Or uoit li pére que mais n ara enfant
+Mais que ce seul que il par aimme tant
+Dont se pourpense del siécle a en auant.
+Si uelt qu il prenge moillier a son uiuant.
+Pour li a quise le fille un noble Franc.
+# |
+La pucele iert de moult grant parenté
+Fille a un conte de Rome la cité 
+Lesigne ot non ses pères Signourés
+N a plus d enfans bien le puet marier.
+Emsamble en uont li doi pére parler.
+Les dous enfans ueulent faire asambler.
+Pageu01P225
+# |
+Noument le terme de leur assamblement.
+Quant uint au iour se l  fisent belement
+Ens el moustier saint Iehan del Latran
+Sains Alessis al los de ses parens.
+L a espousée moult hounerablement.
+Mais de tout çou ne uausist il nient
+De tout en tout a a Diu son talent
+Plus aimme Diu que nule rien uiuant.
+# |
+Quant çou fu cose que il l ot espousée.
+De ses alues moult gentement douée
+105 Mout en fu liés et li pére et li mére.
+Et si ami et cil de la contrée.
+Puis l emmena a le maison son pére.
+# |
+Quant lor conroi orent aparellié.
+Et fait des noeces le premerain mangier
+De cel saint houme que Diex par ot tant chier.
+Et de la feme ke il prist a moillier.
+Dont ua li iors e uous la nuit cangier.
+Ce dist li péres Biaus fius alés coucier
+Auoec t espouse a Damediu congié.
+Ne uaut li enfes son pére corecier.
+Sus se leua enuis u uolentiers.
+ua en la cambre o sa gente moillier.
+Li pére i fu et la mére au coucier.
+Le cambre ont faite encenser et ioncier
+Tendent i pailes a or entrelaciés.
+Quant il s en issent si font l uis uerillier
+A dous sergans les font la nuit gaitier.
+Sains Alessins a parlé tous premiers.
+# |
+Sains Alessins esgarda la pucele.
+Assés i ardent candoiles et lanternes.
+Mout la uit gente et couroiteuse et bele
+Ses oels en tome uers le signour celestre
+Qu il amoit plus que nule riens terrestre
+Elas dit-il com fors pechiés m apresse
+S or nen m en uois iou crien que ne te perde
+Qui me fesis pére qui tout gouuernes
+Pageu01P226
+Regarde moi de tes clers ex en terre
+Que ne perdés ne moi ne la pucele.
+Donnés moi sire itel seruice faire
+C onques diables de nous dous n ait poeste.
+Mes péres m aime si cuide grant bien faire.
+Qui me desfie de la uie terestre
+Tollir me uieut nostre signour celestre.
+# |
+Quant en la cambre furent andoi remés
+Sains Alessis prist a li a parler.
+Le mortel uie li prist molt a blasmer
+De la celestre li moustre uérité.
+Que lui ert tart ke il s en fust tournés
+# |
+Bele dist il celui trai a garant
+Qui nous raienst de son precieus sanc
+Et de la uiergene fu nés em Belliant
+Et baptistere prist el flum de Iordant
+La soie uie n ara ia finement.
+# |
+Bele dist il celui tien a espous
+Qui nous raienst de son sanc precious
+Car en cest siecle nen a parfite amour
+A mout grant ioie s asamblent peceour
+Mais il desoiurent a doel et a tristour.
+# |
+Quant ses paroles li ot issi contées
+Et la pucele les ot bien escoutées
+Del couuretoir ua puis acouuetée
+Prist un anel dont il l ot espousée
+Dous pars en fist al trencant de l espée
+L une partie l en a recoumandée
+Se li pria qu ele soit bien gardée
+S on li demande k ele soit aprestée
+Emsamble lui en a l autre portée.
+Que se iamais reuient a sa contrée
+Et il li moustre les ensegnes prouuées
+Que l  recounoisse entre li et sa mére.
+Dist la pucele  Or sui molt esgarée
+Pageu01P227
+Mainne me la dunt tu m as amenée.
+Por coi me lais Ia m as tu espousée.
+Que querras ore en estrange contrée
+Que porai dire ton pére ne ta mére
+Sempres m aront de lor terre ietée.
+Puis m en irai com autre asoignentée.
+Tel honte arai iamais n iere hounerée.
+Bele dist il n estes mie senée
+A Diu te tien si deuien s espousée
+T ame iert el ciel roine corounée
+Em Paradis iert mise et aleuée.
+# |
+Bele dist il ia sés tu bien de fi
+Que l ame estuet de nos cors departir
+Que caut del cors quant en tere porrist
+L ame iert moult lie qui Diu ara serui
+Droit en ira es ciels dont elle uint
+Al Saint Espirt dont Damedius le fist
+Li cors en tere dont il fu establis......
+Li cars deduist li os ne puet porrir
+Doucement flaire comme flors en auril
+Et del mort home refera Dius le uif.
+Las li meffait que porront deuenir
+Qui estorra del cors au departir
+Dont li cors put et li os est pouris
+Ens en abisme trebuce al maleis
+Sous limo terre dont ia n iert reuertis
+Ne sains ne sainte nen iert ia si hardis
+Que ia li proit qu il li face merci.
+Pour Diu pucele enten çou que iou di
+Car tu ne sés que t est a auenir
+Qui plus durra uiuera moult petit
+Enuers la uie qui grans est a uenir
+Del nouuel siecle qui duerra tondis.
+# |
+ Qui fait le bien se reçoit Damedés
+Et qui le mal cil est mal eurés
+Ens en infer le trebuce maufés.
+Pageu01P228
+Sous limo terre dont i a n iert racatés.
+Sainte escriture ne set auant aler.
+Dotant celui ki ne puet amender
+S il ert dolenz ne l estuet demander.
+Ot le la bele ne cesse de plorer
+Sire fait ele or te commant a Dé
+Quant autrement ne te puis retorner.
+Cil fu moult liés si uolt del lit leuer
+Et en apres le prist a rapeler
+# |
+Bele pucele ce dist sains Alessins
+Or m en irai en estrange pais
+Mais iou ne sai com iert del reuenir
+De cest anel que iou ai departi
+Ceste moitié qu en m aumoniére ai ci
+D ui en un an le renuoierai ci
+Par un mesaige u moi se iou sui uis
+Se ne reuieng puis pues prendre mari
+Sauoir porras que alés sui a fin.
+Ot le la bele si a ieté un cri
+Quide sa mére que il iuast a li.
+Bele dist il uous me uolés hounir.
+Par Diu dist ele aiés de moi merci.
+Sire dist ele moult ai mon cuer mari
+Se moi en poise pour coi me as plus uil
+Certes nen ai çou dit sains Alessis
+Ains uous aim plus que riens que Dius fesist
+Sans cel signour qui nous forma et fist
+Ia le querrai u il fu mors et uis.
+Et au sepulcre u il resurrexi.
+Qu il nous reçoiue ens el saint paradis.
+Sire dist ele Dius uous i laist uenir
+# |
+Frans hom dist ele quel le uauras tu faire
+Gehis le moi pour Diu et en confesse
+Se ie l  di home Diu em puisse iou perdre.
+Quant il oi que pour Diu l en apele.
+Dont ne l  laissast pour nul auoir de tere
+Certes dist il Damediu irai querre.
+Pageu01P229
+Qu il nous reçoiue a son regne celestre.
+Il ne faut mie a houme qui le serue.
+Au congié Diu sire dist la pucele
+Grand duel arai et nuit et iors acertes
+Iou remanrai caitiue en ceste terre.
+# |
+Quant il oi qu elle l ot otroié.
+Sous ciel n a home qui l  peust courecier.
+Sire dist ele com ert del repairier
+Di me le terme sel ferai metre em brief.
+Mout as dur cuer qui or me ueus laiscier
+Et pére et mére qui par t ont si trés cier.
+Iou sui moult fole si ne fas mie bien.
+Quant ne te fai et piés et mains loiier.
+Dont ploura il des biaus oels de son cief.
+Certes pucele del terme ne sai nient
+L en set quant ua mais l en ne sait quant uient.
+Que que iou face a Damediu te tien.
+Que Dius uous doinst a ioie repairier
+Se ne te uoi mais n arai mon cuer lié.
+Bele dist il pour Diu ne te targier
+De Diu seruir plus ne te uoel proiier.
+Car ia peciéres n en iert si eslongiés.
+Par sainte glise ne puisse repairier
+C est li seruices que Diu par a moult cier.
+Dist la pucele Sire uous dites bien.
+Car se Diu plaist or le ferai moult bien.
+Se Diu tant m aime que m i laist aprocier.
+# |
+Bele pucele çou dist sains Alessins
+Ne deuons mie nos cors si raemplir
+De grans uentrées que ueulent recueillir
+Car endementre que li peciére uit
+Et tient le bien dont li cors doit garir.
+Il en doit bien pour s ame departir 
+A la grant ioie qui est en paradis
+La est la uie qui ia ne prendra fin.
+Dolant le cors qui tout ueut engloutir
+C ara dont l ame quant li cors a trop pris
+Quant ia li hom n ara si cier ami
+Pageu01P230
+Puisqu il est mors et alés a sa fin
+Que ia le ueulle plus oir ne ueir
+Ains li est tart que il soit enfouis
+A mal eur cil est engenuis.
+Qui se trauaille pour infer deseruir.
+Dist la pucele Sire uoir aués dit.
+Les uos raisons doit on bien retenir.
+Estes les uous belement departis
+Plorent des oels ne se porent tenir
+Et la pucele gentement li a dit
+Or t en uas sire Dieus te laist reuenir.
+Quant autrement ne te puis retenir.
+Dolante en ert cele qui te nori
+Si ert li péres qui toi engenui.
+Et iou meisme qui t auoie a mari.
+Iou remanrai en estrange pais.
+Et esgarée entre tous mes amis.
+Hui uerrai noeces a grant duel departir
+S encor ne t  uoi de duel m estuet morir.
+# |
+Or t en ua sire iou te commant a Dé
+Quant autrement ne te puis retorner.
+Cil ert dolans qui t auoit engenré
+Si iert ta mére qui te porta en lés.
+Et iou meisme qui sui en ueueé.
+Hui uerrai noeces a grant duel deseurer.
+Il se signa si le commande a Dé.
+Ele l apèle doucement et souef.
+Sire dit ele iou te commant a Dé.
+Con faitement m en porrai consirer
+S a ten consel le peusse trouuer
+Qu ensemble toi me laissaisses aler
+Ia me ueroies gentement conreer
+Tondre mes crins un capel afubler
+Et prendre escerpe et un bourdon ferré
+Seruirai toi de tes dras relauer.
+Ne ia luxure ne m  uerras demener
+Ne adultére ne autre puteé.
+Non ferai bele ains te commant a Dé
+Pageu01P231
+Le glorious qui pour nous fu penés
+En sainte crois pour son pule sauuer.
+Ele commence grant duel a demener.
+Il uint a l uis sel deffrema souef
+A mienuit s enfuit de la cité
+Si que ses pére et sa mére ne l set
+Ne li seriant qui l orent a garder.
+De c est moult liés s en loe Damedé
+Que la pucele l en a congié douné.
+Quant il fu iors et solaus fu leués.
+Descent un ual s a un tertre monté
+A quatre liues de Roume la cité
+Regarde Rome et en lonc et en lé.
+Enuers le ciel en a son uis torné
+Estroitemenl a Iesu reclamé.
+Que la pucele dont issi a esré
+Doinst en cest siécle tel uie demener.
+Que l ame en soit el saint regne de Dé
+Puis se li est de son pére membré
+Et de sa mére  si commence a plourer.
+Par lui meisme s en est reconforté.
+Droit en la mer en aquelt son esrer.
+Preste est la nés u il porra entrer
+Donne son pris si est tous seus entrés.
+Drecent lor sigle laissent courre par mer.
+En Iersalem les conduist Damedés 
+Sains Alessins est issus de la nef.
+# |
+Sains Alessins est de la nef issus
+uint al sepulcre u nostre sire fu.
+Fist ses priiéres si s est confès rendus.
+Dous iors seiourne et dous nuis i estut
+Qu il ne mania ne sa bouce ne but 
+Après en est al flun Iourdan uenus
+U li baptesmes de nostre signour fu
+Et li apostle si baptisiérent tuit.
+Il se despoille si se baigna tous nus
+Puis prist des palmes si s en est reuenus.
+Pour les Iuis n i osa estre plus.
+Pageu01S232
+Car a cel iour que li sains Iiom i fu
+N i auoit il des Crestiens nesun.
+Droit a le Lice a son cemin tenu.
+# |
+Droit a le Lice une cité moult bele
+Iluec s en ua sains Alessis par terre.
+Mais iou ne sai com longes i conuerse.
+U que il soit de Diu seruir ne cesse 
+De sa maisnie ueut il a touiours estre.
+# |
+Après en ua en Aussis le cité
+Pour une ymaige dont il oi parler
+Que angle fisent par le commant de Dé
+El non celi qui porta sauueté.
+Onques faiture ne fu de sa biauté
+Sans nostre dame la mére Damedé.
+# |
+Iceste ymaige signour dont ie uous cant.
+Cou n est de fust ne n est d or ne d argent.
+Mais li sains angles ki fist l anoncement
+De nostre dame u Dius prist car et sanc
+Esgarda bien son uis et son semblant.
+Si fist l ymaige par Diu commandement.
+Pour soie amour le mist non Marien.
+# |
+Marie ot non comme la mére Dé.
+Si uint du ciel de sainte maisté.
+Par un deuenres de la crois aourer.
+Que nostre sire transi pour nous sauuer
+Par itel iour de la passion Dé
+Le mist li angles issi en la cité
+Ainc en la tere nen ot plus poureté.
+La le requist sains Alessis li ber
+Tout son auoir que il en ot porté
+A departi ains rien ne l en remest.
+Larges aumosnes par Ausi la cité
+Douna as poures u qu il les pot trouuer.
+Pour nul auoir ne uaut estre encombrés
+Ne ne uolt perdre del ciel les iretés.
+# |
+Quant son auoir lor a tout departi.
+Pageu01P233
+Entre les autres s asist sains Alessins
+Reçust l aumosne la u Dius li tramist.
+Tant en retint que son cors en soustint
+Le remanant en rent as pouerins.
+# |
+Or reuenrons au pére et a la mére
+Et a l espouse ki seule en est remése.
+Quant il çou sorent ke il fuis s en ére
+Çou fu grans deus que il en demenérent
+Et grans complaintes par toute la contrée.
+# |
+Fius Alessins de ta dolante mére
+Tu m es fuis dolante en sui remése.
+Le liu ne sai ne ne sai la contrée
+U iou te quiére toute en sui esgarée.
+Ia n ierc mais lie biaus fius si n iert tes pére
+Se ne reuiens en iceste contrée.
+Çou fu grans deus que il en demenérent.
+# |
+uint en la cambre plainne de mariment
+Si le despoille que n i laissa nient
+N i laisse paile ne nul cier garniment.
+Tost a tourné a grant duel son talent 
+Par grant dolour se deiète souuent.
+Ains puis cel iour n en fu lie granment.
+# |
+uint en la cambre toute l a desparée
+Si l a destruite comme elle ert la uesprée
+Ostent les pailes et les courtines lées
+415 Sa grant ricoise a a grant duel tornée
+Ains puis cel iour ne fu lie li mére.
+Cambre dist ele mal fuissiés atornée.
+Contre ques nueces uous auoie parée
+Iamais en uous n iert leèce trouuée.
+Tel duel en ot a poi ne ciet pasmée
+Quant par la main le reliéue li pére.
+
+De la dolour s asist la mére a tere
+Ne s asist mie ne sour banc ne sour sele
+Si fist l espouse saint Alessin la bele
+Dame dist ele iou ai fait moult grant perte.
+Pageu01P234
+Iou ai perdu mes nueces les nouueles.
+Or mais uiurai a loi de tourterele
+Qui pert son malle puis ne ueut autre querre.
+Quant n ai ton fil ensamble toi uoel estre.
+Seruirai Dieu car miex ne puis iou faire.
+S il ne reuient ne a toi ne repaire
+Iou me tenrai deuers le roi celestre
+Car a nul houme n aurai iamais a faire
+Ne me faura s il uoit que iou le serue.
+# |
+Respont li pére Que bone feme as dit
+S ensemble moi te uoloies tenir
+Seruirai toi pour amour a mon fil.
+Ia n aras mal dont te puisse garir 
+Faille me Diex se te fait a nul di.
+Dist la pucele  Sire uostre merci.
+Il m espousa al los de mes amis
+Or sui maluaise si me doit Diex hair
+Si moi ne membre de çou que il me dist
+A icele eure que de moi departi.
+Quant tu pour lui me uauras retenir.
+Très or tenrai Damediu a mari
+Ne me faura se iou le uoel seruir.
+Quant ot la mére que la pucele dit.
+Que Damedeu seruira pour son fil
+Tout em plourant la baise enmi le uis
+Plourent ensamble del duel de lor ami
+L une son fil et l autre son mari.
+# |
+Pleurent ensamble lor ami c ont perdu.
+Pleure la mére et la pucele plus.
+Dius dist la mére qu est mes fiex deuenus
+Çou dist li péres   Peciés le m a tolu.
+Dius dist l espouse com petit l ai eu
+Hier euc signour mais n en ai ore nul
+Sans Damediu le glorious la sus.
+# |
+Dont prist li pére de ses millors serians
+Par moult de terres fait querre son enfant.
+Pageu01P235
+Dedens Ausis uinrent tout droit esrant.
+Illuec trouuérent dant Alessin seant
+Entre les autres ua l aumosne querant
+Ne recounurent son uis ne son samblant.
+# |
+Dont ot li enfes sa tenre car muée
+Sa uesteure desroute et despanée
+Qu il ot portée par estranges contrées
+Nel recounurent li doi sergant son pére
+A lui meisme ont l aumosne dounée.
+# |
+Nel reconnurent ne ne l ont entercié.
+Sains Alessis en loe Diu del ciel
+Des sers son pére qui il ert aumoniers.
+Ains fu lor sire or est lor prouendiers 
+Ne uous sai dire comme il par s en fist liés.
+# |
+Li doi seriant s en uont a lor ostel
+Il les poursuit tant que les uit entrer
+Pour l ocoison de l aumosne donner
+S en ua a l uis lor raison escouter
+Li seriant fisent lor oste o els disner.
+Se feme et il prisent a demander
+Signour dist il ques hom est que queres
+Un cheualier un iouene baceler
+Un gentil homme si iert de Roume nés
+Onques ses péres qui l auoit engenré
+N ot plus d enfans sel pooit moult amer.......
+Sous ciel n a houme s il l ooit regreter
+Ne li estuece des iex del cief plourer.
+Auoirs nous faut n auons mais que donner.
+ueullions u non nous en estuet aler.
+Dius dist li ostes qu en feriés uous el
+Sains Alessis a bien tout escouté.
+E cuers dist il com estes adurés
+Gente pucele mout de mercis et grés
+Iou t ai fait mal et tu m as houneré.
+Pageu01P236
+Pitié en ot si commence a plourer.
+Li seriant uirent qu il ne l  porrent trouuer.
+Trois fois l ont quis par Ausis la cité.
+Par moult de teres l ont quis et demandé.
+II nel connurent si ont a lui parlé.
+Puis s en repairent en Rome la cité.
+Noncent au pére qu il ne l  porent trouuer
+S il fut dolans ne l estuet demander.
+ueullent u non metent l el consirer
+Mais lor grant duel ne puent oublier.
+Alessis est en Ausis la cité
+Son signour sert par grant humilité
+Que anemis ne l em puet encombrer.
+# |
+Dis et set ans ainc rien n en fu a dire
+Pena son cors en Damedieu seruice.
+Ce ne fist il pour ami ne amie
+Ne pour hounor qui li en fust a dire
+Mais pour celi qui fu nés de la uirge.
+Pour nul auoir ne s en tornera mie.
+# |
+Quant son coraige ot a çou atourné
+Que ia son uel n istra de la cité
+Dius fist l ymage pour Alessin parler.
+Par un miedi de la Natiuité
+Que tous li pules fu par matin leués
+Pour le seruice qu il durent escouter.
+Il i uint ains que sains i fust sonnés
+Si com li hom qui  n iert acoustumés.
+En es le iour que Damedieus fu nés
+Fist Dieus l ymaige trois fois pour lui parler
+L ymaige en a Ermener appelé.
+Un saige clerc qui seruoit a l autel.
+Çou dist l ymaige  Apèle l oume Dé
+Car il est digne d en Paradis entrer.
+Et pére et mére guerpi pour l amour Dé
+Et son auoir et tout son parenté.
+Bon guerredon l en rendra Damedés
+A grant martyre a son cors atourné.
+Pageu01P287
+# |
+Çou dist l ymaige Fai l ome Diu uenir
+En cest moustier car bien l a deserui
+Car il est dignes d entrer em paradis.
+Cil ua sel quiert mais il ne l  set coisir
+Icel saint home de cui l ymaige dist.
+Deuant l ymaige reuint tous esbahis.
+# |
+Li clers reuint esmaris al moustier
+Deuant l ymaige commença a prier.
+Gentiels ymaige ne sai qui entercier
+Angle te fisent par commant Diu del ciel
+Tel paour ai tous sui desconsilliés.
+Çou dist l ymaige Celuy qui les l uis siet
+Près est de Diu et del régne del ciel.
+Par nule guise ne s en ueut eslongier..
+Ot le li clers s est issus del moustier.
+# |
+Ot le li clers fors del moustier issi.
+Par les ensegnes que l ymaige li dist
+Le reconnut onques rien n i falli
+Cele part uint a apeler le prist.
+Com as tu non car me dis biaus amis.
+Sire dist il i ai a non Alessis
+Uns peciére hom se uoel espeneir.
+A ceste feste c on dist Arcedeclin
+Que nostre sire forma de l aige uin
+Adonques iérent dis set ans acompli
+Que iou issi tous seus de mon pais
+Ainc puis ne ui nul home de mon lin
+Ne sai se Dius m i feroit reuenir.
+Car iou fui clers de letre bien apris
+Puis fui tant fols que cheualiers deuing
+Feme espousai et mes nueces en fis
+Ains le guerpi que li plais departist.
+Qui çou a fait comment porra garir
+N en orés plus Alessins li a dit.
+Ot le li clers si l en a fait enclin
+As piés li ciet et cil le recuelli.
+E uous la noise par trestout le pais
+Que cele ymaige parla pour Alessin.
+Pageu01P238
+Tout l en hounorent li grant et li petit.
+Si fust euesques se le uausist souffrir.
+# |
+Quant il uoit çou que l  ueulent hounerer
+Et uesque faire en Ausi la cité
+E Dieus dist il ci ne uoel mais ester.
+De grant ricoise et d orguel demener
+Ne puet on mie Damedieu acater.
+A mienuit s enfuit de la cité.
+Ne quist congié ne n osa demander
+Contre son gré ne l i facent ester
+Droit a la mer en aquelt son esrer.
+[Dans Alessis entra en une nef]
+Donna son pris si est dedens entrés.
+Drecent lor sigle laissent courre par mer
+La prendront terre u Dius l a destiné
+Droit a Troholt quidiérent ariuer
+Mais ne puet estre c autre part sont torné
+Tout droit a Roume les conduit li orés
+A un des pors qui plus près de Roume ert.
+# |
+A un des pors qui ert plus près de Roume
+Illuec arriue li nés a cel saint home.
+Quant uoit son regne mout forment s en redoute.
+Fait ses priiéres a orisons se coce
+Diu en apèle et saint Piére de Roume
+De ses amis que ne l  counoissent onques
+Ne de l onor del siécle ne l encombrent.
+# |
+E Dius dist il glorious rois celestres
+Se toi pleust ici ne uausise estre.
+Se me counoissent la gens de ceste tere
+II me prendront par force et par poeste
+Si iou s en croi il me trairont a perte.
+# |
+Aiue Diex qui nous as em baillie
+Se uel auoir le uraie compaignie.
+Et deseruir uostre durable uie.
+Pageu01P239
+Se me counoist ma mére l esmarie
+Et mi parent et m espouse et me sire
+Il me tolront le uostre compaignie
+S il me rembatent en ceste mortel uie.
+Deffent me Diex de toutes males uisces
+Et del diable que il ne m escarnisse 
+Ne puis muer le cuer ne m asousplice.
+Et ne pourquant mes péres me desire
+Si fait ma mére plus que feme qui uiue
+Si fait l espouse que ie lor ai guerpie
+A tous les iors que iou aroie a uiure
+N estoit mais eure plus lié ne m en fesisse
+Conduit me done sire par itel guise.
+Que bien les uoie et sace lor couuine.
+Ne me counoissent ne nus hom ne lor die
+Puis m en iroie faire uostre seruice
+Si esteroit l ame moie garie.
+Ist de la nef quant s orison ot dite.
+# |
+Quant issi ot ses priiéres finées
+Si li a Dius de trestout escoutées
+Qu enuers lui orent lor ueues tourblées
+Ne l  recounurent li pére ne li mére.
+Ne si ami ne cil de la contrée.
+Ne la pucele que il ot espousée.
+# |
+Sains Alessins est issus de la nef
+Tout un cemin s en commence a aler
+Sous une espine s asist pour reposer.
+Il est malade si est moult enfremés
+Si crient morir par estranges ostés
+Son sautier a parfondement preé
+II l a ouuert si a dedens gardé.
+Si a tels letres el parcemin trouué.
+Que la mere a son enfant a garder
+Set ans tous plains c est li primiers eés
+Et puis après s il ciel en effretés
+Toute sa uie que il a a durer
+Pageu01P240
+Or uauroit si son pére araisonner
+Par itel guise peust a lui parler
+Nel couneust a son roumanc parler
+Et sa prouuende li uaura demander
+S a Dieu pleust que li uausist douner.
+Si uauroit miés ses aumosnes user
+Que les autrui dont il fust encombrés
+S en esteroit plus sauls a Damedé
+N  en son herbec ne uauroit ia ester
+Mais ça defors gesir sous son degré
+Puis atendroit le merci Damedé
+Et le iuise qu il li a destiné.
+De sa despoille est tous atapinés.
+ua s ent en Roume a son pére parler.
+# |
+Si s atapine que on ne le counoisse
+Toute la rue s en est alés en Toiure
+Parmi les rues u il fu ia bien comtes
+Autre puis autre et son pére i encontre
+Ensamble lui grant masse de ses homes.
+Bien le counut par son droit non le noume.
+# |
+Son pére encontre ki reuient d orison
+Si iert sa mére qui le tient par le poing
+Del moustier uienent saint Piére le baron
+A messe furent et a pourcession
+Del fil parloient mais il n iert gaires lonc
+Il l apela si l a mis a raison 
+[Eufemiens beaus sires riches hom]
+Car me herberges pour Diu en ta maison
+[Sous ton degré me fai un grabaton ]
+Enfers hom sui  pais moi pour Diu amour
+Et pour ton fil qui Allessis ot non
+Qui te guerpist dont tu as tel dolour
+Que Dieus del ciel itel talent li doinst
+Que il reuiegne a toi en ta maison
+# |
+Quant ot li pére ramenteuoir son fil
+Pageu01P241
+Pleure des oels ne s en pot astenir
+Pour Dieu dist il et pour mon cier ami
+Tot te ferai bons hom çou que tu dis
+Lit et ostel et pain et car et uin 
+Que Damedius faice tous ciaus merci
+Qui le herbegent par estrange pais.
+Dis set ans a que de mes oels ne l  ui.
+E las peciére ne sai s est mors u uis.
+Uns rices hom iert la dans Coustentins
+Et uoit le pére ki herbege le fil.
+Le pére apele gentement li a dit
+ Laissiés le moi sire uostre merci
+O moi uenés biaus sire pelerins
+Herbegiés estes s o moi uolés uenir.
+Emsamble moi se uous uolés tenir
+Ne uous faura ne pains ne cars ne uins.
+S ains muir de uous Diex ait de moi merci
+Et uous ament par coi puissiés garir
+Sire dist il de Diu cinc cens mercis
+Dex herbet toi en son saint paradis
+Hom sui estranges si uieng d autre pais
+Et ostel quier et pour Diu i sui mis....
+Et celui laisse que il a recuelli.
+Et milleur quiert pour son cors miex seruir
+S en celui muert pris est a male fin
+Diu a perdu et son saint paradis.
+La me tenrai u primiers me sui pris.
+Quant on pour Diu m i uolra recuellir. 
+ot le la mére si l a al pére dit
+Sire dist ele ia t a il ostel quis
+Car le herbeges pour Diu et pour ton fil.
+Dame dist il prés en sui et garnis.
+Ot le la mére si rapela son fil.
+Herbegiés estes biaus sires pelerins.
+Ensamble moi uous em poés uenir
+Et pour l enfant pour cui laués requis
+Ia n arés mal dont uous puissiés garir.
+Dame dist il de Diu moult de mercis.
+Et le signour ki uous doit maintenir.
+Pageu01P242
+Et a l enfant c auiés engenui
+Doinst tel coraige que il puist reuenir.
+Il reuenra pour uoir le uous pleuis.
+Ot le la mére si l en a fait enclin
+Pleure des oels et li pére autresi.
+# |
+Eufémien biaus sires rices ber
+Herbegiés sui la merci Damedé.
+Enfers hom sui soufraitous de parler
+Un grebeton me fai sour ton degré
+Pour cel enfant ke tu pues tant amer.
+Que Dius li doinst itel home trouuer
+Qui si le saint qu a li puisses parler.
+Bons hom dist il pour amor Damedé
+Et mon enfant pourcoi l as demandé
+Herberc aras et pain et car assés
+Et puis del uin quant uous boire en uaurés.
+Que Dius assoille toute crestienté
+Qui l  me herbet par estranges ostés
+Moult a dur cuer que si m a oublié.
+# |
+Pleure la mére le duel de son enfant
+Qu ot ramentoiure dont ot le cuer dolant.
+Li pére en ua ses mains si detoriant
+Que a la tere en cairent si gant.
+Sains Alessins s abaisse se li rent.
+E Dius dist il urais pére tous poissans
+Quele amistié entre pére et enfant
+Ces felonnies que iou lor fac si grans.
+Me sont legiéres ses trouuerai pesans
+Al grant iuise me reuenront deuant
+Pour pére et mére qui me pourmetent tant
+Que si par fac coureciés et dolans.
+Aiue Diex s en sont si desirant
+Com il les uoit plourer si tenremant.
+Iriés en est mais il n en fait samblant.
+Crient et redoute ne l  uoisenl rauisant.
+Pageu01P243
+De tout a mis en Iesu son talent.
+Mieus aimme Diu ke nul home uiuant.
+Dius dist li pére cor eusse un sergant
+Qui le gardast trestout a son talant
+S il estoit sers iou le feroie franc.
+Un en i ot qui s en presente auant.
+ués me ci sire se Y gare par uo commant
+[Par toie amour en soufrirai l ahan.]
+# |
+Donc le menat endroit sous le degré
+Fait li son lit ou il puet reposer
+Tout li aporte qanque besoins li est
+uers son seignour ne s en ueut mesaler
+Par nule guise ne l em puet om blasmer.
+# |
+Souuent le uirent et li pére et li mère
+Et la pucele que il ot espousée
+Par nule guise onques ne l  rauisérent.
+Il ne lor dit n il ne li demandérent
+Ques hom estoit et de quele contrée.
+# |
+Souuentes fois lor uit grant duel mener
+Et tout pour lui et nient tout pour el
+Et de lor eus souuentes fois plourer.
+Il les esgarde sel met el consirer
+N a soig que l  uoie si est a Diu tornés.
+# |
+Sour le degré u gist sour une nate
+La le paist on del relief de la table
+Sa poureté deduist a grant barnaige.
+Il ne ueult mie que sa mére le sace
+Miels aime Diu que trestout son lignaige.
+# |
+De le uiande qui del ostel li uient
+Tant en retient que son cors en soustient
+Le remanant en rent as prouuendiers
+N en fait mugot pour son cors encraissier
+As poures gens le redonne a mangier.
+En sainte eglise conuerse uolentiers
+[Chascune teste se fait acomungier
+Pageu01P244
+Sainte escriture ço ert ses conseillers]
+De Diu seruir qui le rueue efforcier.
+Sains Alessis ne s en uoelt eslongier.
+# |
+Sous le degré ou il gist et conuerse
+La li aporte a mangier la pucele
+Qu il espousa et sa feme doit estre.
+A grant barnaige deduit sa grant pouerte.
+Li serf son pére qui le maisnie seruent
+Léuent lor mains hanas et escueles
+Les laueures li getent sour la teste.
+Ne s en courouce ne il nes en apele.
+# |
+Tout l escarnissent si l  tienent por bricon
+L aige li getent et moillent son liton
+Ne s en courece icil saintismes hom
+Ains prie Diu que trestout lor pardoinst
+Par sa merci mais ne seuent qu il font.
+Par une feste de sainte rouuison
+Monta li pére tes degrés contremont.
+Et uist gesir son fil el grabaton.
+Il l apela si l a mis a raison
+Biaus crestiens ne sauons uostre non.
+Faut uous conrois de coi aiés besoing
+Sire dist il Crestiens ai a non.
+Et trestout cil qui leué sont des fons.
+Qui cest non garde s en a bon guerredon
+Et qui ne l  fait mort morians a non.
+Li cors porist l ame toute en pert on
+Fors de la garde des mains nostre signour.
+# |
+Par mon droit non sire m aués noumé
+Se tant sui bons que m en puisse garder.
+En saint baptesme en fons me fut donnés
+Mais iou l  criem perdre par mal siecle mener.
+Conroi ai tant que ne le puis user.
+Celui em puisse grassier et loer
+Pageu01P245
+Pour cui amour le me faites donner
+II uous ramaint celui ke tant ames
+Bons hom dist il ke me ramenteués
+N est mie uis qui tant a demouré.
+Salue en est l ame se Dieu l a commande
+Et Dius en penst par sa grant pieté.
+Mout a dur cuer qui si m a oublié.
+ua sent li pére et li fils est remés.
+E uous le mére qui descent al degré.
+Et le pucele la fille Signoré
+Çou fu l espouse un mantel affublé
+D un paile brun d un hermin engoulé.
+Quant il les uoit s est mout espoentés
+Que par pecié ne lor soit endité.
+Quant il les uoit et uenir et aler
+Et uair et gris et bliaus trainer
+Par desor lui et descendre et monter
+N est tant hardis qu es ost araisonner
+Que ne l  counoissent a son roumanc parler
+Que ne l  rembatent ens el pecié mortel.
+Li mére apele la fille Signoré
+Saués pucele dont m ara moult pesé
+Moi est auis cis pelerins me het.
+Mout longement a o nous conuersé
+C onques nule eure ne me uaut aparler.
+Il est malades si est moult enfremés
+Ne uiura gaires car moult est descarnés.
+Car li faisons ses drapiaus relauer
+Çou iert aumosne si nous en sara gré.
+Sauoir uauroie de quel pais est nés
+Nel sarons mais puis k il iert deuiés.
+Dist li pucele Alons li demander.
+# |
+Çou dist li mére Iou i uois moult enuis
+Quant ie l  regart membre moi de mon fil
+Pour un petit ne l  resamble del uis.
+Lors plour des oels ne m en puis astenir
+Çou est li dels dont m estora morir.
+Cele part uint a apeler le prist
+Dont estes uous biaus sire pelerins
+Pageu01P246
+Dame dist il pour amor Dieu merci.
+Iou sui malades si suis près de ma fin
+Ie ne deuroie uous ne autrui mentir
+Car par mençoigne pert on saint paradis
+D ui a tierc iour le sarés bien de fi.
+Car or aproce al tans et a sa fin
+Et au iuise ke il deuoit morir.
+Mais ains qu il muire uaura faire un escrit
+Si metra tout par letre el parcemin
+Si com li sire qui bien en est garnis
+Et trés bien set et letres et escrit.
+Aprociés moi dist il dame un petit.
+Ele s aproce dusc  au lit u il gist.
+Il s abaissa as piés se li cai
+Puis le baisa se li cria merci.
+Sire dist ele quel pardon m aués quis
+# |
+Sire dist ele quel pardon me querés
+Pour mon malaige quic iou estre encombrés.
+Sire dist ele tout uous soit pardonné.
+ uostre grant painne que eu en aués
+Pour amour Diu si le me pardonnés.
+Et la pucele les a bien esgardés
+Se li pardonne ele fait autretel.
+Ele s en tourne cil est moult liés remés.
+# |
+Iluec conuerse issi dis et set ans.
+Ne l  recounurent ne li serf ne li franc
+N onques nus hom ne sot de ses haans
+Fors sol li lis u il a geu tant
+Ne pot muer cil fu aparisans.
+# |
+Dis et set ans a prourendiers esté
+Et autretant en Ausis la cité.
+Ne but de uin ne de car n a gousté
+Mais del relief qui li uint de l ostel
+Poi en mania a l eure del souper
+A tout le mains qu il s en pot consirer.
+# |
+Quant li sergant li dounent del relief
+Pageu01P247
+Tout le millour en rent as prouuendiers
+Et le plus pesme retient a son mangier
+Dous iors ieune puis si maniue au tierc.
+Ore est fourment ses cors afoibliés
+Se li a Diu pardonné ses peciés.
+Sa fins aproce s en loe Diu del ciel.
+# |
+Trente quatre ans a si son cors pené
+Dex son seruice li uelt guerredonner
+Sa fins aproce ke il doit deuier
+Se li a Diex ses peciés pardonnés
+Ses cors est nés comme argent esmerés.
+Moult li agriéue li soie enfremetés
+Et si set bien que il s en doit aler
+S en est moult liés s en loe Damedé.
+Cel sien seriant a a lui apelé.
+# |
+Os tu serians qui tant iour m as serui
+Dius et sa mére le te puisse merir
+Poures hom sui ne l ai que departir.
+Quier moi biaus frère et enche et parcemin
+Et une penne si ferai un escrit.
+N escris pieça or m en est talens pris.
+Esbatrai moi pesans sui de morir.
+Au congié Diu li serians respondi.
+# |
+Cil li ua querre si li a aporté.
+Quant il le tint s en loa Damedé.
+Tout i escrit quanqu  il a manouuré
+Et çou i mist de quels parens il ert
+Com s en ala en Ausi la cité
+Et com l imaige fist Dius pour lui parler
+Et pour l ounour dont le uaut encombrer
+S en rafui en Roume la cité
+Sen boin seriant n i uaut mie oublier
+Que mieus l en sot quant tant iour l a gardé.
+Les lui le tint ne uaut pas demoustrer
+C om ne l  counoisse dusqu il s en soit alés.
+Car ainc n ama loenge seculer.
+Sa fin aproce li cors est agreués
+Pageu01P248
+Droit entour none s acoise de parler.
+En es le iour que il dut deuier
+Diu consumate em prist a apeler.
+Onques nus hom ne l oi d  el parler.
+En la semainne que il s en dut aler
+uint une uois trois fois en la cité
+Fors del sacraire par commandement Dé
+Por son ami qu il en uoloit mener
+Preste est la gloire u il porra entrer.
+Cel iour a dit Car querés l oume Dé.
+# |
+A haute uois lors uint autre semonse
+Que l oume Diu quiérent qui gist en Roume.
+[Si li depreient que la cités ne fonde]
+Quant il l oirent durement le redoutent.
+# |
+Sains Innocens iert adonc apostoiles
+A lui en uinrent et li rice et li poure
+Requisent li consel de cele cose
+Qu il ont oie qui si les desconforte
+Ne gardent l eure que terre les encloe.
+# |
+Li apostoile et li empereour
+Li uns Acaire li autre Honoire out non.
+Et tous li pules par commune raison
+Deprient Diu que consel lor en doinst
+De cel saint home par qui il gariront.
+# |
+Trestout deprient la soie pieté
+Que lor ensaint u le puissent trouer.
+uint une uois qui lor a endité
+A le maison Eufemien querés
+Car illuec est iluec le trouuerés.
+# |
+Tost s en tournérent sour dant Eufemien
+Alquant le prendent forment a blastengier
+Iceste cose deussiez anoncier
+A tout le pule qui ert desconsilliés 
+Tant l as celé moult i a grant pecié.
+Pageu01P249
+# |
+II s escondist com li hom qui ne l  set
+Il ne l en croient a l herbec sont alé.
+Il ua deuant sa maison aprester
+Si la fait bien torcier et atorner
+A l apostoile qui ens deuait entrer
+Forment l enquiert a tous ses menestrés
+Mais il respondent que nus d els rien n en set.
+# |
+Li apostoile et li empereour
+Sient en banc et pensif et plouros
+Et entour aus li prince et li baron.
+Deprient Diu que consel lor en doinst.
+De cel saint home par cui il gariront.
+# |
+Endementiers que il ont iluec sis
+Desoiure l ame del cors saint Alessin.
+D iluec en ua tout droit em paradis
+Ia iert en transe quant la pucele uint.
+Adont l esgarde si le uit empalir.
+Sire dist ele moult uous torble li uis.
+Bele dist il car près sui de ma fin.
+Grant paour ai car près sui de morir.
+Car or uoi çou que onques mais ne ui
+uoi quantes mains me uoelent recuellir
+Hui perirai se Dius ne me garist.
+Pense del cors qu il soit enseuelis
+L ame ara çou que ele a deserui.
+# |
+II li a dit  Pour amour Diu pucele
+Ma fins aproce ne uiuerai mais gaires.
+Sains Bonifaces que on martir apele
+[Cil a en Rome une eglise mout bele]
+Porter m i fai se m i fai metre en tere
+Quant tu morras tu i uauroies estre.
+Au congié Diu sire dist la pucele.
+# |
+Bele pucele çou dist sains Alessins
+Se or eusse tant Damediu serui
+Pageu01P250
+Que iou peusse les sains souner oir
+Dont fuisse liés si seusse de fi
+Que m ame eust son liu em paradis.
+Si recouurast uers Damediu merci.
+A icele eure que li sains hom le dist
+Li saint commencent tout ensanle a ferir.
+Soutient a force la cités retentist
+N i auoit saint tant soit grans ne petis.
+Ne sont plus cler que onques mais ne fist.
+Ains que il muire les a bien cler ois.
+Bele pucele çou dist sains Alessis
+oiés les sains le Damediu merci.
+Ma fins aproce dont ie ne puis garir.
+Qui a tous homes fait tous auoirs guerpir.
+Sans les aumosnes con ne s en puet tollir.
+uois ci mes palmes que i ai a tout l espi
+De Iersalem l aportai quant iou uing
+Bien sont gardées iusqu au iour de ma fin.
+A mon cauet quant iou iére enfouis.
+M en faites crois et as piés autresi
+Dius pensera del croistre et del tehir
+L anoncemens d un angle le m a dit.
+Iou ne sui mie de mout lointaing pais
+Quant mi parent seront al seuelir
+Si ert mes pére et ma mére autresi
+Et une espouse que iou ai deguerpi.
+Ot le la bele si ieta un souspir.
+E Dius dist ele iou quic c est mes amis
+Sire dist ele sont il bien lonc de ci
+Mandas lors tu par mes qui lor desist
+Ne pot parler s est transis l esperis
+Donc fut dolente que plus ne l ot enquis.
+Li bons serians qui tant iour l ot serui.
+Il ua au pére si li a tantost dit
+Sire dist il mors est li pelerins.
+Ma damoisele l a fait enseuelir.
+# |
+Li bons serians qui serui uolentiers
+Il le nonça son pére Eufemien
+Souef l apele se li a consillié
+Pageu01P251
+Sire dist il mors est tes prouuendiers.
+Çou m est auis qu il ert bons crestiens.
+# |
+ Mout longement ai o lui conuersé
+De nule cose certes neu sai blasmer.
+Çou m est auis que çou est li hom Dé. 
+Tous seus en est Eufemiens tornés.
+ua a son fil u gist sour sen degré.
+# |
+Le drap sousliéue dont il estoit couuerz
+uit del saint hom le uis et cier et bel
+Et en sa main sa cartre et son seel
+Ens a escrit trestout le sien couuera.
+Eufemiens ueut sauoir k ele espialt.
+# |
+II le weut prendre mais ne li pot tolir
+A l apostoile reuint tous esbahis
+Sire pour Diu aies de moi merci.
+Or ai trouué çou que tant auons quis
+Sous mon degré gist mors uns pelerins
+Tient une cartre mais ne li puis tolir.
+# |
+Sains Innocens entendi la raison
+Qui apostoile estoit a icel iour
+Et ot les sains ki sounent a un son
+Dusqu a la nuit de lor gré toute iour
+Et des sains angles uit la pourcession
+Qui portent l ame cantant nostre signour.
+De cele cartre li prist moult grans paours
+[ uers le degré s en corut a bandon]
+Et tous li pules esmaris enuiron.
+Sous le degré uinrent al grabaton
+N en apelerent car ne sorent son non.
+# |
+Li apostoiles et li empereour
+Deuant lui uienent getent s a orison
+Misent lor cors en grans afflictions
+Pageu01P252
+Se li deprient par mout bele raison
+Merci merci merci saintismes hon
+Ne te connumes ne ne te connisson.
+# |
+Ci deuant toi soumes doi peceour
+Par la diu grasse clamé empereour
+C est sa mercis qu il nous consent l ounour.
+De cest empire soumes gouureneour
+De ton consel soumes moult soufraitous.
+# |
+ Cis apostoiles doit les ames garir 
+C est ses mestiers dont il a a seruir.
+Rent li la cartre par la toie merci
+Si nous dira que il treuue en escrit.
+Si nous doinst Dius qu encor puissons garir.
+# |
+Li apostoiles mist sa main a la cartre
+Sains Alessins la soie li alasque
+Cil le reçut ki ert de Rome pape
+Quant il le tint si le moustra as autres.
+Illuec fist Dieus un glorious miracle
+Que de sa main s en ala droit la cartre
+A la pucele s en ala a la place
+Ens en son sain en son bliaut de paile
+Emprès sa car ot uestue la haire.
+Doucement sert le glorious mirable
+Ele ne ueut c om ne feme ne l  sace
+Sains Innocens esperdi son coraige
+Si ot uergoigne des houmes de la place.
+Et paour a ke Damedius ne l hace.
+# |
+Sains Innocens quant ot la cartre ouerte
+Et uit les letres que li sains hom ot fètes
+Ains li escape que le peust espialre
+Tout droit en ua el sain de la pucele
+Sous son bliaut entre ses deus mameles
+U ele pleure les mals et les soufraites
+Que li sains hom sour le degré a traites
+Ne si ne sait c a lui eust afaire
+Pageu01P253
+Mais perdre en crient le glorious celeste.
+# |
+Oiés signour con grande loiauté
+Tout home doiuent a lor moiller porter.
+Car tel monstrance fist le iour Damedés
+Que a sa mére ne uaut la cartre aler
+Ne a son pére qui l auoit engenré
+Mais a l espouse ki bien auait gardé
+Le compaignie de son ami carnel
+La ua la cartre par le plaisir de Dé
+Cil qui le uirent furent espoenté.
+# |
+Or est remése la cartre a la pucele
+Par le plaisir le glorious celestre.
+Plus tost que pot le prent a la main destre
+Saint Innocent l apostoile en apele
+Sire dist ele que porra de moi estre
+Car me consille que n en soie mesfete.
+# |
+Bele dist il buer fuisses tu ains née.
+Toie est la cartre que Dius le t a donée
+Qui que toi plaist doit estre deliurée.
+Sire dist ele iou sui moult esgarée.
+Faire quit cose dont li cors sains me hée.
+Ele esgarda les clers de la contrée.
+A saint Ambroise a la cartre liurée.
+# |
+Cil ert euesques et canceliers saint Pére
+Il list la letre  li autre l escoutérent.
+Le non lor dist del pére et de la mére
+Et de celi que il ot espousée
+Et si lor dist de ques parais il ére 
+Et la moitié de l anel ont trouuée
+Dedens la cartre trés bien enuolepée
+Dont la moitié li ot recommandée.
+Ele l ot bien estoie et gardée
+Il li demande ele l a aprestée
+Il les assamble si se sont acordées.
+Dist l apostoiles  Ceste ensegne est prouuée.
+Sire dist ele que l  m auiés tant celée
+Pageu01P254
+Si les eusse rendues et moustrées.
+Grans fu li diex a terre ciet pasmée.
+# |
+Et si lor dist com s enfui par mer
+Con s en ala en Ausis la cité
+Et com l ymaige fist Dius pour lui parler
+Et pour l ounor dont le uaut emcombrer
+S en rafui a Roume la cité
+Sen bon seriant n i uaut mie oublier.
+Que miels l en soit qui tant iour l a gardé.
+# |
+Quant ot li pére ke on troeue en la cartre
+A ses dous mains desront sa blance barbe
+E fiels dist il con dolorous mesaige
+Iou aesmoie ke tu uis repairasses
+Pour Diu merci si me reconfortasses.
+# |
+A haute uois prist li pére a crier
+E fius dist il quels dels m est demorés
+Con male garde ai fait sous mon degré
+Et iou peciére com par sui auulés
+Tant l ai ueu c ains ne l  soi auiser.
+# |
+ Fiels Alessis de ta dolante mére
+Tante dolour a pour toi endurée
+Et tant grant fain et tant soif trespassée
+Et tantes larmes pour le tien cors plourées 
+Cis dels l ara sempres par acorée
+Qui est moult grans  anqui sera tuée.
+# |
+Fils qui seront mes grandes iretés
+Mes larges teres dont iou auoie assés
+Mi grant palais en Rome la cité
+Par toie amour m en iére mout penés 
+Se tu uesquisse t en fusses hounerés.
+# |
+Blanc ai le cief et le barbe kenue
+Mes grans onors auoie retenues
+Ie uous seruoie mais uous n en auiés cure.
+Pageu01P255
+Si grans dolors m est hui cest iour uenue
+Fils la toie ame soit el ciel absolue
+# |
+A tel dolour et a si grant pouerte
+Fils t es deduis par alienes teres
+Et de cest bien qui tous deust tiens estre
+Poi em presis en la toie herberge
+Se Diu pleust sire en deussiés estre.
+# |
+Toi couuenist lance et escu porter
+Espée çaindre comme tes autres pers
+Et grant maisnie ricement conreer
+Le gonfanon l empereour porter
+Si fist tes pére et tous tes parentés.
+# |
+De la dolour que demenoit li pére
+Grans fu la noise si l entroi sa mére.
+La uint corant comme feme deruée
+Batant ses palmes corant escauelée.
+uoit mort son fil a terre ciet pasmée.
+# |
+Qui dont le uit son grant duel demener
+Son pis debatre et son cors degeter
+Ses crins derompre son uis desmaiseler
+Et son mort fil detraire et acoler
+N ot si dur cuer ne l estuece plourer.
+# |
+Desront ses crins si debat sa poitrine
+A grant duel met la soie car meisme
+E fiex dist ele com m eus enhaïe
+Et iou caitiue com par sui auulie
+Ne l  recounui onques tant le ueisse.
+# |
+Pleure des oels si escrie a haus cris
+Puis se regrete   Mar te portai biaus fils.
+Et de ta mére com n en eus mercis
+Pour toi ueir desiroie a morir
+Çou fu meruelle que pitiés ne t em prist.
+# |
+Fils Alessins de la toie car tenre
+Pageu01P256
+[A quel dolour as deduit ta iouente
+Pour quoi m  fuis ia t  portai en mon uentre
+Et Dius le set que tote sui dolente 
+Ia mais n ier liée pour home ne pour femme.
+# |
+Fils Alessis mout eus dur corage]
+Si adosas tout ton gentil lignaige
+Se une fois a moi seule parlasses
+Ta lasse mére si le reconfortasses
+Qui  st si dolante biaus fiels buer i alasses.
+# |
+E lasse mére comme fort auenture
+Que ci uoi morte toute ma noureture
+Ma longe atente a quel duel m est uenue
+Que porrai faire dolante créature
+[Ce poise moi que li miens cors tant dure.]
+# |
+Ains que t eusse en fui si desirouse
+Quant tu fu nés s en fui issi ioiose
+Çou poise moi ke ma fins tant demore.
+# |
+Signor de Rome pour l amor Diu merci.
+Aidiés m  a plaindre le duel de mon ami.
+Grans est li dels qui sor moi est uertis.
+Ne puis tant faire que mon cuer en sasi
+Il n est meruelle n ai mais fille ne fil.
+# |
+Entre le duel del pére et de le mére
+uint la pucele qui il ot espousée
+Que il laissa en la maison son pére 
+Sire dist ele com longe demourée
+Atendu t ai en la maison ton pére
+Tu m i laissas dolante et esgarée.
+# |
+Sire Alessis tant iour t ai desiré
+Et tantes larmes pour le tien cors plouré.
+Et tot pour bien et nient tout pour el.
+Pageu01P257
+# |
+Sire Alessins de ta iouuente bele
+Con sui dolante quant toi porrira terre
+E gentiex hom si dolante puis estre
+Iou atendoie de toi bones nouueles
+Et or les uoi dolerouses et pemes.
+# |
+Se te seusse ça defors le degré
+U as geu de longe enfremeté
+Nus hom qui uiue ne m en peust tourner
+Qu ensamble toi ne m esteust poser.
+# |
+Or par sui ueue sire dist la pucele
+Iamais leece n arai car ne puet estre
+N a carnel houme n arai iamais a faire.
+[Diu seruirai le roi qui tout gouerne ]
+Ne me faura s il uoit ke iou le serue.
+# |
+Tant i plourérent et li pére et li mére
+Et la pucele que trestout s i lassérent.
+Endementiers le saint cors conreérent
+[Tot cil seinor et bel l acoustumérent
+Felix tot cil qui par foi l honerérent]
+# |
+Signour que faites çou dist li apostoles
+Que uous aiue cil deus ne ciste noise
+[Qui que soit doels a nostre oes est-il ioie]
+Car par celui arons boine uictore. 
+# |
+Trestout le prendent qui porrent auenir
+Cantant emportent le cors saint Alessin.
+N estuet semonre cels qui l orent oi.
+Tout i acorent et li enfant petit
+Et tout li prient que d aus tous ait merci.
+# |
+Si s en esmurent toute la gens de Roume
+Plus tost i uient qui plus tost i puet courre
+Parmi ces rues en uinrent si grans routes
+Ne quens ne rois n i puet faire enterotes
+Ne cel saint cors ne puent porter outre.
+Pageu01P258
+Entr  els em prisent li signor a parler
+Grans est la presse nous n i porrons passer
+Pour cel saint cors que Diex nous a presté
+Liés est li pules qui tant l a desiré
+Tant en i uienent c om nes en puet torner.
+# |
+Respondent cil qui le regne baillissent
+Estés signor nous en querons mecine
+De nos auoirs faisons grans departies
+La gent menue qui l aumosne desirent
+S or nous font presse si en iermes deliure.
+# |
+De lor auoir prisent l or et l argent
+Si l ont geté deuant le poure gent
+Pour çou quidiérent auoir descombrement.
+Que lor aiue  il n en ueulent nient
+A cel saint cors ont torné lor talent.
+# |
+A une uois crient la gens menue
+De cest auoir certes n auons nous cure
+Mais del saint cors que il nous face aiue
+Car par celui nous iert uie rendue.
+# |
+Sours n auulés ne contrais ne lepreus
+Ne crestiens qui tant soit languereus
+Ensorque tout nus hom palasinex
+Icil n i uint qui  n alast malendos
+Ne nus n i uient qui report sa dolour.
+# |
+N i uient enfers de cele enfremeté
+A cel saint cors lues ne soit rasenés
+Auquant i uienent auquant s i font porter.
+Si uraie espesse lor a Dius demoustré
+Qui uient plorant cantant l en fait aler.
+# |
+Li doi signour qui le regne gouuernent
+Quant il en uirent les uertus si apertes
+Alquant le prendent et li auquant le seruent
+Auques par proi et auques par poeste
+Pageu01P259
+Passent auant si desrompent la presse.
+1305 Sains Bonifiaces que on martire apele
+Auoit en Roume une eglise mout bele
+Illuec portérent saint Alessin acertes.
+# |
+La gent de Roume qui tant l ont desiré
+Set iours le tinrent sor terre a poesté.
+Grans fu la feste ne l estuet demander.
+De toutes pars l ont si auirouné
+Sous ciel n a home qui i puist habiter.
+# |
+El setme iour fu faite sa herbege .
+A cel saint cors a la gemme celestre.
+Traient s en sus si alasque la presse.
+uellent u non le laissent metre en terre.
+# |
+A encensiers a oires camdelabres
+Clerc se reuestent en capes et en aubes.
+Cel saint cors metent en un sarcu de marbre.
+# |
+D or et d argent fu li sarcus parés
+U cel saint cors ueulent metre et poser
+Si l enfouirent a uiue poesté.
+Pleure li pules de Rome la cité
+So siés n a home qui  s puist reconforter.
+# |
+Ore auons dire du pére et de la mére
+Et de l espouse comme il le regretérent.
+Le iour i ot cinc cens larmes plorées.
+# |
+Quant sour la tere n en porent mais tenir
+uellent u non le laissent enfouir.
+Prendent congié au cors saint Alessis
+Biaus sire pére aies de nous merci
+A ton signour nous soies boins plaidis.
+# |
+ua s ent li pules  et li pére et li mére
+Et la pucele onques ne deseurérent.
+Ensamble furent dusqu a Deu en alérent.
+Pageu01P260
+Lor compaignie est boine et hounerée
+Pour cel saint home ont lor ames sauuées.
+# |
+Com bones oeures Diex et com bon seruice
+Fist cil sains hom en ceste mortel uie
+Or en est s ame de gloire raemplie
+Quant que ueut a n en est un point a dire
+Ensorquetout et si uoit Diu meisme
+# |
+[Sains Alexis est el ciel sans doutance
+Ensemble o Dieu en la compaigne as angres]
+Et la pucele dont il se fist estrange 
+Or sont priué ensamble sont lor âmes.
+Or sont en glore sans nule repentance
+Illuec conuersent et si lisent lor salmes
+Ne uous sai dire comme lor ioie est grande.
+# |
+Elas  caitis  com somes encombré
+Que porrons dire trop sommes apressé
+Pour nos peciés sommes tout auulé.
+La droite uoie nous font entroublier
+Par cel saint home deuoumes ralumer.
+# |
+Tenons signour cel saint home en memoire
+Çou li prions de tous mals nous asoille.
+*** END

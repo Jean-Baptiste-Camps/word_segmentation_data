@@ -1,0 +1,887 @@
+#META#  TextURI          AlexisPQ
+#META#  DEAF             http//www.deaf-page.de/fr/bibl/bib99a.php#AlexisP
+#META#  TL              
+#META#  FEW        		
+#META#  ARLIMA           https//www.arlima.net/no/114
+#META#  Author          
+#META#  AuthorBorn      
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        La uie saint Alexis
+#META#  TextSubtitle	
+#META#  Textuols         1
+#META#  TextSubi         hagiography
+#META#	TextDom
+#META#	Translation
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      Rédaction remaniée de la uie de saint Alexis en laisses d alexandrins monorimes.
+#META#  TextDescuers     12
+#META#  TextDateARL      Milieu du XIue siècle
+#META#  TextDateAdi      m14
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         Paris Gaston Pannier Léopold
+#META#  EdPlace          Paris
+#META#  EdPublisher      F. uieweg
+#META#  Eduol           
+#META#  EdYear           1887
+#META#  EdPages          346-388
+#META#  MsBase           S
+#META#  MsOther         
+#META#  MsNum            9
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form
+#META#	Complete
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/lauiedesaintale03alexgoog
+#META#  ScanURIOther	
+#META#  ArkID            ark/13960/t1ih3nt8t
+#META#  LccnID           14022514
+#META#  OclcID           67605175
+#META#  WebAuthor        Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer     
+#META#  ORCIDReuiewer   
+#META#  MiscInfo        
+#META#  CCLicense        CC BY-NC-SA 4.0 International
+
+
+*** START
+Pageu01P346
+§CY COMMENCE LA uIE SAINT ALEXIS.
+Ens en l onneur de Dieu le pére tout puissant
+Qui nous fourma et fist trestous a son semblant
+uous ueul ie recorder une meruelle grant
+D un mout uallant preudhomme et d un sien chier enfant.
+Ce preudoms que ie dis out nom Euphemiens 
+Tout adez demenoit grant guerre sus paiens
+Car sainte Yglise amoit de cuer sus toute riens.
+Une fame espousa puis qu il fu anciens.
+Puis conuerssérent il ensamble longuement.
+S orent a grant plenté et or fin et argent 
+Asez de bien faisoient a la menue gent.
+Mez d une seule chose leur aloit malement
+Pageu01P347
+Car eus deus ne pouoient nisun enfant auoir
+Qui après eus peüst maintenir leur auoir
+A Ihesu Crist prioient et au main et au soir
+Que par sa dine grace leur enuoiast un oir.
+Tant depriérent Dieu par grant humilité
+Et hont tant de leurs biens a pourez gens donné
+Que le dous Roi des Rois par sa sainte bonté
+En regarda mout bien la leur grand charité
+Que pour uoir li prodons engendra un enfant
+En la dame courtoise qui mout fu auenant.
+Quant li enfez fu nés baptiziés fu errant
+Puis deuint mout sains homs si comme orez auant.
+Sus fons firent l enfant Alexis apeler
+Mout richement le firent nourrir et aleuer
+Et quant l enfez fu tel qu il sauoit bien parler
+Pour apprendre le firent a l escole mener.
+L enfant que Ihesu Crist ama parfaitement
+A lire et a chanter aprist asez brement
+Et si sceut en latin dire tout son talent 
+En lois et en decrez s entendoit fermement.
+Pageu01P348
+Adonc le fist son pére de l escole partir
+En guize d escuier le conuint lors uestir
+A la court l empereur de Romme ala seruir
+L‘enfant serui le roy du tout a son plezir.
+Alexis se porta si que chacun l out chier
+L emperere l amoit si le fist cheuallier.
+Quant son pére le sout Dieu prist a mercier
+Adonquez s apensa qu il li donroit moulier.
+La fille d un haut conte fist pour son fiex requerre
+Et on li otroia en pèz sans point de guerre.
+Auec quatre chastiaus et asez d autre terre.
+Quant Alexis le sout le cuer out en grant serre
+Car des chozes du monde ne li estoit noient
+En ce siecle cuidoit bien uiure chastement.
+Mez sez amis n osa couroucier nullement
+La pucele espousa mout debonnairement.
+Alexis a le iour mout forment larmoié
+Si bien a son cuer mis au trez dous cloufichié
+Qu il ne li souuenoit de nul mortel pechié.
+Chacun fezoit grant ioie mez il n estoit pas lié.
+Pageu01P349
+Les amis la pucele et les saint Alexis
+Demenérent grant feste et furent bien seruis
+Largez furent lez nocez nul n i fu escondis.
+Quant uint après souper qu on dout aler a lis
+Euphemiens s en uint a Alexis son fiex
+Puis li dist en riant  Tel grace te doint Diex
+Qu enieudrer puises oir de coy nous ualon miex.
+L enfant ne dist nul mot tous mouliez eut lez iex
+De plourer. On le uint a son lit dezcaucier.
+Son chier pére et sa mére furent a son coucier
+Tous deregniers isirent la chambre font uidier.
+Adonquez regarda Alexis sa moulier
+Qui en son lit estoit couchie toute nue
+Mout la uit blanche et tendre bien faite et parcreüe.
+Lors ne sout il que fere puis dist uierge asolue
+Ne soufrez que fache euure dont m ame soit perdue
+Alexis uit la chambre qui estoit bien parée
+Et persut la pucele uermelle et coulourée
+Adont li remembra et li uint en pensée
+Que la ioie du monde n auoit point de durée
+Pageu01P350
+Et puis li ressouuint comme li dous Ihesus
+uout en poureté nestre puis soufri que pendus
+Fust en la sainte crois tout descaus et tout nus.
+Lors s est l enfant en crois contre terre estendus
+Puis dist Dous Ihesu Crist bien sai se me couchoie
+Auec ceste pucele que m i deliteroie
+Et uostre dous seruise de tous poins delairoie.
+Ie seroie trop fol se pour lie uous lesoie.
+Car la ioie des ciex est a tousiours durer
+Mez cele de ce monde faut en l eure passer.
+Mon pére me cuida ricement asener
+Hui matin quant me fist la pucele espouzer
+Mez ia ne place a Dieu qu aie en son cors delit.
+Ainz yray outre mer seruir Dieu qui tout fit.
+Adonquez s aprocha li sains hons prez du lit
+La pucele apela et doucement li dit
+Pour Dieu or entendez trez douce créature.
+Ihesu Crist uous fourma en autelle figure
+Pageu01P351
+Com la uierge Marie pour Dieu que n aiés cure
+Du uil pechié du cors car trop i a d ordure.
+Car la sainte Escriture si nous dit et tesmoigne
+Qu au monde n a personne pour tant qu elle se ioigne
+Au pechié de luxure que Diable n enpoigne
+Dedens le puis d enfer. Fos est qui nel ressoigne.
+Saint Alexis ainsi la pucele chastie
+Iusqu à tant que la guete du chastel fust couchie.
+Le pucele l ouï mez ne li plezoit mie.
+Alexis souspiroit et li dist Douce amie
+Car me montrez l anel dont uous ai espousée.
+Celle en plourant li baile et il tret lors s espée
+De l anel fist deus pars l une en a prezentée
+A la gentil pucele mez l autre a bien gardée
+Puis li dist Douce seur gardez bien la moitié
+De l anel. Dieu uous ueulle deffendre de pechié.
+En essil ueul aller pour la Dieu amitié.
+Quant cele l entendi si li cheï au pié
+Pageu01P352
+Et li dist Chiers amis tant estez biaus et dous
+Quant m auez espousée pour coy departon nous
+Il sera reproué a noz amis trestous.
+Alexis respondi Bele suer soufrez uous
+Et du delit charnel ostez uostre pensée.
+La sus sera uostre ame es sains cieux couronnée.
+En essil ueul aller en estrange contrée.
+Quant elle l entendi a terre chiet pamée.
+Alexis la leua puis li a dist ainsi
+Suer lesses m en aller chascun est endormi.
+La courtoise pucelle en plourant respondi
+Amis alez a Dieu puis que il est ainsi
+Mez grant pechié ferez car doulour trop amére
+Menront demain matin uos pére et uotre mére.
+Lase la ioie d ier tourra a grant misére.
+Li sains homs respondi tout baset a uois clére
+Par foy ie n en puis mez Dieu uous ueulle garder.
+Pageu01P353
+Sire dit la pucelle car me lessiez aller
+S il uous plest auec uous uouray mon cors laser
+Ne ia ne quier a uous charnelment adezer.
+Tondre feray mez tresses sire s il uous est bon
+Pour uostre amour prenray l escherpe et le bourdon
+uos dras uous laueray quant en sera sesson.
+Alexis respondi doucement a bas son
+Ma suer uous demourrez pour uostre onneur garder
+Ie uorai la penance pour nous deus endurer.
+Ihesu Crist uous doint grace de uostre ame sauuer.
+Lors isy de la chambre n i uout plus demourer.
+En droit lez cos chantans a son ordre guerpie.
+Son chier pére et sa mére ne le sauoient mie
+Bien cuidoient qu il fust couchiés auec s amie.
+Mez tant erra l enfant en icele nuitie
+Qu a un port de mer uint hastiuement courant.
+Il troua une nef c on aloit aprestant
+Pageu01P354
+L enfant fist son marchié et poia tout auant.
+Quant la nef desriua mout out le cuer ioiant
+Car grant dezir auoit d eslongnier la contrée.
+Quant se uint l andemain que l aube fu creuée
+Lors la mére Alexis est en la chambre entrée
+La pucele troua qui mout fu esplourée
+Au cuer out grant destraice et mout se repentoit
+C auecquez son mari allée n en estoit.
+La dame demanda doucement quelle auoit
+Lors li dist en plourant comment la chose alloit.
+Quant la dame entendi que son enfant s en ua
+Au cuer out tel destraice qu a terre se pama
+Et la gentil pucele un si grant cri geta
+Que le compte l oy plus tost qu il pout uint la.
+Du grant deul qu il troua fu forment esbahis.
+La pucele li dist Chier sire uostre fis
+Qui m auoit esposée s est de moy departis
+Pour Dieu seruir s en ua en estrange païs.
+Il emporte une pieche de l anel de mon doy
+Dont ie fuz espousée i ay l autre par ma foy.
+Pageu01P355
+Iamez homme qui uiue n abitera a moy
+Se ne reuient arriere.Le pére ot grand ennoy.
+La mére d autre part s est en haut escriée
+Hé chier fis Alexis dont te uint tel pensée
+Qu as lessié pére et mére et ta fame espousée
+Que par cherté t auoie bele et bonne donnée
+Biau fiex i ai si grant duel que bien mourir uouroie
+Car en toi estoit tout mon soulas et ma ioie
+I estoie mout ioieusse quant ie te regardoie.
+Lors parla la pucele et dist Dame i otroie
+Au trez dous Ihesu Crist que iamez en ma uie
+N aray a homme nul soulas ne compagnie 
+Ains uiuré chastement quant uo fis m a lessie.
+Quant le comte l oy estroit l a embrachie
+Et li a dit ainsi Suer puis que uous uoulez
+Porter a mon enfant si loiaus amitez
+Iamez a mon uiuant de moy ne partirez.
+Il sera si Dieu plet encore retrouez
+Et pour l amour de li uous feray garantie.
+Pageu01P356
+La pucele a la dame par la iambe embracie
+En plourant li a dit Quant uo fiex m a lessie
+Pour Dieu retenez moy en uostre compagnie.
+La dame l ezgarda estroit l a acollée.
+La grant doulour que firent ne peut estre contée.
+La chambre qu on auoit a grant ioie parée
+Fut en duel et en plours ce iour descourtinée.
+Lors prist Euphemiens ses mesagiers errant
+Par diuerses contréez fist quérir son enfant.
+— D Alexis uous uoudray parler d ore en auant
+Qui estoit en la nef auec maint marcheant.
+Droit a une chité cuidiérent ariuer
+C on apele Lalice qui siet desus la mer
+Mez un si grant oraige comencha a leuer
+Que plus de trois cens lieuez lez fist en sus aler.
+Lez mestrez de la nef furent fort esbahis
+Doucement reclamérent le roy de paradis.
+Mout tendrement plouroit li enfez Alexis
+Qui cuidoit mout bien estre dedens la mer peris.
+Mez le dous Ihesu Crist ne le uout consentir
+Pageu01P357
+Car la force du uent fist le uessel uertir
+Droit a une iournée ce sachiez sans mentir
+De la sainte chité ou Dieu uout mort souffrir.
+Quant au port se trouuérent chacun en out grant ioie
+Ihesu Crist merciérent qui tous les biens enuoie.
+Alexis qui du tout a bien faire s otroie
+Droit en Iherusalem a aqueli sa uoie.
+En la sainte chité uint l enfant Alexis
+Ou le dous Ihesu Crist fu uendus et traïs.
+Quant il uit le sepucre ou Dieu fu mors et uis
+A nus genous se mist et fist crois sus son pis
+Puis dist Dous Ihesu Crist qui en ceste chité
+uousitez mort soufrir pour notre sauueté
+Et en cest saint Sepucre futez resusité
+ueulliez reconforter trestout mon parenté
+Car bien say que pour moy ont grant doulour menée.
+Et la gentil pucele que i auoie espousée
+ueulliez garder de mal haute dame clamée
+Et m otriez faire euure dont m ame soit sauuée
+Alexis fist s ofrende puis se uot il retraire
+Pageu01P358
+Nus coutez nus genous uint au mont de Caluaire
+La pierre qui fendi uit l enfant debonnaire
+Puis uint au flun Iourdein pour aconplir l afaire
+Par trois fois s i baigna Alexis trestout nu.
+Puis prist la sainte palme et le bourdon agu
+Corn pelerin paumier s est doucement uestu 
+Mez deus iours et deus nuis qu en Iherusalem fu
+Ieüna li sains hons c onquez nule ligour
+Ne mist dedens sa bouche. A Dieu out tele amour
+Qu il ne li souuenoit de terrien onnour.
+Hors de Iherusalem se parti au tiers iour
+Tant chemina l enfant qui du tout a Dieu fu.
+Qu il s en uint a Lalice tout le chemin batu
+Le trez dous Ihesu Crist li presta tel uertu
+C onquez par l ennemi ne pout estre uaincu.
+Et quant le saint prodomme d ileuc se remua
+En Alphis la chité trestout droit s en ala
+Pour l amour d un image que l en li ensengna
+Que l angre Gabriel (se dist on) i porta.
+L image resembloit a la uierge pucele
+Qui le dous Ihesu Crist nouri de sa memmele.
+Pageu01P359
+Si tost comme Alexis entendi la nouuele
+Onquez ne s aresta si uint a la chapele.
+Dez qu il perchut l image de cuer la salua.
+Si fort li plout la forme que li saint cors pensa
+Que iamez de la uille qu il puit ne partira.
+Lors donna tout l auoir que de Romme aporta
+Il n en retint riens née sans plus que la partie
+De l anel qu il coupa a s espée fourbie
+Puis reioint par miracle. Or commenche la uie
+Dez painez Alexis qui tant out de hachie.
+Quant le bon amy Dieu eut donné son auoir
+Entre les poures gens s ala errant seoir
+uoulentiers print l aumone quant il la pout auoir
+A Ihesu Crist seruir mist grant paine pour uoir.
+Mout soufri Alexis de dure poureté
+Ne uout pas a son cors fere sa uolenté.
+Tant ieuna li sains hons si fu descoulouré
+Qu il sembloit qu on l eüst hors de terre ieté.
+Pageu01P360
+Il n auoit char ne sanc se mout petitet non
+Pour Dieu soufri asez de persecucion
+On li donnoit souuent dez aumonez foisson
+Mais il ne pensoit pas a fere garnison
+Car il n en retenoit que pour li soutenir
+Le remenant aloit as autrez departir
+Du soir pour le matin ne ueult rien retenir.
+— Son pére le faisoit par maint païs querir.
+Lez mesagiers au comte par plusieurs liex alérent
+Plus de cinquante estoient qui forment se penérent
+De trouuer Alexis tant que deus s en entrérent
+En Alphis la cité tout par tout regardérent.
+Saint Alexis trouérent a logestez seant
+Entre les autrez pourez ua l aumone atendant
+Iamez ne l rauisasent eu tel point li seriant
+Car nus estoit et megrez et poure palisant.
+Ly sains hons les connut tantost comme il les uit
+Doucement reclama le trez dous Ihesu Crist
+Que connoistre ne l  puissent. Or entendés qu il fit
+Aux mesagierz son pére leur aumone requit.
+Pageu01P361
+Pas ne li escondirent li courtois mesaigier
+Il serchiérent partout es ruez au moustier
+Saint Alexis lez suit mez ne li est mestier
+De fuir car iamez ne leur uenist cuidier
+Qu Alexis leur seignieur fust si fais deuenus.
+En leur ostel se sont pour diner enbatus
+Li sains hons a la porte de l ostel est uenus.
+S a bien les mesaigiers ouis et entendus.
+Qui mout doulens a l oste de leur ostel contoient
+Comment le fis au comte Euphemien queroient
+Et disoient ainsi que conter ne pouuoient
+Le grant duel que le pére et la mére fessoient
+Et la gentil pucele c on li fist espouser
+Maint iour l auomes quis mez ne l  pouons trouuer.
+Argent nous faut par force nous conuient retourner.
+Quant il ourent diné en l eure uont monter.
+Li sains hons out grant ioie quant les uit eslongniés
+Bien pense qu il ne soit iamez quis ne cerchiés.
+Pageu01P362
+Courant uint au moustier l image chiet aux piés.
+Ia orez biau miracle et plain de grant pitiés.
+Quant les mesagez furent au pére reuenus
+Il ne sourent a dire qu il estoit deuenus.
+Adoncquez fu li duel dez amis maintenus
+Pour l enfant Alexis qui fu a Dieu rendus.
+Il estoit en Alphis deuant le saint image
+En Dieu seruir auoit si bien mis son courage
+Que l orguel de ce monde ne prisoit un fromage
+Mez puis rechut il mort en son propre heritage.
+En Alphis la cité fu bien dis et set ans
+Nus poures et deschaus souuent gisoit as chans
+Et desous les estaus o les pourez enfans
+Et si n estoit il pas par nature truans.
+Par les dis et set ans qu il fu en la contrée
+Ne fist si fort iuer de nef ni de gelée
+Qu eu lit uousit gezir sa char fu si usée
+Miex sembloit mort que uif car chacune uesprée
+Pageu01P363
+ueloit duquez a tant que matines sonnoient
+Les pretrez a la porte du moutier le trouuoient
+Souuent faus papelart et larron le clamoient
+Il ne leur disoit riens fors que pechié fessoient.
+Mout souuent fu dez pourez ledengiez et batus
+Mez tout cois se tessoit comme s il fust tout mus
+Il ne se fezoit pas enparlez ne agus
+Nul mauuez mot ne pout de sa bouche estre isus.
+Ains auoit mis son cuer en la uierge Marie
+Deuant son saint image estoit iusque a conplie
+C on fermoit le moutier lors pourcachoit sa uie.
+Tant que uint une fois a une aube esclesrie
+Un geune clerc pasoit deuant le saint imaige
+Pour alumer lez lampez car il l auoit d usaige
+Notre Dame li dist Amis fai mon mesaige
+Chiens repaire un homme c on doit tenir pour saige
+Il a dis et set ans en ceste uille esté
+Et a pour moy souffert mainte grant poureté.
+Pageu01P364
+ua tantost si le quier tant que l aiez trouué
+Ie ueul c on le connoise et sa tres grant bonté.
+Le clerc out mout grant ioie quant ces mos entendy
+Inelement et tost de la chapele issy
+Alexis encontra trois fois par deuant ly
+Mez iamez ne cuidast pour uoir que fust celuy
+Que la uierge Marie li enuoioit cherquier
+Car pluseurs fois l auoit bouté hors du moustier
+Et clamé papelart et ribaut pautonnier.
+Le clerc au saint ymaige s en retourna arier
+En plourant li dist Dame par Dieu le tout puissant
+Ie ne puis nul trouuer qui soit de tel semblant.
+Une uois li a dit Trouuer le peus seant
+La deriere cel uis ses set seaumes disant.
+Le clerc pour si fez mos fu forment esbahis
+Deriere l uis ala si trouua Alexis
+Deuant li s agenoule et li dist Dous amis
+uous estez un sains hons de ce sui ie tous fis.
+Pageu01P365
+uostre bonté nous a long tens esté celée.
+Quant Alexis l oui s a la couleur muée
+Bien s en cuida fuir mez le clerc a hapée
+Sa main qui estoit noire et mesgre et trés halée.
+Par deuant les chanoines l ala tantost mener
+Lors leur dist comme Dieu fist l ymage parler
+Pour faire la bonté du saint homme montrer.
+Il le uourent euesque beneir et sacrer.
+Mez le bon ami Dieu ne le uout consentir
+Bien sait que pour lez biens de ce siecle tenir
+Peut on a trop grant paine en paradis uenir.
+On fist saint Alexis cele nuit bien seruir
+Il fut mout bien couchié mais il ne il plout mie
+Car endroit mienuit que gent fu endormie
+Il s enfuy. N ot cure de mile compagnie.
+Courant uint a la mer preste fu la nauie 
+Aueuc ceus s en entra qui uouloient paser.
+Droit au port de Coursant cuidiérent ariuer
+Pageu01P366
+Mez le dous Ihesu Crist fist la barque tourner
+A set lieuez de Romme ce sachiez sans fauser.
+Quant le bon ami Dieu uit Rome la magour
+Ou de son haut lignage estoit toute la flour
+Doucement reclama le trés dous creatour
+Qu il le gardast d enbatre en terrien onnour
+Puis dist Doulx Ihesu Crist ie ne uousise mie
+Se uostre plezier fust que ceste nef uertie
+Fust en ceste contrée car ceus de ma lignie
+Ie cuist me renbatront eu ceste mortel uie.
+urai Dieu conduisiez moy par itele deuise
+Comme de mon lignage charnel ne me rauise
+Se l aumone mon pére ie pouoie auoir prise
+Iamez ie ne gerroie seur coute n en chemise.
+Adonc saint Alexis isi hors du uessel
+Mez pour naient se doute que ia d omme charnel
+Pageu01P367
+Ne sera conneü trop a cangié sa pel
+Il fu megrez et laz. Mez bien dist qu a l ostel
+De son pére uendra requerir aucun don
+En Romme s en entra apoiant d un bourdon.
+Il encontra son pére qui estoit mout proudon.
+Ia orez corn le fis mist le pére a resson
+Il li a dit Chier sire ueulliez moy herbergier
+Que Dieu qui en la crois se lessa clouflchier
+Et lez piez et lez mains et son costé percier
+uous ramaint uostre fis que uous auez tant chier.
+Quant le pére entendi le reclain Alexis
+Mout tendrement ploura dez biaus iex de son uis
+Puis li dist doucement Pelerin biaus amis
+uous arez bon ostel puisque l auez requis
+Ou non de mon chier fis que de bon cuer amoie.
+Depuis qu il me lessa ie n ou parfaicte ioie 
+Touiours quant m en souuient de deul mourir uouroie.
+Le roy de paradis qui tous lez biens enuoie
+ueulle ceus conforter qui li font courtoisie.
+Pageu01P368
+Mout fu en sa geunesse sa char souef nourie.
+Or ne sai ge uoir Dieu s il est mort ou en uie
+Il a dis et set ans que son ordre a guerpie
+Bien croy qu a puis soufert mainte forte iournée
+Car poure gent estrange est trop mal apelée
+Et leur dist on souuent mainte lede goulée.
+Ainsi com ils parloient souruint sans demourée
+Li uns des pers de Romme c on nommoit Contantin
+Qui dist uenez chiez moi pour Dieu franc pelerin
+Iamez ne uous faudra ne pain ne char ne uin.
+Quant Alexis l oy si tint le chief enclin
+Et li dist Biau dous sire ie feroie pechié
+Quant ce ualant prodoms m a premier herbergié
+Se pour uous le lessoie ce seroit mauuestié.
+Dieu uous rende lez biens que m auez otroié.
+Quant la mére Alexis uit qu on lui uout tollir
+A son seigneur a dit Par Dieu i ai grant dezir
+De herbergier ce poure que Dieu par son plezir
+Doint a mon fiex courage qu il puisse reuenir.
+Pageu01P369
+Lors a dist Alexis a son pére brement
+uostre ostel m otroiatez sire premierement
+Desous uostre degré qui du palez descent
+Frans hons me ueul couchier si uous uient a talent
+Car ie suis mout maladez et plain d enfermeté.
+Du relief me donrez quant on ara digné
+Et ie prierai Dieu par bonne uolenté
+Que uostre fiex uous rende c auez tant deziré.
+— Bons hons ce dist le pére ne te faut esmaier
+Ie te ferai aset et pain et uin baillier
+Et en ma mestre chambre ferai ton cors couchier.
+Que Dieu ueulle mon fiex Alexis herbergier
+A l eure que la mére ouy nommer l enfant
+De l engoise qu el a ua sez poins detordant 
+Son fiex en out pitié mez n en fist nul semblant
+Car il se doutoit moût qu on l alast rauissant
+urai Dieu dist il em bas qui es souuerain pére
+Comme c est grant amour que d enfant et de mére
+S il me reconnoisoient i entreroie en grant hére.
+Adonquez dist le conte a sa uois qu il out clére
+Pageu01P370
+Il me faut un sergant qui me gart ce paumier.
+Bien uoy qu il est malades de repos a mestier.
+Qui le me gardera il ara bon louier
+Pour tant que il li face trestout son dezirier.
+Un des escuiers dist Ie m en met en present.
+Ie le garderai bien non pas pour uostre argent
+Mez pour uostre chier fis que i amoie forment
+Feray au bon paumier du tout a son talent.
+A ces mos est le comte en la sale montés
+Son fiex et le seriant sont en la court entrés.
+Alexis lui dist Sire quant garder me deués
+Ie uous pri que ie soie couchié sous les degrés.
+Le seriant Alexis sous les degrez mena
+Lez piez en iaue chaude doucement li laua
+Puis li dist Dous amis soiez uous un poy cha
+Coute et blans dras uois quere ou on uous couchera.
+Alexis li a dist Biaus amis non ferez
+Car iamez iour sus coute ne gierront mes cotez 
+Mez une poingnant nate s il uous plait m aportez.
+— uolentiers biau dous sire dist il quant le uoulez.
+Pageu01P371
+Le seriant quist la nate et l a porta en l eure
+Alexis loua Dieu puis se coucha deseure.
+L escuier li fezoit son plezir sans demeure.
+Celle qu il espousa pour s amour souuent pleure.
+Alexis a lonctens sous les degrés geü
+Son chier pére et sa mére l ont maintes fois ueü
+Ausi fist la pucele qui tant l ot atendu.
+Mez onquez ne pout estre par nul d eus coneü.
+Bonnes gens mout fessoit ce saint corps a prizier
+Qui auoit si grant terre sous li a iustisier
+Et si uouloit pour Dieu sous son degré couchier.
+Touiours quant le seriant li donnoit a mengier
+Le relief qui uenoit du grant palais hautain
+Le saint hons n en usoit de ce soiez certain
+Fors le mains qu il pouoit pour estancier sa faim
+L autre fezoit donner. Tout estoit son reclain
+En Ihesu Crist seruir et du cuer aourer
+Il n auoit son deduit qu en sautier recorder.
+Souuent uit son chier pére et sa mére paser
+Et la france pucele c on li fist espouser
+Pageu01P372
+Mez il n auoit talent de conter son affaire.
+La pucele qui fu courtoise et debonnaire
+Le uisitoit souuent mez sachiez sans retraire
+Se bien le conneüst trop miex li uousit faire.
+S auoit elle de li en son cuer grant pité
+Pour l amour d Alexis qui s en estoit alé.
+Lez serians de l ostel ont le saint cors gahé
+Mout souuent li fezoient asez de cruauté.
+Papelart le clamoient et truant et bricon
+Mout souuent li ietoient au nez et au menton
+Laueurez et ordurez mez tant estoit preudon
+Que Ihesu Crist prioit qu il leur feïst pardon
+Et par sa sainte grace lez gardast de mesprendre.
+S il se uousit nommer il lez feïst tous pendre.
+Un iour de Rouuesons uout son pére descendre
+Du palais au degré s en uint sans plus atendre.
+Le pére uit son fiex el poure grabaton
+Il s aprocha de li et le mist a resson
+Et dist Crestien frère ne sai nommer ton non
+Di moy s il te faut riens qui soit en ma messon.
+Li sains hons li a dit Bien nommer me sauez
+Pageu01P373
+Car ie suis crestien en bautesme nommez.
+Dieu uous rende uos biens certez i en ai asez.
+Et uous ramaint l enfant que tant uous dezirez.
+— Bons homs ce dist son pére pour Dieu de paradis
+Pourcoy ramentois tu mon enfant Alexis
+Quant il n est retourné certez il n est pas uis.
+Duel ay quant m en souuient. Pleurant s en est partis.
+Atant es uous sa mére hors de la chambre isue
+Et est sous le degré deuant son fiex uenue
+Et la pucele ausi qui fu mout irascue.
+Quant ly sains hons les uit tout le sanc li remue.
+Onquez ne lez osa le saint araisonner
+Pour ce que il ne fust conneüs au parler.
+La dame prist tantost sa file a apeler
+Et il a dist Pucele forment me doit pezer
+De ce poure home la qui sous ce degré gist.
+Ie croy bien qu il me het onquez riens ne me dist.
+Fesson li ses drapiaus lauer pour Ihesu Crist
+il ne uiura mez guerez trop forment aflebist.
+Pageu01P374
+La pucele li dist qui fu courtoise et sage
+S il trepase chiens ce sera grant outrage
+Se ne sauons enchois son nom et son lignage.
+Alons parler a li si saron son courage. 
+La dame li dist File par foy i y uois enuis
+Tousiours quant le regarde me souuient d Alexis
+A pou qu il ne lui semble de la bouche et du uis.
+Du duel qu ay de mon fis ie mourai ains mez dis.
+Non pourquant alons y puis qu est uostre tallent.
+Sous les degrez alérent plourant mout tendrement.
+Alexis demandérent son nom trés bonnement.
+Il leur dist Crestien suis nommés uraiement.
+Quant il out dit ces mos miex qu il pout s est dreciez
+Sa mére et la pucele embracha par les piez
+Et dist Merci uous pri pour les Dieu amitiez
+Car bien say que pour moy auez les cuers courciez.
+—	Bons hons dient les dames pourcoy requiers mercis
+Onquez iour de ta uie rien ne nous meffeïs.
+—	Si ay fait dist il uoir i ay nommé Alexis
+Quant uing en cest ostel si comme il m est auis
+Pageu01P375
+C onquez puis ne uenitez sous ce degré uers mi
+Que toutez deus pleurant ne partisiez de ci.
+Ie uous ai couroucié si uous requier merci
+Car ie trepaserai brement ie le uous di.
+Quant les dames l oïrent s ont de pitié plouré
+Mout doucement li ont son meffait pardonné
+Plourant s en sont partiez et il est demouré.
+— Dis et set ans entiers il auoit ia esté
+Et out autant esté en la cité d Alphis
+C onquez ne but de uin ne ne iust en bons lis.
+Li sains hons qui sentoit son cors mout afeblis.
+Apela son seiiant et li dist Dous amis
+Soiez certain biau frère ie mourrai le matin
+Ie ne t ai que lesser ne argent ne or fin
+Ton seruise te rende celui qui est sans fin.
+Mais pour Dieu ua me quere enque et bon parchemin.
+Quant le seriant l oy si en out grant pité
+Car mout bien le seruoit en fine loiauté 
+Pageu01P376
+Duel out quant entendi qu il seroit trespasé.
+Enque et bon parchemin li a lors aporté.
+Adonc saint Alexis escript toute sa uie
+Puis ploia en la leitre de l anel la moitié
+Dont espousa la bele que pour Dieu out guerpie.
+Le bref mist en sa main puis dist a uois serie
+Qu il uouloit receuoir le dous cors Ihesu Crist.
+Quant l ot pris les deus mains en crois sus son pis mist.
+Adonc le roy dez roys un angre li tranmist
+Qui dist Amis tu as en paradis ton lit.
+Aprez uint une uois parmi Romme criant
+Que toute gens ouirent li petit et li grant
+Qui dist Que faitez uous peceeur non sachant
+Quant uous n alez querir le Ihesu Crist seriant
+Qui maintenant sera de ce siecle partis
+Sus une nate gist mout est poures ses lis.
+Tous ceux de Romme furent ce iour mout esbahis
+L apostolle meïmez requist a Dieu mercis.
+Pageu01P377
+Saint Inochent estoit pape en icelui tans
+S auoit deus roys a Romme qui mout furent puissans
+L un fu nommé Acaire l autre Honore li frans
+Les deus estoient frérez si furent mout engrans
+De trouuer le saint cors dont la uois out parlé.
+Tout le peuple en requist la sainte Trinité.
+Une uois leur a dist qu il ne seroit trouué
+Fors chiez Euphemiens conte de la cité.
+Quant le saint apostole ouyt ceste resson
+Que Euphemiens auoit le cors en sa messon
+Li et tout le clergié i uindrent de randon
+Et les deus rois aussi et maint autre baron.
+Chacun peut bien sauoir qu il fut moult esbahiz
+Quant il uit tant de gens entrer en son pourpris.
+Le corps lui demandérent dont il fu bien marris.
+Il dit qu il n en scet rien ne lui uault deux espis.
+Quant par tout son manoir ont enquis et gardé
+Ils distreut que le conte sera a mort liuré
+Pageu01P378
+Se le saint corps n enseigne mais il leur a iuré
+Qu oncques iour ne le uit. Plourant s en est alé
+Sa mesnie hucha du saint corps leur enquist
+Mais iamais ne cuidassent (ce saichez sans respit)
+Que ce fust le poure homme qui sous le degré gist.
+A qui souuentefois auoient fait despit.
+Lors fu Euphemiens mout forment esbaïs
+Que deus roys si estoient en son palais uoutis.
+Mez la gentil pucele fu deuant Alexis
+Qui iezoit sur la nate mout li troubloit le uis.
+Bons hons dist la pucele ie croi que uous mourez.
+— C est uoir dist il suer bele prochainement saurez
+De quel lignage suis ne en quel lieu fus nez.
+Mez d une seulle choze suis forment effraiez
+Car ie uoi a mez piez lez anemis d enfer
+Qui l ame de moy cuident auoir au trespaser
+Mez ie uoi cha sus destre les sains angrez chanter.
+Pour Dieu trez douce suer pensez de bien ouurer
+Si que par bonnez euurez conquerez paradis.
+Ie n ay pas a mon cors fait mout de sez delis
+Pageu01P379
+Et si me dout ie mout dez laz ans anemis.
+Douce suer Dieu uous rende les biens que m auez quis.
+Ie uous prie que faciez mon cors enseuelir
+Mez plus prochains amis me uenront enfouir
+Et une franche dame que uous pour Dieu guerpir.
+Quant la pucelle l out si dist sans alentir
+Sire de prez d ici sont donc uostre parent
+Or plus ne pout parler le cors qui l ame rent.
+Les angrez l emportérent deuant Dieu liement.
+Les sains par toute Romme sonnérent hautement
+Sans ce c on lez tirast chacun sonnoit par li.
+Quant la gentil pucele out le miracle oui
+Forment se repentoit que ne l out miex serui.
+Le sergent uint au conte et il a dist ainsi
+Tout baset en l oreile Frans hons le bon paumier
+Qu as fet dis et set ans sous ton degré couchier
+Trespasa orendroit  bien croi que Dieu l a chier.
+Quant le conte l oy si i uint sans targier.
+Pageu01P380
+Le saint cors regarda qui ia estoit transis
+Il ne cuidast iamez que ce fust son chier fis.
+Le conte uit ses mains croisiez sus son pis
+En l une uit la laitre lors fu tout esbahis
+Mout bien la cuida prendre mez ne la pout auoir.
+Lors ot grand duel le conte et d ire le cuer noir.
+Tantost s en uint au pape si li fist a sauoir
+Q uns hons est trespasé sous son degré pour uoir
+Dix et sept ans entiers a chiens demouré 
+Un brief tient en sa main bien prendre l ay cuidé
+Ne le me ueult laissier bien m a pris en grant hé
+Car trop pourement l ay en son mal regardé.
+Ie croi bien que ce soit le saint cors que queron.
+L apostole out grant ioie car mout estoit prodon.
+Dessous le degré uint et li autre baron.
+Tres tous s agenouliérent en grant deuocion
+Et depriérent Dieu de bon cuer fermement
+Pageu01P381
+Qu il sachent du cors saint le uie plainement
+Et de quel lieu il est et qui sont si parent.
+Lors se leua le pape trestout premierement
+uers la main du saint cors s abesse et humilie
+Il a prise la lestre le saint li a lessie.
+Dezploier la cuida et uout lire sa uie
+Mez le dous Ihesu Crist ne le consenti mie
+Car des mains l apostole la laitre s en yssy.
+Ou sain a la pucele par deuant tous saly
+Qui trente et quatre ans out atendu son mary.
+Tous ceus qui la estoient en furent esbahy.
+Mez le dous Ihesu Crist le fist pour ensegnier
+C ordre de mariage fait forment a prizier
+Quant desus l espousée fist la lestre lancier
+Sus pére ne sus mére ne la uout enuoier.
+Personne est bien chetiue qui ront son mariage
+Dez lors renie Dieu et se met en l ommage
+Dez anemis d enfer qui tant sont plains de rage.
+L apostole parla a la pucele sage
+Et li dist Bele suer bien croi que soiez bonne
+Pageu01P382
+Quant Dieu par deuant tous ceste lestre uous donne
+Festez la tantost lire a aucune personne.
+Un saige cardinal la pucele aressonne
+Doucement li dist Sire cestre lestre lissiez
+Le cardinal respont Cent mercis en aiez
+Quant la m auez balie. Aux gens dist Cois soyez 
+Ie truis en cestre laitre (bien ueul que le sachiez)
+Que ce saint cors pour qui nous sommes asemblez
+Fu fis Euphemien Alexis est nommez.
+En cest ostel naqui ou il est trespasez
+Pour l amour de Dieu a soufert maintez durtez
+En Alphis la cité fu bien dis et set ans
+Nus pourez et deschaus comme poure truans
+Autant a demouré cemme poure penans
+Sous lez degrez son pére. Lors fu le cri si grans
+C a paines oït on a Romme Dieu tonner.
+Ie croy c on n oy onquez si grant duel demener.
+Pageu01P383
+Lors dist le cardinal Encore ueul parler
+Par amour leciez moy ma laitre parfiner.
+Saciez que ce saint homme une dame espousa
+Mez onquez charnelment a son corps n abita.
+Quant departi de lie son anel li coupa
+uez en ci la moitié La pucele cria
+Quant cez moz entendi Lasse  mal eürée 
+I ay bien l autre moitié trente et quatre ans gardée.
+Mout dolente l ataint. Tel uertu la iournée
+Fist Dieu que l une pieche est a l autre soudée
+Si bien qu il n i parut c onquez fust departis.
+De la pitié plourérent trestous grans et petis.
+Mout grant duel demena le pére pour le fis
+Ses poins teurdoit de raige et dessiroit son uis
+Puis dist Filz Alexis grant duel m as demonstré.
+Comment as si uilment geü sous mon degré
+Helas doulent pecheur pechié m a bien tempté
+Quant en dis et set ans n ay mon fils rauisé.
+Pageu01P384
+Puis dist Fiex Alexis ceste lestre est sauuage.
+Ne say ou tu as pris si merueleus courage
+Que desous mon degré es mort a tel hontage.
+Ie te cuidoie fere tenir mon heritage.
+Hée  chier fis Alexis le cuer me fent pour toy
+Encore t atendoie au iour d uy par ma foy.
+Pas ne te connoissoie  si estoiz prez de moy
+La mére d autre part out au cuer grant esmoy
+Si trestot comme elle ot la parole entendue
+Com femme forsenée est uers son filz uenue.
+uilment le uit gesir sur la nate uelue.
+Qui ne l eust soustenue pasmée fust cheüe.
+Ce ne fu pas meruelle s elle mout se demente.
+Elle dist Alexis de ta bele iouuente
+Qu as tenue si uile donc ie sui mout dollente
+Et s auoies sous toy tant de si bele rente
+Biaus fis c est grant merueille que mon las cuer tant dure
+Qu il ne fent en deus pars ou d angoisse ou d ordure
+Pageu01P385
+Quant ie uoy mort gesir mon fis a tel ledure 
+La pucele refist grant deul a desmesure.
+Par la prece dez gens s en courait la pucele
+Forment tordoit ses poins et gratoit sa forcele.
+Par desus le cors saint fust cheüe la bele
+Quant le saint apostolle la retient et apele.
+La pucele crioit comme fame desuée
+Chier amis Alexis com dure deseurée
+Mout uous ay atendu et en bonne pensée
+Or m auez uous lessie de tous biens esgarée.
+Ie suis bien de tous poins cheüe en ueuueté.
+Iamez n aray autre homme pour la uostre amité
+Si que la sus es ciex en la sainte clarté
+Puissent auoir nos amez uraie société
+Moult auoient dur cueur ceux qui la ne ploroient.
+Le Pape commanda tant com le dueil menoient.
+C on atornast le cors si qu il l emporteraient
+Mez les rues de Rome toutez plainez estoient.
+Pageu01P386
+L apostolle leur dist Seignieurs soiez certains
+Se ne prenon couseil nous seron ia estains
+Car lez ruez sont plainez de frans et de uilains
+Ie lo que le tresor de Rome soit atains
+Et soit gecté a gens. Si se departiront.
+Et il ont respondu uolentiers le feront.
+L argent gietent ez ruez les gens semblant n en font
+A ueoir le cors saint si grand desirier ont
+Qu il ne sont pour l argent tant ne quant remué.
+Adonc fu le cors saint des plus forts gens leué
+A mout grant paine sont par la prese passé
+N y out roy n apostolle qui ne fust enpresé.
+Droitement à l eglise uindrent sans demourée
+Qui de saint Boniface le martir fut fondée.
+Mout fut ce iour la messe solemnelment chantée.
+La pucele i souruint quant elle fu finée
+A l eure qu on uouloit enterrer le saint cors
+La damoisele s est agenoulie lors
+Pageu01P387
+Puis a dist en plourant urai Dieu misericors
+ueulliez que de chiens n ise ia uiue hors.
+Et dist Mon droit seigneur tant comme il fu en uie
+Ne uout auoir a moy soulas ne druerie.
+Dieu pri c aprez sa mort aie sa compaignie.
+Le trez dous Ihesu Crist ot s oraison ouïe
+Car la gentil pucele tantost se confessa
+Et un petit aprez le saint cors regarda
+Au cuer out tel destresse qu en l eure trespasa.
+Lors le grant duel a Rome partout renouuela.
+Pour la pucele y out mainte lerme plourée.
+Auequez son segnieur fu la bele enterrée.
+Belez uertus fist Dieu pour eus cele iournée
+Qu il n out si grief malade en toute la contrée
+S il uenist au saint cors par bonne entencion
+Qu il n eust tost et en l eure de sez maus garison.
+Saint Alexis soufry grant tribulation
+Pour auoir paradis en la fin deprion
+Pageu01S388
+A Dieu et au bon saint qui tant out de hachie
+Que tes ouurez fachon en ceste mortel uie
+Que quant l ame sera de nos cors departie
+Auoir puissions dez angrez la saincte compaignie.
+Amen.
+*** END
