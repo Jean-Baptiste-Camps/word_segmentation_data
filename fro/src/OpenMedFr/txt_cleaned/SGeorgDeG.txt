@@ -1,0 +1,612 @@
+﻿#META#  TextURI          SGeorgDeG
+#META#  DEAF             http//www.deaf-page.de/bibl/bib99s.php#SGeorgDeG
+#META#  TL               S George M
+#META#  FEW
+#META#  ARLIMA           https//arlima.net/no/2627
+#META#  Author                   
+#META#  AuthorBorn      
+#META#	AuthorBornAmb
+#META#  AuthorDied      
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        L ystoire de saint George
+#META#  TextSubtitle	 
+#META#  Textuols         1
+#META#  TextSubi         hagiography
+#META#	TextDom
+#META#	Translation
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      uers octosyllabiques à rimes plates
+#META#  TextDescuers     8
+#META#  TextDateARL      2em. 14es.
+#META#  TextDateAdi      f14
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor         Matzke Iohn E.
+#META#  EdPlace          
+#META#  EdPublisher      PMLA
+#META#  Eduol            17
+#META#  EdYear           1902
+#META#  EdPages          158-171
+#META#  MsBase           Amsterdam Bibl. Philos. Herm. 58 (anc. Cheltenham Phillipps 3668)
+#META#  MsOther          
+#META#  MsNum            1
+#META#	MsDateARL    
+#META#	MsDateAdi
+#META#	Form
+#META#	Complete         yes
+#META#	NoWords			
+#META#	NoLines			 551
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/publications18modeuoft
+#META#  ScanURIOther
+#META#  ArkID            ark/13960/t14m93d9w
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor        Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer      
+#META#  ORCIDReuiewer    
+#META#  MiscInfo         known as the De par le filz uersion
+#META#  CCLicense        CC BY-NC-SA 4.0 International 
+
+
+*** START
+PAGEu01P158
+§ Cy commence l ystoire de Saint George.
+De par le filz sainte Marie 
+uous uueil ie recorder la uie
+De saint George et sa passion
+Comment et par quel occasion
+PAGEu01P159
+Il fut martir et mis a mort
+Sans ce qu il en eust nul tort
+Fors que pour exaucier la loy
+De Ihesucrist le nostre roy.
+...
+...
+La uie par deuocion
+Soit cheualier ou autre hom
+En bataille ne sera prins
+Ains y gaignera los et pris
+Sur ses ennemis aura pouoir
+Mais qu il ait tous iours bon espoir 
+Es miracles du bon martir
+Qui prist en Dieu tout son desir.
+Dieu fist belles uertus pour lui
+Si comme uous orrez ia cy.
+Par trois fois prist mort le prodomme
+De co fait le scripture somme.
+Une beste sauuage estoit
+Qui toutes les gens deuouroit.
+Moult par estoit laide et hideuse
+Maintes meres fist doloreuse.
+Elle repairoit en une uille
+Ou ne demouroit filz ne fille
+Qu elle ne passast par son uentre
+Un en auoit le iour de rente.
+De paour que plus n en preist
+S en la uille alast ne uenist
+Establirent ou elle prendroit
+Ceulx de la uille la endroit.
+De chascun hostel un enfant
+Conuint chascun iour au serpent
+Et qui n a enfans si y aille
+Qu il conuient acomplir leur taille.
+Tous les enfans furent faillis.
+Les gens furent moult esbays
+Oncques n y remaint qu une fille
+Qu estoit au seigneur de la uille.
+Le seigneur dist que il uouloit
+Et pour ce que raison estoit
+Que sa fille alast prendre mort
+Ne uoult faire a ses hommes tort.
+PAGEu01P160
+Quant uint l endemain au matin
+La fille fut mise au chemin.
+Grant dueil en orent pere et mere 
+Quelle estoit de belle maniere.
+Hors de la uille la conuoient
+Car plus auant aler n osoient.
+Grant dueil firent pour leur enfant
+Quant uindrent au departement. 
+Quant elle fut en son chemin
+Moult pensant ot le chief enclin.
+Un homme a cheual uit uenir
+Bien cuida estre pres de mourir.
+En son cuer dist tout quoiement
+Ha laisse ie uoy le serpent.
+Il uient uers moy ie uois uers lui
+Il n aura ia de moy mercy.
+Quant elle fut de lui apressée 
+Adoncques s est asseurée
+Et dist qu il a grant hardement
+Puis qu il n a paour du serpent.
+Quant Saint George uit la pucelle
+Qui estoit auenant et belle
+Si demanda ou elle aloit 
+Ainsi seule comme elle estoit.
+Sire ie uois liurer mon corps
+A un serpent qui est la hors.
+Ceulx qui ont de lui grant doubtance
+M y enuoient par leur sentence.
+Saint George dist a la meschine
+Fille uous estes sarinzine
+Mais se uous uoulez en Dieu croire
+Le serpent ne uous puet mal faire.
+Sire i y croieray uraiement
+Me puet il donc estre garant
+Ouil uoir ma tres doulce amie
+Menez m y et ie uous en prie.
+Ilz n alerent gaires auant
+Qu ilz ne ueissent le serpent.
+Droit a la cité tient sa uoie
+Car trop lui demouroit sa proie.
+Saint George lui dist haultement
+De par Dieu le roy tout puissant
+Te coniur que n aies pouoir
+Pageu01P161
+Que d illec te puisses mouuoir.
+Fille dist Saint George prenez 
+La ceinture que ceinte auez
+Et la gettez hardiement
+Entour le col a ce serpent.
+Sa ceinture au col lui getta
+Oncques le serpent ne bouga
+Droit a la uille l en menerent
+Les gens grant ioye en de menerent.
+Le pucelle dist a son pere
+Sire croiez uous et ma mere
+Ou Dieu a ce bon cheualier
+Grant pouoir a de uous aidier.
+Toutes les gens s agenoulerent
+A Saint George mercy crierent
+Pour Dieu qu il occie la beste
+Trop par est laide et deshonneste.
+Lors la fery sans demourance
+Par le chief du fer de sa lance.
+Tous crierent a plaine gorge
+Nous croirons le Dieu Saint George 
+En icel temps dont i ay parlé
+Que le bon saint fut martiré
+Estoient trois roys d un pays
+Ensemble ont fait un compromis.
+Dyables ont en leurs querolles
+Car ilz croient fausses ydoles.
+Chascun des trois auoit iuré
+Que trestous ceulx de leur regné
+Qui ne croiroient en leurs ydoles
+Et qui n enterroient es queroles
+Que ie uous ay deuant nommés
+Peines leur sont appareillées
+Sy males et si engoisseuses
+Qu a chascun sont espouenteuses.
+Quant les crestiens l ont ouy
+Chascun a grant paour de lui
+N y a cellui qui ose croire
+En Dieu n en point de son aflaire.
+Il aduint que l empereur
+Qui du pays estoit seigneur
+Estoit appella Dacien
+PAGEu01P162
+Et fut moult mescreant paien.
+Crier fist par tout son empire
+Que ceulx fussent mis a martire
+Qui croiroient Nostre Seigneur  
+Crestiens sont a grant douleur.
+Ly emperere Dacien
+Ot fait faire par son engien
+Une ymage d or et d argent
+Pour faire aourer a sa gent.
+Abulon lui ot mis a nom
+Hault l ont mis dessus un perron.
+Soubz lui sont les autres ydoles
+Ceulx qui les croient sont folz et foles.
+Ilz ne croient mie que Dieux
+Feist la terre ne les cieulx.
+Nostre Seigneur qui fait tous biens 
+Pour exaulcier les crestiens
+Y enuoia un messagier
+Saint George ot nom le cheualier. 
+Quant il fu uenu au pays
+Ou l empereur auoit tramis 
+Ses messages pour demander 
+S on peust nulz crestiens trouuer
+Nul ne s i osoit demoustrer
+Quant Saint George dist haultement
+Croiez en Dieu omnipotent
+Ains que Saint George eust finée
+La parolle qu ot commencée
+Pour conforter les crestiens
+L orent saisy les mescreans.
+L un le bouta auant autre arriere
+Et l amainent a l emperere
+En leur loy orient comme chien
+Roy emperere Dacien
+ueez cy un crestien traytre
+Qui uous et uostre loy despite 
+Quant l emperere uit l ymage 
+De cil qu estoit de Dieu message 
+Moult lui sembla de belle forme 
+Grant fain a que uers lui se tourne.
+Si lui a demandé son nom
+Comment il est si hardi hom
+PAGEu01P163
+Qu il ose dire au contraire 
+De son dieu qu il auoit fait faire.
+I ay nom George et suy crestien  
+uostre dieu ne uault pas un chien. 
+Ie croy Dieu qui fist tout le monde 
+De qui tout bien et grace habonde. 
+L emperere dist maintenant
+George moult estes bel enfant
+Mais moult auez pou d esciant 
+Qu alez mon dieu si fort blasmant. 
+En Abulon mon dieu croiez
+Tous en soiez riches clamez.
+Sire mais aorez Ihesucrist
+Qui fait aux arbres porter fruit
+Et fait croistre tous autres biens
+De quoy uiuent tous crestiens
+Et ces ydoles hors getez 
+Dont uous estes si redoubtez.
+Quant l emperere l ot ouy 
+Au cuer fut doulent et marry.
+A celle heure tint un coutel
+Cuida ferir le damoisel 
+Parmy le pié deuant le gent.
+Le coutel ressort maintenant 
+Dessus le pié de l emperere
+Par la grace de Dieu le pere.
+Et quant l emperere ce uit
+Si le tint a moult grant despit.
+Son dieu Abulon a iuré
+Que George en male heure fu né 
+En la prison l a fait getier
+Et puis l a fait crucifier
+Et li fist mettre en lieu de tombe
+Sur le pis une mole ronde.
+Une roe ot fait faire 
+Cellui qui est de Dieu contraire
+Qui fut a bons rasouers trenchans
+Pour destruire les crestiens.
+Cellui fut liez par les bras
+Qui estoit de Dieu aduocas
+La roe part en dix troncons.
+L emperere et ses compaignons
+PAGEu01P164
+uirent qu il ot couppé la teste 
+Chascun d eulx en mena grant feste 
+Et dirent tous George est mort 
+Son Dieu n y puet mettre confort. 
+Lors descent a grant conpaignie 
+D anges le filz Sainte Marie
+Et ressuscita son sergent.
+L ange li dist certainement
+George amy ne t esbay pas
+Par trois fois la mort receuras
+Et puis auras pour ton seruise 
+La ioye que Dieu t a promise.
+Or est George resuscité
+Deuant l emperere est alé
+Et lui dist que tout son trauail
+Ne prise pas un chief d ail
+Pis uault une paine d enfer
+Que toute sa roe de fer.
+Quant le mescreant l ot choisy 
+Saichiez qu il fut moult esbay
+Car il l ot ueu en dix pars
+Lors lui dist que il iouoit d ars.
+Illec auoit un noble conte
+De Dacien n ot mie honte.
+Il lui a dit a haulte uoix
+George ie croy le Dieu que croys
+Et moy et toute ma mesnie
+Creons cellui qui te rent uie.
+L emperere lore a commandé
+Que George soit emprisonné
+En l ostel d une poure femme
+Pour lui faire greigneur diffame
+Et si deffent que ne lui doigne
+Chose dont sa uie soustiengne.
+Saint George auoit moult grant fain 
+A la femme demanda pain.
+Elle dist qu elle nen a point
+Elle ne scet qui lui en doint.
+Quel dieu crois tu amie chiere 
+“Abulon le dieu l emperere.
+Celle femme auoit un enfant
+Sourd muet aueugle impotent.
+PAGEu01P165
+La femme dist au prisonnier
+“Amy George ie te requier
+Garys mon enfant ie croiray
+Le Dieu du ciel que tu crois.
+Saint George si dist a l enfant
+“De par Ihesucrist te commant
+Appertement sans demourance
+Regarde parle aies oyence.
+L enfant parla oy et uit
+A Saint George maintenant dist
+“Les uertus de ton createur 
+Sont greigneurs que de nul seigneur. 
+Chascun uit le miracle grant
+Que Dieu ot fait dessus l enfant.
+Plus de mil s en sont conuertis
+A Dieu rendent grace et mercis.
+Saint George entra en une chambre
+Ou il trouua de la uiande.
+Une table toute chargée
+Que l ange auoit appareillée.
+Le iour d apres l enuoia querre
+L emperere qui uoult enquerre 
+Comment il conuertist ses gens
+Son dieu Abulon y est perdans.
+“Mescreant de quoy paries tu
+Dieu a en lui si grant uertu
+Que le peuple l apparcoit bien
+Il est a Dieu tu n y as rien.  
+L emperere ua demandant
+“uault mieulx ton Dieu que Tauergant 
+Saint George lui respont sans faille
+“Cellui ne uault pas demi maille
+De ce t ose ie bien parler.
+Mon Dieu fist ciel terre et mer
+Et tout quanque il y appartient
+Et si fonda le firmament.
+Le mescreant dist autres foiz
+“Se cellui Dieu en qui tu crois
+Dont tu nous uas ainsi preschant
+A uertu et pouoir si grant
+Qu il puisse faire porter fruit 
+A ces arbres que tu uois cy
+PAGEu01P166
+Qui sont seez passez a xx ans
+Ie croiray tes sermonnemens.
+Bien scay que tu ne croiras mie 
+Au cuer as si grant felonnie
+Que elle ne pourroit souffrir
+Que a Dieu deusses conuertir.
+Mais toutes uoies pour acomplir 
+A tout le peuple leur desir
+Ie en feray a Dieu priere
+Ma parolle n est mie chiere.
+Le prodon s est agenoullié 
+Deuotement a Dieu prié
+Que il lui plaise par sa grace
+Que pour lui ce miracle face.
+Quant sa priere fut finée
+Dieu a sa grace demoustrée.
+Les arbres qui furent couppez
+Plus de xx ans auoit passez
+Ne oncques n auoient porté fruit 
+uerdirent et porterent tuit.
+Tout le peuple les regarda
+Chascun si s en esmerueilla
+Tous s escrierent a haulte uoix
+“Nous creons le Dieu que tu crois 
+Dacien ne creoit neant
+Et dist que c est enchantement. 
+George dist se Dieu lui ait
+Ains est ce de par Ihesucrist. 
+Dacien lui dist en riant 
+George tu es moult bel enfant
+Ie te prie que tu sacrifies
+Mes dieux et que ne m en desdies
+C est Appolin et Tauergant
+Et Aubulon qui est plus grant.
+Ie uueil qu ailles par mon empire 
+Sans ce que nul t ose desdire. 
+Saint George respondi briefment
+Se tout le peuple si consent
+Ie sacrifieray tes ymages
+Si y aura moult de dommages. 
+Quant l emperere si l ouy
+De ioie fut tout replany
+PAGEu01P167
+Car il cuidoit auoir uaincu
+Cel pour qui Dieu faisoit uertu.
+La femme uint o son enfant
+Et s escriant moult haultement
+George amis comment qu il aille
+Bien garde ton seigneur sans faille
+Saint George regarda l enfant
+Et lui a fait commandement
+ua de par Dieu quant tu uouldras
+Tous temps amy de Dieu seras.
+La femme s escria a hault cry
+Ha Saint George le mien amy
+Ton Dieu laisses et a grant tort 
+Qui t a ressuscité de mort
+Et uas aourer les dieux faulx
+Moult t en pourroit uenir grans maulx 
+Saint George entra en la cohue
+Ou les dieux estoient en mue
+Et leur dist deuant l emperere
+Ie uous coniur de Dieu le pere
+Que uous me diez la puissance
+Que uous auez sans demourance.
+Lors lui respondi une uoix
+Nous auons le pouoir que uois
+De mener les gens a contraire	.
+Et destourner de leur preu faire.
+Saint George gette emmy la rue
+Trestous les dieux de la cohue
+Et dist que grant pechié faisoit
+Cellui qui leans les tenoit.
+Quant l emperere ot ce ueu
+Le sang lui est tout esmeu
+Et dist que oncques si grant honte 
+N orent leurs dieux en iour du monde.
+Lors a commandé l emperere
+Que l en apporte une chaudiere
+Plaine d yaue iusques au bort
+Et qu on la face boulir fort.
+Et aux parsecuteurs commande
+Qu ilz le despiecent membre a membre
+Et le gietent en la chaudiere
+PAGEu01P168
+Et ilz le font en la maniere.
+L ange uint deuant tout le monde 
+Qui estaigny le feu et l onde
+Et a dit George lieue sus
+Ce te mande le roy Ihesus.
+Saint George loe Ihesucrist
+Dacien en ot grant despit.
+Ceulx mesmes qui sont entour lui 
+Crient trestous a Dieu mercy.
+Qui ont ueu appertement
+Le miracle que Dieu fist grant.
+La royne le miracle uit
+De bon cuer loa Ihesucrist
+De son chief gete sa couronne
+A Dieu et a Saint George se donne. 
+Quant Dacien uoit la royne
+Qui aux uertus de Dieu endine
+Il ly a dit Royne honnourée
+Ce larron uous a enchantée.
+Enchantée ne suy ie pas.
+Onc de mal faire ne fus las
+Encore en auras ta desserte.
+Fuy d icy. Dieu te doint male perte. 
+Ie croy en Dieu tu n y crois mie
+Tu crois la grant forcenerie 
+Des ydoles qui te font faire 
+Aux crestiens tant de contraire.
+Fay moy mourir quant tu uouldras 
+Iamais nul iour ne me uerras
+Croire tes ymages d argent
+En Dieu ay mon cuer uraiement.” 
+Ly emperere la fist prendre
+Par les cheueux si la fist pendre 
+Puis lui ont la teste couppée
+A une bien trenchant espée.
+Les anges y sont descendus 
+Chantans te deum laudamus.”
+Deuant Dieu ont l ame portée
+Comme royne l ont couronnée.
+L emperere fut moult plain d ire 
+Qui uint de ueoir le martire
+A ses sergens a commandé
+Pageu01P169
+Que George lui soit amené.
+L en lui amene appertement
+Et quant il le uit en present
+Si lui a fait une demande
+Et que response lui en rende.
+Un sepulcre a yci deuant
+Ie croiray ton dieu uraiement
+Se tu m en fais ueoir les corps 
+De tous ceulx qui y sont mors.”
+Saint George lui dist sans demorance
+“I ay en Dieu si bonne esperance
+Que quanque ie uueil demander
+Il m ottroie sans atarder.
+Or faites le sepulcre ouurir
+Et trestous les os concueillir.
+Lors si uerront femmes et hommes 
+Se les uertus de Dieu sont bonnes.”
+Ou sepulcre garderent tuit
+N y trouuerent os grant ne petit.
+La pouldre lui ont apportée
+Dedans un drap enuelopée.
+Saint George s est agenoillié
+Et de tout son cuer a prié
+Dieu qui prist mort pour tout le monde 
+Face uertus sur ceste pouldre
+A fin que chascun a grant ioie 
+Congnoisse trestous que tu soies Sire de paradis et roy
+Et croient ainsi comme moy
+Car il n est Dieu autre que toy.”
+Quant il ot dit tout son pouoir 
+Chascun pot bien apparceuoir
+Qu il ot illec hommes et femmes
+Qui furent en corps et en ames.
+Saint George leur a demandé
+Combien il a de temps passé
+Qu ilz furent mis en ce tombel.
+L un respont qui ot nom Iouel
+Sire il a plus de ii c. ans 
+Et ne sommes pas crestiens.
+Pour Dieu que nous baptisez sire
+Que ne retournions a martire.”
+Lors a de l yaue demandée
+Pageu01P170
+Nus horns ne lui a apportée.
+Tantost fist une croix sur terre
+Une fontaine en sourt grant erre.
+Saint George les baptisa tuit
+Et leur dist De par Ihesucrist
+Alez deuant moy mes amis 
+Auec Dieu en paradis.”
+Adonc dirent toutes les gens
+Grant est le Dieu des crestiens
+Dacien est de put affaire
+Qui aux hommes Dieu fait contraire.” 
+L emperere est en grant doulour
+Le corps lui tremble de paour
+Et fait male chiere et diuerse
+Pour le peuple qui se conuerse.
+A haulte uoix s est escrié
+“Helas cheitif maleuré
+Pour quoy uint George en mon empire 
+Huy en souffrera grant martire.”
+Lors appella tous ses sergens
+“Allez tost ie le uous commans
+Prenez George sans demourée
+Si lui soit la teste couppée.”
+Et tout au long de la cité
+L ont les sergens moult debouté
+Et lui dirent soit droit ou tort
+Huy prendras la tierce foy mort 
+Ceulx et celles qui en Dieu croient
+En plourant le martir conuoient
+Tant qu ilz ont la porte passée
+Ou fut la royne decolée.
+Il regarda tout enuiron
+Sur les gens fist beneicon.
+Aux sergens dist Traiez arriere
+A Dieu uueil faire ma priere.” 
+Contremont a leué ses yeux
+Les mains a ioin tes droit aux cieulx
+Et requiert au doulz Ihesucrist
+Qu il recoiue son esperit.
+Beau sire Dieu ie uous requier
+Qu il uous plaise moy ottroier
+Que uous gardiez ceulx de pesance
+Qui de moy feront remembrance
+PAGEu01P171
+Sy uous requier biau sire Dieux
+Ceulx qui feront fonder aux cieulx
+Et en mon nom feront offrande
+Sire garde les de mesprendre.
+Quant ot finde s oroison
+Adonc uint grant procession
+Des anges Dieu du ciel en terre
+Qui uindrent l ame de lui querre.
+uien t en George dient li anges
+Huy auras ce que tu demandes
+Huy seras en la compaignie
+De Dieu le filz Sainte Marie.
+Un sergent prist le damoisel
+L espde traite hors du fourrel
+Et il donne si grant colée
+Qu il ly a la teste coppée.
+Les anges ont l ame saisie
+Et uont chantans a uoix serie
+A Dieu le pere tout puissant
+Aux cieulx lui en font un present.
+L en ne mist pas le corps en fosse
+Ains fut portd en Capadoce.
+Crestiens l i firent porter
+Une eglise en firent fonder.
+Or prions le glorieux Saint
+Tous et toutes que il nous maint
+A si bon port que nous puission
+Auoir uraie confession.
+Amen
+§ Cy fine de monseigneur Saint George.
+*** END

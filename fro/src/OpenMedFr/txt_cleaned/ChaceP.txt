@@ -1,0 +1,614 @@
+#META#  TextURI           ChaceP
+#META#  DEAF
+#META#  TL
+#META#  FEW
+#META#  ARLIMA            https//www.arlima.net/ad/chace_dou_cerf.html
+#META#  Author
+#META#  AuthorBorn
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle         La Chace dou Serf
+#META#  TextSubtitle
+#META#  Textuols
+#META#  TextSubi          chasse
+#META#	TextDom           didactique
+#META#	Translation       false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL       324 uers octosyllabiques à rimes plates
+#META#  TextDescuers
+#META#  TextDateARL       Milieu du XIIIe siècle
+#META#  TextDateAdi       m13
+#META#	TextDateMin
+#META#	TextDateMax
+#META#  EdEditor          Pichon Iérôme ()
+#META#  EdPlace           Paris
+#META#  EdPublisher       Lacrampe
+#META#  Eduol
+#META#  EdYear            1840
+#META#  EdPages
+#META#  MsBase
+#META#  MsNum             5
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form              u
+#META#	Complete          true
+#META#	NoWords           3054
+#META#	NoLines           324
+#META#	DialAuth
+#META#	DialScribe
+#META#  ScanURL           https//gallica.bnf.fr/ark/12148/bpt6k6344042m
+#META#  ScanURIOther
+#META#  ArkID             ark/12148/bpt6k6344042m
+#META#  LccnID
+#META#  OclcID
+#META#  WebAuthor         Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor    orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer      
+#META#  ORCIDReuiewer    
+#META#  MiscInfo
+#META#  CCLicense         CC BY-NC-SA 4.0 International
+
+Pageu01P011
+§ LA CHACE DOU CER
+Si sont aucun qui s antremettent
+De rimer et grant peine i mettent
+Li un le font pour miex ualoir
+Et li autre pour miex auoir.
+D amors se mellent li auquant
+Maint reuont au tournoiement
+Cheualier pour aus auancier
+L uns uuet trere l autre lancier.
+En plusors choses se deduit.
+Loiaus cuers sa foiz le conduit.
+Tex i a qui aiment faucons
+Espriuiers et esmerillons
+Mes tex les porte sor son poing
+Qui au cuer en a pou de soing.
+Cil qui de deduit s entremet
+Se il n aime t ce que il i met
+Puet pou profitier et ualoir.
+S il estoit quil uousist sauoir
+D un deduit qui les autres passe
+(Qui bien aprent petit se lasse)
+Pageu01P012
+Ie uous uuel bien faire a entendre.
+Nuns n enpire de bien apendre.
+Li deduiz est si souuerains
+Qui n est rois ne cuens ne Gaauains
+Sil estoit uis et bien l amoit
+Qui plus honorez n en seroit
+De tous ciaus qui s i entendoient.
+# |
+Biau sire se tuit le seruoient
+uaudroit-il mains quil ne fet ore
+# |
+Certes ains uaudroit miex encore
+Biaus dous amis bien le sachiez.
+# |
+Dont uous pri-ie que uous uoilliez
+Dire deuant touz quex il est.
+# |
+Certes biaux douz amis ce est
+Deduiz qu on a de chiens courans.
+# |
+Sire moult seroie ioians
+S il uous plesoit à deuiser
+Comment il en conuient ouurer.
+Moult uolantierz l escouteroie
+Se uous uoliez assantir
+A moi dire a coi ils courront
+Et comment il cognoisteront
+Quel beste ie uourai chascier.
+Pageu01P013
+Ie uous au auroie plus chier
+Et uous au uoudroie seruir.
+# |
+Et ie n en quier ià mentir
+Car i en sai bien la uérité.
+Quand il auront l iuer esté
+Au sangler si les an retrai
+Deuant karesme et si les lai
+Bien seiorner et aasier.
+Et se tu trueues biau chacier
+Enz el karesme et sec et dur
+Au lièure par aucun éur
+Si gart que ni soit refusez
+Car il en auront millors nez
+Et l alaine eu amenderont.
+Et quant li arbre floriront
+Que li prins tens aprochera
+Lors pren tes chiens et si t en ua
+Là où tu quideras trouuer
+Miex le cerf pour aus encharner
+Et lor aie a ton pooir
+Du cerf a prendre et a auoir
+Et la cuiriée lor en fai
+Mengier. Ancor ie te dirai
+Comment il te conuient ouurer.
+Il te conuient querre et trouuer
+Un lieu à corre bien séant
+Sanz change et mettre un peine grant
+Que tu i puisses assener
+Et puis fai tes chéaus mener
+Pageu01P014
+La où tu cuides par auis
+Que li cerf doie estre honniz
+Et puis trai de ten liemier
+Et fai tes millors chiens chacier
+A force car il est resons.
+Et sés tu que nous te disons
+Que se tu pues que tuit ti chien
+Soient au prendre a ce te tien.
+Se tu uues aprendre et sauoir
+Dou cerf a conoistre et uéoir
+Si entens bien quant les fumées
+Ne seront ancor pas formées
+Par le pié bien cognoisteras
+À quel cerf corre tu deuras
+Grosse esponde et large talon.
+Ce ne doit refuser nuns hom
+Sil a gros et larges les os
+Se tu t en pars tu seras fos.
+Mais ie te uuel faire sauoir
+S a dont pues ione cerf auoir
+Que tu le chasces i el te di
+Car de l iuer sont afoibli
+Li ione plus que uielle assez
+Et sitost comme pris aurez
+Quatre cers contre la seson
+C ert assez pour afaitoison.
+Et puis à ton seigneur si mande
+Que sa uolanté te commande
+Et le leu te fasce sauoir
+Ou il uoudra deduit auoir
+Pageu01P015
+Des chiens que tu as afaitiez
+S ensi fetes bien le sachiez
+Por bon uénéour uous tendra.
+# |
+Biau sire quant il auendra
+Que mes sires m aura mandé
+Et aurai fait ce qu il commandé
+M a nez apaié se tendra
+Et lors primes commencera
+Li tans qu on claime ceruoisons
+Apris m auez d afaitoisons
+Or uous pri-ie se uous uolés
+Et il uous plest que m aprenés
+Com faitement ourer gie doi
+Eu la saison. De ce uous proi
+Car grant talant ai de l oïr
+Don ne puet il mie faillir
+Que uous n en sachiez par reson.
+# |
+Quant ce uenra en la seson
+Que uo sires uoura chacier
+De tant uous uuel bien chastier
+Que ne soiez pas pereceus
+Mes de matin leuer soigneuz.
+Et si prenez un liemier	.
+Car il uous aura bien mestier
+Et entor le fort le traiés
+Car li cers seurs en soies.
+Se relieue et ua ramboscher
+Pour ce deuez querre et tracier
+Pageu01P016
+Entor le fort pour ancontrer.
+Et si uous deuez bien garder
+De quele beste ce sera
+Que uoz chiens renconterra
+Car bien s i conuient auiser.
+# |
+Sire ie i pouroie muser
+Longuement ainz que i el séusse
+Ne que cognoistre m i péusse
+Se uous ne me dites comment.
+# |
+Frere ie t ai apris auant
+Dou pié et parce le sauras
+Et saches que il ne doit pas
+Longuement aler qu on n el truit
+Des fumées qui point ni nuit
+A conoistre ansois i uaut moult
+Car par ce s i cognoissent tuit
+Cil qui s entendent a deduit
+Mes tex en demaine grand bruit
+Sachiez que petit s i conoist.
+# |
+Or uous pri-ie se ne uous poist
+Que me dites que ie ferai
+Quant les fumées trouuerai
+Car ie ne sai pas tot encor.
+# |
+Tu les metras dedans ton cor
+Et de l erbe l estouperas
+Et puis iusques au fort sieuras
+Car là ne se puet il celer
+Pageu01P017
+Et il conuient le bos porter
+As cornes qui ont grand refrait.
+Et quant tu auras tout ce fait
+Et tu auras le bos trouué
+Qu il aura brisié et porté
+L un sur l autre si t en retrai
+Et sagement tes fretes fai
+Si que tu puisses rassener.
+Et puis si t en dois retorner
+A ton seignour. Tu dois sauoir
+Ou tu li auras dit le soir
+Qu il uiegne et que li chien seront
+Et si te conuendra adont
+Fere brisiés au raler
+Si que tu puisses racener
+Et mener ton seignor tot droit
+Car tot issi faire le doit
+Li uenerres bien l entendez
+Et quant à lui uenus serez
+Si li monterrez les fumées
+Que uous aurés aportées
+Et s il auient qu il uous demant
+Que uous li faites iugement
+Et dites li quex ualent miex
+Bien deuez estre si souciex
+Que par uous li soient loueez
+Grosses et fermes et serréez.
+Et celes en torches pesans
+Ne refusent nul cognoissant.
+Et se le ione cerf auez
+Pageu01P018
+Bien est reson que uous monstrez
+Les fumées qui uaines sont.
+Et puis si uous dira adont
+uostre sire sa uolanté.
+Mais ie uous di par uérité
+Que li uiex uaut miex en cel tens
+Porcequ il est gras et pesans
+Et à chacier c est or tot cler.
+Se tu uois ton seignor monter
+Sur son cheual si monte errant
+Sanz faire nul delaiement
+Et puis si pren ton liemier
+Car tu ne le dois pas laissier
+Et t en reua par tes brisiés
+Aus fretes que tu as lessiés.
+Et quant tu seras aprochiés
+Del leu ou li cers est embochiez
+Fai tenir ton chien et descent.
+Et puis si sui tot belement
+Et se tes sires uuet aler
+Auec toi pour ueoir trouuer
+Si met paine que il en ait
+ueu ansi comme tu as fait
+Car li deduis l en plera miex.
+Et si ne soiez mie eschiex
+De lui monstrer ce que tu uois
+Mes soffle en terre et quier as dois
+Là ou tu uois que marchié a
+Pour descouurir miex en parra
+Et li esponde et li talons
+Pageu01P019
+Et li os pour ce le iugons.
+Et des fumées autresi
+Dois tu bien trouuer ce te di.
+Et puis iuppe ou corne un lonc mot
+Chaucuns en a ioie qui l ot
+Nes li chien ioie en auront
+Et li uallet les amenront
+Plus près pour ce qu auras iuppé.
+Et lors doiuent estre escrié
+Pour ce que il ne fascent mal
+Et quil se tignent en estal
+De faire noise au mains qu on puet
+Car tot issi faire l estuet.
+Et quant tu aparceuras
+Au liemier que tu manras
+Quil ert de plus grand uolanté
+De sieure que il n a esté
+Et par les fuies que il ront
+Assez la terre plus parfont
+Et le pié uerrez ce sachiez
+Et par le lit uous cognoissiez
+Ausi c est ce qui moult i uaut
+Mes de mon parler ne me chaut
+Passe le lit tant que drecié
+L aiez et puis fai qu atachié
+Aiez ton chien a un rainsel
+Et puis si corneras apel
+Trois lons mos pour tes chiens auoir
+Et lors uandront a lor pooirz
+Puis met la main au descoupler
+Pageu01P020
+Et lesse les millors aler
+Auant et çaus que miex creuas
+Et puis tantost si monteras.	.
+Biau parole au chiens ce te di
+Tant qu il l aient bien acoilli
+Et puis pence de bien chacier
+Du cor car il i a mestier
+Et tes trois menées feras
+Trestot au mieus que tu porras
+Parole a aus et si met paine
+Haut et clerc à longue alaine
+Et sui tost et inellement
+Tes chiens et uiguereusement
+Ne redoute ne mont ne ual
+Ne fort bois qui te fasce mal
+Que en cheual soiez cornans
+Et sieu la menée touz tens
+El chasce et corne cler et haut
+Que retantisse li bos haut
+Et les ualées en bondissent
+Car li chien moult s en esbaudissent.
+Et des rainsiaus brise en courant
+Qu en la menée uas gitant
+Et aus uoies passer ausi.
+Qui refuit uolantiers sur li
+S ariere retorner te dots
+Toute la menée c est drois.
+A la requeste deux menées
+Doiuent estre par toi cornées.
+A l estortoire dois monstrer
+Pageu01P021
+As chiens que uéu as passer
+Le cerf plus ioli en seront
+Et fiert ta huese et bat et ront
+Se tu os c uns chien le destorne
+De ceus a qui tes cuers s atorne
+Et que tu crois si hue sus
+Les autres chiens tant com pues plus
+Et les fai chacier et si chasce
+De cor de bouche et se il passe
+El leu ou de toi soit uéuz
+Quatre lons mos et chasse sus
+Dois corner et cil qui l oiront
+Treront à toi et amenront
+Les chiens a trestot lor pooir
+Et ioie auront sachés de uoir.
+Et puis quant il seront passé
+Si corne com  i ai deuisé.
+Et sieu tot adès la menée
+Et gaite bien que obliée
+Ni soit ne brisiée ne fraite.
+Et s il t a autre ruse faite
+Si fai si com  de la premiere
+Tele en doit estre la meniere
+Comme i ai deuant ensaignié.
+Se tu chasses de souz-loignié
+Onques pour ce ne t esbaubis
+Ne à tes chiens ne fai ià pis
+Ne ne coite plus mes soigneus
+Soies de biau parler a eus.
+Il fera chaut et sec et dur
+Pageu01P022
+Et li cers n iert mie asséur
+S il sieut le descouuert si dois
+Trere au couuert car il est drois
+Li chien miex en asentiront.
+S il fuit à l iaue trei au mont
+Et aual il ne puet faillir
+Quil ne truissent à assentir.
+Si tret à flache ou à uiuier
+Ou à marchais ne dois lessier
+A trere. Ancor a ce t atorne
+Se tu oz c uns chiens le destorne
+À ciaus qui ne l auront oï
+Dois parler ce saches de fi
+Et lor dois dire assez non po
+Ta ta ta ta ta ho ta ho
+Et si tost que sui aura
+Tant que plus fuir ne pora
+Et qu il se fera abaier
+Quatre lons mos et sus chacier
+Dois corner ce saches de uoir
+Pour chiens et pour uallès auoir
+Car s il le trueuent en estant
+Il en seront tuit plus ioiant
+Et li cheal l abaieront
+Et par droit en amenderont.
+Lors li dois les iarrès couper
+Ainsi en uaudroie ie ouurer
+Se ie m en melloie sachiez.
+Le cerf iut par les chiens sachiez
+Et quant abatu le uerriez
+Pageu01P023
+D un coutelet l esmouelez
+Entre les cornes et le col.
+Et de tant t apren et escol
+Que lors dois tu prise corner
+Et puis dois mener abuurer
+Les chiens qui en auront mestier.
+Et ce te uuel bien accointier
+Qu a uallès fasses retorner
+Ton cerf puis le fai encorner
+Et lors dois sachier ton coutel
+Les coulles lieue bien et bel
+Puis ua a la teste or entent
+Et de louc en louc le porfent
+Et puis si le dois escorchier
+Les neus n i dois mie laissier
+Et s il auenoit que aucuns
+Passast deseure c est communs
+Que il doit la buffe auoir
+Sans pardon ce sachiez pour uoir
+Et les espaules autresi
+Dois leuer après ce te di
+La souz gorge après en leuez
+L erbière et le iosier coupez
+Et l erbière deuez nouer
+Ce uous uuel aprendre et loer
+Puis lieue la hampe en siuant
+Le foie de la pause prent
+S el baille a tel qui n oblist mie
+Que il ni lasce la folie
+Et puis en sache fors la pance
+Pageu01P024
+Et commande sans délaiance
+Aus uallès que la mule en ostent
+Et auec les daintiez l emportent.
+Met la bouele sus la teste
+Car li chien eu feront grant feste
+Et puis en oste la froissure
+Mais garde par nulle auanture
+Que le iardel n i obliez
+Es daintiez mettre le deuez.
+Puis l en doit le nomble leuer
+Les cuisses n i dois oublier
+De l eschine deux neus i ait
+La queue plus bele s en fait
+Et puis en lieue les costés
+L eschine mie n i obliés
+La queue dois à ton pooir
+Bele leuer ce dois sauoir.
+N oublie pas à enciser
+Les iointes deuant et derrier
+L os corbin mie n obliés
+Haut sur un aubre le metez
+Et le cuer donnez aus mesiaus
+Car ce doit estre lor ioiaus.
+L os dou cuer n obliez uous pas
+A dame encainte le donras.
+# |
+Lors dois ta uenoison trousser
+La teste et le col acopler
+Emsamble pour uoir le te di
+Pageu01P025
+Et les deux espaules ausi
+Emsamble et puis les deux costéz
+Sus un autre cheual troussez.
+La hampe et la queue sera
+Ensemble bien i auenra
+Et les deux hausses d autre part.
+# |
+Lors dois haster se il est tart
+De faire erra ment la cuirié.
+Puis le cueure tant que chergié
+Soit la uenoison et trossée.
+Puis soit la bouele ostée
+En sus car il en est mestier
+Et deslie les leuriers.
+Fai chascun une uerge prendre
+Pour les chiens de hustin deffendre
+Et les fait touz mangier emsamble
+Et ausi tost que il te samble
+Que il auront mangié assez
+Si soies moult bien auisez
+A celi qui tient ta bouele
+Dois-tu crier apele apele.
+Le cuir trouse derriere toi.
+N est pas meruoille se t as soi
+Se li uins si est en barils
+Bien est resons qu il soit béus
+Et si tost que béu aurez
+Dessus les cheuax monterez
+Et lors deuez prise corner
+Ce n i doit on mie oblier.
+Pageu01P026
+Et quant de l ostel seroiz près
+Si soiez de corner engrés
+Deux menées cil qui t oïront
+Et lie et ioiant en seront.
+# |
+Mes ie te uuel faire asauoir
+Quex drois tu doiz dou cerf auoir
+Li cuirs est tiens et li nomblès
+Et les espaules. Li uallet
+En ont le col c est lor droiture
+Mais tu dois sauoir par nature
+Que cil droit te furent lessié
+Pour ce qu il fussent emploié
+Cortoisement et départi
+Que garde n auigne par ti
+Que nuns hom t en puist à blamer
+Par la defaute d en donner.
+# |
+Or t ai a pris et ansaignié
+Se le retienz à emploié
+Tieng bien le trauail que i ai fait.
+# |
+Sire uous m auez tant retrait
+De biens que touz iors en serai
+uostres et seruir uous uourai
+A mon pooir bien le sachiez.
+Mais ie uous pri que me diiés
+Se ie doi tot adès ouurer
+Pageu01P027
+Ensi pour dou cerf encontrer
+Que deuiser oï uous ai.
+# |
+Biaus doux amis ie uous dirai
+Si tost com uous aurez trouuées
+Les menieres dont les fumées
+Seront changiez c est tot uoirz
+Lors iront les cers as fréoirz.
+Et si ert pres de la Magdelaine
+Sachiez que c est chose certaine.
+Par le pié et au bois porter
+Ti dois tu touz tans rauiser
+Et au froier cognoisteras
+Dou cerf quant tu le trouueras
+Car au plus gros froïr se froie
+Et auient plus haut c est la uraie
+Lors dois t estortoire peler
+Et plus matin t estuet leuer.
+Et t an dois aler as clarriaus
+Et as landes soies iniaus.
+ueir muser i deuras
+Et as faus en conoisteras
+Et as solas car sa pianiere
+Est de burnir a charbonnière.
+Dou liemier drecier le dois
+Saches que c est resons et droiz.
+Que ainsi com i ai dit deuant
+Il affiert et c est auenant.
+Et dont uenront chien et uallet
+Au descoupler grant paine met
+Pageu01P028
+Et les cueure inellement
+Et tost et uiguereusement
+Et chasce en autel meniere
+Com ie t ai dit par ça darriere.
+# |
+Quant li cers as bices aront
+Alé bien s en aperceuront
+Li millor chien et li plus haut
+Chacier ne uauront ce ne faut
+Ainz compisseront la menée
+Sachiez que c est chose prouée
+Dusqu atant que à chaiffe sera
+Et lors chaucuns le chacera
+Mes les iones le chaceront
+Et plus uolantierz i courront
+Se tu pars les chiens or entent
+Une menée seulement
+Dois chacier en toutes saisons
+C est uéritez nous te disons.
+Fai tes uallès des ars porter
+Car nuns ne doit le cerf tuer
+D espée puisqu il est froiez
+De loing uous lo que le traiez.
+Tot adès quant uous chacerez
+Fraites et brisiées lairez
+Ansi que ie uous ai apris
+Assez tost est li tans failliz
+Que on ne deura plus chacier
+Le cerf ce te uuel acointier.
+Pageu01P029
+Or retien bien ce que dit t ai
+Et saches bien que eslit ai
+Les paroles à mon pooir
+Qui au deduit doiuent ualoir
+Mes ià pour ce nou laisseras
+A demander quant tu uerras
+Home qui te puist ensaignier
+De li te lo à acointier
+Pour ce que l en oies parler.
+Touz gentil homes uuel loer
+Et pri qu il i uuelleut entendre
+Car l en y puet moult de bien prendre.
+Nuns ne les aime qui n en soit
+Mieudres se il fet ce qu il doit.
+§ Explicit la chasce dou cer.

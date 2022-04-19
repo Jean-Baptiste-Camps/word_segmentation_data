@@ -1,0 +1,1488 @@
+#META#  TextURI          AigarB
+#META#  DEAF             http//www.deaf-page.de/bibl/bib99a.php#AigarB
+#META#  TL              
+#META#  FEW        		
+#META#  ARLIMA           https//www.arlima.net/ad/aigar_et_maurin.html
+#META#  Author          
+#META#  AuthorBorn 
+#META#	AuthorBornAmb
+#META#  AuthorDied
+#META#	AuthorDiedAmb
+#META#	AuthorFl1
+#META#	AuthorFl2
+#META#  TextTitle        Aigar et Maurin
+#META#  TextSubtitle	  
+#META#  Textuols        
+#META#  TextSubi         epic
+#META#	TextDom          lit
+#META#	Translation      false
+#META#	Collection
+#META#	CollectionNo
+#META#  TextDescARL      uers décasyllabiques répartis en laisses monorimes
+#META#  TextDescuers     10
+#META#  TextDateARL      12e s
+#META#  TextDateAdi     
+#META#	TextDateMin      1166
+#META#	TextDateMax      1199
+#META#  EdEditor         Alfred Brossmer
+#META#  EdPlace          
+#META#  EdPublisher      Romanische Forschungen
+#META#	Eduol			 14
+#META#  EdYear           1903
+#META#  EdPages        	 1-102
+#META#  MsBase         
+#META#  MsOther         
+#META#  MsNum            1
+#META#	MsDateARL
+#META#	MsDateAdi
+#META#	Form             u
+#META#	Complete         true
+#META#	NoWords
+#META#	NoLines
+#META#	DialAuth		     occitan
+#META#	DialScribe
+#META#  ScanURL          https//archiue.org/details/romanischeforsch14franuoft
+#META#  ScanURIOther	
+#META#  ArkID        	   ark/13960/t9377i81z 
+#META#  LccnID          
+#META#  OclcID         
+#META#  WebAuthor        Dauid Ioseph Wrisley 
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer     
+#META#  ORCIDReuiewer    
+#META#  MiscInfo         edition is based on a fragmentary manuscript all gaps haue been rendered as ...
+#META#	CCLicense		     CC BY-NC-SA 4.0 International
+
+
+*** START
+# |
+Ke d un estais en ac dos abatus.
+Point Fortunet e uenc los sais menus.
+uan s en ferir li iouenes el canus
+Per los blizons passe lo fers agus
+E peills osbers se sentent as cors nus 
+Fraignent les astes mais non es uns mogus. 
+Maurins s en passe e claime els confondus 
+Ke cel sol es en sele rem asus 
+Ai reis Aigars ues com es erobus
+Oi nep oi fils o catent t est cregus
+E non sai dont k anc plais non fo sobus 
+Mais molt er pros quant er reconogus
+Tos tos afars te ietera a lus.
+Lo socors broce el caples es tengus.
+# |
+Fors es li caples que tenent li baron. 
+Draugue de Saure poig al socors Folcon
+El fils del rei fait son tor per cambon
+K  Aimont apele amie e conpaignon
+De Mirasuaus lo fil al comte Aimon
+Un soldader de ceP autre reion
+Se uassaus es e fres conquer ton don. 
+Cel uenc broçant entrels rens a bandon 
+Enmi la presse uait iostar a bandon
+Fer le en l escut u a d aur un lion 
+K enmei lo pis tot lo fer li repon
+Kant l  aste fraig nou laiere en l arçon 
+E lo coms Draugue ferit si lui el son 
+Ke plane s aste l abatet el sablon
+Prent lo cauau balçan de Quarrion 
+E lo donet son fraire en guiardon.
+Aitant la force p ... ms el gonfanon.
+E li reiau poignent ab esporon 
+E mainent los derer el prat Frimon
+O lor sont bornes los barres el buisson 
+E li arcer el seruent el poon 
+Ke tengut n anc cen cauaus qui son bon 
+Mil cauaillers estre Borel Ponzon.
+K il lor dara s el uen a raençon
+Mil liures d aur n i aura maint mangon. 
+El fils del rei del tornar s essomon 
+Renias s en uai o tote sa prison.
+# |
+Mauris s en uai el prat ioste el nauei
+E eil s en uant tuit reniat e estrei.
+Ce dis Sicars Maurin crees en mei 
+Hui a trente ans que auges autal lei
+Ke ia toses ans de uos non folei.
+Molt o fet mal uils hon d aital agrei. 
+Perte auas fete e non sabes per kei
+Ki fet bataille c onsa force non uei 
+Desconfis es per raison e per drei.
+E li reial caualcent a esplei.
+Desos Peride al moster sant Elei 
+Es herberias la nuit el fils del rei 
+L abes Guillelme lor doneit lo conrei
+Ni trais osberc ni desçant son baldre[i] 
+Tros al matin que lo iors lor parei
+Kel mes ... mil ... lo galei.
+E m ... del .. as ab un gonfanon frei 
+Sos Elroide passare lo rabei.
+Cil lo persiguent e cadus ... co crei.
+Li coms Maurins lor renge lo tornei
+Er i poc far cel qui er non i fei.
+# |
+Lo rabei passent e mesclent los torneis
+E poc i far cel qui ben es apres.
+K a Maurin ioig lo coms Tiebaus de Bles 
+E ab Bertran Berengers li Daneis
+E ab Draugon Manigos d Espaneis
+E ab Folcon Rainers de Looneis.
+Entre rens poins qui d armes es cortes
+Ben i estant e Normant et Frances.
+Enmi la presse lai o sont plus espes
+Ioins a Sicar Milaues lo Galeis
+Tant grans se donent per los escus d Orles 
+Ke tot se trauquent los ausbers tiones.
+Lui el cauau a tot Sicar ius mes
+Ben li estere s el cauau non caies. 
+Fraignent los anstes e ronpont li aurfres
+E aui dire per conte que ueirs es
+Ans que socors partis nis remanes
+N i ac cagus per ueir LX e treis.
+Tal mil cauaus i ant caniat e pres
+K un sols non tome a l estable dont es.
+# |
+Lo torneis mescle sos los uignes d Aissent. 
+Lo coms Maurins lai cadele sa gent
+E li arcer e borieis e seruent 
+Tenont los barres eis fossas ausiment.
+El fils del rei fai un enuaïment
+Per lo boscau intret lains poignent 
+E uait ferir Bertran qui lo deffent.
+L escut li trauque e Posberc li concent 
+E l aste fraig per quei el non descent. 
+Bertrans fer lui el bon cauan mouent 
+Per mei le cap que tot lo fer i fent
+Kel gonfanons denant los iels li pent 
+Aiço l  essorbe per quei s en tome lent. 
+Cil feit son tor e is d entr eus corent
+E a s espade abat Milon d Aiglent 
+E prent per fran lo ros liart d Agent.
+El coms Maurins lo uenc aconsegent
+El bon destrer lo refer maintenant
+Tros al boscau l en menet enpaignent 
+E met lo Ios al derrer passament.
+Puis a Fortun s en gäbe e s en content 
+Estort uos ai d aiqueste soradent
+Si li legues tener un an uertent
+Ne uos ni eu n i aurem garriraent.
+E Fortunes com la rason entent
+Escot lo cap e de corre s estent.
+El fils del rei quant a terre se sent 
+Montet el ros per tant ac cor dolent 
+De son socors non pot cobrar nient 
+Meis iame a terre incols d aige pendent 
+Kel trais la sele el frain el garniment
+Non la uol perdre por mil liure d argent.
+Cel torne al renc e dis as seus rient
+Perdut i ai mais auque m esteut gent.
+Lo ...
+O ...
+Ben debent estre ...
+Entresaignat sont tuit e conoissent
+E las do ...
+A las ...
+Laissent ...
+Cascune ...
+Non es ...
+# |
+Quant  ...
+Aiqui ...
+E los enso  ...
+Ab los ta  ...
+1E tant ca  ...
+Dont son  ...
+E de uois  ...
+Tant ca ...
+Cil eseisce  ...
+Ben gaaig ...
+Xu cauau ...
+Non sen p ...
+Mais non sa ...
+Et fait sos ...
+E ac de los ...
+Mil cauaus ...
+Renias s e[n uai] ...
+Mors e nau[ras] ...
+# |
+Lo fil de[l rei] ...
+El coms Mfaurins] ...
+Al canp ...
+Noi ac gar ...
+Que seut no ...
+U frain u ...
+Arberc g ...
+E Maurins ...
+Tot lo ga ...
+La de nul ...
+Mais los a ...
+Tau cent ...
+Tos li sord[ere] ...
+E desarmen ...
+Enmi ...
+Trais a cons ...
+E don Folcon ...
+E don Draug[on]... 
+Maurin ...
+D aikest ...
+Eu uos en ...
+O eu o el g[aaig] ... 
+Persegem ...
+Kar ben sai ...
+Ce dis Sicar[s] ... 
+Karnon a ...
+# |
+Ce dis M[aurins]... 
+Noil sen ...
+Nostre cauaus ...
+E nostre engin ...
+Ai dis Mau[rins] ... 
+Parens al no ...
+Cui lo mo ...
+Kaus sorbre ...
+Si non li ...
+Ce dis Mau[rins] ...
+Tros does pl ...
+... us
+... us
+# |
+... ent
+... ent
+E fet son ban criar iradement
+C om n i remaigne de Xu ans tros a cent
+Neïs li monge non retiegnent seruent
+Ke trei cent mile sont a pie conbatent
+E cauailler uint miller ausiment
+El trap reiau sor la riuere estent
+Tote l autre os enuiron lui porprent.
+Quant dui message uingrent al rei corent 
+Ki de son fil li disent son talent
+Lo uasselage e son contenement
+Tal iauc n a reis que tot en trobles sent. 
+Is contre lui en un mul d Aguilent
+Tal mil de l ost lai uant ab lui poignent 
+Ke tuit sont d els cobeitos e dolent
+Car lor partirs de lor torniament 
+Los astes fraites li escut d aurpigment
+El blanc osberc e li elme luisent
+Frait e fendut per grans cops maintenent 
+Et il nafrat e falsat e sanglent
+E lor cauaus uant per lo canp murent
+E non muert uns c on aiqui non li rent. 
+Tal mil de l ost n ant pres auillament 
+Tros a tier die ce sap mon essient
+En perparant tant fort enuaïment 
+K en plorerant maire e fil e parent.
+El reis acol son fil aliegrament
+Baiset los ies e la boce en rient.
+Ab sa maisnade libre el bore a prezent 
+Ke li cauau non couinunt al uent.
+Al trap reiau lo paire el fils descent
+Lo reis lo fai desarmar sei ueient 
+Molt as bel cors e escabit e gent
+E t es ben pres del premer ardiment
+Ane tant pros hom non fo de ton iouent. 
+Ab tant Bos intre e Bernar de Claruent.
+# |
+Bos e Bernars intrent li conpaignon
+Dex uos saut reis e tos ceaus d enuiron 
+uostre parens Falc uos met a rason
+Cui uos feaes couent d ista reion
+Auent II comtes qu aici en queste ost son 
+Mais il ia disent toi lo mal e lo bon.
+Un fil aues e non sap dont se fon
+Cui autrias uostre terre a bandon.
+S il l en consent tant longe teneison 
+E puis li quier ben l aura per bricon
+Mais fai Pen drei o uos diias que non
+Que s en aures desfiance e somon.
+Lo reis consire iras ans que mot son
+Mais sos fils parle a guise de fricon 
+Enquer non uei son couent ni son don. 
+Tant com lo reis calcera esporon
+Ni eu ni el n i aurem ia mason
+Mais el me serue e port mon gonfanon
+El reis el creisse aisi com son baron
+Ke s el li bause a guise de felon
+E eu l encontre en plan ni en canbon
+Tot lo reiame metrai a deuison
+En nostres lances portarem l espison
+C om tot lom  lais o tot l en port per son 
+Ia non n er lais d escut ni de baston
+Ni puis sa mort non auram contenchon.
+# |
+Seigner dis Bos nos en uolem tornar 
+A don Falcon qui uos fais raisonar. 
+Respondes nos aitant con cuides far
+K a uostre fil non saben ren parlar
+Ni messagers non deu en cort causar.
+Mais poisses er tornas oltre la mar
+Pos er don Falc uos hom e uostre bar
+E sel uoles fais couens autreiar
+Non n i a plus mais s anor abaissar 
+E ac tos iors seruir e aiudar
+Kar son ranc ten e sos plais afiar.
+Kant uos uoldrez enuers lui adreçar
+Non pot per home faillir ne guerriar
+Mais sel uoles per cestui abaissar
+Tant quel cuidas de sos plais enganar
+S el fos rix hom pogre sei oblidar
+Mais paubre es ce dis al rei causar
+Nos lassera ia uius deseritar.
+Bos dis lo reis pos mais non uels estar 
+Kalques noueles deis de la cort portar. 
+Trait son gant destre e fait son fil leuar 
+Eu dons ma terre seguentre mon finar 
+E lo seruice que non ti aus uedar
+E non retenc citat per coronar
+Ni tor ni sale ni donion ni caslar
+Ni abaïe que eu aie a gardar
+Ni duc ni comte ni uiscomte ni par
+Ee tos nos face lo saigrement iurar 
+E as prebos que non puisse bausar.
+Cel pres lo don e baiset lo sollar.
+Seigner dis Bos nos uedem lo donar 
+Kar aiquis plais non fai gins a celar.
+Taus mil n a ci tos a gris e a uar
+Ki tuit entendent de Falcon mal menar.
+Nos en irem e sabrem li contar
+Ke non uoles bienestance mandar
+Ni plait d amor ni per dreit enseignar
+Ni pars ni fils qui son couent ant par
+Dis hui enant uos pos en lui fidar.
+Irem nos em e Damlisdex uos gar
+A l  uis del trat uant el cauau montar.
+# |
+uant s en andui per uns cemins ferras.
+Desos Peride en la ribere els pras
+Trobent Falcon com es contramontas
+E don Maurin e Sicart sont delas.
+Bos dis don Falc los noues me diias
+E sans mentir si com es la uertas.
+— Per ma fei segnre non er ia mos canias 
+Lo paire el fil uimes ensens iostas
+E ob graut ost e ob homes assas
+Ben aesmas a XX mile d armas 
+E d altre gent a tant lo reis mandas 
+Ke per sanblance es feire o grans marchas. 
+Nos fezem clam mais pauc nos fo preizas
+Lo uostres dreis lai fo ben rasonas.
+Lo meu ueiant fui reiames donas
+K anc non remas ni casteaus ne citas
+Ni abaïe hi tors ni fermetas
+De tot ensems en fo sos fils casas.
+Cel pres lo don e uos fus manechas 
+K al premer loc u seres encontras 
+Ke uos ni el ia des iels uos ueias
+Tos lo reiames uos ere abandonas
+A uostres lances er lo dreis essegas
+U tot Taures u tot l aura en pas.
+E Falc respont Dex en sie laudas
+Eu non sui dont del tot deseritas
+En auenture sui del anor tornas.
+Se Dex me salue ma uie e mon solas 
+E mon ardit e mos mans e mos bras
+Enquer n ara tot mon dreit se Deu plas
+E aiquel plait qui m en er destinas.
+Point le cauau qui uait tost e uias
+Quatre arpens s es de la terre eslaissas 
+E fu aliegres com ere fu iras.
+# |
+Falc tras sa resne sos l ombre d un albar 
+Sicart apele per cossel demandar
+E Sicars broce lo destrer balçan uar
+Ço es Lirons qu aues auit nomar
+Ki fu noris en fores sans baillar
+Dont lo III breque lo annarent enblar 
+E Salapans li fes lo brac nodar
+Al rei de Nubie l enmane per conprar 
+Ben doze mile de bezans l en fet dar
+A la reigine l enuiet per amar.
+Maurins l annet per proece acatar
+En isle Fade quant i uenc arberiar
+Det li la dosne quel tenie molt car 
+Per son catenc e per s anor cobrar
+E el Sicart qui nel uolt puis laissar 
+Kar lo uit grant e bon per caualiar.
+E Bertrans poins Abstruget lo nauar 
+Tant bon cauau non auit hom nomar
+E lo coms Draugue lo fal Roïn de Bar 
+Neguns de corre mot non Pause sonar 
+El proe Renelmes lo brun Eliazar 
+Corteis cauaus e de corre e d anblar
+E Ascelins Cobeitos lo liar
+Folque de Saure l Alferrant d oltremar 
+Kel coms Maurins lai gaiegnet li bar 
+Kant a Rodans fu al tornei mesclar
+Lo Maur de Tir en auint desraucar
+En terre sece qu anc pos non poc leuar 
+Folcon donet quant non li pot uedar
+Kel seus fo mors a Peride al intrar 
+De XXX lances maintenant sans lançar.
+El coms Maurins fes Fortun eslaissar
+Ane non fo beste qui au lui pos annar 
+Aitaus peruis es greus a aiostar
+Quant le perdra Maurins de mort se gar. 
+Ere sont set per lo conseil donar
+Segner dis Falc eu uoel a uos palar 
+La desfiance ai fet araisonar 
+E dei ben mai ma guerre comenchar. 
+Folque respont Annem los encalchar 
+En las herberies per terme d abeurar
+E nos siem cent a l esporonar
+E uos a mil annas uos enbuissar
+Eels fils del rei es leus a traginar.
+— Cenbeaus de nuis es malz a encalcar 
+Ce dis Maurins laissem aiço estar
+Kel reis set ben sos os entregaitar
+E lo matin quant uira lo ior ciar
+Fera per Tost tos sos graisles sonar
+En uostres terres interra herbreiar
+E a Peride uenra per torneiar.
+Annem nos en garnir e adobar
+Los elms brunir e los osbers breiar 
+Toschar las lances e los astes dreçar
+E los cauaus ab aure conredar
+K al premer ial lor toldrem lo maniar.
+Eu ai uegut reial rote aiostar
+Ki uenc cantant e puis plore al tornar.
+Ce dis Sicars Mils lo poriam far
+Ki a celat nos sabrie guidar
+Si poriem oltre cele ost passar
+Lai non ac home qui puisse armes portar
+Kel reis ac tot ab sei quant pot menar.
+Gent nos estere un castel laironar
+A la maisnade Falcon pogues estar 
+Enmi lor terre per l onor gueroiar.
+—	Eu sai dis Falc o podem faidiar
+Al castel Lans non cuit que ren s i gar
+E es mos dreis s eu i podie intrar
+Kel reis donet ma maire a mariar
+Pos li bauset que nol li uole laissar.
+Ce dis Sicars Annem los essaiar
+E el remaignent per la terre gardar.
+Fazem la coce e siem andui par
+Ke mal deit traire pros hom per gaiegnar.
+—	Seigner dis Falc non fai mais a tariar. Aiquest consseil ant fremat per celar.
+# |
+Lo consaus part quant solaus fu colchans
+El coms Maurins uai erberiar abans.
+Draugues e Folques e Sicars l Alemans
+E lor conpaigne qui sont bones e grans 
+Mil e set cens ab elms reflambeians
+...
+E Bos los guide per los uals des Karrans.
+Al port d  Aissent las aut quant fu iau cans  
+Aikils passet lo ponteners Ioans.
+Del port d Aissen d aiqui entros al Lans 
+A doe ligues de dreis cemins errans.
+Lo Fars lo clau une aigue perillans
+Tot en rodont eome solaus uirans
+E entrels dos est lo uaus de Brians
+E li Anfrun a los aces trenchans 
+E ab les lances com es leuas li bans.
+Ki per bataille la debent costumans.
+Mil cauaillers a ben laïns intrans
+Ki ant maisnades e moillers e enfans
+Cauaus e armes e saluages talans
+Ke lo plus uils es fers e guerroians.
+Li dui castel ant guerroiat cent ans 
+Per la costume ki es de neuf cens ans 
+Cadune naus lor deit III cens bezans 
+Tregues u pas non er entraus durans.
+Deman er fins ans lo soleil leuans
+K a Falcon er iustise e aclinans 
+Rix n ert li segnre qui aura a comans. 
+L anor al rei pogra sa ...
+E a Peride er Maur[ins] ...
+De sobrel col les descend ...
+Ke çai uendront ...
+E lo reis n er e iras e p[esans]
+Tos li er iauc uers ...
+Er en ert guerre d ...
+# |
+uait s en Sicars e ...
+E Bos los guide per ...
+Al Lans los ac en la ...
+Aiqui s enbuissent el uer[dier] ...
+Lo castel uirent qu anc ...
+Aut siet en rauque la ...
+E ios al peu la sale el p ...
+Los canbres uoltes els ...
+E la capele el bore de sa ...
+E tos es claus sans pon ...
+Ios el uermel ac maior ...
+De uauassor qui sont ...
+Ab grant solers claus d ...
+Mais en ost sont tuit per ...
+E bas lonc l aigue el bor ...
+Ben Iu mile a[tos] ior[s] ...
+L aigue del Far los cl[au] ...
+La mars i uenc III 
+Ki fait son tor del la ...
+Per kei li orne sont tuit ...
+Et al seigner uei molt ...
+Lo iors esclaire permi le ...
+Sicars demande Boson ...
+Signer dis Bos non ...
+Ke chaïns sont mei ...
+Mostre s enseigne e en ...
+Quant la uerres sus en ... 
+Intrar pores per los p ... 
+Laïns uai Falcs e hor ...
+E sos la cape cascuns ... 
+L osberc e l elme e l es[cut]... 
+uenc a la porte sl que re ... 
+Soau apele le porter ...
+E el quant aut son uerz ... 
+Olbret la porte sans ...
+E Bos quant intre permi ... 
+Manace el gendre que ... 
+uers lau e porte ...
+Son conpalgnon apele ...
+Ki la posterne olbr[et] ...
+E Bos s en monte sus ... 
+Gete la lance e enseg[ne] ... 
+E Sicars intre ...
+Tuit sont en terre per ...
+E tui li home ...
+Pere ni lance ...
+Ne nus l autre non a ...
+Mais prender ...
+E Bos lor uai per ...
+Annas Falcon tuit ...
+E uos soigner nan ...
+E sabes tuit quel reis ...
+De uostre aueir ni per ...
+... entent
+... me rendent
+... esfendent
+... [en]uaïment
+... esgarent
+... ensement
+# |
+... alques aiostas
+... li es donas
+... nus seignoras
+... seus guerrias
+... sont ensanble en pas
+... s mandas
+... si afinas
+... ment d amistas
+... cars menbras
+... s coronas
+... ar los feltas
+... los cauals corsas
+... rei uias
+... rs es canias
+... lor iretas
+... si lor plas
+... ans er casas
+... erem assas
+... es amas
+... [quant so]laus fu leuas 
+... Sant German es pras 
+... [ce]nbels trias 
+... e d armas 
+... rei barnas 
+... garde es montas 
+... [to]rnei aficas 
+... repairas
+... re e fossas
+... fors ietas
+... d ardis e d essaias 
+... coce aduras 
+... entresegnas 
+... demandas 
+... que laias 
+... trobas 
+... ndre adalmas 
+... taigne nas 
+... [tor]neis es mesclas 
+... en e en pas
+... desraucas 
+... engolas 
+... entaillas 
+... [me]ssages intras 
+... e abrieuas 
+... ab unes las 
+... e contas
+... [non er ia] mos celas 
+... s uos es enblas 
+... caualias
+... [fu li i]ors esclairas 
+... [sus en la] tor puias 
+... ietas
+... e forcas 
+... desiretas.
+Aut o lo reis anc non fo tant iras. 
+Mandet son fil quis per ces desramas 
+E cel lo fai qui gent es ensegnas. 
+Assas i laisse des mors e des nafras 
+Des cauaillers a des cauals selas 
+Ab grans saietes e a dars enpenas. 
+Ki ac perdut s ac perdut ses iuras. 
+Ke al rei es tos ses afars canias.
+Ans que se sie une ligue eslonias
+A Maurin comte es messages passas 
+Ki dis l afar coment se sie annas
+Sin es Maurins ab los seus alegras 
+Kel reis saura ans que sie arbreias.
+# |
+uait s ent lo reis parmi une calçade
+Per eis harbers tome la os irade
+E sos fils mane l arrergarde reniade
+Mil cauaillers de conpaigne triade.
+Trestot lo ior a s ost contregaitade
+Desci al seir que lor fail la iornade.
+El gaut en est l arreregarde intrade 
+Maurins lo sec con uit l aure baissade 
+A escarit a u. cens de maisnade 
+K el sap cauzis de fort conpaigne ausade 
+Tos de Peride e d Eissent sa contrade
+Ki sont a Fost a mige nuit passade.
+Lai fes Maurins lo coms une bofade
+K en Fost al rei es intras a celade.
+u sont au lui de conpaigne priuade 
+Folque e Renelmes e Pons de Pierelade 
+E Alerans lo Baiuers d isle Fade
+Ki uai ob els une ensegne enlachade.
+Lo trap reiau conuc a l esclairade 
+Ke li carboncle fan entor per la prade.
+Li mil Ingles ant l autre nuit ueillade
+Cui fu al seir la gaite comandade 
+Endurmi sont per prat a la rosade 
+E ac cascuns s ace las lui pausade.
+Quant Maurins uit l eskergaite colcade
+Al leit del rei ac sa lance lançade
+Lo cobretor trencet e la felçade
+Ki fo de porpre e de samit olbrade
+El prat las lui n a mes une braçade.
+Kant uit lo reis lonc sei l aste passade 
+Cuide per ueir que sa mors seit parade 
+Tos nus cobret son escut e s espade.
+Li canberlenc saillent a la mesclade 
+Folque feri Oelin de Belnade 
+El tos Renelmes Malet de ual Penade 
+E Pons Begon d oltre la mar salade
+E Alerans ac s e[n]seigne baissade
+El pes Beraut ac sa lance fremade
+Mort lo crabente arrer en la coirade
+Des canberlens ant la cambre librade 
+Katre en ant mors Frans de bone linade. 
+E ob aitant es lor gens adunade
+El cap de l ost fant lor esporonade 
+Metent lo foc a la lune colcade 
+E fant lor graisles sonar a la menade 
+Come si fus grans bataille iurade.
+Maurins s en is e ac sa gent iostade 
+Corteisement l a la nuit cadelade
+E sans mazans c on oie a laironade 
+Abans que l os se sie ramenbrade.
+Lo fils del rei ac sa broigne endossade 
+Son elm laçat e s enseigne fermade
+Una conpaigne en es ab lui cobrade.
+Dreit uers Peride encalcent per l estrade 
+Aiquele terre ac Maurins obliade
+Ke uers lo Lans a sa resne uirade
+Al port d Eissent er a l aube esclairade.
+# |
+Lo fils del rei encalce per fadie
+Mais as seus fu e tornas e gaudie
+E sans coniat coms lo rei non desfie.
+E sunt III cent tuit en une parie
+Cent n i remainent qui cuident far bauzie 
+A don Ponçon uiscomte de Tubie
+Ki ac al Lans tor e sale e lestie 
+E par las rues par tot erbergerie
+E n i ac home de lui casas non sie.
+Cel los retenc e sa moillers negie
+E donet lor son aueir sans faillie
+Destrers lor done e palefreis d U[n]grie
+Aur e argent e altre manantie
+Trestote l os es par el esbaldie.
+El coms Maurins uers por[t]d  Eissent embrie 
+L autre conpaigne encontre e[n] mi sa uie 
+Non n i ac un que non bais e non rie
+A obs Falcon los ferme e los plaidie.
+Bertran apele qui l escae lor deuie 
+K el trais la nuit de l ost ab l esclarzie.
+Aisin lo raube lor a Bertrans partie.
+Grant aueir done e pramet e afie
+Fai los iurar sorbre sant Ieremie 
+En dreit Falcon tostens mas seignorie
+E ab son oes se de lui de faillie.
+Lo Far lor passe lo ponteners Garsie
+Dessos lo Lans en la prade florie 
+Sont aiostat ab altre conpaignie.
+Tote la gens es encontre els issie
+Eis li Enfrun qui sont plan de felnie
+Ben sont uint mile dont la uais es garnie. 
+El coms d aueir e d amor les conuie.
+Assas ac Falsc a cui face fulie 
+De cauaillers e sans mot de mentie 
+Ben sont III mile de fort conpaigne ardie  
+E cascuns d els ac sa broigne uestie
+Son elm laçat e s enseigne fremie.
+Tant par se fient en lor cauaillerie 
+K il ne redoltent c on rien los desconfie 
+Proc uirant l ost entros qu a merques die.
+# |
+Al ben matin quant l albe pert el tron
+Lo reis fai motes e sont ben de saison. 
+Cent graisle coment per tote l ost en son 
+E sont cueillit li trat el pauillon
+Auent la messe de l abat Neuelon.
+E puis apele Galeran e Sanson
+L uns es sos cas e drus de la mason
+E l autre fils a conestable Odon.
+Per lo reiame poignes ab esporon
+Mon rereban fait cridar abandon
+...
+...
+# |
+...
+...
+Anc tant grans plais non fu tant leus a far.
+Mais lo maiors deuem premers menar
+A sa niebode lo fazem essegar
+C on son parent non deu desiretar.
+Com eu uenie per lo peril de mar
+En isle Fade me fest Dex arribar.
+Lai li fezie mon catenc afiar
+E baillet m en un son dru bacelar
+C es Alerans qu aues auit nomar
+Ab taus uint mile per l anor guerriar
+Tos lo sorderes sab ben torneis mesclar.
+Tant com mos cor pora armes portar
+Non aurai reis ribere ni cachar
+Tros el reiame li face deuiar 
+E par mi loc partir e meitiar
+Comte per comte e duc per duc lassar
+Citat per altre e castel per son par
+E saigrement contre un autre iurar.
+E Falcon face sos couens autriar
+Ke pos sa mort lo ueiem coronar
+E pos Bernart a uiane acuitar
+K a son linage lo uimes achatar.
+E de meus plais non ac mais a tarzar 
+Bedem mon feu qu eu li uole achatar
+S el m a penac e m a fet trabellar
+A mos feus creistre e ab aueir donar 
+Me pot ben l ire tote del cor getar
+E s aiço non tros qu ai sorbredurar 
+Auem la guerre c uns non pot desmesclar 
+Pos serem mort entre mei e Aigar
+uos e Bertrans en pores pro trobar.
+Lo fils del rei s en enquet aïrar
+Mais non o poc a sa guise menar
+Per Deu Maurin ben l ai auit contar 
+Que uostre orguels non poc om deportar 
+Orgueil en guerre et orgueil en gabar
+En tota ren uos fai orguels sorbrar
+Ia eu non muire tros eul  face abaissar
+Si ferai eu si Dex o mi lais far.
+# |
+Lo fils del rei parlet com aïros
+Per Deu Maurin ben es gaillars et pros 
+Saibes de guerre e d afar trabillos 
+E uers lo rei fel e contralios.
+uostres fiances ne li ualent un tros
+Non li tenges saigrement ni somos.
+Si uos per force li fais d un roine dos 
+Ben es de lui segner e cabaillos
+Kar non uos menbre de n  Alaric lo ros 
+Ki ere coms rix e mirauillos
+E fu pendus kar fu trop orguillos
+E fes el rei quant en fu poderos.
+uos es de guerre e d ardit coboitos
+De caualcar fers e uolenteros
+Mais ans un an uos on uira si blos
+K en remandrant ist assaut perillos
+E a Peride seres tant encombros
+K eu tenrai siege e non seres escos
+Tros a marce uos liberres a nos 
+K eu sui tozes e uos es plus dios
+E seres mais pesans e nouillos.
+— Dex dis Maurins com parle ben kis tos
+Cauailler fore se d auol lin non fos.
+Aitant Sicars n aduis per l aigue ios 
+Los pres qu el solue en uint bateaus coitos.
+Cel los en maine e uai s ent pesanços
+El e Maurins non partent amoros.
+# |
+Lo fil del rei es tornas a son paire
+L orgueil Maurin li enquet a retraire
+Per ma fei segnre Maurins es bobenchaire 
+De uostre anor uos cuide tot fors traire
+E del reiame uol dos parties faire
+Kel diuisaz ab la fille ton fraire
+E Falque er reis e non targeret gaire
+E de uiane coms Bernars l ordubaire.
+A tota gent l auem cridar e braire
+ Ki rei desfai que ben es enperaire. 
+ A uostres comtes es taus espauentaire
+Corne senglars entre lebrers a Paire
+Eel plus ardis ab lui non s auze traire
+Tot saus los prent con Lonbars son conpaire. 
+A uos meeus es tant Falc guerroiaire 
+K anc non tolgues ni castel ni repaire
+Ans uos toit el lo Lans et Bel ueiaire 
+El port d Eissent el castel de sant Caire.
+E a Peride serai puis osteiaire
+Ke de bataille non mi er contrestaire. 
+Mandas grant ost e sias lars donaire
+E eu serai guerries e caualcaire.
+Fazem li blance si li auen fet uaire
+K al cap de Pan non sie taus gabaire.
+# |
+Quant aut lo reis la solte de uertat
+Molt n a lo cor pesanços e irat
+Mais non er ia conogut ni parlat
+K el non uol perdre de sos comtes lo grat 
+Per ma fei fils ben aues plaidiat 
+Quant per lor pres sont li nostre librat.
+Eu e Maurin auem molt guerroiat
+Ane parlement non ui mais aiostat
+Dis mile homes del mils de mon regnat 
+Erent tuit uiu quant d aiço fu mesclat
+Ki puis sont mort e li altre sont nat
+De que Maurins a auques lo peçat.
+Mais si Deu plas per uos serant ueniat.
+Fait demandar lo prior e l abat
+E il repairent que hui ant repairat. 
+Cascuns caualie un cras mur soiornat
+E cascuns porte un girfalcon mudat
+Un palefrei ant de grudes cariat
+Gent sont uestit e sont ben conredat 
+Bliaus de paile cemise de cendat 
+Calces ben fetes dont son estreit calçat 
+Un mantel gris ac cascuns afublat. 
+Denant lo rei sont ius iambe aterat.
+Se dis lo reis Tos uos es autriat 
+Kanc k auias quesut ni demandat
+Ke per Maurin seres quite clamat.
+Ici uos soil sans engin recelat
+De quanc qu aues ne pleuit ne iurat. 
+Trais de sa borse I. besant reondat 
+Rent li per solte car si ere ostaiat.
+E ac uII comtes qui auant autreiat 
+K om uelauent lor aduis enselat 
+E lo uairet d Aquillant l abrieuat.
+Lor blans osbers et lor elmes gemat 
+Lor sunt rendut cui que fuissent donat 
+Escus e lances aiço lor es caniat 
+Altretant bon que non es sordoiat.
+E il andui se sunt de ioi armat
+E quant il s arment sunt ades raisonat 
+De per lo rei lo grant plait presentat 
+Se uolias estar en ma feltat
+Kascun de uos darie une citat
+E cent castels de cui fuissies casat.
+Ce dis Beraus Trop i aues tarsat
+Kan d oi annant estes afianchat
+N  augras bon plait s en auguissies parlat.
+Pos per Maurin em soit e aquitat
+De son captenc em franc e adurat.
+Tot nostre aluet nos aues abaissat
+Mais si nos uiure podem un an passat
+Ia non ires del gaaig al marchat.
+— Dex dist lo reis molt i fai grant foldat 
+Cil qui nurrist lo basto ab ques bat.
+Le ior quem fos rendus pres e liat
+uos deugras essre a las forces leuat
+Mais s eu ia mais n auie poestat
+Per uostre dan m aurias chastiat.
+Aitant montarent e uant s ent sens coniat
+A esporons sunt al pont aualat.
+L autre abat ant Francon deschaenat
+E tuit li monge sont fors des laz ietat
+Lor bon cauau e lor osberc safrat 
+Lor sont rendut mais greu sont aiostat.
+A tot s en uant e sont aseürat 
+Desci qu ai Lans o ant lo port passat.
+Kant Franques uit Beraut contremontat
+Son dreit segner e son ami priuat
+Descent a pie e uenc a lui per prat
+Rent li la croce e ac lo enclinat
+Ici uos rent tot quant m aues donat
+E rent bon grat non i ai afolat 
+Obedience ni autre a uoluntat
+Ke en l enclaustre tornerai al mandat
+A Rocelaure dins le mur batellat.
+E Auliuers gorpi son priorat 
+Brun son segner cui l auie baillat. 
+Escos lor libre un calant enionchat 
+En que il sont tuit ensens assegat 
+Al pei del Lans sont al mur arribat.
+# |
+Escos los guide en Paigue per grauer 
+E torne s en el e seu mariner
+E cil s en intrent per le borc osteler 
+Dedins les murs del Lans en un uerger
+O Maurins parle ab lo son fil Garner.
+Kant uit Beraut son abat dreiturer
+Leuet uers lui e baiset lo primer
+E puis Brunet ab lo talent leger.
+Asses las lui e marces lor refer
+Ke anc non forent traïtor ne baufer
+Nels plais del rei non uolgrent escolter. 
+Pello Francon tornet son consïer
+Abat desfait Papelet per gaber
+Kant uos laissas traginar cell autrer
+Erent sos uos tal uII cent cauailler
+Ki tuit montauent per uostre messager
+Hui non aues nis un sol conpagner
+E es grans dels d aital gonfanoner 
+Ki lo matin poc mandar un miller 
+E al mei di non mais son escuier.
+Trait son gant destre e a Francon profer 
+Menbrant uos doig sorbre l aigue de Cler
+La tors es aute e sunt grant li soler
+El pans el uins e la chars el celer
+E a to iors Iu cent estager
+Tuit bons per guerre e darmes presenter
+uos portas conge mais cil en sont sorbrer
+K a totes coches se fan contar dobler
+Cent per dos cens se metent uolunter
+E par la rue sont bien dez mile arcer
+Ki seruent aus de boiure e de manger
+E per l arberge lonc la riue de mer
+Kar non arie forment ni destorber.
+Lai tunt mil braines e lai mil egecer
+E cent gorrin trestuit saluage e fer
+E mil polan qui tuit serant corser
+Lai se solient anar mi soldader
+Tot uos o don quite sans encombrer
+Ke tant seruise m aues fait bon et cer.
+— Seigner dis Franque iamais once non quer 
+Ni d altre aueir uaillant I sol dener
+Mais sol mon cors e armes e destrer
+K obedir uueil l anor de mon mester.
+L abes leuet de genois en l onbre[r]
+E pres lo don e lo gant ab aur mer.
+Francon demande per non de bobancer.
+Ce dis Maurin Uimas uos cuit disner
+Per los ostaus si com es conpaigner.
+A ... pars lai chantent cil iogler
+E ab ... dis pe ... abler.
+... de laitras lai bruit a baratrer.
+... los dis n i a ioc fementer
+Tant estreit n issent ni coignut lo desrer 
+Frais remasent li priuat conseiller.
+# |
+El uerdïer sos un auliu foillut 
+Parlet Maurins e sont ab lui soi drut. 
+Seigner dis el ben nos es auengut 
+K a grant dolor auem lo rei uencut 
+E grant auoir cobrat e retengut
+K a tos iors iermes XXX mile a escut. 
+Er caualiem a Tubie a saubut
+Ans que li comte sient aperchobut 
+Podem aueir uIII iors siege tengut.
+Com m aurias onrat e erobut 
+S eu sos ... . aurai a fort iagut.
+Per tot tenrient li grant e li menut
+Mei per puiat e lui per descendut.
+E s eu fas tant que en sa terre mut
+Lai uenrant tuit mi uenador barbut
+Per la forest escoltarei mon brut
+Ke pos ma mort sera dit e cregut.
+Kant a Tubie aurai mon trap tendut
+Tuit li repaire mi serant sens rendut
+Si Fauc auie Montros e Feragut
+Grant part aurie del regne conquesut.
+Per un bastart d altre terre uengut 
+Cuidarent estre tuit en pas remasut
+E per sa lance que non ant atendut 
+Nos los dotem mais non o ant ualgut
+Con nos auem lo Lans per els perdut. 
+Anceis uerram lo rei si confondut
+Tornera s ent en la. terre dun fut.
+Tal sunt par lui en orgueil encregut
+Ki par mes mains en seront tuit pendut. 
+Aiquel consseil ant bien tuit entendut 
+Auquant lo laudent e auquant n estant mut 
+Mais taus l autrie cui sera car uendut.
+# |
+Seguentre lui parlet sos fils Bertrans 
+Leuet en pez e tenc pleias ses gans 
+Aiques consels es proece e bobans 
+E es corages c onques non fo tant grans 
+E si ben sap que i agre tos dans 
+E ke lai perdes mil cauals alferrans
+Per tot aiço non laissar que n i ans
+Kar retrait er d ui cest ior en cent ans
+Al rei Aigart e a sos eritans
+Kel coms Maurins pos fu uils e ferrans 
+Iac sorbre lui e tint sa terre a pans.
+Tu as tos tens guerroiat ab engans 
+E fais encontres e assaus perillans
+Mais caualiaires fos tans et guerrians 
+K enquer en es uers tos sens redoltans
+E deis ben essre ryc bar d aichi enans
+Ke faces ost e que siugues los mans
+E pos pausar de paines e d afans.
+Ke tant as homes e nebos e enfans
+Si a Tubie pos esser ostoians —
+K es set iornade chai es uergers dauans — 
+Reis en er Fauques o eu tos fils Bertrans 
+E lo plus frans n er iras e pesans
+E lo reiames per tot mirauillans
+E quant ores que trametra sos mans 
+Per aiostar los Ingleis abs Normans
+E tu t en tornes a Peride o al Lans. 
+Garnissem nos de fais et de sanblans
+Car si sa force nos sor e mal talans 
+Ke el nos segue ia plus ien non demans 
+S el de bataille II iors i est pausans. 
+Aiquels consels non sera mais tardans
+Si ol consent lo Baiuers Alerans.
+# |
+Seguentre parle Renelmes li cortes
+Maurins ac dit tot aiço que mils es
+Trop bon conseil si trop greu non fu pres. 
+Anuit estam as ostaus des borzeis
+E lo matin coment li graisle espes 
+E port l e[n]segne Alerant li marces
+E anuit sient C message trames 
+(E lo matin cornent li graisle espes 
+E port l e[n]segne Alerans li marques
+E anuit sient C message trames)
+Per aiostar las naus d aiquest paies
+E passent Guir as pors de Marmones 
+E armem nos es pras del canp Gresles. 
+Aiqui paresce qui bons cauaillers es 
+Face entresains as dras sarazines 
+E corbretures e gonfanons d aurfres
+Ke bons uassaus a sos armes pares
+E port cascuns does lances u treis
+Ke Iu iors durera li torneis.
+Droit a Tubie nos en guit lo naues 
+Desos le port Garin lo Landones
+S i est lo reis sie tant fort reques 
+Ke ne li uaillent ni Normant ni Engles
+Ke per la porte intrem mais ben li pes.
+Pos herbreiem es uergers Godafres 
+Entre le mur el ualat el defeis
+E estem lai Xu iors u un meis.
+E quant uirant que serant sorbrepres
+Si manderant los Irians els Gales 
+Per nos conbatre que iras er lo reis
+E nos de iau conbatons nos ab eis
+Ke sans bataille non uirame conques.
+# |
+Seguentre parle Ascelines li Fris
+La caire ac brune e ac perclar lo uis 
+Grans per espaules e per range escabis
+E ac uestit un bliaut de samis
+E fun calchas estreit d un paile bis 
+E afublas d un tiret e de gris
+Bon conseil done Maurins lo coms marcis 
+Se le segues e ia non s en partis
+Mouem de chai ans que sie midis
+Pos caualcem a Tubie la cis.
+El torneis sie fors e fers e escis 
+E aempras per nos e sorbrequis.
+Pos arbreiam al moster san Eudis 
+E estem lai en ost sorbr els set dis
+E se Deus puis de perde nos garis
+Del retornar sui molt uolentadis
+Ke lo reis es rix hom nominatis 
+E cobrara la gens de son païs
+E non poc essre quel reis ia sie assis
+Ans d un ostau sia fort la espris 
+Er el tos temps uergoignas e onis.
+Diient li autre Ascelin bien o dis.
+# |
+Seguentre lui parlet l abes Berars
+Dis son talant con pros e con gaillars 
+Caualiar pos Maurins mais non o tars 
+Ke las os sont parties per C pars
+Manes taus geldes si pros ies ni ausars 
+Ke non remaigne ars ni lance ni dars 
+Kel reis es tos fel e ros e gaignars
+E sos fils sap de guerriar grans pars 
+S el s ert retrais desci aices Lonbars 
+Ke mais a force non caces en sos iars 
+Desci el fu cregus li fils bastars.
+Cil qui nol laue de parlar es coars
+Tuit o autreient mais lo uescomps Sicars.
+# |
+Seguentre parle Draugue l aperçobus 
+Maurins caualge e garde non o mus 
+Ke lo reis es mermas et confondus
+E seu uassau ant lor cauals perdus 
+E l autre aueir que çai es remasus.
+Abans que sie amendas e rendus
+Ni el de ren cobras e reuengus
+Ias sorbre lui e despoille tos nus.
+En longes terres er lo blasmes sabus 
+Ke sorbrel rei ias Maurins lo canus.
+Se ben i pers si seras erobus.
+# |
+Seguentre lui parlet Folques dos moz 
+Maurins caualge u non sies ia pros
+Er en pos moure grant ire e grant coros. 
+Maine ta gelde els boriois els noos
+Ki lor enpirent e les fons et les pos
+E tu erberges es uerdïers de sos 
+E laisse corre tos fils e tos nebos
+Ke pechoas n ert bons castels e ros. 
+Autrias fore se fos auis per tos
+Mais el er raus e ac pauque la uos.
+# |
+Seguentre parle Alerans li Baiuers
+Li pros li saibes lo bon confanoners
+Ki anc non fo bofars ni trop pariere
+A don Sicart es tos mos consïers
+K el es de cor saibes e conseillers 
+E en bataille ardis e faisenders 
+Croire lo deu de conseil uns enpers.
+Se lui plogues que lui non lau esters
+Bon ueder fire de Tubie els clocers 
+El torneis fos lo retors uolunters
+Ke lo reis es fors hom e bons guerrers 
+E sos fils tant de maltalant legers
+Ke manderant de cap lor ostelers
+E a breu ior uiram los arengers.
+E nos aiqui en eis aiquel grauers 
+Siem armat a lei de cauaillers 
+E fazem rancz de geldes e d arcers 
+Ke ia del Lans non ueient los terrers 
+Kant dins de nos aura cent es destrers. 
+Dient li autre Ben o dist lo Baiuers.
+# |
+Des quant Sicars los a tos escoltas
+De maltalent es sus en pes leuas
+Ahi Maurin com es mal conseillas 
+De tos consaus t ies en iouent tornas 
+Kar tuit te dient Maurin car caualias 
+El non se gardent si es sens o foldas 
+Car s eu en fuisse cregus ni escoltas 
+Espiessem car grans es li regnas
+Un des rix bors o de las fors citas
+E fuissem i ans c om en fos selas
+E preïssem aur e argent assas 
+E mus e mules e destrers soiornas
+E uair e gris e bons pailes pelas
+De quei tu fuisses rix hom e assazas
+Una grant part de tos ambars paias
+Kar se tu uas a Tubie e i ias
+La o reis est ers desconfis tornas
+Tu l as iurat fiances e feltas
+E uie e menbre que ia nol prenias
+E si mes siege si nos non a dannas 
+D aiqui enant seras sos pariuras
+E ai pauor que Dex t en sie iras
+Ke non es dreis quel reis sie aseias.
+Mais tant t esforce ta male uoluntas 
+E tos orguels e tos sorbrepensas 
+Ke tu iras ia mos non er canias
+E eu ab tei ia soit ce que nom plas.
+S eu remanie ferie que maluas
+Mais lent irai uers quant uenrai uias
+Ke lo reis es rix hom enpoestas
+E cobrarant soi home de tos las
+E er de cap sos rerebans cridas
+Que non remaigne hom uis de feme nas
+E sos fils es tant pros e tant menbras 
+K ans non partra tro se sie uenias.
+E s i perdes ia non serai blasmas
+Ne del gaiaig non uol esser laudas
+Que li gramaire diient e li clerias 
+K  orguels non chai desci qu es aus montas 
+Mais atant es d omes apoderas 
+Ke tos iors n as XXX mile d armas.
+Ia non garras ni esteras em pas 
+Desci en sies a mesure tornas
+A does mile qu en as de tos casas.
+Lo consaus part que Sicars n es forzas.
+Tro a tierc ior en er alcuns iras.
+# |
+Li consaus part e il uant arberiar
+E al matin fant les graisles sonar
+E Maurins fait al Lans son ban cridar
+E si el fai non poc arreir restar.
+Falcon comande sa ost a cadelar 
+E a Bosun lo[s] premiers a guidar.
+Sos le castel passent al pont del Far
+El camp Gresleis lonc la ribe de Clar. 
+Aiqui uiras tant bon uassaus armar
+Tant blanc hosberc e tant elme laçar
+E tante iupe uestir e afublar
+Faites de paile e de gris e de uar. 
+Maurins los renge qui es rix hom e bar 
+Mil n a premers escarit fet triar
+Ei a Tubie lor irant l assaut far
+E Alerans fait l ensegne portar
+Perdreit sa dogne qui lor aut caleniar.
+u mile elmes fet seguentr els annar 
+E sa bataille a present caualcar.
+El fils del rei a la maisnade Aigar
+Estait de nuit sor la ribe de mar
+O en las naus fet son castel fermar 
+As nautoners que non laissent desfar 
+Ki a son siege se puisse recobrar.
+E a la lune al premer iau cantar
+Dreit uers Tubie s en enquet a annar.
+Ans ior se met en les aies gesmar ...
+El reis Aigars comencet a parlar
+Franche maisnade tant uos uoldrai pregar 
+Ke m aiudes ques honte a ueniar.
+L ost m aues fait quem deues per mandar 
+Mos soldaders uos uolrai apelar P
+er mon aueir que m annes aiudar
+Si en uos met costume d amendar.
+Eu serai lars de mon aueir donar.
+Tot mon tresaur uos uoeil abandonar
+L aur e l argent uos ferai aportar 
+El uair el gris els pailes despleiar.
+E el respondent Bon es a essaiar.
+Aitant uenc lor Ganiel lo iuglar
+Ki uit la nuit Maurin Guire passar 
+A tant grant ost que non la pot esmar. 
+Tant a cochat son palefrei liar 
+Ke mors cadet a las noues contar.
+Deus dis lo reis tant uos dei aorar 
+Don per los tors que t ai fet non laissar 
+L orguel Maurin ke nol face abaissar
+E lo meu drec sabeir e demostrar.
+Atant descent corent sei adobar
+Coche en er faite non o quer mes celar.
+# |
+Ins en las aies de la forest d Armite 
+Sont descendut en l essart d un ermite 
+Ki lor dis messe sagrete e benedite. 
+Non i ac un s aumosne n i aufizte
+Lai penitencent e parant sa carite
+Taus s es confes qui pert le ior la uite
+Al rei non nuis pos sa terre en aquite.
+# |
+Ins en las aies s arment tuit apresente 
+Aiqui uiras tant obre cobinente 
+D osbers e d elmes e d altre uestimente.
+Lo reis los renge a la bone esciente
+Ab un poncel d une aiguete corente 
+Trais son cenbel sans gab que l ai om sente. 
+Sos fils lai passe premers caire riente
+A tal ardit que ren non l espauente
+E sunt ab lui tuit menbrat mil e XXX
+Ob Alerant penra ancui contente.
+E l autre escale mane dus d Aiguilente 
+El Landoneis el palaïn d Artente
+E sunt u mile ab elmes senes mente.
+E lo reis mane altre gent conessente 
+D une conpaigne e forte e conbatente
+Fore del bore caualiet a paruente
+En la ribere es d una legue gente.
+Sai co es cause e Deus la lor consente 
+Ensegne blance n ert uermeille e sanglente
+E plorera maire e sor e parente
+E de lor drus per altre ben uolente.
+L une conpaigne n er irade e dolente
+E l altre rice anorade e manente.
+# |
+El canp Gresleis lonc la ribe de Claire 
+uiras Maurin tant gente escale faire.
+Els primers guide Bos e Folcers lo laire
+E Alerans los cadele el poignaire
+E l autre escale Beraus e Bruns sos fraire 
+El coms Bertrans qu es de coche enperaire 
+E sab de guerre e molt es debonaire
+E a man destre uai Bec de sant Ylaire
+A quatre cens de Monblanc lo repaire
+Ki sont tuit blanc li fil come li paire
+E sunt le ior qu el naissent de lor maire 
+Blanc lo caual c un sol non i ac uaire 
+Ensaignes blances de porpre de Monchaire 
+Pauque conpaigne mais non es ia belaire 
+Ço es aiquele qui non fuït anc gaire. 
+Franque es d aiquels segner e capdelaire 
+Cui los donet Maurins lo bons donaire
+Ab lui Sicart e Enriz de sant Daire
+uit la bataile que non la poc desfaire
+Kar uengut sunt a lanchar e a traire
+Sin ac coart molt s en uoldrie raire.
+# |
+Lo canps Gresleis non es estrans senters 
+Ans es ribere de pras e de uergers.
+Cels dechai guide Maurins lo bons guerrers
+El reis los altres qui es fors bataillers. 
+Cascuns cenbels es de mil caualiers
+E en cascun a doe mile arcers.
+L os Maurin guide Alerans lo Baiuers
+E de lai uenc lo fils del rei premers. 
+Baissent los lances els gonfanons enters 
+uant se ferir per escus de quarters.
+Li cop puissent des bons gonfanoners 
+K al fil del rei n es sanglens li bragers 
+Del sans del pis ki deuale tos clers
+E lo sons cops fu fers e sobrancers 
+K anc Aleran non ual osbers doblers 
+Parmi l escine non pas oltre Pacers
+Mort lo crabente entre paus auliuers. 
+Grans es la perte els dams els destorbers 
+Ab oes Maurin e ab tos sos maisners
+En isle Fade n ac grant doels e pleners 
+Per la reigine e per set C millers.
+Iuon de Besnes la iete mort Folcers
+Dont estral rei libras grans enconbrers 
+Non aueit ferne ni non laisse eriters
+Mais de sos armes ere bons faisenders 
+De cent castels ben acrec sos enpers. 
+uant sei ferir Bos del Lans e Miuers 
+Andui s abatent des bons cauals corsers. 
+Sonnent li graile e mesclent li caplers 
+Nol poc sufrir coars ni lauzengers.
+# |
+En la ribere Claire del canp Gresleis 
+uiras mesclar un fort estor espes.
+La non efange encontres ni torneis. 
+Fraignent los astes per escus quartereis 
+Ronpent ensegnes de pailes e d aufres 
+Falsent las lances los osbers tiones
+Trencent los elmes li bon brant uianes 
+Tal cent n i caient ab oses de corues 
+Mort e nafrat c ans ren non sap lo ses. 
+As uis sab hon con force lor pares. 
+L abes Beraus lo prios Bruns ab es
+El coms Bertrans e Folque l Espanes
+E sunt u mil sans conte de bordeis
+E de la uenc Garin lo Landones 
+E d Aguilant li pros dus li cortes 
+Baissent las lances e uant ferir manes 
+Ben n i aura que de mors que de pres.
+# |
+Entre Bertrant e lo duc d Aguilent
+Se uant ferir andui de maltalent
+Ke do[i se] falssent li osberc iaserent
+E Bertrans n a lo gonfanon sanglent
+El dus la plage non presere nient
+Mais aiço prese que estre grat descent.
+Folque lai ioig ab lo marcis d Artent
+E Beraus Tabes al Landones s atent
+E Bruns sos fraire lo Leoneis perprent 
+Fraignent los hastes per grans cops maintenent 
+Ab les espades fierent espessement
+E ab aiques n aiostent tal uII cent 
+C uns n i coignuc amie ne ben uoeillent.
+Ki trobe mort ni fraire ni parent
+Nol met en plait de son confessament
+Mais poig enant per penre ueniament
+E cascuns d aus ab sei modes entent
+D aital peril com eisse a gariment.
+Lo trauerser los socorent poignent 
+Cil de Montblanc e li uermeil d Artent.
+# |
+Es canps Gresles desos los puis pelas 
+Ec uos los Blans els uermels aiostas. 
+Ode el uermels a sos bornes guidas 
+Katre cens elmes de Montuermeil ietas 
+Tos de castel e sos homes priuas
+Ki ant uermeilles las caires e las fas 
+Los iels uermaus e los mans e los bras 
+E es uermaus cascuns despos fu nas
+E ant uermaus cauaus entresegnas 
+Osbers uermaus e de uermeil safras 
+Iupes uermeilles de pailes entaillas 
+Espades chaintes a pons uermals damas 
+Escus uermels e de uermeil boclas 
+Elmes uermels ant en lor caps lachas
+E ensegneres uermeilles de cendas. 
+Odes lor segnre s ere hui matin uanas 
+K anc non fuï ne non fu encalchas.
+Hom ere al rei e pleuis e iuras
+Mais per sa coche non sera ia mandas 
+Non li dec os ne seruices taillas
+Mais sil reis es uencus ni uergoignas 
+O ac perdut o es arrer tornas
+Kant el lo sap el deman es uenias
+O per bataille quant es sos bans cridas
+E seu mesage que ia sie renias
+Quant il o auent si s arment per palas 
+E fant socors tost e ben e en pas.
+Ia per lo rei non sera uns renias
+K  ab lor talent uont per canps e per pras 
+O lor seigner los mane com lui plas
+Odes premers de son elme enbronchas
+E cil l estraignent as flans e as costas.
+E de lai Franc lo derrer des abas
+Mane los Blans que Maurins l ac donas. 
+Baissent las lances els gonfanons frainias 
+uant sei ferir per escus coloras
+Andui s abatent des destrerç soiornas
+E li socors esporone d ans las
+D aiqueste part fu Monblans escridas
+E delai fo Montuermaus essauças.
+Cil sont uermeil come feus en fornas
+E cist sont blanc come neis sorbre glas.
+Ec uos los Blans ab los uermaus iostas 
+Aiquis estors es fors e aduras.
+# |
+Lai o s encontrent li Blanc e li uermeil 
+Fraignent los astes mantenent li donzel
+Ab lor espades adurent lo tornel 
+Ke sont trenchat elm e col e cabel
+E kant s abatent partent sei per caumel 
+Pos se conbatent sol a sol a parel.
+De son segner a cascuns ques coreil 
+Ke cent n i morent fors Simon de Canpel
+K anc uns non ac ni garde ni peruel 
+Essre la lande e l erbe et le solel 
+Ke obs lor agre uns des signors d Orel 
+Ki lor donere a lor anemes conseil.
+# |
+Des quant s encontrent li uermeil e li Blanc 
+D aitant pauc d omes tal estor non uis anc. 
+Andui s abatent Ode el uermaus e Franc 
+Pos se detrencent los pis lo uente el flanc 
+E pet e poig de coi sunt clop e manc.
+Tal cent n i caient c uns non es en son banc 
+Per negligence car non es quis estanc.
+Tot lo caumil uiras uermeil de sanc.
+# |
+Quant li Blanc uirent que Franc es abatus 
+E li uermeil que Odes es cagus
+uant sei ferir mantenant pels escus
+E ab lor brans de lor espades nus
+Trencent lor caires de lames e d agus
+Tal cent n i caient c uns non er raïmus. 
+Grans er li dois quant cis plais er sobus 
+De las uermeilles que lai perdent lor drus 
+E de las blances qui i rant molt perdus. 
+Maurins caualie e sa bataille adus
+E delai es lo reis Aigars uengus.
+Baissent los lances els gonfanons uosus 
+Lor blisons trencent lor osbers n an menus. 
+Tant fort l enpains Maurins lo uiels canus 
+K ansdos los caingles el poitrail es ronpus 
+E per la crope n es lo fus descendus
+Mais tos en pes remas en la palus
+Ere fu tos cobras e retengus.
+Aiquest estor es molt bon conbatus 
+Non er a onte Maurins hui mais uencus.
+# |
+Quant li reial uirent quel reis fu ios
+Per sa maisnade fu durement escos
+Lai iambe-a-terre Mile lo dus d Auros
+Lo rei cobreit el liart balçant ros.
+Pos uiras faire tant cop mirauillos
+Tant blanc hosberc e tant elme treros
+E tant donzil desrocat uergoignos
+Tant aste fraite dont uant uers cel li tros. 
+Parmi la presse uai Bertrans pesanços 
+S espade traite qui fo al rei n  Anfos
+Des treis Iausbers a manes mors los dos 
+E il n ant mort Austreget l engignos.
+E Sicars uenc sus en Liron brios 
+E uait ferir Rater de Mont Simos
+Un conestable de la cort cabaillos
+Mort le crabente el prat qui fo erbos.
+Pos dis Maurin dos mos contrarios
+uiels beubancers sobrancers orguillos 
+Ancui seres uencus e uergoignos.
+Mal o fet uiels qui creit conseil de tos
+De grant riceses n esdeuenc sofraitos.
+Ki les lor uei uenir pausas e pros
+*** END

@@ -1,0 +1,1074 @@
+#META#  TextURI          AlexisOctP
+#META#  DEAF             http//www.deaf-page.de/fr/bibl/bib99a.php#AlexisOctP
+#META#  TL               SAlex. R
+#META#  FEW        	
+#META#  ARLIMA           https//www.arlima.net/no/114
+#META#  Author           
+#META#  AuthorBorn      
+#META#	AuthorBornAmb	  
+#META#  AuthorDied      
+#META#	AuthorDiedAmb	  
+#META#	AuthorFl1	      
+#META#	AuthorFl2	      
+#META#  TextTitle        La uie de saint Alexi en uers octosyllabiques
+#META#  TextSubtitle  	
+#META#  Textuols         1
+#META#  TextSubi         hagiography
+#META#	TextDom	        
+#META#	Translation	    
+#META#	Collection	    
+#META#	CollectionNo	  
+#META#  TextDescARL      uers octosyllabiques à rimes plates
+#META#  TextDescuers     8
+#META#  TextDateARL      début du XIIIe siècle
+#META#  TextDateAdi      d13
+#META#	TextDateMin	    
+#META#	TextDateMax	    
+#META#  EdEditor         Paris Gaston
+#META#  EdPlace          Paris
+#META#  EdPublisher      Romania
+#META#  Eduol            830
+#META#  EdYear           1879
+#META#  EdPages          163-180
+#META#  MsBase           BnF fr 25408
+#META#  MsOther         
+#META#  MsNum            1
+#META#	MsDateARL	      
+#META#	MsDateAdi	      
+#META#	Form	           u
+#META#	Complete  	     true
+#META#	NoWords	         5461
+#META#	NoLines	         964
+#META#	DialAuth	      
+#META#	DialScribe	    
+#META#  ScanURL          http//www.persee.fr/doc/roma_0035-8029_1879_num_8_30_6463
+#META#  ScanURIOther  	
+#META#  ArkID           
+#META#  LccnID          
+#META#  OclcID          
+#META#  WebAuthor        Dauid Ioseph Wrisley
+#META#  ORCIDWebAuthor   orcid.org/0000-0002-0355-1487
+#META#  WebReuiewer     
+#META#  ORCIDReuiewer   
+#META#  MiscInfo        
+#META#  CCLicense        CC BY-NC-SA 4.0 International
+
+
+*** START
+Folio30a
+Pageu01P169
+§Ici commence le prologue en la uie saint Alexi.
+Bone parrole boen leu tient
+Et cil qui l ot et la retient
+Et met a oure fet que sage
+Et cil ne fet pas son demage
+Qui la dit enceis fet son preu
+uers Deu qui en tens et en leu
+Li merira ge n en dout rien
+Kar il guerredone tot bien.
+Por ce m es pris talant de dire
+Un conte de bone matire
+Por crestiens edifier
+Et pour ce que il m est mestier
+Que bone parole me tienge
+Boen leu uers Deu qui me meintienge
+En son seruise et tel me face
+Que ie le ueie face a face
+§Or commence la uie saint Alexi.
+Folio30b
+Iadis auint ce dit l estoiere
+Que dui frère Archade et Honoire
+Furent emperére de Rome
+Ensemble  en lor tens out un home
+En la cité boen crestien
+Ki aueit non Eufemien
+Pageu01P170
+Riches hom ert de grant noblece
+De grant poer de grant hautece
+C ert le plus haut por uerité
+De la cort et de la cité.
+Mes por ce ne lessot il mie
+Ke i ne fust de bone uie
+K il ameit Deu et sainte iglise
+Et quanqu apent a son seruise.
+Il ert home de boen afere
+Douz et creable et debenere
+Et aumoniers et charitables
+Folio30c
+Treis feiz le ior erent les tables
+Aparrelées richement
+En son ostel a poure gent
+Aus uueues et aus orfelins
+Aus trespassanz aus pelerins
+A ceus qui mestier en aueient
+Et qui por Deu le requereient.
+Et quant c ert que mengier uoleit
+A none si comme il soleit
+Meniout mès son mengier n ert pas
+Farsi de chufles ne de gas
+De bordes ne de lecheries
+De guerseiz ne de gloutonnies
+Eins aueit en sa conpaignie
+Prodesomes de sainte uie
+Qui de chufleis n aueient cure.
+Einzceis parloient d escriture
+De Deu d edificacion
+De sens et de religion
+Del preu et del salu de l ame.
+Tel ert li sires et la dame
+Ki Aglaes aueit a non
+Ne ualeit pas meins se meuz non
+Que si sires en sun endreit
+Kar ele amoit Deu et cremoit
+Et se peneit de lui seruir
+A son gré et a sun plesir
+Ne fu fole ne iangleresse
+Ne baulande ne beuerresse
+Folio30d
+Ne felonnesse n orguellose
+Einz ert sainte et relegiose
+Et debenere et aumosniére
+Et uaillant en tote maniére
+Sanz uilanie et sanz meffet.
+Mès moult érent en grant dehet
+Andui qu il n aueient nul heir
+Qui fust sire de lor aueir
+Si érent en aflictions
+En ieunes en oreisons
+uers nostre seignor Ihesu Crist
+Qu il lor donast et il si fist
+Un fiz orent k il apelérent
+Alexi Deu en merciérent
+Qui lor preire aueit oie
+Et pramistrent que chaste uie
+Tendreient d ilec en auant
+A toz les iors de lor uiuant.
+Li enfes crut et amenda
+Tant que sis péres kemanda
+Et uout qu il fust a letres mis
+Et il s est d aprendre entremis
+Comme soutil et de boen sens
+Si bien qu il fu en poi de tens
+De plusors arz preuz et uallanz
+Et sages et bien responnanz.
+Folio31a
+Mès en la diuine escriture
+Out plus mis s entente et sa cure
+Il i penseit et nuit et ior
+C ert s estuide c ert son labor
+Son solaz et s enueiseure.
+D autre deduit n aueit il cure
+Kar il aueit troué sanz faille
+Illec le grein desoz la paille
+Et par le taster de cel fruit
+Saueit il que tot le deduit
+De cest siecle por uerité
+N est fors folie et uanité
+Et qui plus i met son corage
+Plus fet son duel et son demage
+Kar s il i a rien qui bien plese
+Perdre I estuet a grant mesese
+Ou a la uie ou a la mort
+Sanz recourier et sanz confort
+Kar quant plus est la chose amée
+Plus est griéue la deseurée
+Et plus dolorose la perte.
+Por itel uanité aperte
+Et por meinte autre aueit issi
+Le siecle adossé Alexi
+Pageu01P170
+Et doné a Deu tot son cuer
+N il n en fust parti a nul fuer
+Mès son pére qui mout l amot
+Tot autrement de lui pensot.
+Folio31b
+Kar quant il le uit en aage
+Femme li quist de grant parage.
+K en diroie plus Le ior uint
+K esposer fame li couint
+N i osa metre nul contenz
+Por son pére et por ses parenz
+Mès en son cuer out grand tempeste.
+Et par dehors esteit la feste
+Grant et planiére et gloriouse
+Si enueisie et si ioiouse
+Come il coueneit a teus genz
+Mout i out diuers estrumenz
+Gigues et harpes et uieles
+Dames et uaillez et puceles
+Cendaus et pailes et samiz
+Tanz embrasemenz de deliz
+Et alumalles de luxure
+Des geus et de l enueiseure
+Des sonez et des meloudies
+Dont les noces érent farsies
+Ke bien poez saueir sanz faille
+Que mout out en son cuer bataille
+Et grant loier de la uictoire
+Qui por Deu refusa tel gloire.
+Li ior trespassa  la nuit uint
+A lor let aler les couint
+Si fu menée l esposée
+En une chambre encortinée
+Et parée de dras de seie
+Folio31c
+Si cointement comme a tel ioie
+Couient et a si hautes genz.
+Et quant il orent la dedenz
+Trestot lor afere atorné
+Li uaillet n a pas seiorné
+Mout longuement einceis ala
+Après et en la chambre entra
+Et fist la costume et l usage
+Del pais et de mariage 
+A tant s en partent et s en uont
+Cil qui plus a fere n i unt
+Et il remestrent sol andui
+Sans conpaignie de nului.
+Quant il furent priuéement
+Tot sol a sol primiérement
+Commence a parler Alexi
+Dame fet il ore est issi
+Dex qui tot a fet et crié
+Nos a ensemble marié.
+Por ce si est dreit ce me semble
+Ke nos aiun amor ensemble.
+Et porton leauté et fei
+Et ie a uos et uos a mei
+Et nostre amor seit si planiére
+Qu el seit et ueraie et entière.
+Sire ce respont la pucele
+uos dites reson bone et bele
+Folio31d
+Et i en ai bone uolenté.
+uostre amor et uostre bon gré
+uoudreie ie mout deseruir
+Et i ai talent de uos seruir
+Et amer et porter ennor
+Comme a ami et a seignor
+Et moult me plest itel maniére
+D amor qui seit ueire et entiére
+Si com i entent uostre deuise.
+Et i en uérité sanz feintise
+uos aim issi entiérement
+Bien le sachiez certeinement
+Ker ia home n i partira
+Tote m aura cil qui m aura
+Dex me gart de tel uilanie
+Ke ie face a nului partie
+Ne de mon cors ne de mon cuer.
+uos dites mout bien bele suer
+Fet il  c est droite amor charnel
+De mariage mès por el
+Le dis que uos n entendez mie.
+Qui bien uuelt a une partie
+De mon cors et a autre mal
+Est ce amor entiére nenal
+N amor ueraie n est ce mie
+S ele ueut mal ne uilanie
+N el n est ne ueraie ne sage
+S el ueut por bien mal et demage.
+Folio32a
+Tel est amor luxuriose
+Dont la fin est mout dolerose
+Pageu01P172
+Et ie uos di tot ensement
+Se uos m amez entiérement
+205 Amez m ame et mon cors ensemble.
+Et si deuez uos ce me semble
+Mieuz amer m ame qui mieuz uaut
+Que i aim mout mieuz se Dex me saut
+En moi et en uos un des euz
+Que ie ne faz un des orteuz.
+Amon nos donc ma douce amie
+Sanz pechié et sanz uilanie.
+Quer autre amor n est fors haingne.
+Comment dist sire la meschine
+Est donkes pechié mariage
+Nenil fet il mès cil est sage
+Qui let cel bien por un graignor.
+uirginité est mont meillor
+Et a mont haute gloire uient
+Qui bien l enprent et bien la tient.
+Ensorquetot mont doit douter
+Home qui tent a soi sauuer
+Le grand peril et le fort laz
+Qui si est près de cel solaz
+Come il couuient a mari fere
+Et se il ueut al monde plere
+Folio32b
+Il encort mont d autres pechiez
+Dont touz li monz est entechiez.
+Si fet que saige li poisson
+Qui fuit le uerm por l ameçon
+Ker trop i a chiére golée
+Poure et petite et tost alée.
+N est pas donc sages marcheanz
+Einceis est fol et mescheanz
+Qui si chier achate tel chose
+Dont si tost uient a la parclose.
+Qui uoudreit a Deu barkennier
+Qui nulhui ne ueut enginnier
+Mout porreit grant ennor conquerre
+II done le ciel por la terre
+Il done le grein por la palle.
+Est il marchié qui cestui uaille
+Or puet l en bien dire a dreiture
+Que cest marchié est troueure.
+Ore esgardez de chief en chief
+A quel dolor a quel meschief
+Hom nest et uit et tret a fin
+Tot comme nue de matin 
+Il est conceuz en ordure
+Et nest a grant malauenture
+Et uit en peinne et en labor
+Et muert d angoisse et de dolor.
+Toz deuun treu a la mort
+Folio32c
+Et ariueron a son port
+Et passeron parmi sa porte
+N i a si fort qui li estorte
+Que le plus fort et le plus sain
+A ele tost mis en son sain.
+Nus n a por or ne por argent
+D ele treues ne tensement
+La mort tret de l arc qui ne faut
+El n esparne ne bas ne haut
+Einz met tote gent en un conte
+Et poure et riche et rei et conte
+Et fol et sage et mal et boen
+Et le chalenge tot por soen.
+Que uaut donc beauté et richece
+Force puissance gentillece
+Beaus solaz et ioie et deduit
+Quant mort tot abat et destruit
+Quanque l en a toz iorz bracié
+Et laboré et porchacié
+Et escreu et essaucié
+A ele a un cop crabacié
+Et fet reuenir a neent
+Et esuanoir comme uent
+Et defire comme fumée.
+Por ce a non li mont fol i bée
+Et santé d ome fol s i fie
+Et sa ioie chace folie.
+Folio32d
+Dahez ait fruit qui ne meure
+Et folie qui toz iorz dure.
+Issi a sa fame parla
+Mès ne dist pas quanqu il pensa.
+Et quant asez out sarmoné
+Un anel d or li a doné
+Comme a sa douce chiére amie.
+Et li encharche et dit et prie
+Que por l amor de lui le gart.
+A tant d ele par nuit s en part
+Pageu01P173
+Si coiement c onques ne sout
+Home ne fame ou il alout.
+Et a pris oue sei de soen
+Tant con li plout et sembla boen
+Et s en est issu por Deu querre
+De son pais et de sa terre.
+A la mer uint  outre passa
+En une nef que il troua.
+Lores a sa ueie aquellie
+Parmé la tere de Sulie
+Et erra tant par ses iornées
+Par monteignes et par ualées
+Que il ne fine ne ne cesse
+Deuant que il uint a Edesse
+Une cité bien renomée
+Qui ore est Rohès apelée.
+Ilec a sa robe changée
+Folio33a
+Por une uiez et depecée
+Et a doné a poure gent
+Ce qu il aueit d or et d argent
+Et departi si quanque il out
+C onques riens retenir n en uout
+Ainz s en fist por Deu si deliure
+Qu il le couint d aumones uiure.
+Mout furent dolent au matin
+Tuit li parent et li ueisin
+Quant il fut seu qu Alexi
+Les aueit deguerpiz issi.
+Les baesses et les serianz
+En firent duel et plaintes granz
+Mès sor toz le pére et la mére
+Mout fu lor contenance amére
+Triste et plaintiue et gaimentose.
+Lasse cheitiue dolorose
+Fet la mére que deuendré
+Ou est mon fiz ou le kerré 
+Ie morreie orendreit mon uuel
+Quer iamès ior n istrai de duel
+D angoisse ne d aflictiun
+De plor de tribulaciun
+Deuant que ie sache nouele
+De mon bel fiz. Et la pucele
+Qu il aueit nouel esposée
+Folio33b
+Est durement adolosée
+Et plaint et plore et dit et iure
+Que iamès por nulle auenture
+Autre seignor de lui n aura
+Que qu il demort el l atendra.
+Eufemien fet duel mout grant
+Comme pére de tel enfant
+Et enueia por son fiz querre
+De ses serianz parmi la terre
+Et ça et la et Ioinz et près.
+Li uns passérent par Rohès
+Mès Alexi pas ne trouérent
+Sil uirent il et li donérent
+De lor aumones qu il requist
+Tot porpenseément et prist
+D eus por ce qu il les quenut bien
+Mes il nel quenurent de rien
+Por ce qu il ert mal atorné.
+Si s en sunt sanz lui retorné.
+Quant Alexi a ce ueu
+Qu il ne l ont pas aperceu
+Ne requeneu n auisé
+Por ce qu il ert si desguisé
+Megres et pales et despit
+En poure estat en mal abit
+N est mie qu il n eust pitié
+De ce qu il est issi changié
+De sa terre et de son pais
+Folio33c
+De sa fame et de ses amis
+Mès liez en fu d autre partie
+S en aore Deu et mercie
+Por qui amor muez esteit
+Si que nus nel requenoisseit.
+Alexi a grant mesestance
+Del cors feseit la penitance
+En ieunes en oreisons
+En ueilles en afflictions
+Et de tant poi com il aueit
+D aumones que l en li doneit
+Mout uolentiers et doucement
+En reparteit a poure gent
+Por orer et por le seruise
+Deu oir hantot mout l iglise
+Nostre dame sainte Marie
+Tant que Dex qui n oblie mie
+Ses boens amis et ses serianz
+En la fin de des et set anz
+Pageu01P174
+Demonstra queus home il esteit.
+A l uis del mostier se seeit
+Un ior tel esteit son usage
+Lores plout a Deu que l image
+Nostre dame parla et dist
+Au segreistein que il queist
+L ome Deu et l apelast enz.
+Folio33d
+Li segreistain ne fu pas lenz
+Einz essi hors si baata
+Mès nel quenut ne nel troua
+Lors retorna et preia Deu
+Qu il li enseignast en quel leu
+Et queus il ert qu il n i fausist.
+Lors reparla l image et dist
+Li poures hom qui a l uis siet
+C est cil qui a Deu plest et siet.
+C est cil qui a Deu atalente
+Kar il le sert o boenne entente.
+Atant li segreitein s esmut
+Et uint a lui et le quenut
+Si li chai a piez et dist
+Sire merci por Ihesu Crist
+Le fiz Deu uos pri et requier
+Ke uos entreiz en cest mostier
+Et fetes a uostre deuise
+Quanque uos plera en l iglise
+Ker il plest a Deu et a nos.
+Cil qui fu simples et hontos
+En out la face aukes uermelle
+Et li pueples en out meruelle
+Qui ce ont oi et ueu
+Por ce l ont puis bien queneu
+Et l enorérent et chiérirent
+Tuit cil qui parler en oirent.
+Cil qui le monde entiérement
+Out por plere a Deu solement
+Folio34a
+Adossé quant il uit l enor
+Qu en li feseit out grant poor
+Ke uaine gloire et uanité
+Ne li tousist humilité
+Sanz qui tot est ypocrisie
+Quanqu apartient a sainte uie.
+Por si grant peril eschiuer
+Por ce que fort est l estriuer
+Qu il est soutil et souduiant
+Par nuit s en est torné fuiant
+Dreit a la mer et dist qu ireit
+A Tarse se Dex le uoleit
+C est la uile dont saint Pol fu
+Et quant il sereit la uenu
+Il i seiorreit tot adès
+Cum il aueit fet a Rohès
+En l iglise saint Pol de Tarse
+Qui n ert ne poure ne escharse.
+Por la aler sus mer monta
+Mès un uent la nef desuoia
+Et chaça tant qu a la parsomme
+Est ariuée au port de Rome.
+Quant Alexi ueit le pais
+Et quenoist dont il est nais
+Ce peise lui mès plus n en puet
+Quer fort iose est  fere l estuet .
+Folio34b
+Lors se porpense ensei et dit
+Quant il plest au saint esperit
+Ke i en la terre ou ie fui nez
+Sui en tel maniére ariuez
+Contre mon cuer g irai a Rome
+Ne ia ne requerré nul home
+D ostel fors solement mon pére
+Quer ie ne cuit pas que i apére
+N a ma color n a mon semblant
+Que i onkes fusse son effant.
+Issi le dist lors s en torna.
+A Rome uint et encontra
+Si comme Dex le uout son pére
+Qui de la cort a l emperére
+A son ostei s en retorneit
+Et grant plenté o sei meneit
+De conpaignons et de serianz
+Comme haut home et bien puissanz.
+Alexi s auance uers lui
+Sire fet il  por Deu ie sui
+Un poures hom qui ai mestier
+Ke l en me doigie a mengier
+Si uos requier par cherité
+Por Deu qui maint en trinité
+Qui de mal uos gart et deffende
+Et uostre fiz uncor uos rende
+Pageu01P175
+uif et sain et sauf et hetié
+Folio34c
+Que uos aiez de mei pitié
+Et me doingiez ma garison
+De uoz aumones en meson.
+Eufemien bien l escouta
+D Alexi son fiz li menbra
+Dont grant tendror au cuer li prist.
+Un seriant apela et dist
+Meinne cest home a mon ostel
+Garde qu il n ait ne d un ne d el
+Besoig soufrete ne mesese
+Ne nule rien qui li desplese
+Ne moleste ne nule rien.
+Ce te commant ie mout trés bien
+Ainz fai uers lui quanqu il uoudra
+Et quanque mestier li sera.
+Sire respont cil ie l otrei.
+Lors l en mainne a l ostel o sei
+Si li enseigne et leu et place
+Ou il gise et meniust et face
+Sa uolenté et tot son boen
+Ausi comme se tot fust soen.
+Tant comme Alexi fu nouel
+Fu il ostelez bien et bel
+Mès quant l en s ennuia de lui
+Mout troua qui li fist ennui.
+Garchonnalle male mesnie
+Mout mal duite et mal enseignie
+Folio34d
+Dont ces riches osteus sunt plains
+Qui sunt enrieures et uilains
+Et poruers et de mal afere
+Lau il osent et puent fere
+Et qui plus est uers eus soufrables
+Et eus plus fous et encreables
+Qui ne se claime ne deffent
+Cel folent il seurement.
+S eus trouent home simple et mol
+Il en geuent au chapifol
+Et li font honte et uilanie
+Que li seignor ne séuent mie
+Toz les meffez de lor ostel
+Por ce qu il entendent a el.
+Ç auient souent et lot issi
+Aueneit il a Alexi
+Mout deboté fu et lediz
+Et ramponez et escharniz
+Tant que neis les laueures
+Des poz et chureaus et ordures
+Sor son chief li meteient il
+Mout le teneient cort et uil
+Et feseient mal a foison.
+Mès il beueit tot por poison
+Quer poison esteit ce sanz dote
+Qu ausi con l en garist de gote
+Ou d autre mal par poison beiure
+Folio35a
+Tot autresi qui ueut receiure
+Auersité en penitance
+Humblement et en pacience
+II garist s ame de pechié
+S en a Deu merci et pitié.
+Mout se dist ueir saint Pol qui dist
+Quicunques selon Ihesu Crist
+ueut uiure o boenne intenciun
+Il aura persecuciun
+Ker qui plus est religios
+Et plus li est contralios
+Cil qui deçut par une pome
+Eue et Adam le primier home
+Et qui toz ueut a male fin
+Treire par force et par engin
+Por ce assaut en meinte guise
+Ker meinte feiz par coueitisse
+Des delez charnaus l escommuet
+Et quant il ueit que il nel puet
+ueintre par coueitise d ese
+Si li fet dolor et mesese
+Ou par lui ou par ses serianz
+Dont mout est c est demage granz.
+Il ueit que Alexi esteit
+Chés son pére et lez lui aueit
+Biens terriens a grant plenté
+Dont il feist sa uolenté
+Folio35b
+Se il uousist changier sa uie
+Dont il aueit duel et enuie
+Que il ne poeit pas tant fere
+Qu il le peust a ce atrere
+Sis entiçout encontre lui
+Et li feseit asez ennui
+Que par angoise ou par destrece
+S en reperast a sa richece
+Et sa sainte uie chanchast
+Ou seueaus non qu il s en uengast.
+Pageu01P176
+Isint est quant aucuns estriue
+Boter desor l or de la riue
+Un autre en l eue s il ne puet
+Si s en aire et escommuet
+Et le fiert de pié et de poig
+Qu il salle en l eue par besoig
+Ou seueaus qu il s en seit uengié
+Tant qu il s en tienge a bien paié.
+Alexi qui ce bien saueit
+Comme cil qui grant sens aueit
+Soufreit mout debenerement
+Comme aignel simple et innocent
+La uilennie et le despit
+Sanz meffet et sanz contredit
+Sans contençon et sans clamor
+Fere n a dame n a seignor
+Et plus esteit d eus corouciez
+Folio35c
+Que deable aueit si soz piez
+Qu il en feseit son estrument
+Qu il n ert de son auilement
+De son mal ne de son hontage
+Quer c ert son preu et lor demage
+Et en atendeit grant corone
+De Deu qui les biens guerredone.
+Autres dis et set anz uesqui
+Enz la meson son pére issi
+Et quant il senti près sa fin
+Il a demandé parchemin
+Et enque a cil qui le gardout
+Si li aporte quant il l out
+Il i escrit tote sa uie
+Si comme uos l auet oie
+Et escrit tot de chief en chief
+La mesestance et le meschief
+Et les maus dont ill out adès
+Et chés son père et a Rohès.
+Deuant ce qu il dut trespaser
+uout Dex son tresor encuser
+Et dist une uoiz en l iglise
+Au poeple qui ert au seruise
+Alez si querez le saint home
+Qu il pret por la cité de Rome
+Ker il est si près de sa fin
+Qu il trespasera le matin.
+Folio35d
+De cele uoiz qui fu oie
+Fu tote la gent esbahie
+Et la nouele tost seue
+Par la cité et espandue.
+Mès ne saueient en quel terre
+II deussent tel homme querre
+Quistrent le mès pas nel trouérent.
+Pour ce par matin asemblérent
+Le uendredi communement
+A l iglise. Pape Innocent
+I fu et li dui enperére
+Archade et Honoire son frére
+Et mout grant plenté d autre gent
+Et preiérent deuotement
+Deu qui lor enseignast ou esteit
+Cil qui querre lor kemandeit.
+Par la uolenté Ihesu Christ
+Reuint une uoiz et lor dist 
+En la meson Eufemien
+Trouereiz le saint crestien. 
+De la uoiz qu ill orent oi.
+Meruellosement esioi
+Furent tuit et grant et petit.
+Lors ont a Eufemien dit 
+Sire font il qu auez uos fet
+Certes mout nos auez meffet
+Folio36a
+Qui tel tresor auez celé.
+Non ai fet il por uerité
+Le sachiez ainzceis uos di bien
+Que uncore n en sai ie rien.
+Lors apele et met a reson
+Le seneschal de sa meson
+Sez tu fet il nul home itel
+Que tu oz ci en mon ostel
+Certes sire fet il ie non.
+Alon i donc et si sachon
+Fet pape Innocent. uolentiers
+Lors ua deuant tot li primiers
+Eufemien por atorner
+L ostel qu il n i ait qu amender
+A receueir si haute gent.
+Atant euos isnelement
+Le uallet qui en garde aueit
+Alexi tant comme il uiueit
+Pageu01P177
+Sire fet il pernez uos garde
+Se ce fust cil que i ai en garde
+Ker ie sai bien ie n en dot mie
+Qu il esteit mout de sainte uie
+Et aueit mout por uerité
+Pacience et humilité
+Et mout feseit grant penitance
+De ieunes et d austinance
+Et mout esteit en oreison
+Et a l iglise et en meson.
+Folio36b
+Eufemien cele part uet
+Mort le treuue uers lui se tret
+Si le descoure et ueit sa face
+Qui semblout clére comme glace
+Si con Dex l out enluminée
+Quant sa uie fu terminée.
+Tant l esgarde qu il aperceit
+Le parchemin que il teneit.
+Il s abessa  prendre le uout
+Mès unkes aueir ne le pout.
+Lors uient ariére isnelement
+Et a dit a pape Innocent
+Et as autres  Troué auun
+L omme Deu que nos queriun.
+Lores lor conte de sa uie
+Comme il l out du uallet oie
+Et del parchemin qu il teneit
+Qu il uout prendre mès ne poeit.
+Parlant les a issi menez
+Au cors ilec sont asemblez
+Et font o grant deuociun
+Deuant lui lor estaciun.
+Son cors et sa face et sa chiére
+Esgardent en meinte maniére
+Et le parchemin que il tint.
+Pape Innocent près de lui uint
+Et a pris l escrit en sa main
+Folio36c
+Et le baille a son chapelein.
+Cil lut l escrit en audience
+Et li autre tindrent silence.
+Quant Eufemien l entendi
+Par poi le cuer ne li fendi
+D angoisse et de duel que il ot
+Ne pout unkes parler un mot
+Le cuer li tremble et refreidist
+Il pert la color et palist
+Pasmé s est et esuanoiz
+Ker le sanc est au cuer foiz.
+Quant il reuint de pasmeison
+En son sens et en sa reison
+Il cort a son fiz si l enbrace
+Bese li la bouche et la face
+Les euz le front sanz dire mot
+Et quant ce fu que parler pot
+II se commence a doloser
+Et a pleindre et a regreter
+Alexi si pitosement
+Qu il feseit mal a tote gent 
+Alas fet il alas cheitif
+C est grant dolor que ie tant uif.
+Ker la meie uie ne dure
+Fors por aueir malauenture
+Et dolor dès ore en auant
+A toz les iorz de mon uiuant.
+Folio36d
+Alexi beu fiz Alexi
+Por quei m auez uos si trahi
+Que uos tanz maus auez eu
+Si près de mei sanz mon seu
+Et si lonc tens unkes nel soi
+Ne requenoistre ne uos poi.
+Souffert auez tantes iniures
+Tanz hontages tantes leidures
+De uos garçons demeinement
+Si ne uos failleit solement
+Fors parler et uos descouurir
+A aueir tot uostre plesir.
+Ie cuidai quant uos fustes né
+Beau fiz que Dex m eust doné
+Force et aide en ma flebece
+Et sostenance en ma uiellece
+Et ballif et seignor et eir
+De mon or et de mon aueir.
+Mès Dex m a si dessesperé
+Desconfit et desbareté
+La mort uers qui nus n a deffense
+Mout remaint de ce que fol pense
+Beau fiz se uos fussiez ocis
+En batalle ce m est auis
+Por ce que ç auient corsaument
+I en fusse plus legiérement
+Et confortez et apaiez.
+Folio37a
+Mès i esgart que uos estiez
+Pageu01P178
+En mon ostel et en ma garde
+Si estes mort par ma mesgarde
+Quer ne fis pas ce que ie dui
+uers est si quenois que i en sui
+Mout copable de uostre mort
+Et uos ueir de mon desconfort
+lestes copable sans dotance
+Quer sauiez la grant pesance
+Et sauiez le grant torment
+Que i aueie por uos souent
+Et ueiez la lede hére
+Et de mei et de uostre mére
+N onques ne uos en prist pitié
+uos feistes ueir grant pechié
+Ker mout tost se uos uousisiez
+En grant ioie nos meissiez.
+Bel douz fiz ie uos ai fet querre
+Et cercher par mer et par terre
+N onques noueles n en oi.
+Or uos ai troué mort ici 
+Ie ment troué ne ai ge mie
+Que i ai troué le cors sanz uie 
+Trouer mort n est pas troueure
+Mès perte dolerose et dure
+I ai donc perdu non pas troué
+Mon fiz que i aueie adiré.
+ Alexi beu fiz Alexi
+Folio37b
+uos ai ie donc perdu issi
+Oil ueir ie ne m en puis tere
+Seueaus quant ie n en puis plus fere.
+Alexi bel fiz i atendeie
+De uos toz iors aucune ioie
+Et a oir d aucune part
+Bone nouele ou tost ou tart
+De uos en aucune maniére.
+Mès or n i atent fors la biére
+Quer n ai retor de uostre mort
+Ne rien a qui ie m en confort
+Quer uos n auez frère ne suer
+Et por ce n istra de mon cuer
+Iamès ceste amertume hors
+Tant cum i aie la uie el cors.
+Que que cil feseit comme pére
+Atant euos uenir la mére
+Marmitouse et escheuelée
+Breant comme beste effreée
+Qui por ses foons est engresse.
+A grant peine derompt la presse
+Quant el uint la et le cors uit
+Li cors li faut et l esperit
+Sor lui se pame plusors feiz
+Quer mout esteit si cuers destreiz.
+Quant el reuint de pameison
+En son sens et en sa reson
+Folio37c
+El cort a son fiz si l enbrace
+Bese li la bouche et la face
+Les euz le front sanz dire mot
+Et quant ce fu que parler pot
+El se commence a doloser
+Et a pleindre et a regreter.
+En sun cuer a si grant hachiée
+Qu el se contient conme esragiée
+El tuert ses poins ses cheueus tire
+Ele s esgratine et descire
+El bat et son pez et sa teste.
+Et fet tel noise et tel tampeste
+Et bret et crie et haut et bas
+Que ie ne cuidereie pas
+Qu ele criast si haut d assez
+Quant Alexi son fiz fu nez
+S est merueille qu el ne se lasse
+De crier  Lasse lasse lasse
+Lasse fet ele mon effant
+Lasse ia l amoie ie tant
+Trente et quatre anz l ai atendu
+Or l ai troué or l ai perdu
+Or puis ie certeinement dire
+Que i ai troué dolor et ire
+Et que i ai perdu tote ioie
+Quer i ai perdu quanque i amoie
+Douz Dez por que ne me gardastes
+Mon fiz quant uos le me donastes
+Folio37d
+Ou por quei le me doniez
+Quant tolir le me uoliez
+Ce fu por mei plus corocier
+Kar l ai perdu sanz recourier
+Ce peise mei quer plus est pire
+Pageu01P179
+Le retolir que l escondire.
+Beau fiz dont uos uint tel durece
+Que uos seueaus en ma uiellece
+Ne me feistes nul confort
+Au meins einz que uosfussiez mort
+Que se i eusse un sol petit
+A uos parlé mon esperit
+En fust mès toz iorz plus a ese
+Mès ie dei bien estre a mesese.
+Mes euz or del plorer asez
+Tant que uos seiez toz lassez
+Et tant que uos aiez perdue
+Et la clarté et la ueue
+C est dreiz quer se uos eusiez
+Si bien comme uos deussiez
+Alexi mon fiz auisé
+Il ne fust ia si desguisé
+Que ne l eusiez queneu
+Quer asez l auiez ueu
+A mes mains leuer et chouchier
+A mes mameles aletier.
+Folio38a
+.....
+Or ne faz mes fors enpireir
+C est cil qui torna en mes flans
+Par qui i ai soffert tant ahans
+Iadis au nestre e au norrir
+Mais li plus griés est au morir
+Quer cels aleioit esperance
+Or nos griéue desesperance.
+Alexi beaus fiz beaus amis
+En tel duel auez mon cuer mis
+Que iamès nul ior que ge uiue
+Ne serai fors lasse chaitiue
+Ne n istrai de dolor amére.
+uos qui sauez le cuer de mére
+Aiez pitié en uostre cuer
+De ma dolor quer a nul fuer
+Ne porroit prou pitié auoir
+Cil qui mon cuer ne puet sauoir.
+Iloques reuint l esposée
+Triste mate descheuelée
+Qui le regrete durement
+Quer el l amoit ueraiement.
+Lasse chaitiue fet el lasse
+Onques n oi de rien que i amasse
+Ioie solaz ne compaignie.
+Or ai usé tote ma uie
+Et despendue ma iouente
+En esperance et en atente
+Folio38b
+Et or ai ie del tot perdu
+Ce que i ai toz iorz atendu.
+Ceste perte est sor totes pertes
+Kar or sui ie uueue adecertes.
+Ainceis que mi sires morust
+Aueie ie quel part qu il fust
+Grant hennor del non de mari
+Qu em m apelot femme Alexi
+Mès or sui uueue sanz seignor
+Sanz cest non et sanz cest ennor
+Or n ai ie mès point de garant
+Fors Deu a qui ie me commant.
+Certes ie suis mout corociée
+Qu il m a issi de tot lessiée
+Quer il out m amor primereine
+Si aura il la desreeine.
+Ie ne sai nul autre confort
+Que ie puisse aueir de sa mort
+Fors que iamès autre n aurai
+uirge sui et uirge morrai.
+Mout en est triste et corocée
+Et le regretent la mesnée
+Et doucement se repenteient
+Tuit cil qui meffet li aueient.
+Touz le plorent communement
+Ker aus suens grant pitié en prent
+Et li autre en sont mout irié.
+Folio38c
+Que de corouz que de pitié
+N i a cil qui n en seit marriz
+Pleine meson de ploreiz
+Peust l en ueer a cele hore.
+Chascun le pleint chascun le plore.
+Lors kemanda pape Innocent
+Que li cors fust mout richement
+Conreez et en biére mis
+Plusors s en sunt si entremis
+Que il l ont mout bien atorné
+Atant s en sunt d ilec torné
+Et en portent dreit a l iglise
+Pageu01P180
+Le cors por fere le seruise.
+Mes einzceis que il fussent la
+Mout grant pueples i asembla.
+Chascun se peine d aprochier
+A la biére et a le touchier
+Por reuerence et por santé
+Et tant en i uint grant plenté
+Que il i firent mout grant presse.
+L un se drece l autre s abesse
+L un enpeint l autre et hurte et bote
+De teste ou d espaule ou de cote
+L un chiet adenz et l autre enuers
+L un del tort l autre del trauers
+L un uet auant et l autre arriére
+Por passer par desouz la biére.
+Mout ont les porteors lassez
+Folio38d
+Mès miracles i out asez
+Comme de contrez redrecier
+De malades essanicier
+Et de rendre oie et ueue
+A ceus qui l aueient perdue.
+Quant li dui enperére ueient
+Les miracles qui aueneient
+Sor lor cous ont la biére mise
+Si l en portent dreit a l iglise
+Saint Boniface. Por la presse
+Departir qui mout les compresse.
+Font semer deniers ça et la
+Mès gueres ne lor profita
+Car li pueples plus uolentiers
+Cort a la biére qu aus deniers
+Au mostier uiénent a grant peine.
+Le cors gardent une semeine
+Et ont fet fere de nouel
+Un sarcoil mout riche et mout bel
+Et bien ouré d or et d argent
+Et entallié bien soutilment
+A flors a pierres precioses
+Bien cléres et bien uertuoses.
+Ileques ont le saint cors mis.
+Issi fet Dex de ses amis.
+Or preun Deu deuotement
+Tuit et totes communement
+Folio39a
+Que il nos doint par sa pitié
+Si espurger nos de pechié
+Et d ore en auant uiure issi
+Que nos ouec saint Alexi
+Puisson estre par sa preiére
+En uie et en ioie planiére.
+Amen.
+*** END
