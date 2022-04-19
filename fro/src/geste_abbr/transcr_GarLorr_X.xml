@@ -6,7 +6,7 @@
 <?xml-stylesheet type="text/css" href="../css/tei_diplomatique.css" title="diplomatique" alternate="yes"?>
 <?xml-stylesheet type="text/css" href="../css/tei_edition.css" title="edition" alternate="yes"?>
 
-<!DOCTYPE TEI SYSTEM "../dtd/abreviations.dtd" [
+<!DOCTYPE TEI SYSTEM "./abreviations.dtd" [
 
 <!ENTITY Saint "<choice><expan>s<ex>aint</ex></expan><abbr>s&#x0303;</abbr></choice>">
 <!-- Noms propres -->

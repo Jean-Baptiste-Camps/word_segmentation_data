@@ -1,0 +1,1596 @@
+
+INTRODUCTIONIn 1981 we published a critical edition ofLa Destruction de Romeas preserved in MS Hanover Niedersächsische Landesbibliothek IV. 578 (olimK. 24). Our aim then was to reconstruct a text as close as possible to the original, and this inevitably necessitated quite extensive editorial emendation. The more or less diplomatic transcription which we publish now is intended to complement our previous edition by making the text available in its authentic, pristine form, which will serve the interests not only of the linguist but also of all those concerned with the broader field of textual criticism.The Hanover MS juxtaposes two successive states of the text: vv. 1-698 (laisses I-XI), of which the authorial language gives every indication of being a Northern-based Mischsprache dating from after the start of the 13th century, and vv. 699-1507 (laisses XII-XXI), an Anglo-Norman continuation from the middle of the 13th century at the earliest. The most obvious explanation for this unusual amalgam is that an innovative Insular copyist, in the process of transcribing a Continental version ofLa Destruction de Rome, was either obliged by some material accident to his exemplar, or himself deliberately chose, to change the model that he was copying. His new source probably belonged to the Insular tradition represented by the mid-14th-century MS London British Library Egerton 3028, in which theDestruction de Romeis followed by a version of theChanson de Fierabras, and by the 15th-century Middle EnglishSowdone of Babylone. This would have been the counterpart of the Continental (Picard?) tradition represented by the 70-line Geneva fragments published by Muret in 1915 (Romania44, 215-20) and subsequently lost. The origins of the FrenchFierabrastradition remain obscure, but it may well be that the opening episode of the OccitanFierabras(ed. I. Bekker, vv. 47-561) derives independently from a primitive French version (aChanson de Balanaccording to Gaston Paris) such as that preserved in outline in Philippe Mousket'sChronique rimée(ed. de Reiffenberg, vv. 4664-4717). In any event, the surviving texts allow us to suppose that theDestruction de Romemay represent the final stage of development in a long literary tradition, and that its purpose was to provide an introductory prologue to a vulgate redaction of theFierabras.The Hanover MS comprisesLa Destructioun de Rome(ff. 1r-24v) followed (on ff. 25r-100v) by the Anglo-Norman copy ofFierabras(H in Mehnert's classification). One folio is lacking between ff. 55v and 56r (last of gathering), and another between ff. 95v and 96r. The pages measure some 230 x 140 mm. and are written in single columns of 45 lines each on average. Within each verse the scribe marks the caesura by a punctuation sign (occasionally misplaced, as in vv. 74 aftermult, 75 aftertintetc., and sometimes duplicated, as in vv. 573 and 995). The first letter of each verse is offset to the left, and change of laisse assonance is indicated by the use of 2-line high red initials. Those announcing laisses XII (v. 699), XIV (v. 810), XVII (v. 908) and XVIII (v. 941) have been omitted
+and replaced by a paragraphus, which also functions elsewhere to mark particular episodes and dialogue (see List following the text). At least two hands, both Insular, can be discerned in the volume. That of our text would appear to date from the end of the 13th century (1280 according to Brandin) or the beginning of the 14th (Gröber, Lejeune & Stiennon), while the less formal hand of theFierabrasis more clearly early 14th-century. The consistent quality of the vellum, the regular eight-leaf gatherings, and the similarities between the two separate series of illuminations make it likely that we are dealing with an integral cyclical, rather than a composite, manuscript. Contemporary catalogue evidence shows the volume to have been part of the library of Duke Johann Friedrich von Braunschweig-Lüneburg (1665-1679), and its passage to the Continent therefore predates the accession of the House of Hanover in England in 1714.The normal editorial practices have been observed in the establishment of the text. Bold type indicates the presence of initials. The round brackets at v. 215 indicate a probable interpolation. We have kept correction to a minimum and have allowed apparently aberrant graphies to stand, such as, for instance,point,en som,voit, the confusion of singular and plural verbs, and even spellings that invite correction by the simple restoration of the nasal titulus:estrainst,fainteor,encontréetc. The original reading of a small number of lines remains obscure: vv. 124, 1054, 1138, 1139. All rejected readings are recorded and listed (together with dubious readings) following the text. Also listed, separately, are the scribes use of the paragraphus and the positions of the miniatures within the text. This new transcription has permitted us to rectify a certain number of the readings in our previous edition, though the near impossibility of distinguishing betweencandt,sfandff,uandn,unandnncontinues to make interpretation difficult in a number of cases.BIBLIOGRAPHY
+L. Formisano (ed.),La Destructioun de Rome: version de Hanovre(Firenze: Sansoni, 1981)
+Au Carrefour des routes d'Europe: La Chanson de geste. Xe Congrès international de la Société Rencesvals; Strasbourg 1985(Aix-en-Provence: Publ. du CUER MA [Senefiance 20-21], 1987), pp. 283-99, 717-35, 843-57, 879-96, 1209-51
+L. Brandin,La Destruction de Rome et Fierabras: MS Egerton 3028, Musée Britannique, Londres inRomania 64 (1938), 18-100
+Bulletin bibliographique de la Société Rencesvals13 (1980-81) – 20 (1988-89)
+A. de Mandach,Naissance et développement de la chanson de geste en Europe; vol. V: La geste de Fierabras. . . (Genève, 1987)
+J.H. Speich (ed.),La Destructioun de Rome (d'après le ms. de Hanovre IV. 578)(Berne, 1988)I[f.1r]
+                   Seignurs, ore fetes pees, franke gent honoree,
+                   Gardés k'il n'i ait nois ne corouce ne mellee!
+                   Si orrés bone chanchon de bien enluminee;
+                   N'i afera fable dite ne mensonge provee:
+               5  Niuls de les altres jugelours kels le vous unt countee
+                   Ne sevent de l'estoire vailant un darree.
+                   Le chanchon ert perdu et le rime fausee,
+                   Mais Gauter de Douay a la chier membree
+                   Et li rois Lawis, dont l'alme est trespassee, –
+             10  Ke li fache pardone la Virge honoree! –
+                   Par luy et par Gauter est l'estoire aunee
+                   Et le chanchon drescie, esprise et alumee.
+                   A Saint Dynis de France primerement trovee,
+                   Del rolles de l'eglise escrit et translatee,
+             15  Cent anz i ad estee, ch'est veritee provee,
+                   Cil ke la chanchon fist l'ad longement gardee;
+                   Ainz nel voleit prendre, a veire, nule darree
+                   Ne mule ne palefreie, mantel ne chair fourree,
+                   Ne unke en halt court ne fu par luy chantee.
+             20  S'entendre mei volés, ja vous serra countee
+                   La verité com Rome fu destruit et gastee,
+                   Et le cité fondu, destruit et craventee,
+                   Le pais exillés et la terre gastee,
+                   Et come la corone Jhesu d'iloke fust enportee,
+             25  Les cloues dont li Rois out le soen char navree,
+                   Et le digne suaire ou fu envolupee
+                   Au joure du vendredy kuant du croice fu ostee.
+                   Maint disgne reliqe i out pris et robbee;
+                   Par le roy Fierabras fu la citee praiee.
+             30  Charls en suffrie puis maint dure jornee,
+                   Mainte faime et seifs et mainte conseuree,
+                   Et li riche barnage de France la loiee.
+                   Hé! Diex, puis en fu tant lerme ploree
+                   Et tante targe effreint et tant broigne fausee,
+             35  Et tant pié et tant poigne et tant teste coupee,
+                   Tant alme de payens fors de son corps jetee!
+                   Ore comence chanchon de bien enluminee:[f.1v]
+                   Puis qe Dieux fist Adam et Ewe ses espousé,
+                   Ne fu plus fier dist, se seit bien escouté.II
+             40  Seignors, ore m'escotez, si lessés le noiser!
+                   Chanceon de droit estoire vous voil jeo comencer:
+                   L'estoire en est escrit en seint Dinis mouster;
+                   Les altres jugelours s'en soilent preiser,
+                   Mais si ore en fuissent ci ensamble .x. milier,
+             45  Devant eus osereie bien dire et affichier
+                   Ke euls toutz ne sevent mie le monte d'un diner.
+                   Par moi orrez le veire, dunt ele muyt primer,
+                   Jeo ne vous dirray mye fable de losenger,
+                   Ainc dirrai de la corone au verrai Justiser
+             50  Qi en Jerusalem sei lessa travailier
+                   Et ferir de la lance et naverer et plaier,
+                   Et del seintisme clowes dunt hom li fist parcier
+                   Les paumes en la croice et les piez cloufichier
+                   Desi k'en Golgathas virent son sanc raier;
+             55  Et dirrai des relikes qe tant font a preisier,
+                   Qe Sarrazins robberent, li gloton losengier.
+                   Li fort roy Fierenbras fist le pais cerchier
+                   Et l'admirals ses piers, qi le corage out fier,
+                   Par force bruserent Rome et feseint tresbucher.
+             60  Hey! Diex, puis en murerent plus de .xxx. millier
+                   De tels gentz k'eink Dieu ne voleint suplier.
+                   Charls en somonde France por sa terre vengier,
+                   Et trestote la terre q'il out a justisier.
+                   Ore comence chanceon huy mais a efforcier;
+             65  Ainc tel ne fu trové dé Adam ly primier.
+                   Del fort roy Fierenbraz vous vourai comencier
+                   Et del tres grant bataile q'il fist od Oliver.III
+                  Baron, ore fetes pees, lessés la noise esteer!
+                   Chanceon de verrai estoire plest vous a escouter?
+             70  De Laban d'Espaigne vous voile huy mais chanter
+                   Et del roy Fierenbras d'Alisandre sur mier,
+                   De plus trefier payen dunt ja oisés parler.
+                   Del pier Fierenbras m'orrés son noun noumer:
+                   Laban avoit a noun; mult out terre a gardier:
+             75  Le roialme tint tote desqe la Rouge Mier
+                   Et Aufrike et Europe, Esclandie sans pier,
+                   E tint Perse et Surie jusk'a playnes de Beaucler,
+                   Babiloingne la grant out il a justisier,
+                   Si out Costentinoble, qe tant fait a preisier,
+             80  Et trestot la terre ou home poet habiter
+                   De le gent qe einke Dieu ne voleint supplier,
+
+                   Et le moitié de Rome volt il en fiefs clamer.
+                   Pur ço mova la guere dunt vous m'orrés countier,[f.2r]
+                   Bien quidoit tote li monde li devoit enclinier.
+             85  Babilans et Marsires, si com m'orrés counter,
+                   Et l'admirals Bruans d'outre la Rouge Meer,
+                   Cil furent tote troi frere a Laban escler,
+                   Mais desur els .iii. volt par force seignurer.
+                   Deus enfanz out li rois qe vous m'orrés nomer,
+             90  Kar n'est droiz ne reson ke les deie oublier:
+                   Le vallet fist li piers Fierenbras apeller,
+                   Floripas out a non le beal au vis cler.
+                   Au droit comencement voile ici retorner.
+                   Laban d'Espaigne s'est alez desportier
+             95  As puis sur Aigremore, oveke ly .m. Escler;
+                   La fist ses urs salvages a ses hommes bercier,
+                   La veissés meint viautre, maint brachet descoupler,
+                   Payens et Asçopars as espiés juer,
+                   Curere par le marine et chacier maint sengler;
+           100  Maint ostur veisés et maint falcoun voler.
+                   Laban ad fait tote sa gent mander
+                   Pur la feste veer et Mahon celebrer;
+                   Grant joy demenerent deci q'a l'avesprer,
+                   Mais aincés q'il s'en tornerent, orrunt altre parler!
+           105  Es vous un galeye qe devoit ariver,
+                   As pors sutz Aigremore l'orent fait aancrer.
+                   Sarrazins i kurrent por noveles demander,
+                   Mais nuls des notoners ne volt od els parler.
+                   Laban les fist devant li amener,
+           110  Par mult ruste fierté les prist a demander:[f.2v]
+                   'Diva! dunt venés vous, ou devez vous aleer?
+                   A ki est ly aveires qe fetes amener?'
+                   'Sire,' ceo dist li maistres, 'ne vous quer ge celer:
+                   Jeo su vostre home lige, a vous me vienk clamer
+           115  De cels de Romenye qe m'ont fait desrobber.
+                   Tiel avoir m'ont robu, ainc home ne vist son pier:
+                   .Xiiii. nefs avoye, si devoy sigler
+                   El regne d'Aumarie por purpres achater;
+                   L'avoir et la richesces vous quidai presenter.
+           120  Un vent nous fist a Rome parmi la far sigler;
+                   Kuant cil dedentz nus virent einz el far torner,
+                   As espeies d'ascier nous vindrent descouper:
+                   Nuls n'i poout fors jeo sullement eschaper
+                   Et cil de ma galye ou n'i a qe fuir.
+           125  Les altres firent toutz occire et desmembrer,
+                   A plus de .x.m. feseint les chefs voler.
+                   Un appostoille i a qe mult fait a douter: –
+
+                   Parentz est Karlemaine qe France ad a garder –
+                   Cil vous quide mult bien del tot desheriter
+           130  Et de Costantinoble par force exilier
+                   Et vostre loy destruir et del tuit vergonder.'
+                   Quant l'entent l'admirail, du sens quide desveer,
+                   De maltalent et d'ire comence a escomer.
+                   Il estrest un baston, par mi le fait froer;
+           135  Qi le veist la teste et huschier et croilier,
+                   A mult tres grant merveile le poét esgardier.
+                   Le soen tres grant fierté ne poet nule deviser:
+                   Ainc payen ne li vist qe ne li covent trembler.
+                   Mahonet en jura: mal l'oseint il penser;
+           140  Jamais, si com il dist, ne voura reposer,
+                   S'avra fait tote Rome treboucher et verser,
+                   Et le pais destruir, exillier et gastier,
+                   Et musters et chapeles et autiers violer,
+                   Et as trestutz les moignes les baulivers coper.
+           145  Dusc'a Ais le Chapele nel vaura arester,
+                   Charlemaine de France en fra les oes crever,
+                   Se il ne volt Mahon servir et honurer;
+                   Puis fera as François lour servage doner,
+                   Quatre deners par an pur lour chiefs rachater:
+           150  Ensi le vaura il du tuit disheriter.
+                   Mais li vilaine le dist mult bien en reprover
+                   Qe mult i ad grant discorde entre faire et penser,
+                   Et tiels sei arde et bruit qi se quide chaufer,
+                   Et mielx valt bon taisir qe ne fait fole parler.[f.3r]
+           155  Ci comence chanceon que mult fait a loyer;
+                   Ainc n'oistes si bon, sil vous plest a escouter
+                   Et tant fetes pur moi qel puys chanter.IV
+                  L'admirail d'Espaigne out mult le queor irree,
+                   Devant sei appella Brullant de Montmirré,
+           160  Sortibrans de Combrés, ses consailers privee,
+                   Clamaton et Mordant, Enbrunc et Tempesté,
+                   Brutans et Parsagon, Gaubu et Tenebré,
+                   Et .xiiii. amaceours furent ove le veil Baufomé;
+                   Sutz l'oliver en l'ombre sunt al consail mandé.
+           165  Laban d'Espaigne fust droit en son tree,
+                   Sa maine mist a sa barbe, s'ad haltement parlee:
+                   'Seignor,' dist Laban, 'mult par est grant vieltee
+                   Qe ensi m'ont cil de Rome honye et vergundee:
+                   El dust moy estre par grant antiquitee
+           170  Et a mon fitz Fierabras aprés le mien aee,
+
+                   Et tote Romenie est de mon irritee.
+                   Ne me douterent guers quant ma gent unt robbee
+                   Et aprés tut iceo occis et demembree.
+                   Bien quidoi aver par tote itiel poestee
+           175  Qe hom ne feseist chose qe fust outre mon gree.
+                   Si jeo n'ai d'els venjance tote a ma voluntee,[f.3v]
+                   Ja ne place Mahon ne le soen bountee
+                   Ke mais ne puis tenir a nule jour regautee!'
+                   'Sir,' dist Sortibrans, 'bien vous ai escoutee.
+           180  Jeo vous ai bien tote jours servye et honoré
+                   Et vous et vostre fitz par droit lealtee;
+                   Ore oiés qe jeo die, solonc le mien pensee:
+                   Cil qe vostre chien bate n'ad a vous amistee;
+                   Ke mun serjant fait hunte a droit m'a defiee.
+           185  Romaynes ont mortz vos hommes; ore soit si amendee
+                   Qe pur un des nos soient .m. desmembree
+                   Et le cité confondu et le mure cravantee
+                   Et trestot le pais exillé et gastee
+                   Et musters et chapeles et altiers violee!
+           190  Ne aient garantie n'ewesqe ne abbee,
+                   Ne clerk, prestre ne moigne ne nullie ordeiné
+                   Q'il ne soient trestot vielement menee,
+                   Des nés et des baulivres honie et vergondee!
+                   Jeske Ais le Chapel ne sumes arestee,
+           195  Charls avra le chiefs du bus desseveree;
+                   Et puis fai de ton fitz de France coronee,
+                   Kar c'est ces heritages par droit lealtee.'
+                   Dist Laban d'Espaigne: 'Vous dites verritee;
+                   Ensi serra il fait, ja n'i ert trestornee.
+           200  Ainc mais n'oi conseile si bien devisee!'
+                   Maintenant sunt ses chartres escriz et enseelee,[f.4r]
+                   De par tote la terre sont ly baron mandee,
+                   Rois, princes, amaceours, duck et admirree:
+                   Du chiefs en Babiloine desi k'en Durestee,
+           205  N'i remist Sarrazin, Persant ne Ecler
+                   Qil ne soient ensamble venu et assemblee;
+                   Et de Costentinoble desi k'en Salatree
+                   Et de Jerusalem, cele seynt citee,
+                   Dusk'a pors de Siglay vers le mont Tribuee
+           210  Furent ensamble payens, c'este fine veritee.
+                   As puis sutz Mautrible sont Sarrazins arivee;
+                   Aval le praerie sunt tendu tote ly tree.
+                   .Iii. jors sont Sarrazins ove le roy sojornee
+                   Tant k'il sont de lasceté freschie et reposee.
+           215  (Dedenz ont le navye richiement apprestee.)
+                   Li os durra .ii. lewes de lonc et de lee:
+
+                   Par .c. fois .m. Sarrazins aitant sunt esmee,
+                   Et s'i furent par numbre .xxx. rois coronee.
+                   Ore ait Dieux a Rome par le soue pitee,
+           220  Kar, se il ne les succure, tote sunt a mort liveree!V
+                  Mult furent grantz les os de la gent l'adversier,
+                   Unkes Diex ne fist home que les poout preiser:
+                   Bien furent par .c. fois Sarrazins .c. millier.
+                   Laban fist ses nefs tres bien apparailier:
+           225  Li mast sont halt et gros quant k'om pot enbracier,
+                   .Iiii. voilles i a de paille de quartier;
+                   Le fourme d'Appolyn fist desur le mast drescier,
+                   En sa maine un baston pur François manacier;
+                   La sus li fet ly vens plus menu torner
+           230  K'alow ne guenchist quant fuist pur l'esperver.
+                   D'or et d'argent font lour vassals chargier,
+                   Et de payne et de vine les emplent por mangier,
+                   De foere et d'avayne qe servent li destrer.
+                   Assiez i a armes de fer et d'ascier
+           235  Et engines et pereres q'il feront karoier,
+                   Dunt il quidoient les murs de Rome tresbuchier
+                   Et les sales de marbre craventer et pesser.
+                   Lucafer de Baldas ove le corage fier
+                   Apella Labam, sil prist a resoner:
+           240  'Sire admirals d'Espaigne, ore vous voil jeo prier;
+                   De mult lonteime terre m'avés fait travailier.
+                   Une doun, voiant vos hommes, vous demande et requer
+                   Par itiel covenant com vous m'orrés pleider:
+                   Si jeo vous rent Rollant et le conte Oliver,[f.4v]
+           245  Et Charls a le barbe et Naimlon de Baivier,
+                   Richard de Normundi et li Danois Ogier,
+                   Et l'orgoiluse barnage face mater et peiser,
+                   Donés moi vostre feil Floripas a mullier, –
+                   De trestote mon servise ne quier ge altre lower –
+           250  Et jeo la durrai France desi k'a Monpeller.'
+                   'Volunters!' dist Labam, 's'el volt otraier.'
+                   Aitant es vous la puceal ou n'out qe seignurer,
+                   Vestu d'un dyapre, unke ne vie tant chier:
+                   Ses crines sur ces espaules plus lusoient d'or mier,
+           255  Sa char out bel et blank plus qe noifs en feverrer,
+                   Les oes avoit plus veirs qe nul falcon montener
+                   Et le colour vermaile con rose de roser,
+                   La bouche bien seant et douce pur baisier,
+                   Et les levres vermailes com flur de pesker,
+
+           260  Les mameles avoit dures com ponme de ponmer,
+                   Plus sunt blanches que noifs qe chiet aprés feverrer;
+                   Nully ne purreit sa grant bealté preiser.
+                   La puceal discent du palefrei courser,
+                   Lucafer de Baldas la corust a l'estrer.
+           265  'Feil,' dist Laban, 'mult vous puis praiser:
+                   Jeo vous ai marié, si volés otraier,
+                   Par Mahonet mon dieu, au melior chivaler
+                   Qe home poeit trover pur Franceis detrencher.'[f.5r]
+                   'Sire, qi est il dunc? Ne moy devés celeer!'
+           270  'Beal,' ceo dist l'admirals, 'qe vous deit nocier
+                   Pur vostre amour deit Chals le chiefs couper
+                   Et Rollant, son nevewe, et le conte Oliver.
+                   'Sir,' dist Floripas, 'lassés m'ent consaillier!'
+                   Lucafer passe avant qe l'em quide enbracier,
+           275  Et Floripas le fiert, que ne l'ad guers chier,
+                   De son poigne einz el dentz q'el ly fist seigner.
+                   Li rois out mult grant hunte, mais nel se volt irrer
+                   Pur ceo qe home ne doit a femme coroucier.
+                   'Vassal,' dist Floripas, 'ore vous trahés arer:
+           280  Ensi ne deit home mye pucele manoier!'
+                   Lucafer out grant hunte, s'en prist a vergunder,
+                   Meultz volsist qe ceo fust uncore a comencier.
+                   'Feile,' dist Laban, 'lees tai fiancier,
+                   Et aprés la fiance te ferai nocier!'
+           285  'Sir,' dist Floripas, 'ceo ert au repairer,
+                   Quant vous avrés pris France et conquis Monpeller,
+                   Et il m'avra rendu Rollant et Oliver,
+                   Richard de Normundi et li Danais Ogier
+                   Et Gyon de Burgoine qe jeo ai oie preiser;[f.5v]
+           290  Dunk le prendrai jeo, se il moy deigne aver.'
+                   'Beal,' dist Lucafer, 'ne jeo mielx ne vous quier!
+                   Si jeo ne les vous rende pris, fai moi le chiefs couper
+                   Mais ke vous m'otroiés sullement un baiser!'
+                   'Volunters!' dist la puceal, 'vous l'avrés santz dangier!'
+           295  Puis dist entre ses dentz: 'Fols coward losengier,
+                   Jeo ne vous baiseroi por .m. livres d'or mier:
+                   Meultz ameroi jeo Mahon a renoier!'
+                   Labam apelle Estorgis et Brier,
+                   A Lucafer ad fait Floripas fiancier:
+           300  Quant il avra pris France, si l'avra a molier.
+                   Li jors est trespassés, si vint a nutier;
+                   Ly flos monta au port, si prist mere a engrosser:
+                   Mult ont bone vent, si dient ly notoner,
+                   Et cil entrent es nefs, kar il voldront nagier.
+           305  Ly estermant s'aprestent et tot ly notoner,
+
+                   Les voilles font au vent a grant esploit drescier;
+                   Au desancrer sounerent .m. graels menuer,
+                   La marine fremist et bondist le graver:
+                   Tant fu grant la freinte de la gent l'adverser
+           310  De .x. lues pleniers oist hom le noiser.
+                   Dieu ait a cels de Rome, qe tot poet justisier,
+                   Kar i lour crest grant hunte et mortel encombrer:[f.6r]
+                   Unkes en lour vivant n'orent tiel encombrer!VI
+                  Mult fu grant l'estorme de la gent payenye,
+           315  Xxx. lues de mere contienent lour navye;
+                   Mult par eurent bone vent et l'ure fu serrie,
+                   Le vent se fiert es voilles qe plus tost les gwie
+                   Qe nus falcons ne voille quant il chace la pie,
+                   Et l'escume en florist, forement s'est herechie,
+           320  De l'angusse des neefs est la mer engrossie;
+                   Li voilles et li mast funt grant taborie,
+                   Les escrois en oist hom .v. lues et demie.
+                   Le barge Labam fust de grant segnorie,
+                   Ja de melior vassel n'iert mais parole oie:
+           325  Grant estoit contremont et forme out de galye,
+                   Coverie estoit de serfs et oynt de pis bullie;
+                   Ne cremeit vent ne tempeste un ponme purrie.
+                   .Iiii. mast avoit, de halt chescone une archie,
+                   Et a chescon mast out .iii. voilles drecie:
+           330  El plus halt fu le forme d'Appolyn dreschie,
+                   En sa maine .i. baston qe contremont bailye,
+                   Et manace François pur ferir lés l'oye.
+                   Mult fu grantz ly chalanz et onovrez par mestrie:
+                   Laenz sunt les estables as destrers de Surrie,
+           335  Et s'i a ewe duce et beal praierie,
+                   Et as prisons mettre i a grant fermerie,
+                   Gaiols et karkans i out a grant baillie,
+                   Si sont les chiminés chescone a or batie,
+                   Et chastels et breteces, maint chambre vautie
+           340  Ou Labam d'Espaigne gist et sei banie.
+                   Ove li fu Lucafer et .iiii. rois de Nubie
+                   Et .xiiii. amaceours du regne de Percie,
+                   Et ses fitz Fierenbras a la vis hardie
+                   Et Floripas ses soor, la beal et l'acemie,
+           345  Et ove ly .xxx. pucels de la loy paienie,
+                   Totes feiles au rois de mult grant seignorie.
+                   Labam d'Espaigne fist mult grant curteisie:
+                   Tot la melior chambres a sa feile bailie.
+
+                   En yvere et en esté i est la ros flurie
+           350  Et la flur d'aiglenter tote tens espanie;
+                   Le basme et le ment ducement i flarie,
+                   De trestotes flures la colur i condie;
+                   L'enchens et la kanele i croit et l'arabie,
+                   Ainc Dex ne fist espece dunt la flur n'i condie;
+           355  Qi est en cele chambre a joie use sa vie.[f.6v]
+                   Laeinz est Floripas, la gent et l'acemye,
+                   La plus beal payem qe soit jusc'a Russye;
+                   Oveke luy son follet a ky eal se banye,
+                   Ke luy chaunte songes a hour de complye
+           360  Et fables et chaunceouns, tant qe eal est endormye.
+                   Ses puceles le seervent qe ne le heent mye;
+                   Sovent parle as els de France l'esgarnie
+                   Et del roy Charlemayn a la chier hardie.
+                   Sa mestresce Maragonde le manace et chastie:
+           365  'Feil, k'as tu dist? Es tu du sens marrie?
+                   Ne només mais celuy qe no lay ad perie!
+                   Par Mahon mon dieu, pres me su esragye!'
+                   'Dame,' ceo dist Floripas, 'ceo esteit musardye!
+                   S'esteiés si dolent s'esteye baptizie?'
+           370  'Oil,' dist Maragonde, 'meulz fustes detrenchie
+                   Ke pur Franceis aver fustes tiel nourie,
+                   Kar dolorousement serriez employe!'
+                   Mais pur nient l'em peise, puys fust eal baptizie,
+                   Et si crust en Dieu, le fitz seynt Marie:
+           375  Grant mestier i out Rollant et tot sa compaignie,
+                   Pur Gyon de Burgoyn lour salva eal la vie
+                   En la tour d'Aygremore qe vers le ciel humbrie –
+                   La les out Labam puys en grant fermerie –.
+                   Huy mais orrez chanceon de mult grant segnorie,
+           380  Orgoillus et superbe et de fier aatie:
+                   Con la cité de Rome fu od dolur perie,
+                   Maynt lance en fu freint et maynt targe parcie,
+                   Maynt alme du payem fors de son corps sachie!VII
+                  Mult fu grant l'estorme de la payem gent,
+           385  Par. vii. fois sunt .c. mil, si l'estoir ne ment.
+                   Luy mast hourtent ensamble et les voilles au vent,
+                   De l'angusse des nefs engroisse la mere forement;
+                   De l'or ke luist es voilles la marine resplent,
+                   Parmy la mere haltisme la navye s'estent.
+           390  Tant nagent jour et nuyt a la lune et al vent –
+                   Ainc n'ourent destourber ne de oré ne de vent –
+
+                   Ke el fare de Romenie la navye discent:
+                   Le jour q'il arivierent, fust fest de seint Vincent.
+                   .X. lues de rivage lour navye purprent;
+           395  Les pontes gettent an terre tost et isgnelement,
+                   Les voilles avalerent sanz nul arestement;
+                   Puis issierent des nefs, le corps Dieu les acravent!
+                   De lour pavylons fichier ne furent my lent,
+                   De paille et de cendalle a or ovré cointement:
+           400  Des pomels et des egles li or luyst et resplent;[f.7r]
+                   Li os dura .x. lues, si l'estoire ne ment.
+                   Diex panse de cels de Rome par son commandement,
+                   Kar, si ly ost de Rome n'eit succurs erralement,
+                   La cité serra pris a doel et a tourment,
+           405  Ja n'i purra aider amye ne parent:
+                   Labam ne prendroit d'un sule rachatement,
+                   Ke li voldroit emplir un vale tot plaine d'argent.VIII
+                  Tant ont ly payem gent et nagé et siglee
+                   Parmy la mere haltisme est en le far entré.
+           410  Puis ont lour ancres pris, si se sunt aancree,
+                   Les voiles avallerent et les pontz hors jettee;
+                   A .c. et as milliers discendent luy diffaié,
+                   Et ly pavilon fichié, tost sunt tendu li tree.
+                   La possés veer tant penon ventelee
+           415  Et tant aigle luissant et tant dragon dorree,
+                   Tant trefs et tant pavylon de brune paile rouee,
+                   Et tant riche tent de samite estellee:
+                   .X. luez totz pleniers en sont couvert li pree.
+                   Labam d'Espaigne est issuz de son tree,
+           420  Ensamble ove ly issierent .xv. rois coronee
+                   Et .xiiii. amaceours qe sunt de Perse nee,[f.7v]
+                   Et l'admirals de Cordres, qe est de son parentee,
+                   Et Fierebras son fitz, au corage adouree.
+                   Encontre Labam sunt .x. graels sonnee,
+           425  .X. cors et .xx. busimes et .xx. tabours tymbree;
+                   Asçoparz ont sailli et devant ly tumee,
+                   Devant luy ont la mente espandu et jettee,
+                   Le glayol et le junke par ont il ad passee.
+                   Labam d'Espaigne fu de mult grant fiertee:
+           430  La barbe out longe et dru jusc'a neu de baldree
+                   Et la teste plus blanche qe nuls flur d'estee;
+                   De l'un oil out a l'altre demie pié mesuree,
+                   Mult out lees les temples, le pis gros et quarree:
+                   Se il creist en Dieu, le Roi de majestee,
+
+           435  El siecle n'ust roy de si tres grant fiertee!
+                   Mult est preuz de sa loi, mais mult out crualtee,
+                   Kar il n'out unkes de homme mercie ne pitee;
+                   A chescon pas q'il passe l'ont Sarrazins enclinee:
+                   Labam quide bien aver itiel poestee
+           440  Qe hom ne feseit rien qe soit ultre son gree.
+                   Labam apella Brullant de Montmirré,
+                   Sortibras de Combrers, son consaillers privee:
+                   'Gardés qe .c.m. hommes seient mult tost armee
+                   Pur gaitier le pais de lonc et de lee;
+           445  N'i remeigne chastel, dungeon ne fermetee,
+                   Muster ne abbeye qe ne soit enbracee,
+                   Ne femme n'enfant qil n'ait le chiefs coupee:
+                   Gardés ke lediement soient diffiguree!
+                   Les nonnailes et les moignes soient vilement menee:
+           450  La loi as cristienes voil mettre a grant villetee!'
+                   'Sir,' dist Sortibras, 'tot a vo voluntee!'
+                   Il ad sonné .i. corn, payens sunt arivee,
+                   .C. et .l. mil furent – aitant sunt nombree –:
+                   Des herberges s'en issent pognant tot serré.
+           455  Lucafer de Baldas ad l'ensigne portee,
+                   A .xx. mil payens l'en ad avant gwiee:
+                   Ceo jour ont mult destruit seint cristientee.
+                   Et Labam d'Espaigne ad fait tendre son tree
+                   Decouste un fontaigne, just un verger rasmee;
+           460  Ly egle fu en son sur la pomel dorree:
+                   C'est signifiance q'il avront la citee.
+                   Labam est assis, as tables ad juee,
+                   Et Sarrazins chivalchent, baud et asseuree.
+                   Lucafer fu devant, le halberc endossee,
+           465  Le mestre gonfaynon out en sa lance fermee.
+                   Ardent chastels et viles, n'i lessent fermetee[f.8r]
+                   Ne muster ne chapelle q'il n'aient violee:
+                   Les prestres et les clercs ont abauliveré,
+                   Et moignes et hermites a grant dolour menee;
+           470  As nonels ont jeu et fait lour voluntee,
+                   Puis toudrent les mameles chescon du coustee;
+                   Quant trouvent femme gros, le queor li ont crevee,
+                   Et son petit enfant ont mort et enfondree.
+                   Grant dolour i aveit par trestot le regnee:
+           475  .X. lues mesurés, dist hom par verritee,
+                   Ont ceo jour ars le pais, espris et enbracee,
+                   Et ont le riche pais a dolour tournee;
+                   N'i lasserent muster que ne soit enbracee.
+                   De la cité de Rome veit hom la clartee:
+           480  En son le Miraur en sunt alkun montee,
+
+                   Mult ont longemerit entr'els le fu esgardee;
+                   Durement sei merveillent, tot sunt trespensee,
+                   Mais il ne sevent mye de l'ost la veritee,
+                   Kar la fumé ert grant de part tot le regnee
+           485  Qe les ad verraiement la veue destourbee:
+                   Kar si ceo ne fust, c'est veritee provee,
+                   De grantz .l. lues l'ussent bien avisee.[f.8v]
+                   Li hom de la terre s'en sunt fuant tornee
+                   Et femmes et enfantz qe sunt eschapee;
+           490  Fuant vont a Rome, l'apostoil ont countee
+                   K'en la terre de Rome sunt payens arivee,
+                   Unkes en ceo siecle ne vist hom tant assemblyé:
+                   Plus de .xiiii. lues en sunt li champe poeplié,
+                   Nen a puye ne tertre qe ne soit enbracié,
+           495  Si ont plus des .x. lues le pais desroubee;
+                   Ne lassierent a occire ne moigne ne abbee
+                   Ne homme, femme, n'enfant ne prestre coronnee.
+                   Quant l'entent l'apostoille, durement l'en ad peisee
+                   Pur ceo q'il n'avoit my des chivalers a plentee;
+           500  Ne volt issir de Rome, s'en out conseil demandee:
+                   Damedieu et saynt Pere ad forement reclamee
+                   K'il luy doynt pussance de tenir la citee.IX
+                  L'apostoille de Rome ad la novel oie
+                   Ke payens sunt venu el plaines de Romanie;
+           505  Damedieu reclama, le fitz sainte Marie.
+                   Il ad mandé de Rome sa riche baronie;
+                   Au grant muster de Rom fu la parol oie.
+                   L'apostoille de Rome l'ad primer comencie:
+                   'Seignurs, kel le froms, franc gent segnorie?
+           510  L'admirals d'Espaigne ad no terre seisie;[f.9r]
+                   Il en ont ja gastee un mult grant partie,
+                   An brefe terme serra ceste terre exillie.
+                   Qui bone consail savra, vienge avant, si nus die!'
+                   Un chivaler se drece qe fu neez de Pavye,
+           515  De le roy de France tient Placence et Ivorie,
+                   La barbe avoit chanu et la teste florie:
+                   Garins avoit a non, mult out chivalerie,
+                   Sages fu de parler, mult avoit de voidye;
+                   D'un des quarters de Rome avoit la seignorie,
+           520  La Tour Croissant gardoit, si l'avoit en bailie,
+                   Et dist a l'apostoille: 'Ne vous atargez mye!
+                   Envoiés tost en France au roy de Saint Dynye,
+                   Se luy mandés pur Dieu et soccors et aie!
+
+                   Et si ceo ne fetes, tote Rome est perie,
+           525  Kar Laban d'Espaigne i est ove ost banye;
+                   N'a lassé Sarrazin desi q'en Aumarie,
+                   Ne en Jerusalem ne en tote Parsie:
+                   N'a remis amaceour jusk'en la Mere Rusie
+                   Qil ne sunt venuz par mer a grant navye.'
+           530  'Sir,' dist l'apostoille, 'si le altre otrie,
+                   Anuit moverent luy messanger a la lune serrie;
+                   Ceo serra savoir, si Dieux moy beneye,
+                   Mult i a de no gent mort et malbailye;
+                   Et il se fait mult qe sage que par altrie se chastie:
+           535  Tant qe aiomes leiser, seit cel over furnie!'
+                   Aprés parla un quiens de mult grant baronie,
+                   D'un des quartiers de Rome avoit la seignorie,
+                   La Tour Noyron gardoit, si l'avoit en baillie,
+                   Parentz est l'apostoille et neez de Lumbardie:
+           540  Savaris out a non, fitz le duk de Hungrie,
+                   Cosins germains esteit Richard de Normundie,
+                   N'out plus hardie baron en tote Romenie.
+                   Cil ad parlé en halt, s'a la teste dreschie:
+                   'Par foai, sir appostoille, ceo n'otreie jeo mye
+           545  Qe cil de Rome facent itiel recreandie,
+                   Quant encore nen est lance esquassé ne brusie
+                   Ne halbers derompu, ne fort targe parcie.
+                   Par le baron seynt Pier qe jeo adoure et prie,
+                   Meulz voil que ma chars seit en .xxx. luez parcie
+           550  Et mes halbers rompu, ma broigne desmailie!
+                   Si ceste fole gent est ici afuye,
+                   Ne deit estre parole escouté nen oye;
+                   De mult petite chose est tiel gent esmarrie:
+                   Ne nous poet venir ore par terre vilenie
+           555  Qe cil du Miraur ne l'aient tost oie.
+                   Honis seit qe primerains pensera cowardie!'
+                   Hahy! dolant, chaitifs, mar virent s'aatye![f.9v]
+                   Qe qe Romaignes devisent, est la vile estormye:
+                   Bien .xiiii.m. hommes vegnent par la chaucie,
+           560  N'i a cil qe n'ait nés ou baulivre trenchie,
+                   Ou le poigne ou l'oraille pres du chiefs rongie;
+                   Del sanc qe d'els curreit est la rue baynye.
+                   Tres devant l'apostoille chescone d'els se crie:
+                   'Sir, merchie pur Dieu, le fitz seinte Marie,
+           565  Mortz sunt la gent du regne, si de vous n'ont aye!'
+                   Kuant Savaris l'entent, tote le sanc luy formie,
+                   Ses armes demanda, s'a la broigne vestie,
+                   Et lacea un vert healme ou luy or reflambie,
+                   Et a ceynt l'espee qe fu cler et forbie;
+
+           570  En la place luy trahent son destrere de Surie
+                   Ke est blankes cum noifs et gutex com la pie:
+                   Bien irroit a playne .v. lues et demye,
+                   Ja ne li lasseroit la teste lés l'oie.
+                   Savaris est montés, si ad l'ensigne seisie,
+           575  Un corne ad fait sonner sus en la tour vautie:
+                   Romaignes keurent as armes, la vile est estormie.X
+                  Mult fu grantz l'estorme en Rome la citee:
+                   Au muster sunt les seynes au grant effroi sonee,
+                   Sus en Palais Croissant est l'olifant sonnee;
+           580  Romaignes comunalment sunt mult tost adoubbé,
+                   Et li clerk et li lais, li moigne et luy abbee;
+                   En un place i sunt venu et assemblee:[f.10r]
+                   .L.m. furent, quant furent aprestee.
+                   .Vii. contes estoient a Rome qe estoient chacee,
+           585  S'i avoit .m. piers, n'i ad cil qe n'ait fiertee;
+                   Devant toutz les altres ad Savaris parlee –
+                   Mult ert bones chivalers et de grant parentee –
+                   Et dist a l'apostoille: 'Si m'ert grantee,
+                   Anuyt m'en isteray, quant il ert avespree,
+           590  Atote .c. chivalers qi bien serrunt armee,
+                   Et s'i serrunt ove moy mil serjant adoubbee,
+                   D'armes et de chivals garnye et aprestee;
+                   Desi q'en Miraur n'i serromes arestee:
+                   C'este la mestre garde de tote la citee,
+           595  Ke Mont Chevrel avreit aukes trespassé.
+                   Quant message ne nous vient, laenz sunt enfermee,
+                   Ou il sunt endormy, ou il sont oublyé,
+                   Ou il n'osent issir, tant sont espountee;
+                   Mais home savra anuyt, si Dieu plest, la veritee!'
+           600  'Beau nees,' dist l'apostoille, 'mult avés bien parlee!
+                   Et nous enveierom un messager privee
+                   Cel part que hom dist q'il sunt arivee,
+                   Et puys enveierom en France le regnee.'
+                   Ceo conseil ont en Rome tote ensamble loee,
+           605  Mais luy quiens Savaris ne l'ad pas otraié
+                   Ke hom lur enveit en France, ainz lur ad deveé.
+                   Las! mare lour diffendi, chier serra comparee,
+                   Kar Rome en fu destruyt et la mure craventee!
+                   Aitant ont lassé deci k'a la vespree;
+           610  Par la cité de Rome sei sunt mult tost armee,
+                   Belement sei rangerent au mur et au fossee:
+                   Tote sunt ly mure de Rome de quarels enpennee.
+                   Lucafer de Baldas discent al mestre tré,
+
+                   Devant Laban vint, forement l'ad enclinee,
+           615  Voiant tote ses barnages, l'ad son eschece presentee
+                   Moignes, prestres et laies, qe sunt encheenee,
+                   Hermites et enfantz, tote lor pogne lié;
+                   Et as femmes et pucels les oes furent bendee,
+                   Totes vifs les presentent devant l'admirree.
+           620  Dist Labam d'Espaigne: 'Ore avés bien erree!
+                   Par Mahon, Lucafer, servy m'avés a gree:
+                   Ne purra remanere qe ne soit guerdonee!
+                   Gardés qe une sule ne soit enprisonee:
+                   Maintenant soient tote occis et descoupee,
+           625  Ne voile qe my serjant soient encombree.
+                   Ore alez vous ent sanz nule demoree!
+                   Mahon te benoye et Appolyn ly senee!'
+                   'Sir,' dist Lucafer, 'a vostre voluntee!'
+                   Les chaitifs en menerent hors de l'ost en une pree,
+           630  La furent tote ensamble occis et descoupee;
+                   Les almes en receut Jhesu de magestee.[f.10v]
+                   La nuit ont Sarrazins grant joie demenee,
+                   Li plusurs ont dormye et li altre veillé.
+                   Savaris fu armé en Rome la citee
+           635  Et Garins de Pavy au corage adouree:
+                   .C. chivalers as armes ont ove els amenez,
+                   S'i furent plus de .m. sur les chivals monté.
+                   De Rome s'en issierent quant il vint al vespree,
+                   L'apostoille les a a Jhesu comandee:
+           640  Devant l'our q'il revegnent, avront maint cope doné
+                   Et maint pié et poigne et maint membre coupee;
+                   Grant mestier lour avront li bon brand asceree.
+                   La tour ont costié, ne se sunt arestee,
+                   Desi k'a Mont Chevrel n'i out reigne tiree.
+           645  Desuz en Miraur out un valet montee,
+                   Kuant il vist ces de Rome, n'en a nul avisee;
+                   Isnelement discent, le provost ad contee:
+                   'Sir, li Sarrazin viegnent qe .iii. jours unt furee:
+                   Mult mei vient a merveille dunt il sunt arivee;
+           650  Si bien le volés fair, tote sunt debarretee,
+                   A tote jour vous serroit mais a honur tornee.'
+                   Quant li provos l'entent, s'ad .i. grael sonnee,
+                   Il et tote si home sunt mult tost adoubbé.
+                   Du Miraur cil sunt belement avalee
+           655  Et vegnent a la port, s'ont les hus debarree,
+                   Luy bone destrer lour sunt devant els amenee,[f.11r]
+                   La furent tote ensamble pur combatre rangee;
+                   Mais Savaris s'en parle, qe savoit lour pansee:
+                   'Diva! ne vous movés, seés asseuree!'
+
+           660  Li provost l'entendi, mult l'ad bien avisee,
+                   La porte luy overie, avant l'ad appellee:
+                   Maintenant et tost i sunt la sus montee.
+                   Savaris et Garins sunt el chastel montee
+                   Ke tant par esteit fort qe ne doute hom nee:
+           665  Il n'a garde de siege, s'il n'est afamé.
+                   La est luy Miraor dunt hom ad tant parlee:
+                   Ki par le halt estage a son chefs hors boutee,
+                   .Xxx. lues voit bien et de longe et de lee;
+                   Cil qe l'ost ont veu sevent bien la veritee.
+           670  Huy mes orrés chanchon de grant nobilitee,
+                   Si li vers en sunt bien oie et escoutee,
+                   Ainc mais n'oistes nul de si tres grant fiertee!XI
+                  Savaris est montés en somet en la tour
+                   Et Garins de Pavye et maint altre de lour;
+           675  Devers la mer sei puerent dedenz la Miraour –
+                   La lune lussoient cler un poi devant le jour –
+                   Et voient le grant ost de la gent payenour
+                   Ke bien duroit .x. lues environ et entour.
+                   Li provos le counta, qe mult out grant paur:
+           680  'Sire, si veissés heer la tres grant dolour
+                   Et la grant discipline et la grant tenebrour[f.11v]
+                   Ke heer feseint des nos cele gent payenour:
+                   N'i laisserent guarir ly grant ne ly menour,
+                   Les testes lour trenchierent del bon brand de colur!
+           685  Del Miraur la sus oimes mult grant plour,
+                   Mais unkes n'out nule hom sa einz de tiel valour
+                   Qe l'anunciast a Rome, tant aveint grant pour.
+                   Labam l'emperour est de mult grant valour,
+                   .Xv. rois ad ove li et .xiiii. amaceour
+           690  Et tote luy Sarrazym jusq'a la Terre Maiour:
+                   Bien sai ke les Romaignes en averont le peiur.
+                   Si ne fussés venu, par Dieu le creatour,
+                   Tost quant fu anuté, lour guerpis la tour.
+                   Pur amour Dieu, beau sir, del tote le monde Seignour,
+           695  Qe dist ore l'apostoille et si senatour?'
+                   'Certes,' dist Savaris, 'mult sunt en grant freour!'
+                   'Par foy,' dist li provost, 'ci ad trope longe sojour!
+                   Ainz qe jeo ici remeine, guerperai m'onour.'XII
+                   Dist luy quiens Savaris: 'Sire provos, entendez:
+           700  Pur icel Seignour qe en croice fu penez,
+
+                   Vous requer ge qe cowardie ne seit ja purpensez:
+                   Chescoun sei peine de bien faire, ja n'i ert trestornez!
+                   Alomes nous la dehors, les gonfainons fermez,
+                   Ove .v.m. elmes, les freines abandonez;
+           705  Et vous, sir provost, cest porte bien gardez
+                   Tant qe sums revenu et ove Sarazins couplez.'
+                   'Sire,' fait luy provost, 'si con vous comandez!'
+                   Savaris et Garins avale les degrez
+                   De la tour haltisme, qe bien esteit pauuez,
+           710  Et sei arment erallement, les espeies ceintéz,
+                   Et vestent les halbers, qe bien estoit saffrez,
+                   Et si lacent les elms par les bons quirerz.
+                   Kuant il furent apparailé, si sunt encheminez,
+                   De la cité s'en issent belement aroutez,
+           715  Et li provost ad clos la port ove gogons acerez.
+                   Savaris chivache avant, s'ad la lance coulez,
+                   Et ad veu les tentes des Sarrazins diffaiez;
+                   Fierement poine le destrere par ambedeus les costez:
+                   Ore averont il encontre einz mydy passez,
+           720  Kar Lucafer de Baldas s'est issuz de son trez,
+                   Si demanda ses armes, s'est mult tost adoubez,
+                   Oveke luy .x.m. Sarrazins, les escuz au coustez,
+                   Pur gaiter et abeiser seint cristientez.
+                   Quant il furent apparailé, si furent touz aroutez,
+           725  Et gardirent vers destre vers Rome la citez,
+                   Virent venir nos barons belement aroutez:
+                   'Par Mahon,' dist Lucafer, 'ore avomes bien errez:
+                   Jeo vei ore le barnage de Rome la citez!'[f.12r]
+                   Et ad dist a ses compaignons: 'Seignors, ore i ferrez:
+           730  Gardés qe il seient totz descoupez,
+                   Gardés qe nully ne seit ransonnez!'
+                   'Sir,' feseint si home, 'si com vous commandez!'
+                   Savaris point le destrer par ambedeus les coustez
+                   Et Lucafer vers luy, les gonfainons levez;
+           735  Ambedeus lour lances sur l'escuz sont frossez,
+                   Par vertu de lor coups ambedeus sunt craventez:
+                   Bone sont les halbers, qe ne sont desmailez;
+                   Ambedeus par grant vertu sunt es piez sailez.
+                   Grant hunte out luy rois kuant il fu tresbuchiez,
+           740  S'ad traite l'espé par mult grant crualetez,
+                   Savaris en requiert par mult ruste fiertez.
+                   La donerent maynte cope sur les healmes gemmez,
+                   Par vertu de les coups retentisent les preez:
+                   A poi en fu Savaris malement menez,
+           745  Mais la barnage de Rome li ont tost rescousez.
+                   Adonke comencent l'estour du tote a renovelerz:
+
+                   Chescon poynt vers l'altre com falcons muez,
+                   Maint lance i sunt pecie et maint escu froez,
+                   Maint braz et poigne d'ampartz descoupez,
+           750  Et maint alme d'amparz de lour corps jettez;
+                   De le sanke qe d'els court est le champe sanglentez.
+                   Ore pense Dieu de nos contes par le soen bountez,
+                   Kar einz q'il retournerent, avrent grantz destourberz,
+                   Kar de l'ost l'admiraile sunt .v.c. esporonez,
+           755  Pur succurer Lucafer i sont abaundonez.[f.12v]
+                   Kuant nos contes virent q'il ne porreint durerz,
+                   Vers la cité de Rome en fuie sont tornez;
+                   A la port i sunt venuz, mult tost i sont entrez,
+                   Luy porter ad la porte aprés els bien barrez.
+           760  Les burgeis de la vile sunt grandement espountez,
+                   Quant oirent la verité de l'admiraile fiertez.
+                   Savaris s'en est a l'apostoille alez,
+                   Tote luy ad conté come il furent errez:
+                   'Ha! riche sir, mercy, tote sumus desmenbrez!
+           765  Tiel host unke ne vi ne ja ne verreez
+                   Com l'admirals ad amené ove nefs et od galez:
+                   Il i ad plus de .iii.c.m. ove les helmes gemmez.
+                   Pur Dieu, li tote possant, ore, sir, nus consailez!'
+                   Quant l'entendi l'apostoille, grant doel ad demenez,
+           770  Il ad fait soner les saines par la citez:
+                   Tote la comunalté sunt mult tost adoubez
+                   Et al fossé i sunt belement rangez.
+                   La veissés l'asalt mult tost a comencerz,
+                   Les payens ove engines font les peres volerz
+           775  Et ove grant pikois le mure a tresboucherz.
+                   La veisés maint quareas espessement volerz,
+                   Ove turkois et ove arks firent les setes culerz;
+                   Et nos barons sei defendent au mure et au fossez.
+                   Quant vint al vespré, l'asalt ont arestez,
+           780  Les gaites en la cité sunt ordeiné au fossez[f.13r]
+                   Pur espier l'ost qe ne pussent entrez.XIII
+                  Au matyn quant son l'abe et le jour fu cler,
+                   En ala l'apostoille pur sa messe escouter;
+                   Puis en ad fait mandere si riche bacheler,
+           785  En le muster de Rome se font toutz assembler.
+                   'Seignors,' dist l'apostoille, 'conseile vous voil demander:
+                   L'admiraile vult la cité par force tresbuchier
+                   Et nos corps destruir et a vile mort liverer;
+                   Bien sai qe longement n'i purromes durer.'
+
+           790  Un chivaler sei drece qe le corage out fier,
+                   Sa barbe out longe et blanche jusc'a neu du baudrer,
+                   Et ad dist a l'apostoille: 'Sir, ne vous estoit maier,
+                   Kar la cité est grandement fort, ne vous estoit douter,
+                   Et de contes et barons ad mult bele assemblé;
+           795  Nous defenderoms la cité quant ke poromes durer.'
+                   Et respont Savaris, qe fu noble beer,
+                   Et ad dist a la appostoile: 'Beau sir, ore m'entender,
+                   Si vous dirrai conseile a meulz qe jeo sai deviser:
+                   Comandez qe vos barons sei facent armer
+           800  Et tote la comunalté, sanz nule delaier;
+                   Vers nos enemis irroms, Dieu nus poet aider!'
+                   Et respont l'apostoille: 'Bien le voil otraier!
+                   Ore as armes, seignors, franke chivaler!
+                   Chescon de vous sei peyne l'estour bien mantener,
+           805  Et jeo serrai vostre chiveteyn, par le baron seint Pier:
+                   Dieu nous doynt sa grace de bien repairer
+                   Et de bien nous deliverer de la gent l'adverser!'
+                   Sa mayn en ad levé, si lor comence a assoiler
+                   De totes lour pechiez puis lour jour primer.XIV
+           810  Ore s'en vois l'apostoille por sun corps armer,
+                   Un acketon ad mis en son dose bien stoffee,
+                   Un halberc en sorte mult menu maillee,
+                   Ceinte ad un espee de fine ascer tempree,
+                   Amont desur son chefs l'em mist un healme gemmee.
+           815  Une esquier ly ameyne son destrer sojornee,
+                   Par l'estreu s'en est sur bachant montee;
+                   Sa lance prist en sa mayn, le gonfainon levee –
+                   Le forme de saynt Pier la dedenz fu painturee –
+                   Et tote si princes furent mult tost adoubbee:
+           820  De la cité s'en issent quant furent aprestee.
+                   La porte en ad li provost aprés els bien fermee,
+                   Et les burgeis en la cité au fossé sont rangé
+                   Pur deffendre la vile tant cum il soient retornee.
+                   Ore pense Dex de nos contes, par le soen pitee,
+           825  Kar einz qe il revendront, avront maynt cope doné!
+                   L'apostoille fu devant, le gonfainon levee,
+                   Et Garins de Pavye, li vasals adouree,
+                   Et Savaris en l'arergard, le freine abandonee,
+                   Belement en le champe pur combatre eschelee.[f.13v]
+           830  L'apostoille broche bachant par ambedeus les coustez,
+                   Luy roy de Nubie luy ad encontree
+                   [. . .]
+
+                   Ke luy rois sa lance en .iii. peces ad froee.
+                   Au primer juste q'il firent s'est l'apostoille versee;
+                   Luy rois discent an pié, s'ad sa ventaile delascee,
+           835  Ja l'ust coupé la teste, quant vist la corone rasee:
+                   'Hey! glout,' dist luy rois, 'come suy vergondee!
+                   Jeo quidai aver juste ove rois ou ove admiree.
+                   Meulz tei resembleroit sur ton salter solfer
+                   Qe en champe par force escu ne lance porter!
+           840  Il te resembleroit meuz en clostre vos cloks soner!
+                   Va, si montés vostre chival, Mahon te doint encombrer,
+                   Kar si jeo ore te occis, mon pris fu abeissee.'
+                   Tant ly aida li rois q'il fu en chival montee,
+                   A plus tost q'il pout en fuye est tornee.XV
+           845 L'apostoille de Rome a la terre fu tresbouchee,
+                   Entre Savaris et Garins mult tost est rescusee;
+                   Par le myely l'ont del grant ost amenee,
+                   Tant qe fu a si home n'out reigne tiree:
+                   Adonke retornerent par mult grant airee
+           850  Pognant ove grant air vers l'ost l'admirree.
+                   Dist luy quiens Savaris: 'Par li Roy de magestee,
+                   L'apostoille iray venger sanz nule arestee!'
+                   Il ad coilly sa lance, s'ad le destrer galopee,
+                   Vers ly roy de Nubie s'en est ferement hastee;
+           855  Une coupe sur l'escu par grant vertu l'ad donee,
+                   Ne luy garoit halberc ne aketon stoffee,[f.14r]
+                   Parmy le corps li est luy fort lance coulee:
+                   Par vertu del coupe est luy rois a mort versee;
+                   Et Garins et luy altre furent si esprovee
+           860  Qe en une poy de hure unt .m. a mort jettee.
+                   Aitant s'en vint pognant sir Tanpine del Gwee –
+                   Cosine esteit l'admirail, pres de sa parentee –
+                   Ove luy .l. chivalers combatant et esprovee:
+                   Savaris ont ateint dejuste un brulet rasmee;
+           865  Iloec ont nos barons malement menee,
+                   Iloke i fu mainte membre d'amparz descoupee
+                   Et s'i furent d'ampartz plusurs a mort jetté.
+                   'Ahy! Deux,' dist Savaris, 'par le toen bountee,
+                   Ou est ore mysires l'apostoille alee?
+           870  Si nous ne luy socuromes, ceo ert grant crualtee!'
+                   Hastivement de l'host est il tost galopee,
+                   Dejoste un graver ad l'apostoille trovee:
+                   Adonke ad Savaris grant joi demenee.
+                   Savaris sone .i. corn, s'ad ses compaignons resemblé,
+
+           875  Vers la cité de Rome ont lour chemyn tornee,
+                   Kar s'il ont attendu, n'out .i. soul vifs eschapee.
+                   Le porter de la vile les ad le porte defermee,
+                   Aitant est l'apostoille ove nos barons entree;
+                   Maintenant i est la porte bien barree,
+           880  Et les Sarrazins l'enchacent jusqe au mestre fossee.
+                   Lucafer comande l'asalt adonqe a renoveler:
+                   'Sir,' feseint si home, 'bien voloms otraier!'
+                   La veisés ove grant pikois mainte pere tresboucher,
+                   Et cels dedenz Rome ont maint pere contreval ruee,
+           885  Et sei rangierent au mure belement et serree,
+                   Ove grantz pers fesoint mult grant lapidee.
+                   Kuant il vint al nutier, l'asalt ont lessee;
+                   L'apostoil s'en voit au palais principee,
+                   Et Savaris et les altres, que Dieu ad benee;
+           890  Tote la nuyt reposent desi qe au matinee.
+                   Et l'admyrals Balans en est issuz de son tree,
+                   Vers la cité de Rome en ad son vis tornee;
+                   Brullant et Sortibrant ad a li apellee:
+                   'Diva!' dist l'admirails, 'coment avés erree?
+           895  Romaignes ont mortz mes hommes et malement menee:
+                   Le bon roy de Nubye s'est a mort jettee,
+                   Et my altre barnage ont vilement menee.
+                   Si d'els n'ai venjance, jamés ne serrai liee!'XVI
+                  Dist l'admirals Balans: 'Seignurs, qe me loés?
+           900  Vous savés bien que cels de Rome m'ont grandement vergondés:
+                   Heer perdy ii.m. de Persans et Esclers,
+                   Dont j'ai le queor dolerouse et irrés!'
+                   'Sir,' dist Sortibrant, 'vo gineor mandés,[f.14v]
+                   Et il vous conseilera coment les conquerés.'
+           905  Dist Laban d'Espaigne: 'Ore seit com dit avés:
+                   Aleez luy pur moi guerre sanz nule demorés!'
+                   'Sir,' dist Sortibrans, 'si com vous comandés!'XVII
+                   Sir Sortibrans a mandé pur Mabon l'engineor,
+                   Et il est tost venuz devant l'empereour.
+           910  'Diva!' dist Labam, 'por quei fetes sojor?
+                   Va aparailler vo engines, si assailer la tour!'
+                   'Sir,' ceo dist Mabon, 'respit me doigne .iii. jor,
+                   Kar la fosse est parfonde q'est decea la mure.
+                   Mais par matine, par Mahon, quant parsone le jour,
+           915  Me voil aver .m. charetes au bois sanz sojor,
+
+                   Si en frai engines et berfrois a melior,
+                   Si chargerai les charetes mult bien sanz delaiour,
+                   S'emplerai les fossés k'ome poet aler au mure,
+                   Et puis dreceray mes berfrois od force et od baudur
+           920  Ke .c. de vos barons i poet aler au tour;
+                   Et d'altre part i vendront vos nefs tote ensur,
+                   Si dresceray les bateles a la mast major
+                   Qe vo gentz i porent les fossés aler sure;
+                   Et donkes ces de Rome conquerez a vigor.'
+           925  Labam li ad baisé: 'Mahon te dointe honor![f.15r]
+                   Si jeo puis vivre, te fraie riche de tresor
+                   Et tote ti nacioun aprés le toen jour!'
+                   L'engineor s'en torne par mult grant baldour,
+                   Ses hommes en apele, si lour dist par duzur:
+           930  'Demaine, par matyn, quant parsonne le jour,
+                   Apparailez .m. charetes ove destrés de sojour,
+                   Si irromes au bois sanz delai ne demur,
+                   Si chargeroms nos charetes, si seroms tot enseur,
+                   S'empleroms les fossés de Rome tuit entour
+           935  Ove reimes et ove trounkes k'om i poet aler au mure.'
+                   'Sire,' feseint si home, 'ore i seit a bone hure!'
+                   Tote la nuit reposent, jusq'aclarist le jour;
+                   Maintenant sunt les charetes aparailé sanz sojor,
+                   Au bois repairerent, si feseint lour labour,
+           940  Les cheines abatent et sei chargent sanz delaiour.XVIII
+                   Ore est l'engineor Mabon au bois alee,
+                   Les charetes ove grantz trounkes ont mult bien chargé,
+                   Puis ad il errallement ses charpenters ordeyné
+                   De parfer les berfrois ove haches asceré.
+           945  Et il fesoint hastivement sanz nule demoree,
+                   Puis chacent lour charetes vers Rome la citee,
+                   S'emplierent les fossés de l'admirable citee;
+                   Puis enhaucierent lour berfrois, si l'ont bien fiché
+                   Qe .c. chivalers armez i poet aler au fossee.
+           950  Adonke veissés grant doel dedenz la citee:[f.15v]
+                   Kuant virent les fossés tote entour paremplé
+                   K'om poeit bien au mure et venir et aler,
+                   Les nonails et les femmes comencent lour deies tirer;
+                   Tantost errallement sei feseint armer
+           955  Et sur le moure alierent por combatre aprestee.
+                   'Ha! Deux,' dist Savaris, 'par le soen pitié,
+                   Nous doint grace et power de tenir la cité!'
+                   Seint Pier entr'els est haltement reclamee.
+
+                   Labam l'empereour ad haltement escriee:
+           960  'Seignurs, ore en pensez d'asailer la citee!
+                   Qi bien huy se contint tote jour avera m'amitee!'
+                   'Sir,' feseint si homme, 'a vostre voluntee!'
+                   Fierabras sone .i. corn, Sarrazins sunt tost adobbee
+                   Et sei rangierent belement au mur et au fossé;
+           965  Si archent ove lour arks par grant randoné,
+                   Les setes feseint voler espessement en le citee,
+                   Et ces dedenz ove grant peres feseint grant lapidé:
+                   Maintz d'ampartz sunt occie et dismembree.
+                   Les nefs de par la mere sunt arivé au fosssé,
+           970  Et lour bateus au chefs du mast tote contremont fichee:
+                   Laenz furent Sarrazins, qe Dieu dointe mal dehee,
+                   Et sei combatent ove nos barons mayn a mayn sur le fossé.
+                   Adonke oissés grant bruyt dedenz la citee,
+                   Mais nekedent il sei difendent com vassals esprové:
+           975  Maint grant pere de la mure ont contreval ruee
+                   Et Sarrazins ove grant pikois les peres ont quartelee.[f.16r]
+                   L'asalt dureit cele jour jusqe a l'anutee;
+                   Quant virent la nuyt obscure, l'asalt ont lessé:
+                   Les Sarrazins sei retreihent, si sont as herberges alee,
+           980  Et cels de Rome gaitierent tote la nuit le fossé.
+                   L'admirails Balans s'est grandement irree
+                   Qe les mures de la cité ne sunt a terre tresbuché;
+                   Grandement blasma ses hommes, mult s'en est forsenee:
+                   'Sir,' ceo dist Lucafer, 's'il moy soit grauntee,
+           985  Jeo vous dirrai un conseile qe vous vendra a gree.'
+                   Luy traitre Lucafer ad un treson porpensee,
+                   Qe il sei contrefetra les armes de la citee,
+                   Et tote son pensé s'est a Labam monstree:
+                   'Sir admirail d'Espaigne,' dist Lucafer li diffaié,
+           990  'La cité est mult fort et de bone gentz reemplee;
+                   Il defenderont la moure, bone piece n'averoms l'entré
+                   Mais par une voidie noun qe j'ai purpensé:
+                   Il i ad dedenz un conte de mult grant crualtee –
+                   Savaris ad a non, mult est de grant parentee –
+           995  Chescon jour i s'en iist as armes, s'est ove nous mellé,
+                   Mainte teste en ad coupé de vos gentz disfaié.
+                   Jeo ai bien ses armes conu et avisee
+                   Et trestotz ses compaignons solom sa difficulté:
+                   Jeo m'en irai annuit, au solail esconsee,
+         1000  Ove .x.m. Sarrazins, le meulz de mon regnee,
+                   A cest bois suz cest puye, prés de la citee;
+                   Et quant nus sumus totz logié et herbergé,
+                   Si changeroms nos armes de nos escuz bouclé,
+                   Si vesteroms les armes contrefait cels de la citee.
+
+         1005  Et quant Savaris est issuz et ove vo gentz mellé,
+                   Moi et mes compaignons chivalcheroms vers la citee:
+                   Quant cels dedenz nus verront, jeo sai de veritee,
+                   La port nus overont, s'averoms l'entree,
+                   Kar nos armes serront semblables a Savaris lor awoué;
+         1010  Et kuant nous la dedentz averoms l'entree,
+                   Tantost le mestre port serra mult bien fermé:
+                   Adonke ove nos bones brandes feroms grant meslee,
+                   Totes qe seunt atteint averont les chefs coupee.'
+                   'Certes, sir Lucafer, vous avez bien parlee:
+         1015  Unkes en mon vivant n'oi conseil si bien devisé,
+                   Et vous pri et comande que cest ovre sei parforné!'
+                   'Sir,' dist li Sarrazins, 'ja ne serra desvee!'
+                   Tantost com la nuyt en fu aprochié,
+                   Lucafer ove .x.m. homes al brulet se sunt hastee;
+         1020  La ont lour armes purtrait od la lune claretee.
+                   Quant il furent aparailé, si sont tost adoubé:
+                   Tote la nuyt reposerent jusca a la matinee.
+                   L'endemayn par son l'albe, le solail esclaree,
+                   Savaris sonne .i. corne en la tour batellee.
+         1025  Savaris et si compaignons furent mult tost adoubbé:[f.16v]
+                   'Ore as armes, seignors, franke gent honoree!
+                   Seignurs, ore de bien faire seit chescone purpensee!
+                   Pensés de vo terres et de vos heritee,
+                   Des vos femmes, de vos enfanz qe sont de jofne aee!'
+         1030  'Sire,' feseint luy princes, 'a vostre comaundee!'
+                   A ceste parole si sunt il totz aprestee,
+                   Errallement s'en iissent de l'admirable citee;
+                   La port de la vile est aprés els bien barree.
+                   Savaris fu devant, s'out le gonfanon portee,
+         1035  Fierement esporonent devers le gent disfaiee;
+                   Mainte lance i fu effraint et maynte targe parcié,
+                   Maint poigne et membre i est le jour detrenché:
+                   Del sanke qe d'els court est le champe sanglenté.
+                   Quant Savaris en fu plus entre Sarrazins mellee,
+         1040  Lucafer en issye hastivement del brulet rasmee,
+                   Et tote si altre compaignons mult sei sunt hastee,
+                   Devers la cité de Rome ont fieremant esporoné.
+                   Quant Lucafer s'en vint au port, si demanda l'entree:
+                   'Totz sumus descomfis ove le gent disfaiee!'
+         1045  Quant li provost les vist, s'out la port desbarree,
+                   Les Sarrazins lesseit entrer – allas! qel destinee! –
+                   Kar luy provost quidoit q'estoit Savaris lour avowee.
+                   Quant il ourent l'entré, mult tost sunt il escriee:
+                   'Barons, ore de fier bien, seit nully ransonee!'
+         1050  Li provost en ad Lucafer mult tost descoupee,
+[f.17r]
+                   A toutz cels q'il atteignent feseint les chefs voler:
+                   Le sanke des naverés en court par la citee.
+                   La porte en vont fermere sanz nule demoré:
+                   Bien sei aveignent qe ussoient l'entree.
+         1055  A la porte del secunde baile sunt plusurs hastee:
+                   La sei diffendent Romeignes, la port ont bien barree;
+                   Mais tote la primer baile fu des Sarrazins poeplee,
+                   Si abatent les garrettes tote contreval luy fossee.
+                   Quant Savaris out bien ove Sarrazins couplee,
+         1060  Vers la cité de Rome s'en est mult tost hasté,
+                   Et tote si altre compaignons aprés luy aroutee:
+                   Mult furent de lour gentz icest jour desmembré,
+                   De .v.m. ne rememdreit qe .iii.c. sanz falseté.
+                   Savaris poynt le destrer, s'est grandement hastee
+         1065  Tote dreit jusq'a la port, si quidoit aver l'entree.
+                   La port comanda overer, mais il le fust desvee,
+                   Kar luy Sarrazins fu dedentz, qe Dieu doint mal dehee,
+                   Qe ont la port bien clos ove gojons asceree.
+                   'Allas!' dist Savaris, 'tote sumus detraihee.
+         1070  La vile est seisie ove Sarrazins disfaiee!
+                   Chescoun de vous sei confes, ne seit peché celee,
+                   Puis retorneromes arer, kar pres sumus finee;
+                   Chescone feer son enemye ove le brand asceré,
+                   Tant que pooms durer n'i seoms arestee![f.17v]
+         1075  Jhesu receivera nos almes, li Roys de magestee.'
+                   Adonke demeignent grant doel tote luy barnee,
+                   Chescone bate son petrine, s'ont merchie clamee:
+                   'Dieu eit mercie de nos almes, k'en croice fu penee!'
+                   Adunk sei sunt hastivement contre Sarrazins esporoné:
+         1080  Savaris et si compaignons furent si esprovee
+                   K'en poi de hure ont des Sarrazins .v.c. descoupé.
+                   Au part du fyn en fu tote les contes detrenché
+                   Et Garins ly bone beer, qe fu en France nee,
+                   Salf ly conte Savaris; tote soul fu resmee:
+         1085  Son bone destrer luy fu desuz luy detrenchiee,
+                   Mais nequedent as Sarrazins ad maint ruste coupe donee.
+                   Kant il veit q'il fu pres de sa mort finee,
+                   Vers la porte de Rome s'est grandement hastee,
+                   Kar uncore il quidoit iloec aver l'entree.
+         1090  Estragot ly pursuye, un geant diffaiee:
+                   Bien avoit iii.m. hommes mordris et devoree,
+                   Teste avoit cum sengler, si fu rois coronee;
+                   En sa mayne tient .i. mace de fine ascer tempree,
+                   Un coupe en ad Savaris sur le chefs donee
+         1095  Ke la cerveile ly est tote contreval coulee.
+                   Savaris esteynt ses maines, en croice l'out metté
+
+                   Sur sun peitrine amont, sa vie est finee:
+                   Gabriel receut s'alme, en gloire l'ad portee.[f.18r]
+                   Kant les burgeis de la vile ont ceo du tour esgardee,
+         1100  Grant doel en demenerent de par tote la citee;
+                   La novele en ont a l'apostoille countee
+                   Com Savaris et si compaignons en sunt toutz descoupee,
+                   Et come Sarrazins ont la primer baile seisee.
+                   Adonke en ad l'apostoille de pitié ploree:
+         1105  'Savaris, Dieu eit merchie de t'alme, q'en croice fu penee!'
+                   'Allas!' dist l'apostoille, 'mar fust il desvee
+                   Qe soccors en mandas au roy de Seint Dynee;
+                   Mais Savaris ne l'otreye, chere serra comparee,
+                   Kar la cité serra destruyt et Saynt Pier vyolee!'
+         1110  'Sire,' feseit .i. chivaler qe fu de sa parentee,
+                   'Gardés que desormés seit cele ouvre parfournyé!
+                   Comandez qe les brefs seient escriz et seelee
+                   Et qe hastivement seient au roy Charls mandee;
+                   Si le mandés, pur Dieu, et soccors et ayee,
+         1115  Et si ceo ne fetes, tote Rome est perié!
+                   Si luy mandés qe l'admirail i est od ost banié:
+                   Totes ses terres destruera, ja n'avera garantié!'
+                   'Et jeo le grant!' dist l'apostoile. 'Ore seient escriz et seelié,
+                   Tost et isnelement seit cest ouvre parfornyee!'
+         1120  'Sire,' feseit un clerke, 'a vostre comandé!'
+                   Kuant les brefs furent escriz, si furent enseelee:[f.18v]
+                   'Sire Jeffroi,' dist l'apostoille, 'vous en message irrés,
+                   Et ove vous .ii. chivalers qe ont les langages cernés;
+                   Si porterés mes breefs au roy de Saynt Dynés,
+         1125  Se luy mandés s'ahie ove ses riche barnés:
+                   Et si ceo ne face, tote serroms destruyt et gastés,
+                   Et Seynt Pier l'apostle et autiers violés,
+                   Et parderoms la corone Jhesu de magestés
+                   Et les altres reliqes dunt il i a assés.
+         1130  Gardés qe vo message seit bien parfournés!'
+                   'Sir,' feseint il, 'si con vous comandés!'
+                   Kuant il vint al nutier, et li soleil esconsees,
+                   Tote troi coiemant de la cité sunt hastees:
+                   N'i ont palefrei ne destrere oveke els amenés,
+         1135  Qar mult douterent l'ost del gent diffaiés.
+                   Tote la nuit au pié alerent ove la lune esclarés:
+                   Tant ont il lour chymyn erré et hastés
+                   Q'il sunt venu a .i. chastele que fu bien assis –
+                   Le chasteel si tenoit Geffrai del duk Savaris –.
+         1140  Iloec pristrent herberge, si sont bien reposés.
+                   L'endemain par son l'albe, quant il fu ajornés,
+                   En sunt .iii. destrers mult tost aprestés,
+
+                   Et luy messangers montent, si sont encheminés:
+                   Dieu les salf et garde, par le soen bountés!
+         1145  Tant ont il lour jornés chivalchés et errees
+                   Q'il sont venuz a Paris, le roy en ont trouvés;
+                   Hastivement discendent, s'ont lour message countés:
+                   'Icel Sir de gloire, qe halt est en Trinitees[f.19r]
+                   Vous salfe et garde, sire Charls, et tote ti barnees!
+         1150  L'apostoile de Rome et tote le comunaltees
+                   Vous mandent saluz et prient qe d'els eiees pitees,
+                   Kar l'admirails d'Espaigne i est ove oste baignés,
+                   La bone cité de Rome. entour ad assegees:
+                   Bien i ad .xxx. rois et .xiiii. admirés,
+         1155  Et plus de .ii.c. mil Sarrazins ove les helmes bournees.
+                   La barnage de la citee ont ledement diffigurés,
+                   N'i lesserent a garir evesqe ne abbés;
+                   Les nonails et les moignes ont ledement menés
+                   Et le pais entour Rome ont ars et gastees,
+         1160  A totes les pucels de la contré ont fait les chefs volers:
+                   Si vous ne les socurés, totz sunt a mort liverés
+                   Et le muster de Seynt Pier abatu et violees;
+                   Si prendront la corone Jhesu de magestés
+                   Et les altres reliqes dunt il i a assés;
+         1165  Puis vendront en vostre terre od lour ost baignés,
+                   Tote vous destruera, ja n'i serra raunson donees.'
+                   Quant la roy oit la novele, mult s'en est forsenees;
+                   Adonke luy baillent lour brefs, si sont tost overees,
+                   L'emperur les doint a lire un soen clerk privees:
+         1170  'L'apostoile de Rome et tote luy comunaltee
+                   Au bone roy de France honurs et amistee!
+                   Saluz mandent a roi Charls et a tote si barnee,
+                   Et luy prient, pur Dieu, et soccors et aiee,[f.19v]
+                   Kar l'admirails Balans i est ove ost arivee,
+         1175  Grandement sei peine destruir saint cristientee.
+                   Si vous ne nous soccurés, tutz sumus exillee,
+                   Et pur ceo, sire, nous vous priomes: de nous prengnez pitié!'
+                   Quant li rois l'entent, forement s'est espountee,
+                   Gyon de Burgoyn ad a luy apellee: –
+         1180  Fitz est de sa soer et de sa parentee –
+                   'Cosins, vous en irrés pur socurer la citee,
+                   Ove vous .l. mil chivalers de mes gentz meuz armee:
+                   Gardés qe hastivement seés enchiminee!
+                   Et jeo resemblerai ma ost de par tote mun regnee,
+         1185  Si vous vendrai socorere einz un meis passee.'
+                   'Sire,' fesoit sire Gy, 'a vostre comandee!'
+                   Maiz einz q'il furent du Paris un jornee alee,
+                   En fu Rome destruit et a terre craventee,
+
+                   Kar un traitre de la cité qe del port avoit li clee,
+         1190  Pur grant dout q'il avoit q'il perdra le chefs,
+                   Anuyt coiement issuz est de la citees,
+                   Juk'au tent Labam s'ad son chemyn tournés;
+                   Si com vous m'orrés, l'en ad aresonees:
+                   'Sire admirals Balans, eés de moi pitees!
+         1195  Jeo su un chivaler de Rome, l'admirable citees,
+                   A vous mei vienke rendre sanz poynt de falsetés;
+                   Jeo su porter de la vile, de l'admirable citees:
+                   L'entré vous grant, si moi seit otraiés;
+                   Mais un doun vous demande: qe ma vie moi seit otraiés
+         1200  Et que moi fetes riches d'avoir et de fees.'[f.20r]
+                   'Par Mahon,' dist Laban, 'bien le voil grantier:
+                   Chastels et citez tei dorai et ceo qe te vient a gree!'
+                   A ceste parole ly ad Tabour sa fei plevee
+                   Q'il tendra covenant a ceo q'il ad grauntee.
+         1205  Et dist Laban d'Espaigne: 'Jeo le grant par ma lealtee,
+                   A ceste nuit voil qe cest overe en seit parfournee!'
+                   A cest paroile ad luy traitres pris son congee,
+                   Erralement s'est torné vers l'admirable citee;
+                   Coiement s'en vois coucher, s'est bien reposee.
+         1210  Quant Fierenbras en oye le trenson qe fu purparlee,
+                   Mahon et Appolyn en ad fierement juree
+                   Qe ly porter serra le primer k'avera le chefs coupee.
+                   A ceste mote lessierent jusq'a le matinee;
+                   Tote le jour aprés ont Sarrazins grant joi demenee,
+         1215  Si sei reipoisent a leisere, ne volent asalt doner.
+                   Encontre nuyt, quant li soleil comensa a resconser,
+                   Comanda Fierenbras qe si gent sei feseint armer:
+                   Dunc oissés Sarrazins corns et busines corner,
+                   Errallement sei arment bacheler et soudeer,
+         1220  De lur herberges s'en iissent, n'i volent plus demorer.
+                   Fierenbraz fu en l'avantgard armez sur sun destrer,
+                   Et Lucafer et Brullant, Sortibrans de Combrer,
+                   Et Clamaton et Mordas furent en l'escheel derer;
+                   Seriement chivalchent ove la lune serree
+         1225  Tant q'il vindrent a la porte de Rome la citee.
+                   Quant il i furent venu, Fierenbras est avant chivalché
+                   Et fu mult bien armé sur l'aferant pomelee:
+                   N'esteit si fort rois desi q'en Durestee;
+                   Il fu fier de semblant, s'avoit la barbe longe et lee,
+         1230  En son escu avoit .iiii. lions panturee,
+                   Et si ad coilie la lance, fierement s'est esporonee.
+                   Li traitre les aparceut, bien s'est malement porpensee;
+                   Il s'en hastie devers la porte, sil l'ad tost debarree,
+                   Les Sarrazins en lessa entrere – allas! ke unc fu pensee! –
+
+         1235  Fierenbras i entrie primes, s'out trait l'espé fourbee,
+                   Le chiefs al traitre trencha, aitant est outrepassee.XIX
+                  Fierenbras d'Alisandre en est en la citee entree,
+                   A sa voice q'il en out cler 'trahie!' ad escriee,
+                   Et od luy entreit Lucafer, un fort rois coroné,
+         1240  Et Brullant et Sortibrant, Embruns et Tempestee,
+                   Et totes ly altre Sarrazin, qe Deu doynt mal dehee!
+                   Le chefs au porter de la cité ad Fierenbras detrenché,
+                   Puis od sa lance trenchant le cors en ad boutee:
+                   'Mahon,' fist il, 'te maldie et cil que t'out gendree,
+         1245  Kar traitres au darayn averont mal destinee!'[f.20v]
+                   Aitant s'est outrepassé et en la cité galopee,
+                   Et tote ses compaignons, les freines abaundonee.
+                   Adunk comanda Fierenbras qe tutz seient detrenchee,
+                   Femmes et enfanz, moigne et abbee,
+         1250  Et prestres et nenals, ne seit un ransonnee:
+                   La lei as cristiens huy serra abeissee.
+                   'Sir,' feseint si home, 'a vostre comandee!'
+                   Adunke i fu la cris mult grant en la citee,
+                   A touz cels q'il atteignent en ont li chefs coupee:
+         1255  Del sanc qe des corps en ist est la rue sanglentee,
+                   Tote contreval le pendant court come une rossés de gwé;
+                   Des mortz et de nafrés est les rues replenee.
+                   L'apostoille memes al grant muster est alee
+                   Et tote la clergie de l'admirable citee.
+         1260  Fierenbras s'en est al mouster Seint Pier alee,
+                   Od luy Lucafer et si riche barnee:
+                   En un poi de houre en fu le mouster des Sarrazins poeplé.
+                   Fierenbras dejuste l'auter ad l'apostoile trovee,
+                   La teste tost luy coupa ove le brand asceree,
+         1265  Et Jhesu receut s'alme, le Roi de magesté.
+                   Fierenbras passe avant, s'out dejuste li esgardee,
+                   Et veit .i. veile chanon a la terre enclinee –
+                   Bien avoit .ii.c. anz puis l'our q'il fu nee –.
+                   Fierenbras l'en apelle, sil l'ad areisonee:[f.21r]
+         1270  Ore sus, danz veillard, si me die par ta lealtee
+                   Ou sunt les reliqes Jhesu de magestee,
+                   La corone et les clowes dunt il fu en croice clouee,
+                   Et le digne suaire dunt il fu envolupee,
+                   Et le croice verray dunt sun corps fu penee?
+         1275  Jeo te pri et comande: me di la veritee!'
+                   'Sire,' fesoit luy chanons, 'a vostre comandee!'
+                   Maintenant en treit un escrine tote a or esmerree,
+
+                   Ignelement et tost l'en ad il differmee;
+                   Puis en meta la mayne, s'ad la corone portee
+         1280  Et enaprés les cloues et le singne honoree,
+                   Et puis le digne suarie dunt Jhesu en fu volupee.
+                   'Par Mahon,' dist Fierenbras, 'ore ai jeo bien erree,
+                   Quant j'ai conquis la corone dunt Deux fu coronee
+                   Et les altres reliqes dunt il i ad a plentee!'
+         1285  Aitant s'en ad Fierenbras sa maine en l'escrine boutee,
+                   S'en trouva .ii. boistes ove fyn or esmerree;
+                   Fierenbras les overie, mult est bien purpensee.
+                   Le chanon apella, sil l'ad aresonee:
+                   'Diva! danz feitour, si t'aid ly toen Dee!
+         1290  Qe est en cestes boistes? Ne moi seit le veir celee!'
+                   'Sir,' feseit luy chanone, 'jeo vous dirrai verritee:
+                   Ces boistes sunt playne de basme dunt Dex en fu basmé
+                   Et ses plaies enointz, quant du croice fu ostee;
+                   Plaie qe en i est enoynt, jamais n'i poet rancler:
+         1295  Maintenant serra saines, ja n'estoet douter.'[f.21v]
+                   'Mahon,' dist Fierenbras, 'il te poet salver!
+                   Jeo ne les dorrei my pur .v. valleis plaine d'or cler!'
+                   Les reliqes en coillie, ove sei les fist porter,
+                   Et les boistes a sa seal mult ferme s'en fist trosser;
+         1300  Puis en coupa la teste au veillard tresorer.
+                   Sarrazins robbierent l'eglise et ont autiers violer,
+                   Si brusent les ymages, et les crocifis abater.
+                   Quant il urent ceo fait, Fierenbras les comanda a voider,
+                   La fu i mettent maintenant de par tote ly corner.
+         1305  Adunke s'en monta Fierenbras sur l'alferant destrer
+                   Et Lucafer et ly altre, qe Deux doynt mal encombrer!
+                   Puys robberent la cité, s'ont pris tote l'aver:
+                   A! Dex, come grant richesces i feseint le jour charger
+                   De coupes et de hanapes d'argent et d'or cler,
+         1310  Et riches samites et pailes et cendals d'outre meer!
+                   Quant il ourent toutz occis q'il purreint trouver,
+                   La fu i mettent maintenant, si le funt tenceler,
+                   Puis abatent les mures del cité principer;
+                   Si trossirent lour tentes, n'i voleint plus demorer.XX
+         1315 Firenbras d'Alisandre ad la cité de Rome seisié,
+                   La corone et les reliqes ad ove ly amenee;
+                   Touz cels q'il atteigneit usent ly chefs coupee,
+                   Puis s'en mette la fu, tote Rome est alumee.
+                   Quant il out ceo fait, d'iloec s'en est tournee,
+         1320  Hastivement a son pere Laban s'en est il alee,
+
+                   Les reliqes q'il robbeit li ad presentee –
+                   Adunc demeigne grant joi l'almiraille diffayee! –
+                   Mais les boistes ove le basme s'en ad ove ly portee.
+                   Li soldan fist les reliqes en son coffre fermer.
+         1325  'Sire pere,' fait Fierenbras, 'ore vous voile consailler:
+                   De ceo qe vous desirastes tant, avés vostre pleiser:
+                   Conquis avés les reliqes et le citee principer,
+                   Tutz i sont occis, n'i est un sul vifs resmee.
+                   Alez vous en vostre terre en Espaigne, kar j'ai doute de l'avenger!'
+         1330  'Par Mahon,' dist Laban, 'bien le voil graunter!
+                   Comandez tost ma navye sanz delai aprester,
+                   Kar au primer vent qe i surde de si me voil sigler.'
+                   Adunc oisés les Sarrazins grant joy demener,
+                   Si en coillent lour tentes, si font en les nefs porter,
+         1335  Et si chargent lour navy ove lour armes lusant cler
+                   Et de payn et de vyn, d'avayne et de blee;
+                   Puis i mettent lur destrers et cursers sojornee.
+                   Kuant lour vent fu bone, com dient li notoner,
+                   Laban memes s'en entre en sa galeie batellee
+         1340  Et ove li Fierenbras et Floripas l'ascemee[f.22r]
+                   Et tote ly altre Sarrazin, qe Deux doynt mal dehee!
+                   Quant il furent toutz entré, les voiles en sunt drescee:
+                   Tant nagent nuyt et jour a la lune serree
+                   Q'il sunt venuz en Espaigne, si ont lour voiles avalee.
+         1345  Laban est issu de sa galai et tote si gent diffaié
+                   Et Fierenbras et sa soer ove la corps cemee;
+                   Lur hernais et lour armes ont a terre jettee,
+                   Puis hors treent lour destrers et palefreies sojornee,
+                   Si alerent toutz en terre, s'ont lour vasals dechargee.
+         1350  Tant en ad li soldan chivalché et erree
+                   Q'il est venu en Espaigne, a Morimonde sa citee:
+                   Iloec en prist sojorne et ses rois disfaié.XXI
+                  Ore est Laban en son pais alee
+                   Et totes si altre princes, que Deu doint mal dehee!
+         1355  Ore dirons des messangers de Rome la citee:
+                   Tant ad Guyon de Burgoyn chivalché et erree
+                   Ove .l.m. chivalers de France la loee.
+                   [. . .]
+                   Le baner au roi de France en ad Guyon portee;
+                   Un nuyt s'en herbergerent sur l'erbe vert ou pree,
+         1360  Lur testes sur lour escuz si furent acutee:
+                   Li ounes en unt dormie et li altre veilee,
+                   Les destrers lessent pestre sur l'erbe vert ou pree.
+
+                   Les reliqes q'il robbeit li ad presentee –
+                   Adunc demeigne grant joi l'almiraille diffayee! –
+                   Mais les boistes ove le basme s'en ad ove ly portee.
+                   Li soldan fist les reliqes en son coffre fermer.
+         1325  'Sire pere,' fait Fierenbras, 'ore vous voile consailler:
+                   De ceo qe vous desirastes tant, avés vostre pleiser:
+                   Conquis avés les reliqes et le citee principer,
+                   Tutz i sont occis, n'i est un sul vifs resmee.
+                   Alez vous en vostre terre en Espaigne, kar j'ai doute de l'avenger!'
+         1330  'Par Mahon,' dist Laban, 'bien le voil graunter!
+                   Comandez tost ma navye sanz delai aprester,
+                   Kar au primer vent qe i surde de si me voil sigler.'
+                   Adunc oisés les Sarrazins grant joy demener,
+                   Si en coillent lour tentes, si font en les nefs porter,
+         1335  Et si chargent lour navy ove lour armes lusant cler
+                   Et de payn et de vyn, d'avayne et de blee;
+                   Puis i mettent lur destrers et cursers sojornee.
+                   Kuant lour vent fu bone, com dient li notoner,
+                   Laban memes s'en entre en sa galeie batellee
+         1340  Et ove li Fierenbras et Floripas l'ascemee[f.22r]
+                   Et tote ly altre Sarrazin, qe Deux doynt mal dehee!
+                   Quant il furent toutz entré, les voiles en sunt drescee:
+                   Tant nagent nuyt et jour a la lune serree
+                   Q'il sunt venuz en Espaigne, si ont lour voiles avalee.
+         1345  Laban est issu de sa galai et tote si gent diffaié
+                   Et Fierenbras et sa soer ove la corps cemee;
+                   Lur hernais et lour armes ont a terre jettee,
+                   Puis hors treent lour destrers et palefreies sojornee,
+                   Si alerent toutz en terre, s'ont lour vasals dechargee.
+         1350  Tant en ad li soldan chivalché et erree
+                   Q'il est venu en Espaigne, a Morimonde sa citee:
+                   Iloec en prist sojorne et ses rois disfaié.XXI
+                  Ore est Laban en son pais alee
+                   Et totes si altre princes, que Deu doint mal dehee!
+         1355  Ore dirons des messangers de Rome la citee:
+                   Tant ad Guyon de Burgoyn chivalché et erree
+                   Ove .l.m. chivalers de France la loee.
+                   [. . .]
+                   Le baner au roi de France en ad Guyon portee;
+                   Un nuyt s'en herbergerent sur l'erbe vert ou pree,
+         1360  Lur testes sur lour escuz si furent acutee:
+                   Li ounes en unt dormie et li altre veilee,
+                   Les destrers lessent pestre sur l'erbe vert ou pree.
+
+                   Kuant li jour apparust cler et l'alow out chauntee,
+                   Chescon seise son destrer, si sont mult tost montee,[f.22v]
+         1365  Vers la cité de Rome sei sunt mult tost hastee.
+                   Quant il furent de Rome une bone jornee,
+                   Sire Geffroi luy messanger s'est avant chivalché,
+                   Qar il savoit le pais et conust le regnee.
+                   Geffroi garde vers Rome un grant jornee
+         1370  Et veit qe la cité en fu tuyt alumé;
+                   Adunke demeneit grant doel, maldist l'our q'il fu nee:
+                   'Sire,' fist il a sire Gy, 'vees vous ceo que jeo vié:
+                   Rome est pris et destruyt; veés la grant fumee!
+                   Jeo sai bien qe les reliqes si sont d'iloec enportee:
+         1375  Allas! qe en fromes? Trope avomes attargee!'
+                   'Sire,' fesoit Gy de Burgoyne, 'vos parols ne me vient a gree!'
+                   A cest parol sunt il fierement hastee.
+                   Kuant il vindrent a Rome, si virent luy port overee
+                   Et la flambe en la cité mult grandement alumee:
+         1380  Pur grant chalure qe i fu, n'i purrent aver l'entree.
+                   Lour paveilons fichierent tote contreval ly pree,
+                   Iloke pristrent herberge .viii. jours sanz falsetee.
+                   Ore lerrai ici, si moi seit grauntee,
+                   Si vous dirrai del roi Chars, ly fort sir coroné.
+         1385  De par tote ses terres avoit si gent mandee:
+                   N'i remist conte ne baron el regnee
+                   Qil ne seunt assemblé a Paris, l'admirable citee.
+                   Quant il i furent tout venu et ajustee,
+                   L'emperer de France en halt en ad parlee:
+         1390  'Seignurs, ore escoutez, si vous dirrai veritee:[f.23r]
+                   Ly soldan d'Espaigne a no terre seisee,
+                   Et od luy .c.m. Sarrazins de la gent diffaiee;
+                   Il ont ensegié Rome, m'admirable citee,
+                   Tote le pais entour unt il pur voir robbee:
+         1395  Si jeo ne les soccure, tote ma terre serra gastee.'
+                   'Sir,' feseint ly princes, 'a vostre volunté!
+                   Nous ne vous falterome poynt tant que pooms durer.'
+                   Adunke s'en ad ly roi Charls grant joi demené,
+                   Quant si gent en furent prest a complir sa voluntee.
+         1400  Adunke s'en est ly rois mult tost aprestee
+                   Et s'i furent totes les contes de France la loee.
+                   Quant il furent apparaillé, si furent encheminé:
+                   .Iii.c. mil chivalers ad ly rois en sa compaigniee.
+                   Oliver porte sa barner, qe bien l'en ad gwié,
+         1405  Et Rollant fu en l'arergard, li vassals adouree.
+                   De Gyon soccurer s'en est ly rois hastee:
+                   Tant ont il nuyt et jour chivalché et erree
+                   Q'il sont venu en Romenie; n'i out reine atiree.
+
+                   Gyon aparceut le baner ly roy de Saynt Dynee,
+         1410  Encontre luy chivalcha, si l'out les noveles countee
+                   Come la fort cité de Rome en fu pris et gastee
+                   Et come la corone Jhesu d'iloec s'en est robbé
+                   Et les altres reliqes dunt il out le queor irree:
+                   Par le roi Fierenbras fu la citee prahee,
+         1415  Et q'il sont torné en Espaigne ove lour navye siglee.
+                   Adunc s'en ad li roi de France grant doel demenee;
+                   Maintenant comanda qe la navy en fu apparailé:
+                   Il en jora sa corone et sa barbe fressee
+                   Qe jamés ne retornera si n'ait Rome vengé.
+         1420  Maintenant en furent la navye aprestee,
+                   Et luy bon roi de France s'en est en sa galaie entree[f.23v]
+                   Et Rollant et Oliver od le corage adouree,
+                   Et Reyner de Genvres et Names ly senee,
+                   Et Gyon de Burgoyn et ly altre barnee.
+         1425  Le vent en fiert es voilles qe les ad bien gwiee:
+                   Tant ont il nuyt et jour et nagé et siglee
+                   Parmy la mere altisme k'il sunt en Espaigne entree.
+                   Lur voiles avalerent, si sunt mult bien aancree,
+                   Lur herneis hors gettierent et lour armurs fressee;
+         1430  Puis gettent hors leur pontez, s'ont lur destrers hors mené.
+                   Errallement et tost est Charls de sa neefs issee
+                   Et tote ly altre barnage qe Dieu ad benee;
+                   Puis montent lour chivals, si sunt tost enchiminee.
+                   Tant ad li roy de France chivalché et erree
+         1435  Q'en vals suz Morimonde ad fait tendre ses tree.
+                   Les novels en vindrent tost al soldan disfaiee
+                   Qe ly roy de France est en sa terre entree
+                   Et qe il chalenge sa terre et tote si heritee.
+                   Quant Laban oist les noveles, mult s'en est forsenee,
+         1440  Fierenbras son fitz s'en ad a ly apellee,
+                   Si com vous m'orrés l'en ad aresonee:
+                   'L'emperer de France est en ma terre entree,
+                   .Iii.c. mil François ad od luy amenee;
+                   Il est venu por venger Rome, l'admirable citee,
+         1445  Et si quide reconquester les reliques Jhesu de majestee.
+                   Jeo vous pri et comande qe toutz seient detrenché
+                   Et que moi portés la teste au Charls resottee!'
+                   'Sir,' feseit Fierenbras, 'a vostre comandee!'[f.24r]
+                   Endementirs qe Fierenbras se fist apparailer,
+         1450  En comanda li roi de France qe si gent sei feseint armer
+                   Pur assailer la cité de Morimonde sanz nul delaier.
+                   'Volunters!' fesit sir Rollant et le conte Oliver,
+                   'Huy vous rendromes la citee einz l'our du vesprer.'
+                   Aitant sei armierent Rollant et Oliver
+
+         1455  Et Gyon de Burgoyne et li Danois Ogier,
+                   Si furent en lour compaignye .l.m. chivaler:
+                   Vers la cité hasterent armez sur lour destrer.
+                   Quant Fierenbras les vist vers la cité haster,
+                   Errallement et tost sei comensa a crier:
+         1460  'Ore as armes, seignurs, noble chivaler!
+                   Jeo vey les François venir pur nous asseger.'
+                   'Sir,' feseint si home, 'prest sumus pur combater!'
+                   Aitant s'en est Fierenbras du cité chivalché,
+                   Od luy .c.m. Sarrazins de la loi payenee,
+         1465  Et nos barons encontre els, les freines abandoné.
+                   Oliver fu en l'avantgard, li vassals adouree,
+                   Le baner le roi de France ad sur sa lance fermee;
+                   Il en broche le destrer par ambedeus luy coustee,
+                   Fierenbras d'Alisandre li ad tost encontree:
+         1470  Grantz coups en donerent sur les escuz buclee
+                   Qe par vertu des coupes en sunt lour lances froee.
+                   Le lance Fierenbras ad Oliver si hourtee
+                   Qe par desuz ly mamele ly ad durement naveré,
+                   Mais ceo fu grant merveille q'il ne fu trebuché.[f.24v]
+         1475  Li rois passe avant, s'ad son destrer galopee:
+                   Rollant, ly nece Karlemaine, li ad entraversee,
+                   Grant coupe li voit doner sur l'escu bouclee,
+                   En .iii. pieces en ad sa fort launce trounsoné.
+                   Adunke i est venuz Sortibrant de Combree,
+         1480  Od luy .xl.m. Sarrazins, Parsans et Esclee:
+                   Dunc comencea l'estour du tute a renoveler;
+                   Des mortz et des naferés en est le champe junchee.
+                   Oliver et Rollant furent si esprovee
+                   K'en une petite houre en ont quarante Sarrazins descoupee;
+         1485  Mais au parte du fyn lour fust mal econtré:
+                   Si come il dussent repairer a l'issue d'un gwee,
+                   Li encontrent .v.m. Sarrazins de la loi mescree,
+                   Qe fierement ove brancs trenchans les ont bien revisee
+                   Qe petit ne fallist q'il ne fusent descomfiee.
+         1490  Mais le barnage de France les ont bien succuree,
+                   Reyner de Genvres et les veillardes barbee:
+                   Maint teste trenchierent et maynt membre coupee,
+                   Tote la jour sei combatierent jusc'a le solail esconsee.
+                   Qante il devint obscure, l'estour en ont resmee,
+         1495  Vers lour herberges s'en tornerent, si sunt tost desarmee.
+                   Charls, le roi de France, s'en ad l'eve demandee,
+                   Maintenant et tost s'est assis au soper;
+                   Quant il aveit soupé, si sei comencea a vaunter
+                   Et dist qe les veillardes barbés q'il avoit amenez
+         1500  En ont meuz combaté le jour des jofenes d'assez.
+
+                   A cet mote sei corusa Rollant et li cont Oliver,
+                   Mais nequedent li rois grandement s'est purpensee:
+                   Grant serment en jora par Deu de magestee
+                   Qe jamés ne retornera pur vent ne pur orré
+         1505  Si n'avera les reliqes par force reconquestee.
+                   Ore orrés bon chanceon, sil volés escouter,
+                   Et tant vous requere, seignurs, que jeo le puis chaunter.
+                   Icy en finist la Destructioun de Rome.
