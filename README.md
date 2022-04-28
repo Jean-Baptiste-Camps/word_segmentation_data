@@ -4,6 +4,12 @@ Datasets to be used for training word segmentation, in particular with Boudams (
 
 They come from various sources, documented in the paper, and from the datasets published by Oriflamms (Stutzmann et al., https://github.com/oriflamms/).
 
+
+/!\ Because of the size, the train/dev/test files were not all included. They can be regenerated using the bash scripts,
+
+- `fro/src/generate_denorm_noapos.bash` for the fro dataset
+- `lat/src/*/generate.sh` for each latin corpora (especially the bigger one, Patrologia Latina).
+
 ## Datasets
 
 ### Old French (fro)
