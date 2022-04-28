@@ -1,0 +1,856 @@
+#META #TextURIBenT roieC	-----⌫|------|----⌫----|
+#META#DEAFhttp//www.dea f-page.de/ bibl/bib99b.php#BenT roieC	-----|---|-------------⌫----------⌫--------------------⌫----|
+#META# TL Troie	-----|-|----|
+#META# FEW	-----|--|
+#META# AR LIMA http s//www.arlima.net/ad/benoit_de_sain te-maure. html#tro	-----|--⌫---|----⌫-----------------------------------⌫---------⌫-------|
+#META#Aut hor	-----|---⌫--|
+Benoît d eSa int-Mau re	------|-⌫|--⌫-------⌫-|
+#META#AuthorBorn	-----|---------|
+#META#AuthorBornAmb	-----|------------|
+#MET A#AuthorDied	----⌫-|---------|
+#META#A uthorDiedAmb	-----|-⌫-----------|
+#META# AuthorFl1	-----|--------|
+#META#AuthorFl2	-----|--------|
+#META# TextT itleRoma ndeTroie	-----|-----⌫---|----⌫|-|----|
+#META# TextSubt itle	-----|--------⌫---|
+#META#Textuols5	-----|-------||
+# META# TextSub iroman ce	-⌫----|-------⌫|-----⌫-|
+#MET A#TextDom lit	----⌫-|------|--|
+#META# Tran slatio n	-----|----⌫------⌫|
+#MET A # Collection SATF	----⌫-⌫|---------|---|
+# META#CollectionNo	-⌫----|-----------|
+#META#TextD escARLuersoctosyllabi ques à	-----|-----⌫-----|---|-----------⌫---|-|
+rimes plates	----|-----|
+#META#TextDescuers 8	-----|-----------||
+#ME TA#Tex tDateARL11 65	---⌫--|---⌫-------|--⌫-|
+#META # TextDateAdi11 65	-----⌫|----------|--⌫-|
+#META#TextDateMin	-----|----------|
+#M ETA# TextDateM ax	--⌫---|---------⌫-|
+#M ETA#EdEditorConstans L.	--⌫---|-------|-------|-|
+#META#E d Place Paris	-----|-⌫-⌫----|----|
+#META#EdPublisherDidot	-----|----------|----|
+# ME TA #Eduol4	-⌫--⌫--⌫|----||
+#META# EdYear1904	-----|-----|---|
+#M E T A#EdPages	--⌫-⌫-⌫-|------|
+#M ETA#MsBas e	--⌫---|-----⌫|
+#M ETA#MsOther	--⌫---|------|
+#META# MsNum 58	-----|----|-|
+# META#MsDateARL	-⌫----|--------|
+#META#MsD ateAdi	-----|---⌫-----|
+# ME TA# Formu	-⌫--⌫--|---||
+#MET A#Complete partial	----⌫-|-------|------|
+#META# NoWords	-----|------|
+#META#NoLines	-----|------|
+#META # Di al Auth	-----⌫|--⌫--⌫---|
+#ME TA#DialScribe	---⌫--|---------|
+#META#Scan URLhttp//gall ica.bnf.fr/ark/12148/bpt6k5097n	-----|----⌫--|----------⌫------------------------------|
+#META#Sca n URIOt her	-----|---⌫-⌫-----⌫--|
+#ME TA# ArkID	---⌫--|----|
+#M ETA#LccnID	--⌫---|-----|
+#META# OclcID	-----|-----|
+#META#WebA uth o r N YUBueno sAires TallerH D	-----|----⌫---⌫-⌫|-⌫-|-----⌫|----|-------⌫|
+#META#ORCIDWeb Author	-----|--------⌫-----|
+#META#WebR euie wer	-----|----⌫----⌫--|
+#META# ORC IDReuiewer	-----|---⌫---------|
+#META #Misc I nfo	-----⌫|----⌫-⌫--|
+#M ETA# CCLicenseCCBY-NC-SA4.0International	--⌫---|--------|-|-------|--|------------|
+Pageu04 P001	-------⌫---|
+# |DESCRIPT IONDE LORIENTLE ROYAUMEDESAMAZONES	||--------⌫--|-||-----|-|------|--|-------|
+Ҫoquet erree	-|--|-⌫---||
+merauir one	--|----⌫--|
+Sicom la Let redit esone	-|--|-|---⌫-|--||---|
+EstO ceandreit apelé.	--|-⌫---|----|------|
+Enquatreparz	-|-----|---|
+e stdeuisé	-⌫-|------|
+Li mondes toz ces tOriën z	-|-----|--||--⌫|------⌫|
+Mer id ïèseOccidenz	---⌫--⌫----||-------|
+Septentrionencocontient	----------|-|-|-------|
+Lice r cl esquAbismessostient.	-|--⌫-⌫--⌫-|-|------|--------|
+Page u04P002	----⌫------|
+IuliusCesarlisene z	-----|----|-|----⌫|
+Qui tantfu sagese d isc rez	--|---|-|----||-⌫---⌫--|
+Fisttotcerchiere me surer.	---|--|-------||--⌫-----|
+Sozc iel ne nott erre	--|-⌫--|--⌫|-|-⌫---|
+Isle pro uincepuineflu n	---|---⌫----|--|-|---⌫|
+Nep ueple ento t le	-|-⌫----|-|--⌫|-|
+mont nesun	---|--|-|
+Quil nemeïssent toten le t re.	-|-|-|--------|--|-|--⌫-⌫--|
+Grant chos efudelentre metre	----|----⌫|-|-||-----⌫----|
+Trentedousanzi demorerent	-----|---|--||---------|
+Ci lquigrantpeineie ndurerent.	--⌫|--|----|----||-⌫---------|
+Trentemersdistrentquiaueit	-----|---|-------|-||----|
+Enta n t coml imondesteneit	-|--⌫-⌫|--|-⌫|-----|-----|
+N eni a plusn eplusn	|-|||---|-⌫|---||
+en distrent	-|-------|
+Ne çosacheizpl us n e nescrist rent .	-|--|------|--⌫-||-⌫|-------⌫----⌫|
+Deui sessontetotesun	----⌫--|---||----|-|
+D elesrenai sse n tgran t	|---|-----⌫---⌫-⌫|----⌫|
+les terressont	--|-----|---|
+Equienelessontre n tr ant.	|--|-|---|---|--⌫-⌫--⌫---|
+C in quante sistantsolement	-⌫--⌫-----|--|---|-------|
+Pageu04P003	----------|
+En tantc omtient	-|---|-⌫-|----|
+lefirmament	-|--------|
+Nen iaplusforscez nomez	|-|||---|---|--|----|
+Quiaient principal itez—	--|----|---------⌫---||
+Mainteuessonte maintruissal	----|---|---||----|------|
+Q u ine sontm ie prin c ipal—	-⌫-⌫|-|---|-⌫-|----⌫-⌫---||
+N e niamaiscinqu a n te sis	|-⌫|||---|-----⌫-⌫-⌫-|--|
+EnsicomeenlEstoire	---|---|-||------|
+S ei s ante d ozeis lesresont	-⌫--⌫-⌫---|-⌫--|--⌫--|-----|
+ap lusen tot l emont	|-⌫--|-|--|-⌫|---|
+Donti l seitfaiteremembrance	---|-⌫|---|----|----------|
+Nourienuiuantprengenaissance.	|-|---|-----|-----|---------|
+Qua rantepui to tparegual	---⌫----|--|--⌫|--|----|
+Resont quiseient principal	-----|--|-----|--------|
+Plusor emaint	-----||----|
+en sontassez	-|---|----|
+Maisn en estt r aite au toritez	---||-|--|-⌫-⌫---|--⌫------|
+Ne n enf uladescrip c i on	-||-|-⌫|-|-------⌫-⌫-⌫-|
+Nemaisd equara nte	-|---|-⌫|-----⌫--|
+Les prouincesfuren tcontees	--|--------|-----⌫|------|
+P ageu04P004	-⌫---------|
+Ea seisanted isnombrees	||-------|-⌫-|-------|
+Sacheizqueplus n	------|--|---||
+en itrouer ent	-||------⌫--|
+Ci lq uipa rtot	--⌫|-⌫-|--⌫|--|
+lemont alerent.	-|---|-------|
+Es treisparties deuisees	-|----|------|-------|
+Queariere uosso ntcontees—	--|-----|--|--⌫-|------||
+Ço estencele	--|--|-|---|
+Eenicele d	|-|----||
+Occi d ent	----⌫-⌫--|
+E enS ep ten trion—tro uerent	|-|-⌫--⌫---⌫----||---⌫-----|
+Si su inz e	--⌫|-⌫--||
+cinc genze nombrere nt.	---|---||--------⌫--|
+E nlapar tiedeMidi	-⌫|-|---⌫--|-|---|
+Nepotestre	-|--|----|
+Des genz nulediuersité	--|---|---|---------|
+Porle grantchaut	--|-|----|----|
+d es mesuré	-⌫--⌫------|
+de serz porle s uermines	--⌫---|--|--⌫|-------|
+Granzorribleseserp entines	----|-------||----⌫------|
+Ni oserentlespiez porter	||------|--|---|-----|
+Onc n elor	--|-⌫|--|
+uintnesenpenser.	---|--|-|------|
+distren t rien	-------⌫|---|
+neilneporent	-|-|-|-----|
+Quaroncla uerite ́nens orent.	---|--|-|------⌫||-|-⌫-----|
+Seio fuss eau qu esleisa n tis	-|-|----⌫|--⌫--⌫-|-----⌫-⌫--|
+Pageu04P005	----------|
+Dre iz fuste	---⌫-|---||
+b iens çomesta	-⌫---|--||--||
+Qu e c est es terres uosno masse	--⌫|-⌫---⌫-|-----|--|--⌫----|
+Equele s ch osesdeuisasse	|--|--⌫|--⌫---|--------|
+Don tciest faitemencion	---⌫|-|--|----|------|
+Ma isnesto r lieusne nepoon	--⌫-||--|-⌫|----|-|-|---|
+Tropgrant estu ide icoue ndreit	---|----|----⌫--||----⌫-----|
+Quidetrestotpa rler uoudreit.	--|-|------|--⌫---|--------|
+Tantp aren	---|-⌫-|-|
+es tg rantlamatir e	--⌫|-⌫---|-|-----⌫|
+Q uequi lcot nen ce reit a dire	-⌫-|---⌫|---⌫---⌫--⌫---||---|
+Neser eit passempresa	-|---⌫--|--|------||
+Tropic ou en dreitparchemin.	---||-⌫--⌫--⌫----|---------|
+Icic ouientqueio	--|-⌫-----|--|-|
+aue ir puis e lieu eaise	---⌫-|---||---||---|
+Telueureu oudraie mb racie r	--|----|-⌫-----|-⌫--⌫-----⌫|
+E enuaïr e comencie r	|------||--------⌫|
+Quen tot lemo n tn aurapartie	-|-|--|-|--⌫-⌫||---|-----|
+Ouqu eleseitqueione	-|-|--|---|--|-|-|
+Quelest comgrantec ornbienti ent	---|--|--|----||-⌫--|---|--⌫--|
+Pageu 04P006	-----⌫-----|
+Nequili anequ iauient	-|-|-|||-|-||-----|
+Quelna tureont li e lemen t	---|--⌫---|--|-|-⌫-----⌫|
+Quellescontreesque llagen t.	---|--|-------|---⌫|-|---⌫-|
+Quaço sofis t biennost reengenz.	-||--|-----⌫|---|----⌫-|------|
+En lap arti ed Oriënt	-|-|-⌫----⌫||------|
+Donti oparlaipre m ie reme nt	---|-⌫|-----|---⌫-⌫--⌫----⌫-|
+As oluitmersc estCasp ion	|-⌫-|--|---||--|----⌫--|
+E lautremarePersicon	||----|---|-------|
+Latierce a non	-|-----||--|
+çomesta uis	--||--||--|
+Adr e it merTiberiadis	|--⌫-⌫-|--|---------|
+La quart e rapelent	-|-----⌫|-------|
+Parnonl amerAlphatenès	--|--|-⌫|--|----------|
+ElaquintemareRubro n	|-|-----|---|-----⌫|
+Lasistemer Arabicon	-|----|--|-------|
+La se tm emer	-|--⌫--⌫|--|
+anon Caphorte	|--|-------|
+P ageu04P007	-⌫---------|
+EPoi tme apel ent lam er Morte .	|---⌫--|----⌫--|-|-⌫-|-----⌫|
+Icilaureitasseza f air e	---|-----|----||-⌫---⌫|
+Quibien uoud r eitdire	--|---|----⌫-⌫--|---|
+eretr aire	|----⌫---|
+Cor ne elessontelesmanie res	---⌫-|---|---||--|-----⌫--|
+Ne dontelessont plus	-|---|---|---|---|
+plenieres .	---------⌫|
+Nu efislesra	--⌫-|----|-|
+enOrie ̈nt	-|----⌫--|
+Ento te snuefconuersentge nt.	-|--⌫--⌫|---|---------|--⌫--|
+Ipopodès lapluslointaine	--------|-|---|--------|
+Enapelentla premeraine	-|------|-|---------|
+Taprobane c	--------||
+estPautre après	--|-----|-----|
+Quedousit anzestgra indreemais	--|---|--⌫--|--|---⌫----||---|
+anon Elephantine	|--|----------|
+Maintechie reespeceamecine	-----|----⌫-|-----||-----|
+Cr ei st en li buene epreciose	--⌫--⌫-|-|-|----||-------|
+Pageu04P008	----------|
+Laquarteisle ra	-|-----|---|-|
+non Th erose	--|--⌫----|
+ChipreRodeCither ea	-----|---|------⌫-|
+C retelagrant	-⌫---|-|----|
+eCarphata.	|--------|
+Quilesmerueillesuosdi reit	--|--|---------|--|--⌫---|
+Q u esisle s son t	-⌫|-|----⌫|---⌫|
+quel omi ueit	--||-||---|
+Afortchosele	|---|----|-|
+t endriëz	-⌫-------|
+Rientantuolentiers n	---|---|---------||
+Setpuis iracestCaucasus	--|---||-||--|-------|
+Sina CametèsLibanus	---|-------|------|
+Armenius monz	-------|---|
+Elisetmes mon zCas ians.	|-|-----|---⌫|---⌫----|
+Quidireitlesdescripcions	--|-----|--|-----------|
+Enqueusli ̂eus	-|----|--⌫---|
+nenqueus regions	|-|----|------|
+Pageu 04P009	-----⌫-----|
+Ilsontnequeus fl u e uesicort	-|---|-|----|--⌫-⌫-⌫--||---|
+Li queuse nn aistliqueu sens ort	-|----|-⌫|-⌫---|-|----⌫|-|-⌫--|
+Comeil s ont hautc om bie nil	---|-|-⌫--|---|-⌫-|---⌫|-|
+granz c hosesia uienent	----|-⌫----||-⌫------|
+A grantmerueilleuosuendreit	|----|--------|--|-------|
+Comfait ementço au endreit.	--|----⌫----|--|--⌫-------|
+EnicezlieusOr iëntaus	-|---|----|--⌫-------|
+uintedousflueues princ ipaus	---||---|------|-----⌫----|
+Sigo t one	----⌫-⌫-||
+The rioclès	---⌫-------|
+ExosCametèsSigota	---|-------|-----|
+Eüf r ate ̀seCarmanta	----⌫-⌫---⌫-||-------|
+Ar me diu scestlinouains	--⌫--⌫---⌫||--|-|------|
+Quidema intemer ueille est pleins	--|-|--⌫---|---⌫-----|--|-----|
+Su se Cort aceeYdaspès	--⌫-|----⌫--||-------|
+Crisor aslitrezainsap rès	------⌫-|-|-------|--⌫---|
+Pag eu04P010	---⌫-------|
+Di ap a git e ePactolus	--⌫--⌫-⌫---⌫||-------|
+Al ibota eTaxius	--⌫----||-----|
+EleüzereAzon is	-------||----⌫-|
+uint ainsanon Tigris	----⌫---||--|-----|
+C riso sIord anscestleder ier .	-⌫----⌫|----⌫--||--|-|---⌫---⌫|
+Qui so r icezuo udreittraiti er	--|--⌫|---|--⌫-----|------⌫-|
+Ediredequeus	|---|-|----|
+l ieus iluienent	-⌫---|-|------|
+Neenqueus lieus	-|-|----|----|
+il s e deti en ent	-|-⌫|----⌫--⌫--|
+Queus uiles sontso r	----|----|---|--⌫|
+Ne dequeusregnessont de uises	-|-|----|-----|---|--⌫----|
+q u ont iprent	-⌫|--||----|
+Biensa i deueircertainement	---|--⌫|-|---|-----------|
+Queuolentier si enten drei ent	--|---------⌫||-----⌫----⌫--|
+Cilqu i retrai relem orre ie n t.	--|--⌫|------⌫-|-||----⌫--⌫-⌫-|
+En ce stOriental partie	-|--⌫-|-------|-----|
+Deçoner edotonsnos	-|--|-|-⌫------|--|
+Pageu04P 0 11	--------⌫-⌫-|
+Atreize proui ncescont ees	|-----|-----⌫---|----⌫--|
+Oëz cor nee l s sontdeuisees.	---|---⌫-|-⌫-⌫|---|--------|
+PerseInd e Isaure eAzonis	----|---⌫|-----||-----|
+Laquinte Sineçomestu is	-|-----|---|--||--|-⌫-|
+Lasisteanon Apame na	-|----||--|-----⌫-|
+Lau treMes op otamia	|--⌫--|---⌫--⌫-----|
+PheniceAssireCommaci ne	------|-----|-------⌫-|
+Lonzimeape lentPalestine	|-----|---⌫---|--------|
+Si relapluschaudelardant	--⌫-|-|---|-----||-----|
+EMe de quemout	|--⌫-|--|---|
+Toz Oriënz	--|------|
+tres to zentiers	----⌫--⌫|------|
+Q u idelmontestlunsdes quar t iers	-⌫-⌫|--|---|--||--|--|----⌫-⌫---|
+E nicezchosesest co mpris	-⌫|---|-----|--|--⌫----|
+Edes autres treispar z	|--|-----|----|---⌫|
+Dont i one uueilorplus	---|-⌫|-|----|-|---|
+çomecou ientrepairier	--|-|---⌫---|--------|
+Po r quei a idetotço tochié.	--⌫|--||-⌫|-|--|--|-------|
+Pageu04P012	----------|
+Çonos recontent	--|--|--------|
+li Traitié	-|-------|
+Eligrant LiureHist orial	|-|----|----|----⌫----|
+Qu enlaparti e Orie ̈nta l	-|-|-|-----⌫|----⌫----⌫|
+EstAmazoineterregrant	--|-------|----|----|
+Oëz quen ost rouonsli san t.	---|--|-⌫-|-⌫-----|--⌫---⌫-|
+D e fe mme sesttote ha bite e	-⌫|--⌫---⌫|--|---|--⌫----⌫|
+D etantcomd urela	-⌫|---|--|-⌫--|-|
+Nienterrahom anulio r.	||------|--||--|--⌫-|
+Maissi comdiënt l i autor	---|-|--|-----|-⌫|----|
+Delez laterr eprès	----|-|----⌫|----|
+Aunis le qui b ienest lez	|-|--⌫-|--|-⌫--|--|--|
+Seis ante liuëstient	----⌫---|-----|----|
+Dep r eciosar bresest pleins	-|-⌫-⌫----|--⌫---|--|-----|
+Ederbe schier essp eciaus.	||----⌫|-----⌫-|--⌫------|
+Plainsestliisleseeguaus	-----|--|-|----||-----|
+Ede litoser iche ebel.	|--⌫----||-⌫---||---|
+Lauo nt contrelete ns	-|--⌫-|-----|-|--⌫-|
+Belsa t or nenteric he m en t	--||-⌫-⌫--⌫---||---⌫--⌫-⌫--⌫|
+Preciosson tloruestemen t	------|---⌫|--|--------⌫|
+Pageu04P013	----------|
+D e ̀s que st	-⌫-⌫-|-|-⌫-|
+li meisd au ri le ntrez	-|---||--⌫--⌫|-⌫----|
+i uin z senestal ez	-⌫---⌫||-|--|--⌫-|
+I sonta i oiee a soio r.	|---||-⌫--|||----⌫-|
+Lihomedesregnesentor	-|---|--|-----|----|
+uienen ta eles	------⌫||---|
+T reismei sisonteneientplu s	-⌫---|---⌫||---||-----|---⌫|
+Amoutgran tioie	|---|----⌫|---|
+lesreceiuent	--|--------|
+Adonc empr eignente c on ceiuent.	----|----⌫------||-⌫--⌫-------|
+Les plusbeles	--|---|----|
+le spluspreisiees	--⌫|---|--------|
+Ni sonteu ̈es n atochiees	||---|--⌫--||--------|
+S ede c eusnonq uiontualor	-⌫|-|-⌫--|--|-⌫-|--|----|
+Equiplusont pris	|--|---|--|---|
+L iplus uaillantas plu suaillanz.	-⌫|---|-------|-|---⌫|--------|
+Iluecapo rtent les enfanz	----|---⌫----|--|-----|
+Quima sl esonted	--|--⌫--⌫|---|||
+As peressont il uecdoné	-|----|---|--⌫--|----|
+Qu eia unsol nen	--⌫|-|-|--||-|
+retendront	---------|
+Neplusdunannelmorriront	-|---||-|-|--|--------|
+L esmeschin esce lesnorrissent.	-⌫-|-------⌫-|--⌫--|----------|
+E quantçouientquildepartis sent	|----|--|----|-|-|--------⌫---|
+Totlansont	--||-|---|
+puis i a desesieuz	---|-⌫|-|--|---|
+Nesuerra homiounesneuieuz	--|----|--|-----|-|----|
+Pageu04P014	----------|
+Senlorterremete it	|-|--|----|----⌫-|
+Sempre sserei ttoz detren c hi e z.	------⌫|-----⌫|--|------⌫-⌫--⌫-⌫-|
+D elesia mout gran t p a rtie	|---|||---|----⌫|-⌫-⌫---|
+Quei aanuliordeloruie	--|-⌫||--|--|-|--|--|
+Neseront domesadesees	-|-----||---|------|
+Neianie re nt d espucelees.	-|-||--⌫--⌫-|-⌫----------|
+Armesportent	----|------|
+m ou t sontuai llanz	-⌫--⌫|---|---⌫----|
+Eh ardie secombatanz	|-⌫-----⌫||--------|
+Eentozlie usensontpreisiees.	|-|--|---⌫-|-|---|---------|
+Aue n u es t ma inte sfeiees	---⌫-⌫|--⌫|--⌫----⌫|-----|
+Queeisseientdel orpai s	--|--------|-|-⌫-|---⌫|
+Arm es po rtentpor	---⌫-|--⌫----|--|
+auei rpris.	----⌫|----|
+uingtetuniè m ebata illee xploitsdePanthesilée.	----|-|-----⌫-⌫|----⌫---|-⌫------|-|------------|
+Enicelterm e eencez	-|---|----⌫||-|--|
+Que cistsiegesesteit si granz	--|---|-----|-----|-|----|
+A Troie esteit enlo rco nt ree	|----|-----|-|--⌫|--⌫--⌫--|
+La reinePa nt hes ilee .	-|----|--⌫--⌫---⌫----⌫|
+Prozehardie ebeleesage	---||-----||---||---|
+D e grant ua lor degrantparage	-⌫|----|--⌫--|-|----|-----|
+Mout ertpreisiee	---|--|-------|
+Pag eu04P015	---⌫-------|
+D eliesteit grant r enomee.	-⌫|-|-----|----|-⌫------|
+PorHector q ueuole it ueeir	--|-----|-⌫-|----⌫-|----|
+E porpr isconque rreeaueir	|--|--⌫-|------⌫--||----|
+Sesmutauenira lso c ors .	|----||----|-⌫|--⌫-⌫---⌫|
+Mout fu rent richessesators.	---|--⌫---|-----|--|-----|
+Moutame na r ichecompa igne	---|---⌫-|-⌫---|-----⌫---|
+E fiereehardie e grifaig ne	|----||-----||-------⌫-|
+M il dameiseles adurees	-⌫-|---------|------|
+Forz aidanzebien armees	---|-----||---|-----|
+Sorbonscheuaus A rabiëis	--|---|------|-⌫-------|
+M outparorent richeherneis	-⌫--|--|----|----|------|
+T an t erreren tpar	-⌫--⌫|-------⌫|--|
+lor iorne es	--|-----⌫-|
+Tant trespasseren tdes contrees	---|------------⌫|--|-------|
+QuaTro ieuindr ent	-||---⌫-|-----⌫--|
+cert mestiers.	|--|--------|
+Dous mei s e	---|---⌫||
+plust restozenti ers	---|-⌫-----|----⌫--|
+AueientGr eusi s a sp ortau s	------|--⌫-|--⌫|-⌫|-⌫-----⌫|
+Queneneste it	--||-|----⌫-|
+eissu 2uas saus	-----⌫|---⌫---|
+Prian znilaissot	-----⌫|||------|
+porte ourir	----|----|
+Qui les a te ndeitauenir.	--|--|-⌫--⌫----||-----|
+Quantnonci éfu	----|-----⌫-|-|
+Pan thesi lee	---⌫-----⌫--|
+Lad olorosedesti nee	-|-⌫------|-----⌫--|
+Qu Ector ert	-|----|--|
+mor zmoutl enpesa	---⌫|---||-|---|
+Pageu04P01 6	----------⌫|
+Unsi fait duelende mena	-|-|---|---|-|--⌫---|
+neuitoncsigrant	-|--|--|-|----|
+Porpoinese	--|--|-|-|
+Bienertseüquelelamast	---|--|---|-|--||----|
+Sefu s t qu enuie l etr o u ast.	-|--⌫-⌫|-|-|--|-⌫|--⌫-⌫-⌫---|
+Troï en so rentsau enue	-----⌫-|--⌫---|-|-⌫---|
+Contreli estlorgent eissue	-----|-|--|--|---|-----|
+LireisPrianzl i fa it	-|---|-----|-⌫|--⌫-|
+g ran t ioie	-⌫---⌫|---|
+E tuit icil qu iso ntaTro ie.	|---|---|--⌫|--⌫-||---⌫--|
+Panthes il eegrant	-------⌫--⌫-|----|
+Quantlireis lidit eretrait	----|-|---|-|--||------|
+S on d u el e	-⌫-|-⌫-⌫-||
+songrant desc onfor t	--|----|----⌫-----⌫|
+Ecomsifilest eientmort	|--|-|--|---⌫----|---|
+Sire faitla franchereïne	---|---|-|------|-|---|
+Tropaici fieredestine	---||--|----|------|
+Oncmai stelpertene fu faite.	--|---⌫|--|----|-|-|-----|
+Sacheizde ueirmout medeshaite	------|-|---|---|-|-------|
+Que i o Hectorne truisen	--|-⌫|-----|-|----|-|
+Toz i orzenser ai m aisma rri e	--|-⌫--|-|---⌫-|-⌫--|--⌫---⌫|
+Plus l amo ë	---||---⌫-|
+querienuiuant.	--|---|------|
+La pertede	-|----|-|
+lui esttr op gr ant	--|--|--⌫-|--⌫--|
+Page u04P017	----⌫------|
+Ma i s enço nan ul r e courier.	--⌫-⌫|-|--|||-⌫-|-⌫-⌫-------|
+Fa itesuo z gen zapar eiliier	--⌫---|--⌫|---⌫|----⌫------|
+Sironsla forsas Greus parler	|----|-|---|-|----|-----|
+Iusqua poilor	----||--|--|
+uoudraimostr er	------|-----⌫-|
+Qu euspuceles	--⌫--|------|
+iomein g omei	-|----⌫||--|
+Ne quelesual ent entorn ei.	-|-|---|---⌫--|-|----⌫--|
+Duel aidEc torsor	---|-||--⌫--|--|
+Ancuisen aparçeur ontbien.	----||-|---------⌫--|----|
+Samortl o r feraicompare r	-|---|-⌫-⌫|----|-------⌫|
+e nsauro ntsiguà rd e r.	-⌫|-----⌫-|-|----⌫--⌫-⌫-|
+Queuosi reieporloignant	--|--|-⌫---|----------|
+Somo ndreafait	----⌫---||---|
+le reiPriant	-|--|-----|
+ge nzqu uns n	--⌫-|-|--||
+i remaîgne.	|---------|
+Laotatachiémainte en seigne	-|-|-------|-----|--⌫-----|
+Emain tpenon enfust plané.	|----⌫|----|-|---|------|
+Tot e se stormistla cité.	---⌫||-⌫-------|-|----||
+Par tôt s	--|---||
+arm èr entco mun al.	---⌫---⌫--|--⌫---⌫--|
+Laotcouert	-|-|-----|
+mai ntboncheu al	---⌫-|--|----⌫-|
+Laot es chîelesdeuisees	-|-|--⌫-------|-------|
+En unespla ce s gr anz elees	-|---|---⌫--⌫|--⌫--||---|
+Delezunestorsanc ië nes	----|---|---|---⌫---⌫--|
+Pageu0 4P0 18	------⌫---⌫-|
+S armèr entAmazoniënes.	|------⌫--|------------|
+Un haubercu estPanthesilee	-|------|-⌫--|----------|
+Pl usblan c	--⌫-|----⌫|
+qu e nei sd esorgelee	--⌫|---⌫|-⌫---|----|
+Onque s nus homços ai de ueir	-----⌫|--|--|--|-⌫-|-|---|
+Si belarmé nepotueeir.	-|--|----|-|--|-----|
+Douspu celesmouthon orees	---|--⌫----|---|---⌫----|
+E delor damemout amees	|-|--|---|---|----|
+elchief son h eau measis	-|----|--|-⌫---⌫-|---|
+Richesdut estr eet degrantpri s	-----|--|----⌫|-|-|----|---⌫|
+Quar lïcercl ese	---|--|-----⌫-||
+Fut oz a pierrespré ciaus	-|-⌫-||------|----⌫----|
+Plus respl endissanzquenestrai.	---|-----⌫--------|--||--|---|
+Sorun che ual dEsp aignebai	--|-|---⌫--||---⌫----|--|
+Pl usgrant plusfort	--⌫-|----|---|---|
+eplusuaillant	|---|-------|
+Da u trecheua l epluscorant	|-⌫-⌫--|-----⌫||---|-----|
+Estm ontéedeliurement	--|-⌫-----|----------|
+P leinedire edemautalent .	-⌫----||--||-|---------⌫|
+P ageu04P01 9	-⌫---------⌫|
+Couerz futozdun drap	-----|-|--||-|---|
+Quiplus que f lor	--|---|--|-⌫--|
+delis blanchei e.	-|--|--------⌫-|
+Centescheletescl er	---|---------|--⌫-|
+Petitesd ornonmiegranz	------||-|--|--|----|
+I ata che nt.	|---⌫---⌫--|
+Senzplustargier	---|---|------|
+A ceintlebrant forbidacier	|----|-|----|----||----|
+Dontelferra gra nzcousma neis .	---|-|----|---⌫-|---|--⌫----⌫|
+Unfo r t e scuplus bI ancqueneis	-|--⌫-⌫|-⌫--|---|--⌫--|--|---|
+O uneboc ledef ino r	|--|---⌫-|-|-⌫-|-⌫|
+Orléde pie rrestot	----|-|---⌫---|--|
+robi ns clerse ardanz	----⌫-|----||-----|
+E desmeraudesuerdeianz	||---------|--------|
+Parl a guige	--|-⌫|----|
+dorfreisla pris	|------|||---|
+colserrée	--|-----||
+Unela nce de fustfraisnin	--|--⌫--|-|---|-------|
+Ountrenchantferacerin	|-|--------|--|-----|
+Li abaillié une	-||-------|--|
+0 une enseigne f resch e ebele.	|--|-------|-⌫-----⌫||----|
+Hastiu ements enz demorer	------⌫----|-⌫--|------|
+Àfaits amaisnieemonter	-|---|-⌫|-------|-----|
+plusni apas	---||||--|
+Pageu04P020	----------|
+n aientarmez l e suis	|----|----|-⌫-⌫|--|
+Les chiéslesb raze les	--|-----|--|-⌫--||--|
+Sor leshaube rsd obliers safrez	--|--|-----⌫-|-⌫------|-----|
+OntIorbea us crins	--|--|---⌫-|----|
+tozdes treciez	--|---⌫------|
+Sireluisanzesipeigniez	-|--------||-|-------|
+Quorsesme rezsembl a sto scurs.	-|--|----⌫--|-----⌫-⌫-|-⌫-----|
+Ohardizcuerseos eür s	|-----|----|||-⌫----⌫|
+Che uauchentdreituers lesportaus	---⌫-------|----|---|--|------|
+Leses c u zprisso r lesche uaus.	--|--⌫-⌫-⌫|---|--⌫|--|---⌫----|
+Puisqueli mondescomen ça	---|--|-|-----|-----⌫--|
+Neiamaistantcor ne il du r ra	-|-|---|---|---⌫-|-|--⌫-⌫-|
+Niertmais u eüetelcom paigne	|---|---|-⌫---|--|---⌫-----|
+Ni acelequi nait	|||---|--||--|
+E grossela nceofer	|-----|--⌫--||--|
+Mouto ïsseiz lesdeuspreier	---|-⌫------|--|---|-----|
+Asgentisd ameshonorees	-|-----|-⌫---|-------|
+QuedeIa uilees teient n ees	--|-|-|---|--⌫-----|-⌫--|
+Quil lesdefendisse n t l e ior	-|-|--|----------⌫-⌫|-⌫|--|
+D emo rtde	-⌫|--⌫-|-|
+pert eededoIor.	----⌫||-|-----|
+ArmezsefuPh ilemenis	----|-|-|--⌫-------|
+Quiprochains	--|--------|
+ert delor pa ïs	--|-|--|--⌫--|
+Pageu04 P021	-------⌫---|
+Cilloruoudraestreen	--|--|-----|----|-|
+Tant comli ierte lcors la	---|--|-|---|-⌫|---|-|
+O luisontliPaflagone is	|--|---|-|---------⌫-|
+Quioncior nameren t	--|--|--||------⌫|
+LireiIipri ncee lidemeine.	-|--|-|---⌫--||-|-------|
+Chascunsdelatorn er sepeine	-------|-||-----⌫-|-|----|
+puissent leiorsi	-------|-|--|-|
+E tantlor enemisforfaire	|---|--|-----|-------|
+Parquedes port aus lesdesio ig nent	--|--|--|----⌫--|--|-----⌫--⌫---|
+Por uoiruo sdimout	--|---|--⌫|-|---|
+s enbesoignent.	|-|----------|
+Sorlesmurs ha uzec renelez	--|--|---|--⌫-||-⌫------|
+Sont liarbalestiermon tez	---|-|----------|---⌫--|
+Ecilquilesgr anzpeusaguz	|--|--|--|--⌫--|---|---|
+pe sanzchaiIlouscornuz	--⌫---|--------|-----|
+G eteront siquemortser on t	-⌫------|-|--|---|---⌫--⌫|
+Tuitcilquideuss aproismeront.	---|--|--||--||------------|
+Quosir e i eloncp lai tfai s ant	---|--⌫-⌫-⌫|---|-⌫---⌫|---⌫-⌫--|
+E s tab lia lere iPri ant	-⌫-⌫---⌫-||-|--⌫|---⌫--|
+istreientpre mier	--------|---⌫---|
+Pageu04P022	----------|
+Lique l après	-|---⌫|-----|
+liquelderrier.	-|---|-------|
+Tozpremerainsçom est a	--|---------|--||--||
+eissuzPh ilemenis	-----|--⌫-------|
+O l asoëgentho noree	|-⌫|---|---|--⌫----|
+Quemout estfiereeredot ee	--|---|--|----||-----⌫-|
+Dardanidèsontfaitourir.	----------|--|---|-----|
+D onc poïsseiztomouteoïr	-⌫--|--------|------|---|
+Gran zs onsgran znoises	----⌫|-⌫--|----⌫|-----|
+egranzcriz	|----|---|
+Ed ol if anzgranz	||--⌫--⌫--|----|
+corn e ï z.	----⌫-⌫--⌫-|
+Cilde G rece s enzdem o rier s	--|-|-⌫---|-⌫--|---⌫-⌫----⌫|
+Resontmontésorlordestriers	-----|-----|--|--|--------|
+Tostontlor cors d	---|--|--|---||
+armes guarniz	----|------|
+Etoz lorcon reizdepartiz.	|--|--|---⌫---|--------|
+enissentdelportal	-|-----|--|-----|
+Sontad uréebon	---|--⌫---||--|
+Enzel mi li eudelgrant t a sd	--|-|-|--⌫-|--|----|-⌫-⌫||
+Les uo ntferiririeze	--|--⌫-|----|----||
+Pa geu04P0 23	--⌫-------⌫-|
+Quesorhaub ers esor cuirieés	--|--|----⌫--||--|--------|
+Lorontlorlance spece i ees.	--|--|--|-----⌫|----⌫-⌫---|
+Desataï nzchie ts orlesablon	--|-----⌫-|----⌫|-⌫-|-|-----|
+M ainz quinediënt onenon.	-⌫---|--|-|-----||-|---|
+Le smainsontmises	--⌫|----|--|----|
+Esin donent deteusc olees	|--|-----|-|---|-⌫----|
+Aceus defor sque	|---|-----⌫|--|
+marei uirent.	---||------|
+Sifaitement les recoillirent	-|--------|--|-----------|
+Quebienlet ierz	--|---|-|-⌫---|
+olameitié	|-|------|
+En ontsem pres descheuauchié.	-|--|---⌫---|--------------|
+Sadoncnefusse nt liarchier	|----|-|-----⌫-|-|------|
+Edesmurs liarbalestier	|--|---|-|----------|
+Mauua isement lorifus tpri s.	-----⌫------|--||---⌫|---⌫-|
+faitbienP hilemeni s	---|---|-⌫--------⌫|
+Moutrescot bien	---|-----|---|
+Echierlo r asesmorzuenduz	|----|--⌫||--|---|-----|
+Seisantei adessuens rescos	-------|||--|----|-----|
+Quipas még isent en l erbos.	--|---⌫--|-⌫----|-||-----|
+Alarescossedes premiers	|-|-------|--|-------|
+Pageu04 P024	-------⌫---|
+Sen e issiren tmil cheualiers	|-|-⌫-------⌫|--|---------|
+Sorl escheuauspri slesescuz	--|-⌫-|------|---⌫|--|----|
+Oles bonses pieze s moluz	|--|---|--⌫---|-⌫-⌫----|
+Enuaïr uontlo renemis	------|---|--⌫|-----|
+Eaïdier Phi lemenis.	|------|---⌫-------|
+P olidamas liprozlesguie	-⌫-------|-|---|--|---|
+Quihautements	--|--------||
+enseignee s cr ie.	-------|-⌫-⌫--⌫--|
+Unrei at ai ntne	-|--|--⌫--⌫-|-|
+fail lip as	----⌫-|-⌫-|
+M ort legetaenmiletas.	-⌫--|-|---|-|-|-|---|
+Iciresfondren t	--|----------⌫|
+mai ntebroig ne	---⌫--|-----⌫-|
+Esiuosdiquegrant	|-|--|-|--|----|
+Lor icreiss eitquantci ldedenz	--||------⌫--|----|--⌫|-----|
+Seneïssirent	|-|---------|
+Dis mileeplu s serré est reit.	--|---||---⌫|-----|---⌫----|
+ase mb le eueit	---⌫--⌫--⌫|---|
+Direpuetb ienquonctel dol or	---|---|-⌫--|-|--|--|---⌫-|
+Nesidesmesuréestor	-|-|---------|----|
+N e u itne	-⌫|-⌫-|-|
+neuerraia m ais.	-|----|-|-⌫---|
+Pageu04P02 5	----------⌫|
+La tr en chentdesescuz	-|--⌫--⌫----|--|----|
+Edes heaume slescoinzag uz	|--|------⌫|--|----|--⌫-|
+Delsanc iestgrantla paluz	--|---||--|----|-|----|
+cors ch iet e de uale	---|--⌫--||--⌫---|
+Siquetui t en sont freit epale.	-|--|---⌫|-|---|----||----|
+Icistconten zduraassez	----|------⌫|---|----|
+Enz es trench ieesde sf ossez	--|-|------⌫---|--⌫|-⌫----|
+Tan tque lipro z Dio medès	---⌫|--|-|---⌫|---⌫-----|
+Lidu sdAthene eUlixès	-|--⌫||-----||------|
+ETel amon e Aïaus	|---⌫---||-----|
+Agamennon eMenela us	--------||------⌫-|
+Lorfirentunenu aiemen t	--|-----|-|---⌫------⌫|
+uos dice rtaine m ent	--|-|--⌫------⌫-⌫--|
+Quecildedenz	--|--|-----|
+senr ent ri ssient	|-|-⌫---⌫--⌫-----|
+Moutuol enti erss	---|---⌫----⌫--||
+il poïssient.	-|----------|
+Maisdepoidegen tfulentre e	---|-|--|-|---⌫|-||-----⌫|
+Delaportesi estopee	-|-|----|-|------|
+Quenenipotl edisme	--||-||--|-⌫|----|
+P ageu04P026	-⌫---------|
+Por çole s	--|--|--⌫|
+c ou inta torner.	-⌫--⌫--||------|
+il com porlamort	-|--|--|-|---|
+si dotee lasor t	-|----|-|---⌫|
+ot nul tant	-|--|---|
+fu sthardiz	--⌫-|-----|
+nef ust esfreiz.	-|-⌫--|-------|
+Damage agrantdambe dou sparz	-----||----||----⌫---⌫|---|
+Maiso s aieteseo	---||-⌫-----|||
+Eoquarreausquecill ort raie nt	||--------|--|--|-⌫-|-⌫----⌫-|
+Quim outenocie ̈nt	--|-⌫--|-|----⌫--|
+ep laien t	|-⌫-----⌫|
+OntfaitlesGre usretraireensus	--|---|--|---⌫-|-------|-|--|
+Cinc cenzdelorhom ese plus	---|---|-|--|---⌫-||---|
+Laissentde denzlesgranzfossez	-------|--⌫---|--|----|-----|
+Sor eus futozli	--|--|-|--|-|
+crizleuez.	---|-----|
+Biensi aide n t ci l dedenz	---|||----⌫-⌫|--⌫|-----|
+B ienfurecoureel or genz.	-⌫--|-|-------|-⌫-|----|
+uintPa nthesil ee	---|--⌫-------⌫-|
+Osa gen t estreiteese rree	|-|---⌫|-------||--⌫---|
+Pageu04P027	----------|
+Quemo utert	--|--⌫-|--|
+fier e e com batant.	----⌫||---⌫------|
+Librieuzdeslancesiestgr ant	-|-----|--|-----||--|--⌫--|
+Hautsescriënta	---||--------||
+cielnest rien	---||--|---|
+Auer se les lai sdeBre tons	----⌫|-⌫--|---⌫|-|---⌫---|
+Harpeuiële nautreso ns	----|-----||----|--⌫-|
+Nestseplorsn onauerslorcr iz.	|--|-|----|-⌫-|----|--|--⌫--|
+Sorlesescuzpeinzauerniz	--|--|----|----||-----|
+uontGrezeisféri rsenz dem ore	---|------|-----⌫|---|---⌫--|
+Tant ena batentenpoidore	---|-|-⌫-----|-|--||--|
+cue ureliherbeiz.	---⌫--|-|-------|
+Dèso reengroisselito rneiz	---|-⌫-|--------|-|--⌫----|
+E n m ilesuentres	-⌫|-⌫|--|------|
+lesataignent	--|--------|
+Siqued e s arçonsles	-|--|-⌫-⌫|------|--|
+empe ignent	----⌫-----|
+Esiq u ele s grosf uzpla nez	|-|-⌫-⌫|--⌫|---|-⌫-|---⌫--|
+Lor remainen tparlescostez.	--|--------⌫|--|--|------|
+Quant les la ncessontdebri siees	----|--|--⌫---|---|-----⌫----|
+Siont les es p eessachiees	-|--|--|--⌫-⌫--|-------|
+Dontelsfierentgr anzc ous	---|--|------|--⌫--|-⌫--|
+Pa geu04P028	--⌫--------|
+Ciottraïn	-|-|-----|
+dech euali er s	-|--⌫-----⌫--⌫|
+Ciots ifa ita bateïz	-|-|-⌫|--⌫-|-⌫------|
+E si angoiss os	|-|-------⌫-|
+ch apleïz	--⌫------|
+Querienriel	--|---|---|
+poüstp as sofrir.	-----|-⌫-|------|
+Çopuisbie ndiresenzment ir	--|---|---⌫|---|---|----⌫-|
+Quecildefors sontsibranle ́	--|--|-----|---|-|------⌫|
+Quap einesontpuisaresté.	-||-⌫---|---|---|-------|
+Me rueillesfait Pa nthesïlee	--⌫-------|---|--⌫---------|
+Ia ni ferracoupd es	-|||----|---|-⌫||
+ocie.Mai ̈sgr ie fment	----|---⌫-|--⌫--⌫----|
+Lïrem au m etentG r eu s a gent.	--|---⌫--⌫-⌫----|-⌫-⌫-|-⌫|----|
+OMenelauiostalabele	|------|----|-|---|
+Quenu e rslemis t ius de la sele	-|---⌫-⌫-|-|--||--|-|-|---|
+Almeinsenot le milsoudor	-|----|-|-|-|--------|
+Main t e n iguaaigna le ior.	----⌫|-⌫||-------|-|---|
+Elee Di omede ̀sioste rent	--||--⌫-----⌫-|-----⌫---|
+Deplaïne sla i ss entr econtrerent	-|-----|-⌫---⌫-⌫||----⌫----------|
+Pageu 04P029	-----⌫-----|
+Queleslancesenastelerent	--|--|-----|-----------|
+esc uzesfondre rent.	---⌫-|--------⌫----|
+Le sculïtoli	|-⌫--|--|---|
+iornen ot p uissaisine.	--||-|-|-⌫--|-------|
+Soz luis e narbra sond estrie r	--|--||-⌫-----|--|-⌫------⌫|
+Moûtpar fuprès d eltrebuc hier .	----|--|-|----|-⌫-|------⌫----⌫|
+Con e ü ab iensa	---⌫-⌫-||-⌫--|-|
+esa proëce.	|-|-------|
+R edot eeesten petitdore	-⌫----⌫-|--|-|----||--|
+Esg reignors presses lorco rtsore	-|-⌫-------|------|--|--⌫-|---|
+Soue ntlorfait mu er	----⌫-|--|---|--⌫-|
+E guerpirselese cheu aus.	|------|----||----⌫---|
+Bienli aidentses	---|-|-----|--|
+Sanci espandentecerue l es	---||--------||-----⌫-⌫-|
+Tozlescon reiz	--|--|---⌫---|
+fon t t rair ear iere	---⌫|-⌫----⌫|--⌫---|
+Pageu04P030	----------|
+bi en quelapoudriere	--⌫-|--|-|--------|
+E stdel sancuermeildestempree.	-⌫-|--|---|------|----------|
+Rei T elamonmoutdesagree	--|-⌫-----|---|-------|
+Ç o que iluei t nel puet sofrir	--⌫|--|-|---⌫|--|---|-----|
+Panthesilee uait ferir .	----------|---|-----⌫|
+Sorpr isela	-----⌫--|||
+nel e ui t pas	-|-⌫|--⌫|--|
+Iusl abatienmile tas	--||----|-|-|-|--|
+Puismetla main al brantd	---|--|-|---|-|----||
+En mi elesseuaitplong ier.	-|-|---|-|---|-----⌫---|
+A treise n faitleschiés	|----|-⌫|---|--|-----|
+Maism out le dut	---|-⌫--|-|--|
+chier comparer	----|-------|
+lon t de son dest rier	|--⌫|-|--|----⌫---|
+Parqui nzeli euslifont raier	--|---⌫--|--⌫--|-|---|----|
+L e sancdel corsparmi	-⌫|---|--|---|--|-|
+labroi gne.	-|----⌫---|
+Ci lid utcreis tretel es soign e	-|-|-⌫-|-----⌫--|--|--⌫-----⌫|
+Quolaï de Philemenis	-|||---⌫-|---------|
+Len menoënt	|-|-------|
+e ntreelespris.	-⌫---|---|----|
+Ap einepot	|-⌫---|--|
+rescos se aueir.	------⌫-|-----|
+M aisparforce e	-⌫--|--|----||
+parestoueir	--|-------|
+LelortoliDi omedès	-|--|---|--⌫------|
+Pageu04P031	----------|
+Quidarmesisofritelfais	--||----||----|--|---|
+Quonques puisl orequ	-|-----|---||--|-|
+N e fuenestorsi greu ez.	-⌫|-|-|----|-|----⌫--|
+il fustdepartiz	-|---|-------|
+Eniottantdese spasmi z	-||-|---|--|-⌫------⌫|
+Que lomnen	--||-||-|
+sotlenombre d ire.	--|-|-----|-⌫---|
+Onc sif ait d uelnete l	--|-|-⌫--|-⌫--|-|--⌫|
+De ̀s or coui entba issierorg uieuz.	--⌫-|-|----⌫--|--⌫-----|---⌫-----|
+Panthe sileeserescr ie	------⌫----|-|-----⌫-|
+Se s puceles o sei ra lie	--⌫|------||--|--⌫--|
+Pui slorcheu auche	---⌫|--|----⌫----|
+Adoncirotgrantfereïz	----||--|----|------|
+E grant b ataille tote io r	|----|-⌫------|---|--⌫|
+Maiss i com	---|-⌫|--|
+re contelAuto r	--⌫----||----⌫|
+esfo rzdesA m azonei ̂ses	----⌫-|--|-⌫-⌫------⌫---|
+Pageu04P032	----------|
+D es fr anchespu celescort eise s	-⌫-|--⌫-----|--⌫----|----⌫----⌫|
+Fur entGreusiestou teié	---⌫--|---|-|-----⌫----|
+Es i laidiesiplaié	|-⌫|----||-|-----|
+Etan tpe rd i rent	|---⌫|--⌫--⌫-⌫---|
+Que sen zautre recour ement	--|---⌫|----|------⌫----|
+Lor estutlauile gue rpir	--|----|-|---|---⌫---|
+Easherber ges	|-|------⌫--|
+Mo utlaidi e moutdesconf it.	--⌫-|----||---|-------⌫--|
+Selanui tn	-|-|---⌫||
+enpr eï strespit	-|--⌫---⌫-|-----|
+Dela b ataille	-|-|-⌫------|
+mailestast	---------|
+Sacheizi a p îez n	------|-⌫|-⌫---||
+eneschapast.	-|---------|
+La reïnePan thesilee	-|-----|---⌫-------|
+Lora tresb ienl ir emostr ee	--||---|-⌫--||--⌫|-----⌫-|
+QueleadEctor comp arélont	-|--|||----|----⌫---||--|
+E pl uss el	|--⌫-||-|
+puetlecompar ront.	---|-|------⌫----|
+Sacheizensicomnoslisons	------|---|--|--|-----|
+Prisleseüstes paueillons	---|--|----|-|---------|
+Mo rz e ue ncuze detrenchiez	--⌫-||--⌫---||----------|
+Queian en esc ha pastuns	--|-||-|---⌫--⌫---|--|
+P ageu04 P033	-⌫------⌫---|
+tot leplus	--|-|---|
+sol li fizTyde üs.	--|-|--|----⌫---|
+corslor destoli .	---|--|-------⌫|
+Quigran tfaisdarme siso fri	--|----⌫|---||----⌫||--⌫--|
+Ianauro ntmaiso	-||----⌫-|---||
+luisoi o r.	--|---⌫-⌫-|
+Ainzq uil partissentde l estor	---|-⌫|-|---------|-||----|
+Fuuespresbasenuitproch aine	-|------|--||---|-----⌫---|
+Assez orenttrau ail e peine.	----|----|----⌫--||-----|
+LiTr oïen ol or conr eîz	-|--⌫----||-⌫-|----⌫---|
+Le petitpasserrezes treîz	-|----|--|-----|--⌫-----|
+Se n en trentenz	|-⌫|--⌫----|--|
+m outlontbienfait	-⌫--||--|---|---|
+D e t restozfudit eretra it	-⌫|-⌫-----|-|--||-----⌫-|
+Quelareï ne	--|-|----⌫-|
+senzdesd it	---|----⌫-|
+Qu ifust degr ant nede	--⌫|---|-|--⌫--|-|-|
+Aueitlepr isdeceliornal	----|-|--⌫-|-|--|-----|
+S ique liduimeil i oruassal	-⌫|--|-|--|----⌫-⌫-|-----|
+deus tan tfaitdesforz	|--|---⌫|---||-----|
+Netant des	-|---|--|
+lor ocis ne mor z	--|---|-|---⌫|
+C omlareïnesolement.	-⌫-|-|-----|--------|
+P a geu04P034	-⌫-⌫--------|
+La n uitlifirent	-|-⌫--|-|-----|
+maint present	----|------|
+Moutl ontioïeehonoree	---||--|----||------|
+bien celebree	---|-------|
+Efai tsesb uense sesta lanz.	|---⌫|--|-⌫---||--|--⌫----|
+Tozcuide estre re scosPrianz	--|----|----|--⌫---|-----|
+P arliepar la soëgent	-⌫-|-||--|-|---|---|
+Entrese sbraz lacole	----|--⌫|---||----|
+renttotseilidone	---|--|--|-|---|
+Eq uantq uilali abandone.	|-⌫---|-⌫|-||-|--------|
+M outli f a itgrantpitiél i	-⌫--|-|-⌫-⌫-|----|-----|-⌫|
+Quartendrem entploredes ieuz	---|-------⌫--|----|--|---|
+Desesfiz ed eson damage.	-|--|--||-⌫|--|------|
+E cele come	|---|---|
+prozesag e	---||---⌫|
+Leco nf orte m outbo nement.	-|--⌫--⌫---|-⌫--|--⌫------|
+Lanuitiu rentse ürement	-|---|--⌫---|--⌫-------|
+Enl ac itémai sliGrez ei s	-|-⌫|-⌫---|---⌫|-|----⌫--⌫|
+Sonteng rantc riemeeen	---|-|-⌫---|-⌫----||-|
+Quilneseientlendemain	-|-|-|-----||-------|
+E parasautde l	|--|----|--⌫|
+totconquis.	--|-------|
+Esgua rdéontqu aspaueillons	-----⌫---|--|-|-|---------|
+Sera tantlorde fensions	---|---|--|--⌫-------|
+QueMenela usse it repairi ez	--|------⌫-|--⌫-|-------⌫-|
+Pageu 04P035	-----⌫-----|
+De laou ilert enueiez	-|-|-|-|--|------|
+Eque lif iz Achillèsu ieng e	|--|-|-⌫-|--------|-⌫----⌫|
+Nia uns ol	|||-|-⌫-|
+quinesenc rienge .	--|-||-|-⌫------⌫|
+Cele nuitsesontb ienguar ni	---|---|-|---|-⌫--|----⌫-|
+Equantli iorz	|----|-|---|
+furesclarci	-|--------|
+Siserarmerentcild edenz	-|-|--------|--|-⌫----|
+Forsseneissi	---||-|----|
+tote lorgenz.	---|--|----|
+L or conreizo nt	-⌫-|------|-⌫-|
+bie n deuisez	---⌫|------|
+Ainz queli	---|--|-|
+soleizfust	-----|---|
+Furent ilprès	-----|-|----|
+despaueill ons.	--|-------⌫---|
+Quant Greuu iren t les confan ons	----|---|-⌫----⌫|--|------⌫--|
+Eles compaignesauenir	|--|---------|-----|
+Lor armessontalésai si r	--|----|---|---|---⌫--⌫|
+Defendron tseioautr ement	---------⌫|--||----⌫----|
+Loriraiatrop malement.	--|--|-|---|--------|
+Deuantlestentes serengieren t	-----|--|-----|-|---------⌫|
+Troiesaproismierent	----||------------|
+Quisuontfe r irsenz	---|---|--⌫-⌫-|---|
+autree sg uart.	----|-⌫--⌫----|
+La uo lentsaietese dart	-|--⌫---|------||---|
+Laotestordur emortal	-|-|----|--||-----|
+P age u04P036	-⌫---⌫------|
+La otdetrenchié	-|-|----------|
+main t uassal	----⌫|-----|
+Lafu rentGreu	-|--⌫---|---|
+Maismoutsedefendirentfort.	---|---|-|----------|----|
+Ilperdentmoutm aisneq ueden	-|------|---|-⌫--|---⌫----|
+Chierlecomperent	----|-|--------|
+fu mo ut granzefiers	-|--⌫-|----||----|
+Tantcomduraliiorz enti ers.	---|--|---|-|---|----⌫---|
+Lar eïne deFemenie	-|-⌫----|-|------|
+Lor iafait mainteenuaïe	--|||---|-----|------|
+Ent rel iesesdameisel es	---⌫-|-⌫||--|--------⌫-|
+L orf o ntoïrfreide s noueles.	-⌫-|-⌫-⌫-|---|------⌫|-------|
+Parmaintesfe i zlesderomp eient	--|------|--⌫-⌫|--|------⌫----|
+Dela ou i l sedefen de ient	-|-|-|-⌫|-|-----⌫--⌫---|
+O n cteld olor	-⌫-⌫|--|-⌫---|
+ge ntnesofri ren t	--⌫-|-|-----⌫---⌫|
+fa itepe rte	--⌫--|--⌫--|
+ne fi rent.	-|--⌫----|
+I cestasautices tm artir e	-⌫---|----|----⌫|-⌫-----⌫|

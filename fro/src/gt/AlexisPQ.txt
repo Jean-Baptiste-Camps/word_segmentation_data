@@ -1,0 +1,1346 @@
+#META#TextUR IAlexisPQ	-----|------⌫|-------|
+#M ETA#DEAFhttp//www.deaf-page.de /fr/bi bl/bib99a.php#AlexisP	--⌫---|---|----------------------⌫------⌫--------------------|
+#META# FEW	-----|--|
+#META#ARLIMAhttps/ /www.arli ma.net /no/114	-----|-----|------⌫---------⌫------⌫------|
+# META#Au tho r	-⌫----|--⌫---⌫|
+#META#Auth orB orn	-----|----⌫---⌫--|
+#META#AuthorB ornAmb	-----|-------⌫-----|
+# META# Au t horDied	-⌫----|--⌫-⌫------|
+#META# AuthorDiedAm b	-----|------------⌫|
+#META#Aut h orF l1	-----|---⌫-⌫---⌫-|
+#META #A u thorFl2	-----⌫|-⌫-⌫------|
+# M ETA#TextTitleLa uie	-⌫-⌫---|--------|-|--|
+saintA lexi s	----|-⌫----⌫|
+#META# T extSubti tle	-----|-⌫--------⌫--|
+#META#Tex tuo ls1	-----|---⌫---⌫-||
+#META# T extS ubiha gio graphy	-----|-⌫----⌫--|--⌫---⌫-----|
+#M ET A# TextDom	--⌫--⌫-|------|
+#META #Transla tion	-----⌫|-------⌫---|
+#M ETA#Collec tion	--⌫---|------⌫---|
+#META#C ollec tionNo	-----|-⌫-----⌫-----|
+#META#TextDes cARL	-----|-------⌫---|
+Rédactionremaniéede lauie desaint	---------|--------|-|-|--|-|----|
+Alexisenlaissesdalexandrinsmonorimes.	-----|-|------||----------|---------|
+# MET A#TextDescuers 12	-⌫---⌫-|-----------|-|
+#META# TextD at eARL	-----|-----⌫--⌫---|
+XIuesiècle	---|------|
+#META# T extDat eA dim14	-----|-⌫------⌫--⌫-|--|
+#M ETA#TextDateMin	--⌫---|----------|
+#M ETA#TextDateMax	--⌫---|----------|
+#META#E dEditorParisGastonPannier	-----|-⌫------|----|-----|------|
+#META# EdPla ce Paris	-----|-----⌫-|----|
+#META#EdPub lis he r F. uiew eg	-----|-----⌫---⌫--⌫|-|----⌫-|
+#META#E d uol	-----|-⌫-⌫--|
+# META#EdYear1887	-⌫----|-----|---|
+#META#EdPages346-388	-----|------|------|
+#META# MsBaseS	-----|-----||
+#MET A#MsOther	----⌫-|------|
+#META#MsN um 9	-----|---⌫-||
+#META#MsDateARL	-----|--------|
+#META # MsDate Adi	-----⌫|------⌫--|
+#M ETA#For m	--⌫---|---⌫|
+#META# Complete	-----|-------|
+#MET A# NoWords	----⌫-|------|
+#META#N oLi nes	-----|-⌫---⌫--|
+#ME T A#Di alAuth	---⌫-⌫-|--⌫-----|
+#ME TA#DialScribe	---⌫--|---------|
+#META #ScanURL	-----⌫|------|
+https//archiue.org /d etails/lauiedesaintale03alexgoo g	------------------⌫--⌫-------------------------------⌫|
+#MET A# ScanURIOt her	----⌫-|---------⌫--|
+#META#A rk I D ark/13960/t1ih3 nt8t	-----|-⌫--⌫-⌫|---------------⌫---|
+# M ETA# LccnID 14022514	-⌫-⌫---|-----|-------|
+#META#OclcID	-----|-----|
+#META#WebAuthorDauid	-----|--------|----|
+IosephWrisley	-----|------|
+#META#ORCIDWebA uthor orcid.org/0000-0002-0355-1487	-----|---------⌫----|----------------------------|
+#META# WebReuiewer	-----|----------|
+#MET A#ORCIDReuiewer	----⌫-|------------|
+#META#MiscInfo	-----|-------|
+#META#CCLicenseCC	-----|--------|-|
+B Y-NC-SA4.0	-⌫------|--|
+International	------------|
+*** STAR T	--|----⌫|
+Pageu01P346	----------|
+§CYCOMMENCE LA	--|-------|-|
+uI E SA INT	--⌫|--⌫--|
+E nsenlonneur	-⌫-|-||-----|
+le pé retoutpuissan t	-|---⌫-|---|-------⌫|
+Q uinou sf ou rma etfist	-⌫-|---⌫|-⌫--⌫--|-|---|
+t restousason	-⌫------||--|
+uousueulie recor derune	---|---|-|-----⌫--|--|
+mer ue lle grant	---⌫--⌫--|----|
+moutualla ntpreudhomm eetdun	---|-----⌫-|---------⌫|-||-|
+s ien chierenfant.	-⌫--|----|------|
+C e preudomsqueiedis ou t	-⌫|-------|--|-|--|--⌫|
+nomEu phemi ens	--|--⌫-----⌫--|
+Tout adezdemeno it grantgu erresuspaiens	---|---|------⌫-|----|--⌫---|--|-----|
+CarsainteYglise	--|-----|-----|
+amo itde cuersustoute riens.	---⌫-|-|---|--|----|-----|
+Unefame espo usapuisquil	--|---|----⌫--|---|-|-|
+fuanci e ns.	-|----⌫-⌫--|
+Puiscon u ers sérentilensamblelon guement.	---|---⌫-⌫---⌫------|-|-------|---⌫-------|
+Sorenta grant	|----||----|
+plentéet or fin	------|-|-|--|
+Asez debien fa isoient a lamenue	---|-|---|--⌫------||-|----|
+Mez d unese ulechos el eura loit malement	--||--|--⌫--|----⌫|-⌫--|-⌫---|-------|
+Pageu01P347	----------|
+Careus deus nepouoientnisunenfantauoir	--|--|---|-|-------|----|-----|----|
+Qui aprèseuspeüst maintenir leura uoir	--|-----|--|-----|--------|---|-⌫---|
+A Ihesu Crist prioi entetaumain	|----|----|-----⌫--|-|-|---|
+Que pa r sa dine grace	--|--⌫|-|---|----|
+leurenuoi astun oir .	---|-----⌫--|-|---⌫|
+Tantdepr ie ́rent	---|----⌫--⌫----|
+Dieupargra nt h umilité	---|--|---⌫-|-⌫-------|
+Ethonttantd eleurs b iensapo urez	-|---|---|-⌫|----|-⌫---||--⌫---|
+ge nsdonné	--⌫-|-----|
+Quele d ousRoidesRois parsa	--|-|-⌫--|--|--|---|--|-|
+sainteb on té	-----|-⌫--⌫--|
+Enreg ar damout bienl aleur	-|---⌫--⌫-|---|---|-⌫|---|
+gr andcharité	--⌫--|-------|
+Quepour uoirliprodonsengendra	--|---|---|-|------|-------|
+Enladam ecourtoisequi moutfuauenant.	-|-|---⌫|--------|--|---|-|-------|
+Quantli enfezfun és baptiziés fuerrant	----|-|----|-|-⌫--|---------|-|-----|
+Puisde uintmouts ainshomssi	---|--⌫---|---|-⌫---|---|-|
+commeorezauant.	----|---|-----|
+Susfons firentl enfan tAlexisapeler	--|---|-----||-----⌫|-----|-----|
+Moutri chemen tlefirent nourriretaleuer	---|--⌫------⌫|-|-----|------|-|-----|
+Et qu ant l enfez	-|--⌫--||----|
+futelqu il sauoitbien parler	-|--|-|-|-----|---|-----|
+Pou rappr end rele fire nt	---⌫|----⌫---⌫-|-|----⌫-|
+a l escol e mener.	||-----⌫|-----|
+L enfan tqu e	|-----⌫|--⌫|
+Ihes uCristama	----⌫|----|--|
+p arfaitement	-⌫----------|
+ac ha n terapris t asez brement	|-⌫--⌫-⌫--|-----⌫|---|------|
+Et sisceu t en latin dire	-|-|----⌫|-|----|---|
+endecrezsentendoi tfermement.	-|-----||--------⌫|---------|
+Page u01P348	----⌫------|
+Adonclefistso n	----|-|---|--⌫|
+escole partir	-----|-----|
+En gu izedescuierleconu intlors	-|--⌫--||------|-|----⌫--|---|
+A la c ou rtl empereur deRom mealaseruir	|-|-⌫--⌫-||-------|-|---⌫-|--|-----|
+L‘enfants e ruile	-------|-⌫-⌫--|-|
+roy dutout a s onplez ir.	--|-|---||-⌫-|----⌫--|
+p ortasiquech acunlou tchier	-⌫---|-|--|--⌫---||--⌫|----|
+Lemperer elamoitsi le fi stcheua llier.	|-------⌫||----|-|-|--⌫-|-----⌫-----|
+Quant sonpérele soutDieu pr ist ame rcier	----|--|----|-|---|---|--⌫--||--⌫----|
+Adonquezs apensaquilli	-------||-----|-|-|-|
+donroit mo ulie r .	------|--⌫----⌫-⌫|
+d unh autconte f istpou rson	|-|-⌫--|----|-⌫--|---⌫|--|
+fi exr equ erre	--⌫-|-⌫---⌫---|
+liotroiaen	-|-----|-|
+pèz sanspoint	---|---|----|
+Auecquat rechastiauseta sezdautre	---|----⌫-|--------|-|-⌫--||----|
+QuantAlexislesoutle cuerouten	----|-----|-|---|-|---|--|-|
+grant serre	----|----|
+C ardeschozesd umo nd ene	-⌫-|--|-----|-⌫|--⌫--⌫|-|
+liestoi tnoient	-|-----⌫|-----|
+E nc es iecle	-⌫|-⌫|-⌫----|
+cuid oi tbienuiurecha stement.	----⌫--⌫|---|----|---⌫-------|
+Mez sez amisnosacour ou cier	--|--|---||--|----⌫--⌫---|
+La pucele espousa moutdebonnairement.	-|-----|------|---|--------------|
+Alexisaleiour	-----||-|---|
+mout formentl armoi é	---|------|-⌫-----⌫-|
+Sibiena son	-|---||--|
+cue rmisa utrez dous cloufichié	---⌫|--|-⌫|---|---|----------|
+Qu il nelisouuenoitdenulmortelp echié.	-|-|-|-|--------|-|--|-----|-⌫------|
+Ch acunfezo it gra ntioi e	--⌫---|----⌫-|---⌫-|---⌫|
+mez ilne sto i t pa slié.	--|-||-⌫---⌫-⌫|--⌫|----|
+Pageu01P349	----------|
+Lesa mis la pucele	--|-⌫--|-|-----|
+etlessai ntAlexi s	-|--|---⌫-|-----⌫|
+D emenér entg rantfeste	-⌫-------⌫--|-⌫---|----|
+etfurentbienseruis	-|-----|---|-----|
+Largezfurentle z	-----|-----|--⌫|
+noceznuln i fuescondis.	----|--|||-|--------|
+Qu ant uint apr ès	--⌫--|---|---⌫--|
+s ouperquon	-⌫----|-|-|
+Euphemienss en uintaAlexisson	---------||-|---||-----|--|
+Puislid ist	---|-|-⌫--|
+enriantTelgracet e doint Diex	-|----|--|----|-⌫|----|---|
+Quenieudre rpu iseso i r de coy	-|--------⌫|--⌫---|-⌫-⌫|-|--|
+nousualon miex.	---|----|----|
+Le nfantnedistn ulmottous m ou liez eutlez	|-⌫----|-|---|-⌫-|--|---|-⌫--⌫---|--|--|
+De plour e r.On	-|-----⌫-⌫-|-|
+leuin tas on litde z caucier.	-|---⌫||-⌫-|--|--⌫-⌫-------|
+Son chierpéreet samére	--|----|----|-|-|----|
+furentason	-----||--|
+Tousderegniersisirentla	---|---------|------|-|
+chambr efontuidier .	------⌫|---|------⌫|
+Adonqu ezregarda	------⌫-|------|
+Alexissamoulier	-----|-|------|
+Qui enso n	--|-|--⌫|
+lit estoitcouchietoutenue	--|-----|------|----|--|
+Moutlauit bla nche ettendrebienfait e et	---|-|--|---⌫---|-|-----|---|----⌫|-|
+parcreüe.	---------|
+Lorsnes out	---|-|-⌫--|
+ilq ueferepu is dist uierge	-|-⌫-|---|--⌫-|---|-----|
+q uefacheeuure don tmamesoitperdue	-⌫-|----|----|---⌫||--|---|-----|
+Alexisuitlacha mbr e qui estoit bienpar ée	-----|--|-|---⌫---⌫|--|-----|---|---⌫--|
+Etpersutla pucele uermelleetcoulou re ́e	-|-----|-|-----|-------|-|------⌫--⌫-|
+Adont lire mem braet liuint	----|-|--⌫---⌫--|-|-|---|
+e npe nsée	-⌫|--⌫----|
+ioiedumonden	---|-|----||
+auoit pointdedurée	----|----|-|-----|
+Pageu01P350	----------|
+Etpui s liressouuin t comme	-|---⌫|-|---------⌫|----|
+lid ousIhesu s	-|-⌫--|-----⌫|
+uout en po ureténestrep uissoufrique	---|-|--⌫-----|-----|-⌫--|-----|--|
+Fust e n la sainte	---|-⌫|-|-----|
+crois toutdescausettoutnus.	----|---|------|-|---|---|
+en crois contreter re estendus	-|----|-----|---⌫-|-------|
+Puisd is t Do us Ihesu	---|-⌫--⌫|--⌫-|----|
+Cristb i e nsaisemecouchoie	----|-⌫-⌫-⌫|--|-|-|-------|
+Au e cceste puce le	--⌫-⌫|----|----⌫-|
+qu em ideliteroi e	--⌫|||---------⌫|
+Etuo stre dous	-|--⌫---|---|
+s erui sedetous poins delairoie.	-⌫----⌫-|-|---|----|---------|
+I eseroietr opfolsepourlieuouslesoi e.	-⌫|-----|--⌫-|--|-|---|--|---|-----⌫-|
+Car la io iede sciexest	--|-|--⌫-|--⌫|---|--|
+ato usiou rsdurer	|--⌫-----⌫-|----|
+Mez celedec e monde fau t en	--|---|-|-⌫|----|---⌫|-|
+leurepasser .	|---|------⌫|
+mec u idaricement asener	-|-⌫-⌫--|-------|-----|
+Huimatinqua ntmefi stl a puceleespouzer	--|----|---⌫-|-|--⌫-|-⌫|-----|-------|
+Me zianepla ceaDieuqu aieen	--⌫|-|-|---⌫-||---|-|--|-|
+soncorsdelit.	--|---|-----|
+Ainz yra youtremerseruirDieuquitou t	---|---⌫|----|--|-----|---|--|---⌫|
+Adonq uez sap rocha li sains	-----⌫--||--⌫----|-|----|
+honspre zdulit	---|---⌫|-|--|
+L a pucele	-⌫|-----|
+apela etdouce mentli	----|-|-----⌫---|-|
+Pour Dieuorent endeztrezdouc ecréature .	---|---|-|---⌫----|---|----⌫|---------⌫|
+IhesuCristu ou s fourma	----|----|-⌫--⌫|-----|
+enau tellefigure	-|--⌫----|-----|
+Pageu01P351	----------|
+Comla uiergeMariepourDieuque	--|-|-----|----|---|---|--|
+naiés cure	|----|---|
+Duuil pechié duc ors car tropia	-|--|------|-|-⌫--|--|---|||
+Carla s ainteEscri turesi nousd itet tesmoigne	--|-|-⌫----|-----⌫---|-|---|-⌫-|-|--------|
+aper sonnepourtan tq uelle seioigne	|---⌫----|---|---⌫|-⌫|---|-|-----|
+Aupechié del uxureque Diablenenpoigne	-|------|-|-⌫----|--|-----||-------|
+Ded ensle puisd	---⌫--|-|---||
+enfer.Fosest qu ine lressoigne.	-----|--|--|--⌫|--⌫|---------|
+SaintAlexisainsi	----|-----|----|
+la pucele chastie	-|-----|------|
+Iusquà tantquelagueteduch ast elfust	----|-|---|--|-|----|-|--⌫---⌫-|---|
+c o uchie.	-⌫-⌫-----|
+L epuce lelouïmezneliplezoi tm ie.	-⌫|----⌫-||---|--|-|-|------⌫|-⌫--|
+Alexis so uspiroitet	-----|--⌫-------|-|
+lidis tDouce	-|---⌫|----|
+Carme montrez	--|-|------|
+lanel dontu ous aiespousée.	|---|---|-⌫--|-|---------|
+Ce l lee n ploura ntli baile et	--⌫-⌫-|-⌫|------⌫-|-|----|-|
+iltret lorsse spée	-|---|---||-⌫----|
+Delanelfist d eus parsl uneen	-||---|---|-⌫--|---||--|-|
+ap reze ntée	|-⌫----⌫----|
+A lagentil puce lemezl	|-|-----|----⌫-|--||
+autr eabiengard ée	----⌫||---|----⌫--|
+Puis lidist Douceseurgardez	---|-|---|----|---|-----|
+De lanel. Dieuuousueulle deffend redepe chié.	-||----|---|---|-----|-------⌫-|-|--⌫-----|
+Ene ssilueulallerpour la	-|-⌫---|---|----|---|-|
+D ieu amitié.	-⌫--|-------|
+Quantcele lentendisili	----|---||------|-|-|
+chei ̈aupié	----⌫|-|---|
+Pageu01P 352	--------⌫--|
+Etlidist Chier s	-|-|---|-----⌫|
+amist antestezbiau s et dous	---|-⌫--|----|----⌫|-|---|
+Quantmau ez espousée pourcoyde partonnous	----||--⌫-|--------|---|--|--⌫-----|---|
+Ilserareprouéanozamis tre stous.	-|---|-------||--|---|---⌫-----|
+AlexisrespondiB el e suersouf rez uo us	-----|-------|-⌫--⌫|---|----⌫--|--⌫-|
+Etd u delitchar nel ostez uostre p en sée.	-|-⌫|----|----⌫--|----|-----|-⌫--⌫----|
+La susserauost re ameessains	-|--|---|----⌫-|--|-|----|
+cieu xcouronnée .	----⌫|----------⌫|
+Enessil ueul al le renestrangecontrée.	-|----|---|--⌫--⌫|-|-------|--------|
+Quantel lel entendia te rre chiet	----|--⌫-||------||--⌫--|----|
+Al exislaleuapuisli adistainsi	--⌫---|-|---|---|-||---|----|
+Suerles sesmenaller chascun estendo r mi .	---|---⌫--||-|----|------|--|----⌫-⌫--⌫|
+Lacourtoisepucel l e enplou ra nt re spondi	-|--------|-----⌫-⌫|-|----⌫--⌫-|--⌫-----|
+AmisalezaD ieupuisq ue	---|---||-⌫--|---|-⌫-|
+ilestainsi	-|--|----|
+Mezgrant pech iéf er ezcardou lour tropamére	--|----|----⌫--|-⌫--⌫-|--|---⌫---|---|-----|
+Menront demainmatin	------|-----|----|
+uospére etuotremére.	--|----|-|----|-----|
+L ase la ioiedi ertourr aag ra nt	-⌫--|-|---||-⌫-|-----⌫||-⌫--⌫-|
+homs respondi tou tba setauoisclére	---|-------|---⌫|--⌫--||---|-----|
+nenpuis mezDieuuous	|-|---|--|---|---|
+ueu lle garder.	---⌫--|------|
+Pageu0 1P353	------⌫----|
+S ireditla pucellecar melessi ezaller	-⌫--|--|-|------|--|-|-----⌫-|----|
+S i luousplest auecuous u oura ymon	|-⌫|---|----|---|---|-⌫----⌫|--|
+q uier auous charne lme nt adezer.	-⌫---||---|------⌫---⌫-|------|
+Tondreferay mez tressessires il uo uses t bon	-----|----|--|------|---||-|--⌫-|--⌫|--|
+Pouruo strea mour	---|--⌫---|-⌫---|
+prenray le sche rpeet	------||-⌫----⌫--|-|
+u osdras u o uslauerayquant enserasesson.	-⌫-|---|-⌫-⌫-|------|----|-|---|------|
+Alexi sre sp ondidouceme nta basson	-----⌫|--⌫--⌫---|-------⌫-||--|--|
+Masueruous	-|---|---|
+demour rezpour	------⌫--|---|
+uos tre o nne urga rder	---⌫--|-⌫---⌫-|--⌫---|
+Ie uo rai lapenance po u r nousdeus endurer.	-|--⌫--|-|------|--⌫-⌫|---|---|-------|
+Ihesu Cristuousdointgracedeuost re	----|----|---|----|----|-|----⌫-|
+ame sa u uer.	--|--⌫-⌫---|
+Lorsisydela	---|--|-|-|
+iuoutplusdemourer.	|---|---|--------|
+Endr oitlezcoschantansa s on	-|--⌫--|--|--|-------||-⌫-|
+ordr eguerpie .	----⌫|-------⌫|
+Son chi e rpére	--|---⌫-⌫|----|
+etsamérenelesa uoient	-|-|----|-|-|--⌫-----|
+Bienc uidoientqu il	---|-⌫-------|-|-|
+fustcou chiés auecs	---|---⌫-----|---||
+Mez ta nt erra l enfantenicele nuitie	--|--⌫-|---||-----|-|----|-----|
+mer uint hast iuementcourant.	--|---|----⌫------|-------|
+Ilt roua une nef	-|-⌫---|--|--|
+conaloitaprestant	|-|----|--------|
+Pageu0 1P354	------⌫----|
+marchiéetpoiatoutauant.	-------|-|---|---|-----|
+Quant lanefd esri uamouto utlecuerioiant	----|-|--|-⌫----⌫-|---|-⌫-|-|---|-----|
+de zir au oitdesl ongnierla co n trée.	--⌫--|--⌫--||---⌫------|-|--⌫-⌫-----|
+Quantseui nt l andem ainque laubefucre ue ́e	----|-|--⌫-||-----⌫--|--||---|-|---⌫--⌫-|
+Lors laméreAlexis	---|-|----|-----|
+estenlachambr e	--|-|-|------⌫|
+Lapucele trouaquimout	-|-----|----|--|---|
+fuesplourée	-|---------|
+outgrantdestraiceet mout	--|----|--------|-|---|
+se re pen toit	-|--⌫---⌫---|
+Cauec quezson mari	|----⌫---|--|---|
+all éenen	---⌫--||-|
+La damedemanda	-|---|------|
+douceme ntquelleauo it	-------⌫-|-----|---⌫-|
+Lorsli distenplourantcomment	---|-|---|-|-------|------|
+la c h ose	-|-⌫-⌫--|
+all o it .	---⌫-⌫--⌫|
+Qu antladame	--⌫--|-|---|
+ent endi que sonenfantsen ua	---⌫---|--|--|-----||-|-|
+Au cuerout teldest raic e qu	-|---|--|--|----⌫----⌫|-|
+a terre se pama	|----|-|---|
+Et lagenti lpuceleunsigrantcr igeta	-|-|-----⌫|-----|-|-|----|--⌫|---|
+Que le compteloy	--|-|-----||-|
+pl ustostquilpoutuintla.	--⌫-|---|-|-|---|---|--|
+Dugrantdeul quiltrouafuforment	-|----|---|-|-|----|-|------|
+esba hi s.	----⌫--⌫-|
+Lap ucelelidist Chiersi reuos trefis	-|-⌫----|-|---|----|--⌫-|---⌫--|--|
+Quimauoitesposéesest de moy departis	--||----|-------||--|-|--|-------|
+Pou r Di euseru ir s	---⌫|--⌫-|----⌫-||
+en uaen estr ange païs.	-|-|-|----⌫---|-----|
+Ilemporte une pieche delan e lde	-|------|--|-----|-||--⌫-⌫|-|
+Dontie fu z espou s ée	---|-|--⌫|-----⌫-⌫--|
+lautre p armafoy.	|----|-⌫-|-|---|
+Pageu01P355	----------|
+Ia mezho mme q ui uiuenabi teraa	--⌫--|--⌫--|-⌫-|---||---⌫---||
+Sener euientarr ier e.Lepé re	-|-|-⌫-----|---⌫---⌫---|---⌫-|
+otgra ndennoy.	-|---⌫-|-----|
+Laméredaut repartsestenhautesc riée	-|----||---⌫-|---||--|-|---|---⌫----|
+Héc hierfi sAlexis dontt euinttelpensée	--|-⌫---|--⌫|-----|---|-⌫|---|--|------|
+Qu aslessié pe ́re et	-|-|------|--⌫--|-|
+méreettafameespousé e	----|-|-|---|--------⌫|
+che rtét auo iebel eetbonnedonne ́e	---⌫---||---⌫-|---⌫|-|----|-----⌫-|
+Biaufiexi ai sigrant duel quebienmo u r ir	---|---||-|-|----|---|--|---|--⌫-⌫-⌫-|
+Carentoi estoittou tmons ou lase tmaioie	--|-|--|-----|---⌫|--|-⌫--⌫--|-⌫|-|---|
+I estoie moutioieuss e quantie te	|-----|---|-------⌫|----|-|-|
+regardoie.	---------|
+Lorsparlalapucele etd ist Damei otroi e	---|----|-|-----|-|-⌫--|---||-----⌫|
+Autrezdous IhesuCri stqueiame z	-|---|---|----|---⌫-|--|----⌫|
+Narayahommenul soulasne compagnie	|---||----|--|-----|-|--------|
+Ain s uiuréchasteme ntquantu ofismalessie.	---⌫|-----|--------⌫-|----|-⌫|--|||------|
+Qu antlecom teloyestroitla embrac hie	--⌫--|-|---⌫-||-|------|||------⌫--|
+Etlia dit ainsi Suer puisque uousu oulez	-|-||--|----|---|---|--|---|-⌫----|
+Por te ra mon enf antsi loia usamitez	---⌫--⌫||--|---⌫--|-|----⌫-|-----|
+I amez amonuiuantde	-⌫---||--|-----|-|
+m oyne part irez.	-⌫-|-|----⌫----|
+Ilserasi Dieupletencore	-|---|-|---|---|-----|
+E tpourl amourdel i	-⌫|---||----|-|-⌫|
+uousfera y g arantie .	---|----⌫|-⌫-------⌫|
+Pageu01P356	----------|
+Lapuceleala	-|-----||-|
+dam epar laia mbe embracie	---⌫|--|-|--⌫--|-------|
+Enp lour ant li adi t Quantuo fiexm a	-|-⌫----⌫--|-||--⌫|----|-|---|||
+PourDieu r eten ezmoyen	---|---|-⌫----⌫-|--|-|
+uostrecompagnie.	-----|---------|
+L a d amel ezgardaest roitla	-⌫|-⌫--||------|---⌫---|||
+aco llée.	---⌫-----|
+La grantd oulourque	-|----|-⌫-----|--|
+firentne peu tes trecontée.	-----|-|---⌫|--⌫--|-------|
+La chambrequ	-|------|-|
+agrantio ie	|----|--⌫-|
+Futendueleten ploursceiourd escourt inée.	--|-|---|-|-|-----|-|---|-⌫-------⌫-----|
+Lor spristEuphe miensse smes agierserra nt	---⌫|----|-----⌫----|--⌫|---⌫-----|----⌫-|
+Pardiu ersescontréezfistquérir	--|---⌫----|--------|---|------|
+sonenfant.	--|------|
+— D Alexisuousuoudrayparlerdore enauant	||-----|---|------|-----||--|-|----|
+Q uiestoite n	-⌫-|-----|-⌫|
+la nefauecma intmar cheant.	-|--|---|--⌫--|---⌫------|
+Droita une c hi técuidiérent	----||--|-⌫--⌫--|----------|
+ConapeleLal i ce q uisiet desuslamer	|-|----|---⌫-⌫-|-⌫-|---|----|-|--|
+Mezun sigrant oraige co me ncha a	--|-|-|----|-----|--⌫--⌫---||
+Q uep lus de	-⌫-|-⌫--|-|
+trois censli euezlez fist	----|---|--⌫---|--|---|
+ensu sal er.	-|--⌫|--⌫--|
+L ezm estrezdela neffurentfort	-⌫-|-⌫-----|-|-|--|-----|---|
+Doucementreclamérent leroy d eparadis.	--------|-----------|-|--|-⌫|-------|
+Mouttendrement	---|---------|
+plouroit lienfezAle xi s	-------|-|----|---⌫--⌫|
+Q u icuidoit m o ut bienestrededens la	-⌫-⌫|------|-⌫-⌫-|---|----|-----|-|
+merp er is.	--|-⌫--⌫--|
+Mez le dousIhesuCrist ne l eu outc on sentir	--|-|---|----|----|-|-⌫|-⌫--|-⌫--⌫-----|
+Pageu01P357	----------|
+Ca r la fo rceduuentfistle uessel uertir	--⌫|-|--⌫--|-|---|---|-|-----|-----|
+D roit auneiournéec esachiez sans	-⌫---||--|-------|-⌫|------|---|
+De la sai nte chi téouDieu	-|-|---⌫--|---⌫--|-|---|
+uoutmortsou ffrir.	---|---|---⌫-----|
+Quantau p or tse	----|-|-⌫--⌫|-|
+trouuérentch a c u n en	----------|--⌫-⌫-⌫-⌫|-|
+out grant ioie	--|----|---|
+I hesuCristmerciérentq uitouslesbie ns	-⌫---|----|----------|-⌫-|---|--|---⌫-|
+Alexis q ui duto uta	-----|-⌫-|-|--⌫-||
+bienfaires ot r oie	---|----||--⌫-⌫--|
+D ro it e nI herusalemaa quelisauoie.	-⌫--⌫-|-⌫|-⌫--------||-⌫----|-|----|
+Enlasaintechitéuintle nfant	-|-|-----|-----|---||-⌫----|
+Ouledou sIhesuCris t fuuendu s et traïs.	-|-|---⌫|----|----⌫|-|-----⌫|-|------|
+Quantiluitlesepucre ou Dieufumors	----|-|--|-|------|-|---|-|---|
+Anusgen ous semistetfist croissusson	|--|---⌫--|-|---|-|---|----|--|--|
+Puisdi st DousI hesuCristqui enceste chité	---|--⌫-|---|-⌫---|----|--|-|----|-----|
+u o usite zmor ts oufrir pournotresauueté	-⌫-⌫-----⌫|---⌫|-⌫-----|---|----|-------|
+Etence st saint Sepucr e fu tezres usité	-|-|--⌫-|----|------⌫|--⌫--|---⌫-----|
+ue ulliezr ec onforter trestoutmon	--⌫-----|-⌫--⌫-------|-------|--|
+Car biensayq ue pourmoy	--|---|--|-⌫-|---|--|
+ont grant doulo ur menée.	--|----|-----⌫-|------|
+gentilp ucel e que i auoieespousée	-----|-⌫----⌫|--||----|--------|
+ueulliezgarder d e mal haute dameclamée	-------|-----|-⌫|--|----|---|------|
+Etmotriez f a ire	-||-----|-⌫-⌫--|
+euuredon tmamesoit s auuée	----|---⌫||--|---|-⌫-----|
+Alex isf ist	----⌫-|-⌫--|
+sof rende puisse uotilre traire	|--⌫----|---|-|--|-|--⌫-----|
+P ageu01P358	-⌫---------|
+N uscoute znus ge nous uint	-⌫-|-----⌫|--|--⌫---|---|
+aum ontde Calu aire	-|-⌫--|-|----⌫---|
+La pierrequifendiuit	-|-----|--|----|--|
+lenfantdebon na ire	|-----|-----⌫--⌫--|
+Pu is uintauflun Iourdeinpouraconplirl	--⌫-|---|-|---|-------|---|-------||
+Par trois fo iss	--|----|--⌫-||
+Alexis trestoutnu.	-----|-------|--|
+Puisprist la saintepalm eet le	---|----|-|-----|----⌫|-|-|
+bourdonagu	------|--|
+Corn pelerin paumiersestd ouc eme nt u estu	---|------|------||--|-⌫---⌫---⌫-|-⌫---|
+M e zdeusiou rs etdeu s nuisquen Ih erusalem	-⌫-⌫|---|---⌫-|-|---⌫|---|-|-|--⌫-------|
+Ieünali sains hons conqueznuleligour	-----|-|----|---||-----|---|-----|
+N emistdeden s sabouche.AD ieuou t	-⌫|---|-----⌫|-|------||-⌫--|--⌫|
+Qu ilnelisouuenoitde	-|-|-|-|--------|-|
+terrienonno ur .	------|----⌫--⌫|
+Ho r sde Iherusalem	--⌫-⌫|-|---------|
+s epartiau t ie rsiour	-⌫|----|-|-⌫--⌫-|---|
+Tant chemina l	---|------||
+enfant qui	-----|--|
+dutoutaDieu	-|---||---|
+en uintaLalicetoutlecheminbatu	-|---||-----|---|-|-----|---|
+L e trezdous Ihesu	-⌫|---|---|----|
+Cris t liprestateluertu	----⌫|-|-----|--|----|
+Conqu ezpa rlennemi	|----⌫-|--⌫||-----|
+n epout es tre	-⌫|---|--⌫--|
+Etquan t lesaintprodom me d	-|----⌫|-|----|------⌫-||
+ileucseremua	----|-|----|
+EnAlphis la	-|-----|-|
+chitétrestout droit se n	-----|-------|----||-⌫|
+Pour lamourdun	---||----||-|
+i ma ge quel e nlien sengna	-⌫--⌫-|--||-⌫|-|--⌫-----|
+Quel angre Gabrie l (sediston)	--||----|------⌫|--|---|--|
+L image resemblo ital a uiergepucele	|----|--------⌫-||-⌫|-----|-----|
+Q ui le dousIh esu Cri s tnouri	-⌫-|-|---|--⌫--|---⌫-⌫|----|
+d e samemmele.	-⌫|-|-------|
+Pageu01P359	----------|
+Sitostcomm eA lexis	-|---|----⌫|-⌫----|
+ent en dilanouuele	---⌫--⌫-|-|------|
+Onqueznesaresta	-----|-||-----|
+siuin tala cha pele.	-|---⌫||-|---⌫----|
+il perchut l image decuer lasalua.	-|------||----|-|---|-|-----|
+fo rm equelisa intc ors	--⌫--⌫|--|-|--⌫--|-⌫--|
+Quei amezde la	--|-⌫---|-|-|
+uil lequil p uitn epartira.	---⌫-|-|-|-⌫--|-⌫|-------|
+Lorsdon na	---|---⌫-|
+toutlauo i r	---||---⌫-⌫|
+que deRom m eap orta	--|-|---⌫-⌫|--⌫---|
+Ilnenretintriens née	-||-|-----|----|---|
+san sp lusque	---⌫|-⌫--|--|
+D el ane l qu ilcoupa	-⌫||---⌫|-|-|----|
+espéefourb ie	-----|-----⌫-|
+P uisreio i ntpar miracle.Or commenche l a	-⌫--|----⌫-⌫-|--|-------|-|--------|-⌫|
+De zpainezAl exis quitant	--⌫|-----|--⌫---|--|---|
+outdehachie.	--|-|------|
+Quantle bona my Dieu eutdonnéson auoir	----|-|--|-⌫-|---|--|-----|--|----|
+Entrele spouresge nss ala errant	----|--⌫|-----|--⌫-||--|-----|
+uoulentiersprint laumonequanti lla poutauoir	----------|----||-----|----|-⌫|-|---|----|
+A Ihesu Cr istseruirmistgr antpainepour	|----|--⌫--|-----|---|--⌫--|----|---|
+Moutsoufri	---|-----|
+Ale xisd e durepou reté	---⌫--|-⌫|---|---⌫----|
+Neu o utpasa	-|-⌫-⌫-|--||
+s on cors f eresauolenté.	-⌫-|---|-⌫--|-|--------|
+Tantieuna li sainshons si fu	---|----|-|----|---|-|-|
+des coulouré	---⌫--------|
+Quil semb lo i tquonl	-|-|----⌫--⌫-⌫|-|-||
+eüst hors de terreieté.	----|---|-|----|-----|
+Pageu01P 360	--------⌫--|
+I l n auoitcharnesancsemout	-⌫||----|---|-|---|-|---|
+petit et non	-----⌫-|--|
+PourDieusou fri asez depersecucion	---|---|---⌫--|---|-|----------|
+O nlidonnoitsouuentde z	-⌫|-|------|------|--⌫|
+aumonezf oi sson	------|-⌫--⌫---|
+Mais ilnep ensoitpas	---|-|-|-⌫-----|--|
+a fere garnison	|---|-------|
+Carilnenreten oit	--|-||-|-----⌫--|
+quepourlisoutenir	--|---|-|-------|
+Leremenant a loitasautrez	-|-------|-⌫---|-|-----|
+Dusoirpourlematin	-|---|---|-|----|
+ri enreteni r.	--⌫-|------⌫-|
+—Son pérelefai soitpar	|--|----|-|---⌫---|--|
+maint pa ï s	----|--⌫--⌫|
+Le zmesagiersau	--⌫|--------|-|
+comte pa rplus ieursliexalérent	----|--⌫|----⌫----|---|-------|
+P lu sdecinqu anteestoientquiforment se penére nt	-⌫--⌫|-|-----⌫---|-------|--|------|-|-------⌫-|
+De trouue rAlex is t antque	-|------⌫|----⌫-|-⌫--|--|
+deussen entre ́ren t	---||-|-----⌫----⌫|
+EnAlphislacit é tout partoutre gardérent.	-|-----|-|---⌫-|---|--|---|--⌫----------|
+SaintAlexis trouére nt a	----|-----|--------⌫-||
+logestezseant	-------|----|
+Entr e lesautrezpo u r ezual	----⌫|--|-----|--⌫-⌫-⌫-|-||
+aumone a t endant	-----|-⌫-⌫-----|
+Iamezne l r a uisasenteutelpoint	----|-||-⌫-⌫-------|-|--|----|
+liseri ant	-|----⌫--|
+Carnuses toitet	--|--|--⌫---|-|
+pourepa lisant.	----|--⌫------|
+Lysains honsles	-|----|---|--|
+connut ta ntostcomme	-----|--⌫----|----|
+i llesu it	-⌫|--|-⌫-|
+Doucemen t reclamale trezdous IhesuCrist	--------⌫|------|-|---|---|----|----|
+Queconnoistrenelpuissent.Or entende ́squ	--|---------|-||--------|-|-------⌫-|-|
+Aux mesagierzson péreleur	--|--------|--|----|---|
+aumonerequit.	-----|------|
+Pageu01P361	----------|
+Pa snelie scon dirent licourto ismesaigier	--⌫|-|-|-⌫----⌫-----|-|------⌫-|--------|
+Ils erch iérentpartoutes ruezaumo ust ier	-|-⌫----⌫------|------|-|---|-|--⌫---⌫--|
+SaintAlexislez suitmezne l iest mestier	----|-----|--|---|--|-|-⌫|--|------|
+neleur uenistcu idier	-|---|-----|--⌫----|
+leurseignieur fustsi	---|--------|---|-|
+fais deuenus.	---|-------|
+E n leurostelse sont pourdiner	-⌫|---|----|-|---|---|----|
+Lisains honsala porte	-|----|---||-|----|
+es tuen us.	--⌫|---⌫--|
+Sabien lesmes a igiersouisetentendus.	||---|--|---⌫-⌫-----|---|-|--------|
+Quimout dou lensalostede	--|---|---⌫---|||---|-|
+leu rostelconto ient	---⌫|----|-----⌫---|
+Commentlefisaucomte E uphemien	------|-|--|-|----|-⌫-------|
+Etdiso ient	-|----⌫---|
+pouuoien t	--------⌫|
+L egrantduel	-⌫|----|---|
+quele péreetla	--|-|----|-|-|
+m e ́re fe ssoient	-⌫-⌫--|--⌫------|
+Et lag entilpuc elec	-|-|-⌫----|---⌫--||
+on lifis t espouser	-|-|---⌫|-------|
+Maintiou rlauom esquismez ne	----|---⌫||----⌫-|---|--|-|
+lpouonst rouuer.	|-----|-⌫------|
+Arg entnous faut pa rf or cenous	---⌫--|---|---|--⌫|-⌫--⌫-|---|
+co nuie nt r etourner.	--⌫----⌫-|-⌫--------|
+Q uan til ourent	-⌫---⌫|-|-----|
+diné en leure uo nt monter.	----|-||---|--⌫-|------|
+Lisainsho nsoutgr an tio ie	-|----|--⌫-|--|--⌫--⌫|--⌫-|
+quantlesuiteslongnie ́s	----|--|--|---------⌫-|
+Bien pense quil	---|----|-|-|
+nesoitiamezquisn ecerch iés.	-|---|----|---|-⌫|-----⌫----|
+Pageu01P362	----------|
+Couran tuintaumous tier l imagec hiet	------⌫|---|-|----⌫---||----|-⌫---|
+Ia orezbia u	-|---|---⌫|
+miracleetplain degrant pitiés.	------|-|----|-|----|-------|
+Q uantl esmesagezfurent au pe ́ re	-⌫---|-⌫-|------|-----|-|--⌫-⌫-|
+Ilne sourent	-|-|------|
+qu ilestoitdeuen us.	-|-|-----|-----⌫--|
+Adoncquez fu	--------|-|
+li du eldez a mismainten us	-|--⌫-|--|-⌫--|-------⌫-|
+PourlenfantAlex isqui	---||-----|----⌫-|--|
+fuaDieurendus.	-||---|------|
+Il estoit en Al phis	-|-----|-|--⌫---|
+deuantle saintimage	-----|-|----|----|
+En Dieuseru irauoitsibienmi sson	-|---|----⌫-|----|-|---|--⌫|--|
+orgu el dece	----⌫-|-|-|
+monde ne prisoitun	----|-|------|-|
+Mez puisrechu tilmort	--|---|-----⌫|-|---|
+ensonpr oprehe ritage.	-|--|--⌫---|--⌫------|
+EnAlphislaci téfubiend is	-|-----|-|--⌫--|-|---|-⌫-|
+Nus po ureset desch aus souuentgisoit	--|--⌫---|-|-----⌫--|------|-----|
+Etdesous les es taus o l espourez	-|-----|--|--⌫---||-⌫-|-----|
+Et s inestoitil pasparnat uretruan s.	-|-⌫||-----|-|--|--|---⌫--|-----⌫-|
+Pa r les d is et	--⌫|--|-⌫-|-|
+ilfuenlacon tr ée	-|-|-|-|---⌫--⌫--|
+Ne fis tsifortiuer	-|---⌫|-|---|---|
+Q ueulituo usitgezirsa	-⌫|-|--|--⌫---|----|-|
+c harfu s i usée	-⌫--|-|-⌫|----|
+Miex sem b loit mortque uifcarch acuneu esprée	---|---⌫-⌫---|---|--|--|--|--⌫----|-⌫------|
+Pa geu0 1P363	--⌫----⌫----|
+ueloitduquez atant	-----|-----||---|
+quematiness onnoient	--|------|-⌫-------|
+Lespretrez ala port edu moutierletrou uoient	--|------||-|----⌫|-|------|-|----⌫-----|
+Souuent f au s papel art	------|-⌫--⌫|-----⌫--|
+et la rro nle clamo ien t	-|--⌫---⌫|-|-----⌫---⌫|
+Ilne leu rd isoit riensforsqu e	-|-|---⌫|-⌫----|----|---|--⌫|
+pechiéfessoient .	------|---------⌫|
+M out souuentfudezp o urezledengie z	-⌫--|------|-|--|-⌫-⌫---|--------⌫|
+M eztout coisse	-⌫-|---|---|-|
+tessoit commes il fu s ttout m us	------|----||-|--⌫-⌫|---|-⌫-|
+Ilnese fezoitpa senparlez ne ag us	-|-|-|-----|--⌫|-------|-|--⌫-|
+Nulmau uez motnep outd esaboucheestrei sus.	--|---⌫--|--|-|-⌫--|-⌫|-|-----|----|-⌫---|
+lau ierge Marie	-|-⌫----|----|
+Deuants onsaintimag ee stoitiusqu e a conp lie	-----|-⌫-|----|----⌫|-⌫----|-----⌫||----⌫--|
+Co n fermoit lemoutierlors	|-⌫|------|-|------|---|
+pourcach o it sa uie.	--------⌫-⌫-|-|---|
+Tan t que uint	---⌫|--|---|
+unefoi sauneaubees clesrie	--|---⌫||--|---|--⌫------|
+U ngeuneclercpasoit deuantlesaint imaige	-⌫|----|----|-----|-----|-|----|-----|
+Pouralumerlez	---|-----|--|
+l ampezcarillauoitd usaige	-⌫----|--|-||----||-----|
+Notre Dameli distAm isfai	----|---|-|---|--⌫-|--|
+monmesaige	--|------|
+Ch iensrepair eunhommec o ndoittenirpoursaige	--⌫---|------⌫|-|----||-⌫|---|----|---|----|
+Il a dis etsetansen cesteuil le	-||--|-|--|--|-|----|---⌫-|
+m oys ouffertmaintegrantpoureté.	-⌫-|-⌫------|-----|----|--------|
+Pageu01P3 64	---------⌫-|
+ua tantos tsilequier tant	-|------⌫|-|-|----|---|
+Ieueul c on leconnoi se	-|---||-|-|------⌫-|
+e t sa tres grant bont é.	-⌫|-|---|----|----⌫--|
+Le clercoutmou tgr anti o ie quant	-|----|--|---⌫|--⌫--|-⌫-⌫-|----|
+cesmosent endy	--|--|---⌫---|
+Ine lemen tet tost de lachapeleiss y	---⌫-----⌫|-|---|-|-|------|---⌫|
+Alexisencontra	-----|-------|
+trois f oispar deuant	----|-⌫--|--|-----|
+Me ziamez necu idast pou ruoirq ue fust cel uy	--⌫|----|-|--⌫----|---⌫|---|-⌫-|---|---⌫-|
+Quelauierge Marie li	--|-|-----|----|-|
+enuoioit cherquier	-------|--------|
+Car pluse urs foisl auoit bou téhorsd u mo ustier	--|-----⌫--|---||----|---⌫--|---|-⌫|--⌫-----|
+Etc lamépapelartet rib autp autonnie r.	-|-⌫----|-------|-|---⌫--|-⌫--------⌫-|
+Leclerc a usaint ym aige s en	-|----|-⌫|----|--⌫---||-|
+retourn aarie r	-------⌫|----⌫|
+Enplourantlidi st Dame par	-|-------|-|--⌫-|---|--|
+Dieule toutpuissant	---|-|---|-------|
+Ie n epuis nultrouuer qui	-|-⌫|---|--|------|--|
+Uneuois lia ditTrouuer le	--|---|-||--|------|-|
+peus sea nt	---|---⌫-|
+Laderi ereceluissesse t	-|----⌫--|--|--|--|--⌫|
+seaum esdisa nt.	-----⌫-|----⌫--|
+Lecl e rcpour	-|--⌫-⌫-|---|
+sifezmosfuforment	-|--|--|-|------|
+D erier el ui sala s itrouua	-⌫-----⌫||--⌫|--|-⌫|-----|
+De uantlis	--⌫---|-||
+agenouleet lidist D ou s	-------|-|-|---|-⌫--⌫|
+uouseste zunsain shons dec esui ie	---|----⌫|-|----⌫|---|-|-⌫|--|-|
+tou sfi s .	---⌫|--⌫-⌫|
+Pageu01P365	----------|
+uo stre bo n té	--⌫---|--⌫-⌫--|
+nousalong tenses téc el ée.	---||---|---|--⌫--|-⌫--⌫---|
+Quan tAlexis loui	----⌫|-----||--|
+salacoule urmuée	||-|-----⌫-|----|
+Bien s en cuid afuir	---||-|----⌫|---|
+mezle clercahapé e	--|-|----||-----⌫|
+noir eetmesgreet	----⌫|-|-----|-|
+tréshalée.	----|------|
+Par deuantle schanoines	--|-----|--⌫|--------|
+lalatantostmener	|--|------|----|
+Lorsle ur dist comme Di eufis t	---|--⌫-|---|----|--⌫-|---⌫|
+lymageparl er	|----|----⌫-|
+Pourfaire l a bontédu sainthommemontrer.	---|----|-⌫|-----|-|----|----|-------|
+Illeuourenteuesqu eben eiret sacrer.	-|-|------|------⌫|---⌫--|-|------|
+Mez le bon ami Dieunele uout consentir	--|-|--|--|---|-|-|---|--------|
+quepourl ezbi ens dece	--|---|-⌫-|--⌫--|-|-|
+siecle teni r	-----|----⌫|
+Peutonatropgrantpain een par adis	---|-||---|----|----⌫|-|---⌫---|
+saintAlexiscele	----|-----|---|
+n uitbi en serui r	-⌫--|--⌫-|-----⌫|
+I lfutmoutb ien couchié maisilne il	-⌫|--|---|-⌫--|-------|---|-|-|-|
+Car endro itm ienuitquegent	--|-----⌫-|-⌫-----|--|---|
+fuendormie	-|-------|
+e nfuy.Not curedemileco mpagnie.	-⌫----||-|---|-|---|--⌫-------|
+Co urant uinta lamerprestefula	--⌫----|---||-|--|-----|-|-|
+Aueucc eussen ent raquiuouloientp aser.	----|-⌫--||-|---⌫-|--|--------|-⌫----|
+Droita u port	----|-⌫|---|
+deCours ant c uidiéren t ariuer	-|-----⌫--|-⌫---------⌫|-----|
+Pageu01P 366	--------⌫--|
+Mezledo usIhe suCri stfistlabarquetourner	--|-|--⌫-|---⌫-|---⌫-|---|-|-----|------|
+Asetlieuezde Romme	|--|-----|-|----|
+cesachiezsans	-|------|---|
+Quant lebonami DieuuitRo melama gour	----|-|--|--|---|--|--⌫-|-|--⌫---|
+Ou desonhaut lignage	-|-|--|---|------|
+estoi ttoute l af lour	-----⌫|----|-⌫|-⌫---|
+Doucementre clam aletrésdous	--------|--⌫----⌫|-|----|---|
+cre at ou r	---⌫--⌫--⌫|
+Qu illegardast d	-|-|-|------||
+enbatreenter rienonnour	------|-|---⌫---|-----|
+Puis dist Doul xIhesu	---|---|----⌫|----|
+Crist ieneuousise	----|-|-|------|
+Se uo streplezie rfust q uecestene f uertie	-|--⌫---|------⌫|---|-⌫-|----|--⌫|-----|
+Fust enceste	---|-|----|
+contré ecar ceu sdema lignie	-------⌫|--|---⌫|-|-|-----|
+I e c uistme	-⌫|-⌫---|-|
+r enba tro nteuceste mor telui e .	-⌫----⌫---⌫-|-|----|---⌫--|--⌫-⌫|
+ura iDieuconduisiezmoypariteledeu ise	---⌫|---|---------|--|--|----|---⌫--|
+Commede monlignagecharnelneme	----|-|--|------|------|-|-|
+Sel aumone	-||-----|
+monpére iep o uoi e auoirprise	--|----|-|-⌫-⌫---⌫|----|----|
+Iamezie negerroieseur coute	----|-|-|------|---|----|
+nenchemise.	|-|-------|
+AdoncsaintAlexis isi horsdu ue s sel	----|----|-----|--|---|-|--⌫-⌫--|
+Mezpournaientse doute	--|---|-----|-|----|
+domme cha rnel	|---|---⌫---|
+P ageu01P367	-⌫---------|
+Ne sera conneütrop acangié	-|---|------|---||------|
+Ilfumeg rezetlaz.	-|-|---⌫--|-|---|
+Mez biendistqualost el	--|---|---|-|||---⌫-|
+De sonpé re uen d rarequerir aucundon	-|--|---⌫-|---⌫-⌫-|-------|----|--|
+E nRommes e n en tr aapoiantd	-⌫|----||-⌫|--⌫--⌫|------||
+un bourdon.	-|-------|
+Ilencontrasonpe ́requiestoit	-|-------|--|--⌫--|--|-----|
+moutproudon.	---|-------|
+Iao rezcornlefi s mistle pé r e a	-|-⌫--|---|-|--⌫|---|-|---⌫-⌫||
+Illiadit Chier sireueulli ez	-|-||--|----|---|------⌫-|
+mo yhe r bergier	--⌫|--⌫-⌫------|
+QueDieu q ui	--|---|-⌫-|
+enlacroissele ssaclouflchier	-|-|----|-|--⌫--|----------|
+Et lez piez et	-|--|---|-|
+lez ma inse tson c osté	--|--⌫--|-⌫|--|-⌫----|
+uousramain tuostre fis	---|------⌫|-----|--|
+queuousauez t a ntchier.	--|---|---|-⌫-⌫-|-----|
+Quan tlepéreentendilereclainAlexis	----⌫|-|----|------|-|------|-----|
+Moutt endr ementplouradezbiaus iexdeson	---|-⌫----⌫----|-----|--|----|--|-|--|
+Pui sli di stdoucementPele r inbiausamis	---⌫|-|--⌫-|--------|----⌫-⌫-|----|---|
+uousarezbon	---|---|--|
+ostelp u isquel au ezr equis	----|-⌫-⌫----||--⌫-|-⌫----|
+Ou no nde mon	-|--⌫|-|--|
+chier fisque deboncueramoie.	----|--|--|-|--|---|-----|
+Depuisquil melessa	-----|-|-|-|----|
+ie nouparfaicte	-||-|--------|
+Toui oursq uantm ensouui ent dedeulmou rir	----⌫---|-⌫---||-|-----⌫--|-|---|---⌫--|
+Leroy de paradis	-|--|-|------|
+qui touslezbiensenuoie	--|---|--|----|-----|
+ue ulleceus confort erquili	--⌫---|---|-------⌫-|--|-|
+f o n tcourt oisie.	-⌫-⌫-⌫|-----⌫-----|
+Pageu01P3 68	---------⌫-|
+Moutfu en s a geunessesachar	---|-|-|-⌫|-------|-|---|
+souef nourie.	----|------|
+Orne s aige uoirDieu sil estmort	-|-|-⌫-|-|---|---||-|--|---|
+Il adisetsetansque sonordrea	-||--|-|--|--|--|--|----||
+Bien croyqu apuissoufertmainte forteiou rn ée	---|---|-||---|------|-----|----|---⌫--⌫--|
+Carpou re ge ntestr angeesttropmal	--|---⌫-|--⌫-|----⌫---|--|---|--|
+Et leurdist o nsouuent	-|---|---|-⌫|------|
+mainteledegoulé e .	-----|---|------⌫-⌫|
+Ainsicom ilsp arloientsouruint	----|--|--|-⌫-------|-------|
+sa ns demou r ée	--⌫-|-----⌫-⌫--|
+L i unsdespersdeRo mm econnom moit	-⌫|--|--|---|-|--⌫--⌫||-|---⌫---|
+Quidistuen ez	--|---|---⌫-|
+ch iez moipourDieu fra ncpelerin	--⌫--|--|---|---|---⌫-|------|
+Iamezneu ousf aud ra n epainne charne	----|-|-⌫--|-⌫---⌫-|-⌫|---|-|---|-|
+Q uantAlexisloy sit intle ch i e fen clin	-⌫---|-----||-|-|-⌫--|-|--⌫-⌫-⌫|--⌫---|
+EtlidistBiau doussire ieferoiepechié	-|-|---|---|---|---|-|-----|------|
+Quan t ceualantprodomsma	----⌫|-|-----|------|||
+premierherbergié	------|---------|
+Sepour uous	-|---|---|
+le lessoiece sero i tmauu estié .	-|------|-|----⌫-⌫|----⌫------⌫|
+re nde lez biens quemauez	--⌫--|--|----|--||---|
+Qua ntla m é reAlexisui t	---⌫-|-|-⌫--⌫-|-----|--⌫|
+quonlui uout tollir	-|-|--|---|-----|
+A so nseig neuraditPa r	|--⌫|----⌫---||--|--⌫|
+Dieu i ai grant dezir	---||-|----|----|
+Deherbergier	-|---------|
+cep ou r e q ue	-|-⌫--⌫-⌫|-⌫-|
+Dieuparsonple zir	---|--|--|---⌫--|
+Dointam onfiexcou r age	----||-⌫-|---|---⌫-⌫--|
+quil puisse reu e nir.	-|-|-----|---⌫-⌫---|
+P ageu01P369	-⌫---------|
+Lors ad istAlexi s ason	---||-⌫--|-----⌫||--|
+pére brem e nt	----|----⌫-⌫-|
+uostre ostelm o troiate zsirepremi erem ent	-----|----||-⌫-------⌫|---|-----⌫----⌫--|
+Deso usuostr e	----⌫-|-----⌫|
+d e gr équi d upalez descen t	-⌫-⌫--⌫-|--|-⌫|----|------⌫|
+Fran shons m e ueul	----⌫|---|-⌫|---|
+couchier siuousuien ta tal ent	-------|-|---|----⌫||---⌫--|
+Cariesuismout ma lad ezet	--|-|---|---|--⌫---⌫-|-|
+plaindenfer meté .	----||-----⌫-----⌫|
+Du reliefm edonrezq uant onaradigné	-|-----|-⌫|-----|-⌫---|-|--|-----|
+Etieprier ai	-|-|-----⌫-|
+Dieuparbonneuolente ́	---|--|----|-------⌫|
+Queuostre fiex uousre nde c	--|-----|---|---|--⌫--||
+aueztantd eziré.	---|---|-⌫------|
+—Bon shonscedistlepére	|---⌫|---|-|---|-|----|
+nete faut e sma ier	-|-|---|-⌫---⌫--|
+fe raias e t et	--⌫--|--⌫-⌫|-|
+p ainetuinbaillier	-⌫--|-|--|-------|
+Eten ma mestre chambre fe raito ncors couch ier.	-|-|-|-----|------|--⌫--|--⌫|---|-----⌫---|
+Que Dieuueullemon f iexAl exish erb ergier	--|---|-----|--|-⌫--|--⌫---|-⌫---⌫-----|
+A leureque lame ́reouy	||---|--|-|--⌫--|--|
+nomm er len fan t	----⌫-||--⌫---⌫|
+en goiseq u elau asezpoins detord ant	--⌫----|-⌫|-||-⌫|--|----|------⌫--|
+S onfie x enout piti émez n enfist	-⌫-|---⌫|-|--|----⌫-|--||-|---|
+nulsemblant	--|-------|
+Car i lsedoutoit mou ̂t qu	--|-⌫|-|------|---⌫-|-|
+onl alas t rauissa nt	-||----⌫|-------⌫-|
+uraiDieu distilem b as quiessouuerainpére	---|---|---|-|-|-⌫-|--|-|--------|----|
+Commecestgrantamour	----||--|----|----|
+q ue d enfant etdemére	-⌫-||-----|-|-|----|
+S ilmereconnoisoie nti	|-|-|------------⌫-||
+entre roie en	-----⌫---|-|
+granthére.	----|-----|
+Adonque zdistle c onteasa uoi squil	-------⌫|---|-|-⌫---||-|---⌫|-|-|
+outc lé r e	--|-⌫---⌫-⌫|
+Pageu 01P370	-----⌫-----|
+Ilme faut un	-|-|---|-|
+sergant quimegart	------|--|-|---|
+cepaumier.	-|-------|
+Bi enuoyqu il est malades derepos a me stier.	--⌫-|--|-|-|--|------|-|----||--⌫-----|
+Quile megardera ilarabon	--|-|-|------|-|--|--|
+Pourt an t queillifacetrestoutson dezirier.	---|-⌫--⌫|--|-|-|---|-------|--|--------|
+Un des escuiersdist Ie menmet enpr e sen t.	-|--|-------|---|-||-|--|-|--⌫-⌫---⌫-|
+Ie le garderaibiennon	-|-|-------|---|--|
+paspou ruostreargent	--|---⌫|-----|-----|
+Mezpour uostre chier fisq ueiamoieforment	--|---|-----|----|--|-⌫-||----|------|
+Feraya ubonpaumi er	----|-⌫|--|-----⌫-|
+dutoutasontal e nt.	-|---||--|---⌫-⌫--|
+Acesmosestlecomte en	|--|--|--|-|----|-|
+Son fiexet leseriant	--|---|-|-|------|
+sont enl acourtentrés.	---|-|-⌫|----|-------|
+Alexisluidist Sirequa ntg ard erme deués	-----|--|---|---|---⌫-|-⌫---⌫-|-|-----|
+Ieuo uspri queies oiecouchiésous	-|--⌫-|--|--|-|-⌫--|-------|---|
+le s degrés.	--⌫|-------|
+Le se r iantAlexissous lesde grezmena	-|--⌫-⌫---|-----|---|--|--⌫---|---|
+Lezpie z en iauechaude d oucementlila ua	--|---⌫|-|---|-----|-⌫-------|-|--⌫-|
+Puis lidist Dous	---|-|---|---|
+amiss oiezu ous un poycha	---|-⌫---|-⌫--|-|--|--|
+Couteetblansdrasuoisquere ou on uous	----|-|----|---|---|----|-|-|---|
+co uch era.	--⌫---⌫---|
+Alex isliadis tBiau s	----⌫-|-||---⌫|----⌫|
+amisnonferez	---|--|----|
+Ca riamezioursusco ute negierrontmescotez	--⌫|----|---|--|--⌫--|-|-------|--|----|
+Me zunepoingnant nate siluous	--⌫|--|--------|---||-|---|
+plai tmaportez.	----⌫||-------|
+— uolentier sbiau d ous sire	|---------⌫|---|-⌫--|---|
+distil quantleuoulez.	---|-|----|-|------|
+Page u01P3 71	----⌫-----⌫-|
+Les eri a nt quis tlanate et la	-|-⌫---⌫-⌫-|----⌫|-|---|-|||
+p ortaenleure	-⌫---|-||---|
+Alexis l ouaD ieupuis	-----|-⌫--|-⌫--|---|
+secouchades eure.	-|-----|---⌫----|
+li fezoit son plezirsans	-|-----|--|-----|---|
+Cellequi les pousa	----|-|-⌫|--⌫----|
+amour souuent	----|------|
+Alexi s a lonctenssousles degrésgeü	-----⌫||-------|---|--|------|---|
+Sonchier p éreetsa	--|----|-⌫---|-|-|
+mére lontmaintes	----||--|------|
+Ausifistlapucel e quitantlot aten du.	---|---|-|-----⌫|--|---||-|----⌫--|
+Mezonquez nep o ut estrepa r	--|-----|-|-⌫-⌫-|----|--⌫|
+nu ld eus coneü.	--⌫||--|------|
+Bonnesgensmoutfess oi tc e	-----|---|---|----⌫--⌫|-⌫|
+s aintcor p s aprizier	-⌫---|---⌫-⌫||------|
+Quiauoit sigrantter resous	--|----|-|----|---⌫-|---|
+l ia i ustisier	-⌫||-⌫-------|
+E tsi uouloitpourDieu soussondegré	-⌫|-|------|---|---|---|--|-----|
+couchi e r.	------⌫-⌫-|
+Touioursquant le seriantl i donnoit	-------|----|-|------|-⌫|------|
+a meng ie r	|----⌫--⌫|
+Lereliefquiuenoitdugrantpalaishautain	-|-----|--|-----|-|----|-----|------|
+Lesa int ho ns nen usoitdece	-|--⌫--|--⌫-||-|----|-|-|
+soiezcert ain	----|----⌫--|
+Forslemain s q u ilp ouoi t pourestancie rsa fai m	---|-|----⌫|-⌫|-|-⌫----⌫|---|--------⌫|-|---⌫|
+L autrefezoitdonner.	|----|-----|------|
+Toutesto i tson reclain	---|----⌫-⌫|--|------|
+EnIhesuCristseru ir	-|----|----|----⌫-|
+e t du cueraourer	-⌫|-|---|-----|
+Ilnauoitson de duitquen	-||----|--|--⌫---|-|-|
+sautierrecorder.	------|--------|
+Souuent uitson	------|--|--|
+chierpéreet	----|----|-|
+samé repaser	-|---⌫-|----|
+Etlafran cepucelec onli fist es pouse r	-|-|----⌫-|-----||-|-|---|--⌫-----⌫|
+Pageu01P372	----------|
+Mez ilnauoittal en t	--|-||----|---⌫--⌫|
+d e conterson affaire .	-⌫|-----|--|-------⌫|
+Lapucele qui fucou r toiseetdebonnaire	-|-----|--|-|---⌫-⌫----|-|---------|
+Le uis i toit s ouuentmez	-|---⌫-⌫---|-⌫-----|--|
+sachiezsans retra ire	------|---|-----⌫--|
+Seb ienl e conneüst tropmiexliuousitfa ire.	-|-⌫--|-⌫|--------|---|---|-|-----|--⌫---|
+Sa u oit ellede li	|-⌫-⌫--|---|-|-|
+enso ncuer	-|--⌫|---|
+gra nt p ité	---⌫-|-⌫---|
+Alexis qui se nestoit alé .	-----|--||-⌫|-----|----⌫|
+L ezseriansde	-⌫-|------|-|
+l ost elontlesai ntc ors	|---⌫-|--|-|---⌫-|-⌫--|
+M outsouuentli fezoientasez de cruauté.	-⌫--|------|-|-------|---|-|--------|
+Pa pelartl e clamoient et	--⌫-----|-⌫|--------|-|
+truantetbricon	-----|-|-----|
+Mout souu entliietoientau nezetau menton	---|----⌫--|-|-------|-|--|-|-|-----|
+Laueureze tor durezm ez tante s toit preudon	-------|-⌫|--⌫----|-⌫-|---|-⌫-⌫---|------|
+QueI hesuCristprioit	--|-⌫---|----|-----|
+feïs tpard on	-----⌫|----⌫-|
+Etparsasainte gracelezgardastdemesprend re.	-|--|-|-----|----|--|------|-|--------⌫--|
+S il se uousitnommeril l ez	|-|-|-----|-----|-|-⌫-|
+feïstto uspendr e .	-----|--⌫-|-----⌫-⌫|
+Unio urdeRouuesonsuoutson pé redescendre	-|--⌫-|-|--------|---|--|---⌫-|--------|
+Dupalaisaudegré s enuint sansplus	-|-----|-|-----||-|---|---|---|
+Lepéreuitsonfiex	-|----|--|--|---|
+elpouregrabaton	-|----|-------|
+Ils apro chade li etle mist	-||----⌫--|-|-|-|-|---|
+Et dist Crestien frère	-|---|-------|-----|
+nes ainommertonn on	-|-⌫-|-----|--|-⌫-|
+Dimoy sil t efa utr i ensq uisoi t en	-|--||-|-⌫|--⌫-|-⌫-⌫--|-⌫-|---⌫|-|
+Lisai ns hons li	-|---⌫-|---|-|
+aditBien nommermesauez	|--|---|-----|-|----|
+Pageu01P373	----------|
+suis cres tienenbaute sme nommez.	---|----⌫---|-|-----⌫--|------|
+Dieuuous rend e	---|---|----⌫|
+uo s biens certezienaiasez.	--⌫|----|-----||-|-|----|
+Etu ousramaintl enfan tquetantuous	-|-⌫--|------||-----⌫|--|---|---|
+—Bons homscedis t son	|---|---|-|---⌫|--|
+pére pourDieude	----|---|---|-|
+pa r adi s	--⌫-⌫---⌫|
+Pou rcoyram entoi stu monenfa nt Alexi s	---⌫---|---⌫-----⌫|-|--|----⌫-|-----⌫|
+Quantilnestreto urne ́certezi ln	----|-||--|----⌫----⌫|-----|-⌫||
+est pas uis.	--|--|---|
+quantm ensouuient. Ple urants enestpartis.	----||-|--------|---⌫----||-|--|------|
+Ata ntesuous	---⌫-|-|---|
+horsde lach am bre isue	---|-|-|--⌫--⌫--|---|
+Et estsousle degr éde uantsonfiexuenue	-|--|---|-|----⌫-|--⌫---|--|---|----|
+Etlapuceleausiquifumou t	-|-|-----|---|--|-|---⌫|
+Quantl y sainshonslesuitto ut lesancli	----|-⌫|----|---|--|--|--⌫-|-|---|-|
+lezosa les ai ntara isonne r	--|--|-|-⌫--⌫-|---⌫------⌫|
+P o ur c equ eilnefustco n neüs	-⌫-⌫-|-⌫|--⌫|-|-|---|--⌫-⌫----|
+auparle r.	-|-----⌫-|
+Ladamepris t tantost	-|---|----⌫|------|
+Etiladist Pucele formentmedoit	-|-||---|-----|------|-|---|
+Dec epoure ho melaquisouscedegré	-|-⌫|----|--⌫-|-|--|---|-|-----|
+Iecroybienquilm ehet onque z riens	-|---|---|-|-|-⌫|--|-----⌫|----|
+Fe sson lises dra piauslauer pour	--⌫---|-|--|---⌫----|----|---|
+Ih esuCri st	--⌫--|---⌫-|
+il ne uiura m ezguereztropf ormentaflebist.	-|-|----|-⌫-|-----|---|-⌫-----|--------|
+Pageu01P374	----------|
+Lapucelelidistqui fuc ourtoiseetsa ge	-|-----|-|---|--|-|-⌫-------|-|--⌫-|
+tre pasechiensceseragrantout rage	---⌫---|-----|-|---|----|---⌫---|
+Sene sauonsenchoi sson nomet	-|-|-----|------⌫|--|--|-|
+sonlignage.	--|-------|
+Alons parlera	----|-----||
+lisis aron soncourage.	-|-|-⌫---|--|-------|
+La damelidis tFileparfoyiy uois	-|---|-|---⌫|---|--|--|||---|
+Tousioursq uantler e g ardeme souuientd Alexis	--------|-⌫---|-|-⌫-⌫-⌫---|-|-------||-----|
+l u isemble de la boucheet du	-⌫-⌫|-----|-|-|-----|-|-|
+Duduelquay de mon	-|---|-|-|-|--|
+fisie mouraiai nsmezdis.	--|-|-----|--⌫-|--|---|
+No npourquantalons ypuisquestuost re	--⌫|--------|----||---|-|--|----⌫-|
+Sous lesdegrezal érentploura n t m out t endrement.	---|--|-----|--⌫-----|------⌫-⌫|-⌫--|-⌫---------|
+Alexis demande ́re ntson	-----|-------⌫---⌫-|--|
+nom trés b onneme nt.	--|----|-⌫------⌫--|
+Il leurdistCrestien	-|---|---|-------|
+suisnommés	---|------|
+urai ement.	----⌫-----|
+Q uantilou td itcesmosmiex	-⌫---|-|--⌫|-⌫-|--|--|---|
+qu ilpout s	-|-|---||
+estdreciez	--|------|
+etlapuceleembracha parlespiez	-|-|-----|-------|--|--|---|
+Etdi stMerciuouspri	-|--⌫-|----|---|--|
+p our les Dieuamitiez	-⌫--|--|---|------|
+Carbien s ay qu epourmoyauez les	--|---|-⌫-|--⌫|---|--|---|--|
+cuer s cou rciez.	----⌫|---⌫-----|
+—Bons honsdientles dame spourcoy requier s mercis	|---|---|----|--|----⌫|------|-------⌫|-----|
+Onque zio urde ta ui er ien nenou s meffeïs.	-----⌫|--⌫-|-|-|--⌫|-⌫--|-|---⌫|--------|
+— Si ayfaitdist	|-|-|---|---|
+nomméAlexis	-----|-----|
+Quantuinge n cest	----|---|-⌫|---|
+os telsicommeilm estau i s	--⌫--|-|----|-||--|--⌫-⌫|
+Page u0 1P375	----⌫--⌫----|
+ueni te z s o uscedegréuer smi	----⌫--⌫|-⌫-⌫-|-|-----|---⌫|-|
+Quetoutezdeus pleurant neparti siez de ci.	--|-----|---|-------|-|-----⌫---|-|--|
+Ie uousaicourouci ési u ous requier mer ci	-|---|-|--------⌫-|-|-⌫--|------|---⌫-|
+Car ietrepaseraibrementi e l e	--|-|---------|------|-⌫|-⌫|
+Quantlesdamesloïrent s ontd epitiép louré	----|--|----||------||--|-⌫|-----|-⌫-----|
+Mo ut do u cemen tliontsonmef f aitpardon né	--⌫-|--⌫-⌫-----⌫|-|--|--|---⌫-⌫--|------⌫--|
+Ploura ntsensont	------⌫-||-|---|
+part i ezetile s t demouré.	----⌫-⌫-|-|-|-⌫-⌫|--------|
+—Dis etse t	|--|-|--⌫|
+ans entiersilauoitia	--|------|-|----|-|
+aut ant estéen lacitédAl phis	---⌫--|----|-|-|----||--⌫---|
+Conquezneb ut	|-----|-|-⌫-|
+d e uinn ene iust	-⌫|--|-⌫|-|---|
+enbonslis.	-|---|---|
+Li sains h o nsqui	-|----|-⌫-⌫-|--|
+s ent oits onc orsmoutafeblis.	-⌫---⌫--|-⌫-|-⌫--|---|-------|
+Apelaso n seiiant et l idist	----|--⌫|------|-|-⌫|---|
+Soie zcertainbiaufre ̀ reiemourra ile	----⌫|------|---|---⌫-⌫-|-|------⌫|-|
+Iene taiqu e	-|-||-|--⌫|
+Tonserui seterende	--|-----⌫-|-|----|
+celui qui e st sansfin.	----|--|-⌫-|---|---|
+MaispourDieuuam e	---|---|---|-|-⌫|
+quere enqueetbonpar chemin.	----|----|-|--|---⌫------|
+Qua n tleseriant	---⌫-⌫|-|------|
+l oy sienout	|-|-|-|--|
+grantpité	----|----|
+Carmout bienleseruoite n	--|---|---|-|------|-⌫|
+finelo iauté	---|--⌫-----|
+Pageu01P376	----------|
+Duel o utquant e ntend iqu ilseroitt respa sé.	---|-⌫-|----|-⌫-----⌫|-|-|-----|-⌫-----⌫---|
+E nqueetbonpa rchemin lialors apo rté .	-⌫---|-|--|--⌫------|-||---|---⌫----⌫|
+Adonc saint Ale xi sescrip tt oute sa	----|----|---⌫--⌫|------⌫|-⌫---|-|
+Puisploiaenlaleitrede l anella	---|----|-|-|-----|-||---|-|
+Do ntespousa labele quepour	--⌫-|------|-|---|--|---|
+Dieuout guerpie.	---|--|-------|
+Lebref m ist en s ama inpui sdi sta uois	-|---|-⌫--|-|-⌫|--⌫-|---⌫|--⌫-||---|
+Quiluoul oi t receuo ir ledous	-|-|----⌫--⌫|------⌫-|-|---|
+cors IhesuCrist.	---|----|-----|
+Quantl o tpri s les deusmai ns	----||-⌫|---⌫|--|---|---⌫-|
+enc roi ssus	-|-⌫---⌫|--|
+sonpis mi st.	--|--|--⌫--|
+Ado ncleroydezroysun	---⌫-|-|--|--|---|-|
+angrel i t ranmist	----|-⌫|-⌫------|
+Qu i distAmis tuase n paradiston	--⌫|---|---|-|-|-⌫|------|--|
+Aprezuintuneuoisp a rmi Rommecriant	----|---|--|---|-⌫-⌫--|----|-----|
+ge nsouirentlipetit etli gran t	--⌫-|------|-|----|-|-|----⌫|
+Qui dist Q ue f aitezuo uspece eur nonsachant	--|---|-⌫-|-⌫----|--⌫-|----⌫--|--|------|
+Quant uous n alezquer i rleIhes uCr istseriant	----|---||---|----⌫-⌫|-|----⌫|--⌫--|------|
+Qui maintenant sera	--|---------|---|
+decesiecle partis	-|-|-----|-----|
+Susunenategistmoutes t poure s	--|--|---|---|---|--⌫|-----⌫|
+Tous ceux de	---|---|-|
+Romm efure n t ceiou rmoutesbahis	----⌫|----⌫-⌫|-|---⌫|---|------|
+Lapostolle	|--------|
+me ïmezreq uistaDieumercis.	--⌫----|---⌫---||---|------|
+Pageu01P37 7	----------⌫|
+SaintInochent estoitpapeenice lui tans	----|-------|-----|---|-|---⌫--|---|
+S a u o itdeusroys	|-⌫-⌫-⌫-|---|---|
+aRommequi moutfurent	|----|--|---|-----|
+nomméAcai re	-----|----⌫-|
+lau treH onorelifrans	|--⌫--|-⌫----|-|----|
+Lesde usestoientfrére z s ifure ntmout	--|--⌫-|-------|------⌫|-⌫|----⌫-|---|
+Detrouue rlesaintcors	-|------⌫|-|----|---|
+dont lauo iso u tpar lé.	---|-|--⌫-|-⌫-⌫|---⌫---|
+Toutlepeuple	---|-|-----|
+en requist lasainteTrinité.	-|------|-|-----|--------|
+Une uo i s leur a di st quil ne seroit	--|--⌫-⌫|---||--⌫-|-|-|-|-----|
+Fors c hiezEuphemien s contedela	---|-⌫---|---------⌫|----|-|-|
+Qu ant le saint apostole ouytc este resson	--⌫--|-|----|-------|---|-⌫---|-----|
+Que Eup hemiensa u oitlecorsensamesson	--|---⌫------|-⌫-⌫--|-|---|-|-|-----|
+Liettoutle clergiéiuindrent derando n	-|-|---|-|-------||-------|-|-----⌫|
+Et les deusrois	-|--|---|---|
+maint au trebaron.	----|--⌫--|-----|
+Chacunpeu tbien sau oi rquilfut moult esbahiz	-----|---⌫|---|---⌫--⌫|-|-|--|----|------|
+Qu antilui tt antde gensentrer	--⌫--|-|--⌫|-⌫--|-|---|-----|
+ensonpourpris.	-|--|--------|
+lui d em andérentdontil	--|-⌫--⌫--------|---|-|
+fub ienmarris.	-|-⌫--|------|
+Ilditquiln	-|--|-|-||
+enscet rienne	-|---|---|-|
+lu iu ault de uxesp is.	--⌫|-⌫---|--⌫-|---⌫--|
+Q uant partoutsonmanoirontenq uiset	-⌫---|--|---|--|-----|--|---⌫--|-|
+Ils distreu t quel eco nte	--|-------⌫|--|-⌫|--⌫--|
+ser aamortliuré	---⌫||---|-----|
+Pageu01P37 8	----------⌫|
+Selesaintcorps	-|-|----|----|
+n ens eigne ma isilleuraiuré	|---⌫----|--⌫-|-|---||----|
+Quoncquesiou r ne	-|------|---⌫|-|
+le ui t. Plourant se nestalé	-|--⌫-|-------||-⌫|--|---|
+Samesniehucha dusaint corps leur en q uist	-|-----|----|-|----|----|---|--⌫-⌫---|
+Mais iamaisn e cu i dass ent(ce saichez sansrespi t )	---|-----|-⌫|--⌫-⌫----⌫--|--|------|---|-----⌫-⌫|
+Quecefus t lepoureh omme qu isous	--|-|---⌫|-|----|-⌫---|--⌫|---|
+Aqui souuente foisauoient	|--|--------⌫---|------|
+faitdespit.	---|------|
+Lors fuE uphemi ensmoutfor me ntesbaïs	---|-|-⌫------⌫--|---|---⌫--⌫-|------|
+Que deusroyssiestoi ente nsonpalaisuout is.	--|---|---|-|-----⌫--|-⌫|--|-----|----⌫--|
+Mez la gentilpucelefu de uantAlexis	--|-|-----|-----|-|--⌫---|-----|
+Q uiiezoit su r lanat emout litroubloit le	-⌫-|-----|--⌫|-|---⌫|---|-|--------|-|
+Bons hons dist la puceleie croi queuous mou rez.	---|---|---|-|-----|-|---|--|---|---⌫---|
+estuoirdistilsuerbe l eprochainemen tsaurez	--|---|---|-|---|--⌫-⌫|------------⌫|-----|
+Dequel lignage suis neen	-|---|------|---|-|-|
+Mezdune seul lechoze suisforme nteffraiez	--||--|----⌫-|----|---|-----⌫-|-------|
+Carieuoi a	--|-|--||
+mez piezlez	--|---|--|
+anemisdenfer	-----||----|
+Q uilame dem oyc u identauoi r autrespaser	-⌫-||--|-|-⌫-|-⌫-⌫----|----⌫|-|--------|
+Mezieu oichasusdestrelessains	--|-|-⌫-|--|--|-----|--|----|
+angr ez chanter.	----⌫-|-------|
+PourDieut rezdoucesuerpensezd e bienouure r	---|---|-⌫--|----|---|-----|-⌫|---|-----⌫|
+Sique parbo nnez e uurezc on quer ezp a ra dis.	-|--|--|--⌫---|-⌫----|-⌫--⌫----⌫-|-⌫-⌫--⌫---|
+Ienaypas amoncorsfaitmoutde	-||-|--||--|---|---|---|-|
+Pageu01P 379	--------⌫--|
+doutie mou t dez	---|-|---⌫|--|
+lazans anemi s.	--|--|-----⌫-|
+Douces uer	----|-⌫--|
+Dieu uou s	---|---⌫|
+rende les biensquem auezquis.	----|--|----|--||---|----|
+prie que f ac iezmoncors enseuelir	---|--|-⌫--⌫--|--|---|--------|
+Mez plusprochains amis me uenront enfouir	--|---|--------|---|-|------|------|
+Etunefr anched am e	-|--|--⌫----|-⌫--⌫|
+pourDieug uerpir.	---|---|-⌫------|
+Quantlapu cell eloutsidistsan salenti r	----|-|--⌫----⌫||--|-|---|---⌫|------⌫|
+Sire de pr ezd ici	---|-|--⌫-||--|
+sontdoncuostre parent	---|---|-----|-----|
+Or plusne poutparler le	-|---|-|---|-----|-|
+c orsquil am e	-⌫--|--||--⌫|
+Les a ngrezlemporte ́rent deuantDieu	--|-⌫----||-------⌫----|-----|---|
+Lessain spartouteRo mmesonnérenth aut eme nt	--|----⌫|--|----|--⌫--|---------|-⌫---⌫---⌫-|
+S ansceconlez tirast chacun	-⌫--|-||-|--|-----|-----|
+sonnoitpar	------|--|
+Qu ant lagent il puceleo utle mirac leoui	--⌫--|-|----⌫-|-----|-⌫-|-|-----⌫-|--|
+For mentserepentoit	---⌫---|-|--------|
+quenel outmiexserui.	--|-||--|---|-----|
+L esergent ui nt auconteet	-⌫|------|--⌫-|-|----|-|
+il a dist ai nsi	-||---|--⌫--|
+To utbaseten l ore ile	--⌫-|----|-||---⌫--|
+Frans hons lebo n paumie r	----|---|-|--⌫|------⌫|
+fetdi s et	--|--⌫|-|
+se tanssoustonde grécouchier	--⌫|--|---|--|--⌫---|-------|
+Tresp asaorendroitbiencroi queDieu lachier.	-----⌫--|--------|---|---|--|---|||-----|
+Quantleconte	----|-|----|
+sii u i ntsan star gie r.	-||-⌫-⌫-|---⌫|---⌫---⌫-|
+Pa geu01P3 80	--⌫-------⌫-|
+Lesaintcors regarda quiiaestoit	-|----|---|------|--|-|-----|
+Iln ecui d astia me zquecefust	-|-⌫|---⌫-⌫--|--⌫--⌫|--|-|---|
+s onchierfis.	-⌫-|----|---|
+uit sesmai nscroisiezsussonpi s	--|--|---⌫-|-------|--|--|--⌫|
+Enluneuitl a	-||--|--|-⌫|
+laitre lorsfu tout	-----|---|-|---|
+Moutbienlac uida prendremezne	---|---|-|-⌫---|------|--|-|
+lapoutauoir.	-|---|-----|
+grandd uelle conteetdirelecuernoir.	----|-⌫--|-|----|-||--|-|---|----|
+Tantostsen uinta u	------||-|---|-⌫|
+pa pesi lif istas auo ir	--⌫-|-|-|-⌫--||-⌫---⌫-|
+Qunshonsesttres pasésous	|--|---|--|----⌫----|---|
+sondegr épour	--|----⌫-|---|
+Dixet septansentier sa	--|-|---|--|------⌫||
+chiensdemouré	-----|-------|
+Unbriefti e nt	-|----|--⌫-⌫-|
+ensamainbienprendre	-|-|---|---|------|
+laycuid é	|-|----⌫-|
+ueultlais sier bi en	----|----⌫---|--⌫-|
+prisen g ranthé	---|-|-⌫---|--|
+Car troppo urementlayen sonmalregardé.	--|---|--⌫------||-|-|--|--|--------|
+Iecr oi bienquecesoit les aint	-|--⌫-|---|--|-|---|-|-⌫---|
+corsquequeron.	---|--|------|
+Lapostoleo utgranti oie carmoutesto itpro d o n.	|-------|-⌫-|----|-⌫--|--|---|----⌫-|---⌫-⌫-⌫-|
+Dessouslede gré	------|-|--⌫---|
+uintetliautr e	---|-|-|----⌫|
+Trestoussag enoul ié renten gran t	---|---||--⌫-----⌫---⌫---|-|----⌫|
+deuoc io n	-----⌫--⌫|
+Et depriérentDieudebon	-|----------|---|-|--|
+c uerfermem e nt	-⌫--|------⌫-⌫-|
+Pageu 01P381	-----⌫-----|
+Quilsachentducorss aintleuieplainement	-|-|------|-|---|-⌫---|-|--|---------|
+Etde quel lieuilestetqui sont	-|-|---|---|-|--|-|--|---|
+si parent .	-|------⌫|
+Lorsse le ualepapetr es toutpremi eremen t	---|-|--⌫-|-|---|--⌫--⌫---|-----⌫------⌫|
+uers lamaindusaint	---|-|---|-|----|
+cor ss abesseethumilie	---⌫||-----|-|------|
+Ilaprise la lestrele	-||----|-|-----|-|
+s aint lia lessie.	-⌫---|-||------|
+De zp loierla cuidaet uo ut liresa uie	--⌫--⌫----|-|----|-|--⌫-|---|-|--|
+MezledousIhesuCristnele	--|-|---|----|----|-|-|
+c onsentimie	-⌫------|--|
+Cardes mainsl apo st olela	--|--|----||---⌫--⌫--|-|
+laitresenyssy.	-----||-|----|
+Ousainalapucelepardeuant	-|---||-|-----|--|-----|
+Q uitre nteet quatre ans	-⌫-|---⌫--|-|-----|--|
+out atendusonma ry.	--|-----|--|--⌫--|
+Tousceusq u ila	---|---|-⌫-⌫|-|
+estoienten	-------|-|
+furent esbahy.	-----|------|
+Mez le dous IhesuCr ist lefistp our	--|-|---|----|--⌫--|-|---|-⌫--|
+C ordred emariagefait f ormenta	|----|-⌫|------|---|-⌫-----||
+Quant desu slespous éef i st lal est re	----|----⌫||------⌫--|-⌫-⌫-|-|-⌫---⌫-|
+Sus pérene	--|----|-|
+uo ut e nuoier.	--⌫-|-⌫------|
+Personneestbienchetiue	-------|--|---|------|
+quirontson	--|---|--|
+Dezlors reni eDieuets emeten	--|---|----⌫|---|-|-⌫|--|-|
+D ez anemisde nfer qui	-⌫-|-----||-⌫---|--|
+plainsderage .	-----|-|----⌫|
+L apos tol e	|----⌫---⌫|
+pucelesag e	-----|---⌫|
+Etlidist Belesuerbiencroi que soiezbonne	-|-|---|---|---|---|---|--|----|----|
+Pageu01P382	----------|
+QuantDi eupar	----|--⌫-|--|
+deu ant touscestelestreuous	---⌫--|---|----|-----|---|
+Fes tezla tantostlireaaucun epersonne.	---⌫--|-|------|---||-----⌫|--------|
+Unsaigec ardin allapuceleares s on ne	-|----|-⌫-----⌫-|-|-----|----⌫-⌫--⌫-|
+Doucementlid ist Sirecestre	--------|-|-⌫--|---|-----|
+lestrelissiez	-----|------|
+Lecar dinalrespont Centmercisen aiez	-|---⌫----|------|---|-----|-|---|
+Quantlam a uezbalie.Auxgens	----|-||-⌫--|-----|--|---|
+dist Co issoyez	---|--⌫-|----|
+Ietruisencestrelaitre(bienueulque lesachiez)	-|----|-|-----|-----|----|---|--|-|-------|
+Quecesai ntcorspour quinous	--|-|---⌫-|---|---|--|---|
+somme sas emblez	-----⌫|--⌫-----|
+FufisEuphemien Ale xisestn ommez.	-|--|--------|---⌫--|--|-⌫-----|
+En cest ostel	-|---|----|
+i lest trespasez	-⌫|--|--------|
+Pourl amou rde	---||----⌫|-|
+Dieua soufertmaintez	---||------|------|
+EnAlphi s lacit e ́fubiend is	-|-----⌫|-|---⌫-⌫|-|---|-⌫-|
+N uspourezetde schauscom me poure	-⌫-|-----|-|--⌫-----|---⌫-|----|
+Au tan tademouréc emmepo urepena n s	--⌫---⌫||-------|-⌫---|--⌫--|----⌫-⌫|
+So uslez degrez sonpére.Lorsfu le	--⌫-|--|-----|--|-----|---|-|-|
+crisigran s	--|-|----⌫|
+Ca painesoïton aRo m meDi eu	||-----|---|-||--⌫-⌫-|--⌫-|
+Iecroy con noyonquez si	-|---||-||-|-----|-|
+grantduel demener.	----|---|-------|
+Pa geu01P 383	--⌫------⌫--|
+Lor s d i stle cardinalEncoreueul parle r	---⌫|-⌫-⌫-|-|-------|-----|---|-----⌫|
+lec i ezmoyma laitreparfiner .	---⌫-⌫-|--|-|-----|--------⌫|
+cesain thommeunedam ee spousa	-|----⌫|----|--|---⌫|-⌫-----|
+Mezonquezcharnelmentaso n co rpsn	--|-----|----------||--⌫|--⌫--||
+Quant dep art i d e lieson anel li coupa	----|---⌫---⌫|-⌫|--|--|---|-|----|
+u e ze n ci lamoitiéLapuce lec ria	-⌫-⌫|-⌫|-|-|------|-|----⌫-|-⌫--|
+Quantcez moz	----|--|--|
+enten diLassemaleür ée	-----⌫-|----|--|----⌫--|
+Iay bienl autremoitié	|-|---||----|------|
+trenteet quatre ans gard ée.	-----|-|-----|--|----⌫---|
+Moutdolentel atai n t. Tel uertu	---|------||----⌫-⌫-|--|----|
+laiournée	-|-------|
+Fi stDieu que lunepiechees ta	--⌫-|---|--||--|-----|--⌫||
+lautre s oudée	|----|-⌫-----|
+Sibi enqu il ni	-|--⌫-|-|-|||
+pa rut conq uezfus tdepar tis.	--⌫--||---⌫--|---⌫|-----⌫---|
+Delapitiéplour érent tresto usgra ns etpetis.	-|-|-----|-----⌫-----|------⌫-|---⌫-|-|-----|
+Mout gr ant	---|--⌫--|
+dueldemena le pérepo urle	---|-----|-|----|--⌫-|-|
+Sespoinsteurdoi t deraige	--|----|-------⌫|-|----|
+etde ssiroitsonuis	-|--⌫------|--|--|
+Puisd istF ilz	---|-⌫--|-⌫--|
+Alexisgr ant duelm asdemo nstré.	-----|--⌫--|---||-|----⌫------|
+Commentas siuilmentgeü sousmo ndeg ré	------|-|-|------|---|---|--⌫|---⌫--|
+Helasdoulentpec heurpechiéma bientem pté	----|------|---⌫---|------|||---|---⌫---|
+Q uantendisetsetans	-⌫---|-|--|-|--|--|
+n aymonfils	|-|--|---|
+Page u0 1P384	----⌫--⌫----|
+Puisdist Fie xAlexiscestelestreestsauuage.	---|---|---⌫|-----|----|-----|--|-------|
+Nesay outuaspr issi	-|--|-|-|-|--⌫-|-|
+merueleus courage	--------|------|
+Que desousmonde gr é es morta	--|-----|--|--⌫--⌫-|-|---||
+te l hon tage .	--⌫|---⌫----⌫|
+Ie t ecuid oief erete nirmon	-|-⌫|----⌫--|-⌫--|--⌫--|--|
+heritag e.	-------⌫-|
+Hée chier fis	---|----|--|
+Alexislecuermefentp o urtoy	-----|-|---|-|---|-⌫-⌫-|--|
+ate ndoi e au	---⌫----⌫|-|
+iou rduyp a rma foy.	---⌫||-|-⌫-⌫|-|---|
+Pasneteconn oissoie siestoiz prezd emoy	--|-|-|----⌫------|-|-----|---|-⌫|--|
+Laméred aut repart	-|----||---⌫-|---|
+outaucuergran t esmoy	--|-|---|----⌫|----|
+Si trestot comme	-|------|----|
+el le otla	--⌫-|-|-|
+paroleent end ue	-----|---⌫---⌫-|
+Comfemmeforsenéeestuersson filzuenue.	--|----|--------|--|---|--|---|-----|
+uil men tleuitgesirsurlanateuelu e.	---⌫---⌫|-|--|----|--|-|---|----⌫-|
+Qui nele u stsoustenuep asmée fust c heüe.	--|-||-⌫-⌫-|--------|-⌫-----|---|-⌫-----|
+pasmeruelle sellemout	--|-------||---|---|
+sedemen te.	-|-----⌫--|
+ElledistAl exis detabeleiouuen te	---|---|--⌫---|-|-|---|------⌫-|
+Quas ten uesi	-|-|---⌫-|-|
+uiledonc iesui mout	---|---|-|--|---|
+d o llente	-⌫-⌫-----|
+E ts auoiessou s toy tant de si	-⌫||-----|---⌫|--|---|-|-|
+be le re nte	--⌫-|--⌫--|
+B iaus f i sc est	-⌫---|-⌫-⌫||--|
+grantmerueil lequ e	----|-------⌫-|--⌫|
+monlascuertantdure	--|--|---|---|---|
+fentendeuspars oudan goisse oud	---|-|---|---|-||--⌫-----|-||
+Pageu01P 385	--------⌫--|
+Quant ie uoy	----|-|--|
+mor t g esi r	---⌫|-⌫---⌫|
+monfis atel ledure	--|--||--|-----|
+Lap u celerefi stgrant	-|-⌫-⌫---|----⌫-|----|
+deulad esme sure.	---||-⌫----⌫----|
+Par la precedezgenssen	--|-|----|--|---||-|
+courait la	------|-|
+Forme n t tor doi t ses	-----⌫-⌫|---⌫---⌫|--|
+poinset gratoitsa forcel e.	----|-|------|-|------⌫-|
+Pardesuslecors saint	--|----|-|---|----|
+fust cheüe la bele	---|-----|-|---|
+Quantle sain tapostolle la retientet apel e.	----|-|----⌫|--------|-|------|-|----⌫-|
+crioitcommefame desuée	-----|----|---|------|
+Chi e r amis	---⌫-⌫|---|
+Alexi scom dure	-----⌫|--|---|
+M out uousay aten du eten bo nn e pens é e	-⌫--|---|-|----⌫-|-|-|--⌫--⌫|----⌫--⌫|
+Ormauezuou s lessiedet ous biensesgarée.	-||---|---⌫|-----|-|-⌫--|----|--------|
+Iesuisbiende	-|---|---|-|
+tou sp oins	---⌫|-⌫---|
+che üe enueuuete ́.	---⌫--|-|-------⌫-|
+Iameznaray autrehommepour	----||---|----|----|---|
+lauostreamite ́	-|-----|-----⌫|
+S iquela sus	-⌫|--|-|--|
+esci exenlasaintec lart é	-|--⌫-|-|-|-----|-⌫----⌫-|
+Puissent auoirnos	-------|----|--|
+amez uraie	---|----|
+Moultauoien t dur c ueu r ceux qu i	----|------⌫|--|-⌫---⌫|---|--⌫|
+laneploroi ent.	-|-|------⌫---|
+Le Pape commandat antcomle	-|---|-------|-⌫--|--|-|
+dueilmen oi ent.	----|---⌫--⌫---|
+Conator nastlecorssi q u	|-|----⌫---|-|---|-|-⌫|
+ill emporteraien t	-||------------⌫|
+Mezlesr uesde	--|--|-⌫--|-|
+Rometoute zplainez est oient .	---|-----⌫|------|---⌫-----⌫|
+P ageu01P38 6	-⌫---------⌫|
+L apostolle	|--------|
+leur distSeign ieurs soiezcertains	---|---|-----⌫----|----|-------|
+Sen eprenon couseilno us seroniaestains	-|-⌫|-----|------|--⌫-|----|-|------|
+ruezsontplainezde franse t	---|---|------|-|----|-⌫|
+Ieloquele tresor de	-|-|--|-|-----|-|
+Rom esoi tatains	---⌫|---⌫|-----|
+Etsoit gectéagen s. Sisedepartiront.	-|---|-----||---⌫-|-|-|-----------|
+Etilontrespo ndu uolentiers le feront.	-|-|--|-----⌫--|---------|-|------|
+Largentgi et ent ezruezlesgens	|-----|--⌫--⌫--|-|---|--|---|
+semblantnenfont	-------||-|---|
+A ueoirlecorssa int	|----|-|---|--⌫--|
+si grand desirier ont	-|----|-------|--|
+Qu ilneso n tpourl	-|-|-|--⌫-⌫|---||
+argen t tantnequant remue ́.	-----⌫|---|-|----|-----⌫-|
+Adoncful eco rssaint	----|-|-⌫|--⌫-|----|
+desplus f or tsgensle ué	--|---|-⌫--⌫-|---|--⌫--|
+A mout grant painesont parla prese	|---|----|----|---|--|-|----|
+N youtroynaposto lle qui nefust enpres é.	||--|--||------⌫--|--|-|---|------⌫--|
+Droitement à	---------|-|
+legl iseuindrentsansdem ourée	|---⌫--|-------|---|---⌫-----|
+Qui desai ntBonifacelemartirfutfondée.	--|-|---⌫-|-------|-|-----|--|-------|
+Moutfut ce iourla mes sesolemnelmen tchantée .	---|--|-|---|-|---⌫-|-----------⌫|--------⌫|
+Lapucele isouruintqu ant elle	-|-----||-------|--⌫--|---|
+fuf ine ́e	-|-⌫---⌫-|
+Aleurequo n	||---|-|-⌫|
+u ouloitenterrer le saint cors	-⌫-----|-------|-|----|---|
+La d amo iselesest agenoulie	-|-⌫---⌫----||--|--------|
+Pageu01P3 87	---------⌫-|
+Puisadisten	---||---|-|
+p lourant uraiDieu mis ericors	-⌫------|---|---|---⌫------|
+ueulliezquede chiens	-------|--|-|-----|
+nisei auiuehors.	|--|-⌫|---|----|
+EtdistM ondroits ei gneur tantcomm eil fu	-|---|-⌫-|----|-⌫--⌫----|---|----⌫|-|-|
+Ne uout auoiram oy soulas nedruerie.	-|---|----||-⌫-|-----|-|-------|
+Di eu pri caprez	--⌫-|--||----|
+samor tai esaco mpaignie .	-|---⌫|--⌫|-|--⌫--------⌫|
+LetrezdousIh esuCristots	-|---|---|--⌫--|----|-||
+oraisonouïe	------|----|
+Carl agentilp uceletantostseconfe ssa	--|-⌫|-----|-⌫----|------|-|-----⌫--|
+E t unpe titaprez	-⌫|-|--⌫--|----|
+lesa intcorsregard a	-|--⌫--|---|------⌫|
+A u cuerout teldestresse	-⌫|---|--|--|--------|
+quen leuretrespa sa .	-|-||---|------⌫--⌫|
+Lo rsle gran tduela Ro me	--⌫-|-|----⌫|---||--⌫-|
+parto ut reno u uel a.	-----⌫-|----⌫-⌫---⌫-|
+Pourlapucele	---|-|-----|
+youtmaintelermeplourée.	|--|-----|----|--------|
+Auequez sonsegnieurfulabeleen terré e.	------|--|-------|-|-|---|--⌫------⌫-|
+Bel ezuertusfis t Dieupour eus	---⌫-|-----|---⌫|---|---|--|
+cele iour née	---|----⌫---|
+sigriefmal adeen	-|----|---⌫--|-|
+tou telaco ntre ́e	---⌫-|-|--⌫----⌫-|
+uenistausaintcors par	-----|-|----|---|--|
+bonne ente n cio n	----|----⌫-⌫---⌫|
+Quilneu sttost etenl	-|-||--⌫-|---|-|-||
+eu redesezmausga rison.	--⌫-|-|--|---|--⌫-----|
+SaintAlexisso ufrygranttribulation	----|-----|--⌫---|----|----------|
+Pourauoi rparadis en la	---|----⌫|------|-|-|
+findeprion	--|------|
+Pag eu01S388	---⌫-------|
+au bon saintqui	-|--|----|--|
+Que tesouurezfac honen	--|--|-----|---⌫--|-|
+cestemortel uie	----|-----|--|
+Quequant lames era	--|----||--|-⌫--|
+de nos c orsdepartie	-|--|-⌫--|-------|
+Auoi r p uissions dez	----⌫|-⌫-------|--|
+angrezlasaincte	-----|-|------|
+compaignie.	----------|
